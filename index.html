@@ -252,8 +252,10 @@
                 const compData = (data.baseline || {})[comp] || {};
 
                 // Llista TOTAL (per calcular posició global)
-                let tots = Object.entries(compData).map(([nom, s]) => ({
-                    nom: s.alias || nom, pj: s.pj||0, g: s.g||0,
+                let tots = Object.entries(compData).map(([nomComplet, s]) => ({
+                    nom: s.alias || nomComplet,
+                    nomComplet: nomComplet,
+                    pj: s.pj||0, g: s.g||0,
                     inici: s.inici||'', final: s.final||''
                 })).filter(j => j[stat] > 0);
                 tots.sort((a,b) => b[stat] - a[stat]);
@@ -262,9 +264,9 @@
                     if (i>0 && j[stat] < tots[i-1][stat]) posT = i+1;
                     j.posTotal = posT;
                 });
-                // Map nom -> posTotal
+                // Map per NOM COMPLET (únic) -> posTotal
                 const posMap = {};
-                tots.forEach(j => posMap[j.nom] = j.posTotal);
+                tots.forEach(j => posMap[j.nomComplet] = j.posTotal);
 
                 // Llista FILTRADA
                 let jugadors = tots.slice();
@@ -307,7 +309,7 @@
                     if (esActiu(j)) tr.classList.add('actiu');
                     const anys = j.inici&&j.final ? `${j.inici}–${j.final}` : '–';
                     const extraTd = mostrantActuals
-                        ? `<td class="rank" style="color:#aaa;font-weight:400">${ordinal(posMap[j.nom]||j.posTotal)}</td>`
+                        ? `<td class="rank" style="color:#aaa;font-weight:400">${ordinal(posMap[j.nomComplet]||j.posTotal)}</td>`
                         : '';
                     tr.innerHTML = `
                         ${extraTd}
