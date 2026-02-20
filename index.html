@@ -19,8 +19,11 @@
         .header-wrap { position:relative; }
 
         /* TOPBAR */
-        .topbar { display:grid; grid-template-columns:auto 1fr auto; align-items:center; padding:6px 12px 6px 96px; background:rgba(0,0,0,0.92); border-bottom:3px solid var(--grana); gap:4px; }
-        .topbar-center { text-align:center; }
+        .topbar { display:grid; grid-template-columns:auto 1fr auto; align-items:center; padding:6px 12px; background:rgba(0,0,0,0.92); border-bottom:3px solid var(--grana); gap:4px; }
+        .topbar-center {
+            position:absolute; left:0; right:0;
+            text-align:center; pointer-events:none;
+        }
         .site-title { font-family:'Orbitron',sans-serif; font-size:clamp(1em,4.5vw,2em); background:linear-gradient(90deg,var(--grana) 0%,#d4005a 35%,var(--blau) 65%,#0066cc 100%); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; filter:drop-shadow(0 0 10px rgba(165,0,68,0.5)); }
         .topbar-right { display:flex; align-items:center; justify-content:flex-end; gap:12px; }
         .topbar-icon { width:26px; height:26px; fill:none; stroke:var(--text); stroke-width:1.8; transition:0.25s; cursor:pointer; }
@@ -34,8 +37,8 @@
         /* LOGO FLOTANT: cobreix tota l'alçada de topbar+status-bar */
         .logo-wrap {
             position:absolute;
-            left:8px; top:0;
-            height:100%;
+            left:0; top:0;
+            height:calc(100% + 3px);
             display:flex; align-items:center;
             z-index:20;
             pointer-events:none;
