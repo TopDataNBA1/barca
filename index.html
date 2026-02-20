@@ -5,274 +5,94 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TOP DATA BARÇA</title>
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Top Data Barça - Estadístiques Històriques en Viu">
-    <meta property="og:description" content="Segueix en temps real els moviments al rànquing històric del FC Barcelona.">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Rajdhani:wght@400;500;600&display=swap" rel="stylesheet">
     <style>
         :root {
-            --blau: #004d98;
-            --grana: #a50044;
-            --gold: #EDBB42;
-            --dark: #060e1c;
-            --dark2: #0a1628;
-            --dark3: #101e34;
-            --text: #e0e0e0;
+            --blau:#004d98; --grana:#a50044; --gold:#EDBB42;
+            --dark:#060e1c; --dark2:#0a1628; --dark3:#101e34; --text:#e0e0e0;
         }
-
-        * { box-sizing: border-box; }
-
-        body {
-            margin: 0; padding: 0;
-            background: var(--dark);
-            color: var(--text);
-            font-family: 'Rajdhani', sans-serif;
-            min-height: 100vh;
-        }
+        * { box-sizing:border-box; }
+        body { margin:0; padding:0; background:var(--dark); color:var(--text); font-family:'Rajdhani',sans-serif; min-height:100vh; }
 
         /* TOPBAR */
-        .topbar {
-            display: grid;
-            grid-template-columns: auto 1fr auto;
-            align-items: center;
-            padding: 6px 12px;
-            background: rgba(0,0,0,0.92);
-            border-bottom: 3px solid var(--grana);
-            gap: 4px;
-        }
-        .topbar::after {
-            content: '';
-            display: block;
-            position: absolute;
-            left: 0; right: 0;
-            height: 1px;
-            background: linear-gradient(90deg, var(--grana), var(--blau), var(--grana));
-            top: calc(46px + 6px + 6px + 3px);
-        }
-        .topbar-left { display: flex; align-items: center; }
-        .logo-img { height: 52px; filter: drop-shadow(0 0 8px rgba(165,0,68,0.5)); }
-        .topbar-center { text-align: center; }
-        .site-title {
-            font-family: 'Orbitron', sans-serif;
-            font-size: clamp(0.9em, 4vw, 1.8em);
-            background: linear-gradient(90deg, var(--grana), #e0e0e0 40%, var(--blau));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            text-shadow: none;
-            filter: drop-shadow(0 0 8px rgba(165,0,68,0.4));
-        }
-        .topbar-right { display: flex; align-items: center; justify-content: flex-end; gap: 12px; }
-        .topbar-icon {
-            width: 26px; height: 26px;
-            fill: none; stroke: var(--text);
-            stroke-width: 1.8; transition: 0.25s; cursor: pointer;
-        }
-        .topbar-icon:hover { stroke: var(--gold); filter: drop-shadow(0 0 6px var(--gold)); }
+        .topbar { display:grid; grid-template-columns:auto 1fr auto; align-items:center; padding:6px 12px; background:rgba(0,0,0,0.92); border-bottom:3px solid var(--grana); gap:4px; position:relative; overflow:visible; }
+        .topbar-left { display:flex; align-items:center; }
+        .logo-img { height:90px; margin-bottom:-28px; position:relative; z-index:10; filter:drop-shadow(0 4px 14px rgba(165,0,68,0.65)); }
+        .topbar-center { text-align:center; }
+        .site-title { font-family:'Orbitron',sans-serif; font-size:clamp(1em,4.5vw,2em); background:linear-gradient(90deg,var(--grana) 0%,#d4005a 35%,var(--blau) 65%,#0066cc 100%); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; filter:drop-shadow(0 0 10px rgba(165,0,68,0.5)); }
+        .topbar-right { display:flex; align-items:center; justify-content:flex-end; gap:12px; }
+        .topbar-icon { width:26px; height:26px; fill:none; stroke:var(--text); stroke-width:1.8; transition:0.25s; cursor:pointer; }
+        .topbar-icon:hover { stroke:var(--gold); filter:drop-shadow(0 0 6px var(--gold)); }
 
         /* STATUS BAR */
-        .status-bar {
-            padding: 6px 20px;
-            background: rgba(0,0,0,0.6);
-            font-size: 1em;
-            text-align: center;
-            border-bottom: 1px solid rgba(165,0,68,0.3);
-        }
-        .status-line1 { color: #55cc55; font-size: 0.85em; }
-        .status-line2 { color: var(--gold); font-weight: 600; font-size: 0.95em; }
+        .status-bar { padding:5px 20px; background:rgba(0,0,0,0.5); font-size:0.9em; text-align:center; border-bottom:1px solid rgba(165,0,68,0.25); margin-top:28px; }
+        .status-line1 { color:#55cc55; font-size:0.82em; }
+        .status-line2 { color:var(--gold); font-weight:600; }
 
         /* TABS */
-        .tabs {
-            max-width: 900px;
-            margin: 12px auto;
-            display: flex;
-            border-radius: 10px;
-            overflow: hidden;
-            box-shadow: 0 4px 20px rgba(165,0,68,0.3);
-            border: 1px solid rgba(165,0,68,0.4);
-        }
-        .tab-btn {
-            flex: 1; padding: 13px 8px;
-            font-family: 'Orbitron', sans-serif;
-            font-size: 0.95em;
-            color: var(--text);
-            background: rgba(165,0,68,0.15);
-            border: none; cursor: pointer; transition: 0.3s;
-        }
-        .tab-btn:hover { background: rgba(165,0,68,0.3); }
-        .tab-btn.active {
-            background: linear-gradient(135deg, var(--grana), #7a0033);
-            box-shadow: 0 0 15px rgba(165,0,68,0.5);
-            color: white; font-weight: bold;
-        }
-        .tab-content { display: none; }
-        .tab-content.active { display: block; }
+        .tabs { max-width:900px; margin:10px auto; display:flex; border-radius:10px; overflow:hidden; box-shadow:0 4px 20px rgba(165,0,68,0.3); border:1px solid rgba(165,0,68,0.4); }
+        .tab-btn { flex:1; padding:13px 8px; font-family:'Orbitron',sans-serif; font-size:0.95em; color:var(--text); background:rgba(165,0,68,0.15); border:none; cursor:pointer; transition:0.3s; }
+        .tab-btn:hover { background:rgba(165,0,68,0.3); }
+        .tab-btn.active { background:linear-gradient(135deg,var(--grana),#7a0033); box-shadow:0 0 15px rgba(165,0,68,0.5); color:white; font-weight:bold; }
+        .tab-content { display:none; }
+        .tab-content.active { display:block; }
 
-        /* LATEST MOVES */
-        .moves-area {
-            height: 82vh;
-            background: var(--dark2);
-            border-radius: 14px;
-            overflow: hidden;
-            box-shadow: 0 8px 30px rgba(165,0,68,0.3);
-            display: flex; flex-direction: column;
-            margin: 0 8px;
-        }
-        .moves-list { flex: 1; overflow-y: auto; padding: 14px 10px; background: var(--dark); }
-        .move-item {
-            background: var(--dark3);
-            border-radius: 12px;
-            margin: 12px 6px;
-            padding: 14px 14px;
-            box-shadow: 0 3px 12px rgba(0,0,0,0.5);
-            border-left: 3px solid var(--grana);
-        }
-        .move-text { font-size: 1.05em; line-height: 1.5; color: var(--text); text-align: center; }
-        .move-text strong { color: var(--gold); font-weight: 700; }
-        .move-time { color: #666; font-size: 0.85em; font-style: italic; }
-        .move-tipus {
-            display: inline-block;
-            padding: 2px 8px;
-            border-radius: 6px;
-            font-size: 0.75em;
-            font-family: 'Orbitron', sans-serif;
-            margin-bottom: 8px;
-        }
-        .tipus-programada { background: rgba(0,77,152,0.4); border: 1px solid var(--blau); color: #88aaff; }
-        .tipus-prioritaria { background: rgba(165,0,68,0.4); border: 1px solid var(--grana); color: #ff88aa; }
-
-        /* MOVE FOOTER */
-        .move-footer {
-            display: flex; align-items: center;
-            justify-content: center; gap: 8px;
-            margin-top: 8px; flex-wrap: nowrap;
-        }
-        .share-btn {
-            all: unset; width: 28px; height: 28px;
-            display: flex; align-items: center; justify-content: center;
-            border-radius: 50%;
-            background: rgba(255,255,255,0.08);
-            cursor: pointer; transition: 0.25s; opacity: 0.6; flex-shrink: 0;
-        }
-        .share-btn:hover { opacity: 1; transform: scale(1.15); background: rgba(165,0,68,0.3); }
-        .share-btn svg { width: 14px; height: 14px; fill: var(--text); }
-        .share-btn.shared { opacity: 1; background: rgba(85,255,85,0.25); }
-        .share-btn.shared svg { fill: #55ff55; }
-        .emoji-bar { display: flex; gap: 3px; flex-shrink: 0; }
-        .emoji-btn {
-            all: unset; display: flex; align-items: center; gap: 2px;
-            padding: 3px 6px; border-radius: 14px;
-            background: rgba(255,255,255,0.05);
-            border: 1px solid rgba(255,255,255,0.08);
-            cursor: pointer; transition: 0.25s; font-size: 0.82em;
-        }
-        .emoji-btn:hover { background: rgba(255,255,255,0.12); transform: scale(1.1); }
-        .emoji-btn.voted { background: rgba(165,0,68,0.2); border-color: rgba(165,0,68,0.4); }
-        .emoji-btn .em { font-size: 1em; line-height: 1; }
-        .emoji-btn .emoji-count { color: #888; font-size: 0.8em; }
-        .foot-sep { color: rgba(255,255,255,0.12); font-size: 0.8em; flex-shrink: 0; }
-
-        /* LIVE RANKINGS */
-        .container { max-width: 900px; margin: 0 auto; padding: 0 8px; }
+        /* MOVES */
+        .moves-area { height:80vh; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; margin:0 8px; }
+        .moves-list { flex:1; overflow-y:auto; padding:14px 10px; background:var(--dark); }
+        .move-item { background:var(--dark3); border-radius:12px; margin:12px 6px; padding:14px; box-shadow:0 3px 12px rgba(0,0,0,0.5); border-left:3px solid var(--grana); }
+        .move-text { font-size:1.05em; line-height:1.65; color:var(--text); text-align:center; }
+        .dest  { color:var(--gold); font-weight:700; }
+        .accio { color:#ffffff; font-weight:700; }
+        .lloc  { color:var(--gold); font-weight:700; }
+        .move-time { color:#555; font-size:0.82em; font-style:italic; }
+        .move-footer { display:flex; align-items:center; justify-content:center; gap:8px; margin-top:8px; }
+        .share-btn { all:unset; width:28px; height:28px; display:flex; align-items:center; justify-content:center; border-radius:50%; background:rgba(255,255,255,0.08); cursor:pointer; transition:0.25s; opacity:0.6; }
+        .share-btn:hover { opacity:1; transform:scale(1.15); background:rgba(165,0,68,0.3); }
+        .share-btn svg { width:14px; height:14px; fill:var(--text); }
+        .share-btn.shared { opacity:1; background:rgba(85,255,85,0.25); }
+        .share-btn.shared svg { fill:#55ff55; }
+        .emoji-bar { display:flex; gap:3px; }
+        .emoji-btn { all:unset; display:flex; align-items:center; gap:2px; padding:3px 6px; border-radius:14px; background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.08); cursor:pointer; transition:0.25s; font-size:0.82em; }
+        .emoji-btn:hover { background:rgba(255,255,255,0.12); transform:scale(1.1); }
+        .emoji-btn.voted { background:rgba(165,0,68,0.2); border-color:rgba(165,0,68,0.4); }
+        .emoji-btn .em { font-size:1em; line-height:1; }
+        .emoji-btn .emoji-count { color:#888; font-size:0.8em; }
+        .foot-sep { color:rgba(255,255,255,0.12); font-size:0.8em; }
 
         /* FILTRES */
-        .filter-section {
-            max-width: 900px;
-            margin: 10px auto 4px;
-            padding: 0 8px;
-        }
-        .filter-row {
-            display: flex; gap: 6px;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-bottom: 6px;
-        }
-        .filter-label {
-            font-family: 'Orbitron', sans-serif;
-            font-size: 0.7em;
-            color: var(--gold);
-            text-align: center;
-            margin-bottom: 4px;
-            opacity: 0.8;
-        }
-        .filter-btn {
-            white-space: nowrap;
-            padding: 6px 13px;
-            background: rgba(165,0,68,0.2);
-            border: 1px solid rgba(165,0,68,0.5);
-            border-radius: 6px;
-            font-family: 'Orbitron', sans-serif;
-            font-size: 0.8em;
-            cursor: pointer; transition: 0.3s;
-            color: var(--text);
-        }
-        .filter-btn:hover { background: rgba(165,0,68,0.35); border-color: var(--grana); }
-        .filter-btn.active {
-            background: var(--grana);
-            border-color: var(--grana);
-            box-shadow: 0 0 10px rgba(165,0,68,0.5);
-            color: white; font-weight: bold;
-        }
-        .filter-btn.blau.active {
-            background: var(--blau);
-            border-color: var(--blau);
-            box-shadow: 0 0 10px rgba(0,77,152,0.5);
-        }
-        .filter-btn.gold.active {
-            background: #b8860b;
-            border-color: var(--gold);
-            box-shadow: 0 0 10px rgba(237,187,66,0.4);
-            color: white;
-        }
+        .filter-section { max-width:900px; margin:10px auto 4px; padding:0 8px; }
+        .filter-group { margin-bottom:8px; }
+        .filter-row-wrap { display:flex; gap:20px; flex-wrap:wrap; justify-content:center; margin-bottom:6px; }
+        .filter-col { display:flex; flex-direction:column; align-items:center; gap:4px; }
+        .filter-row { display:flex; gap:6px; justify-content:center; flex-wrap:wrap; }
+        .filter-label { font-family:'Orbitron',sans-serif; font-size:0.7em; color:var(--gold); text-align:center; margin-bottom:3px; opacity:0.85; }
+        .filter-btn { white-space:nowrap; padding:6px 13px; background:rgba(165,0,68,0.2); border:1px solid rgba(165,0,68,0.5); border-radius:6px; font-family:'Orbitron',sans-serif; font-size:0.8em; cursor:pointer; transition:0.3s; color:var(--text); }
+        .filter-btn:hover { background:rgba(165,0,68,0.35); border-color:var(--grana); }
+        .filter-btn.active { background:var(--grana); border-color:var(--grana); box-shadow:0 0 10px rgba(165,0,68,0.5); color:white; font-weight:bold; }
+        .filter-btn.blau.active { background:var(--blau); border-color:var(--blau); box-shadow:0 0 10px rgba(0,77,152,0.5); }
+        .filter-btn.gold.active { background:#b8860b; border-color:var(--gold); box-shadow:0 0 10px rgba(237,187,66,0.4); color:white; }
 
-        /* TAULES */
-        .card {
-            background: var(--dark2);
-            border-radius: 10px;
-            overflow: hidden;
-            margin: 10px 0;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.6);
-            border: 1px solid rgba(165,0,68,0.2);
-        }
-        .card h2 {
-            margin: 0; padding: 9px 12px;
-            font-family: 'Orbitron', sans-serif;
-            font-size: 1em;
-            background: linear-gradient(135deg, var(--grana), #7a0033);
-            color: white; text-align: center;
-        }
-        table { width: 100%; border-collapse: collapse; font-size: 0.88em; }
-        th, td { padding: 6px 5px; border-bottom: 1px solid rgba(255,255,255,0.05); }
-        th {
-            background: var(--dark3);
-            font-family: 'Orbitron', sans-serif;
-            font-size: 0.78em;
-            color: var(--gold);
-            position: sticky; top: 0;
-        }
-        tr:hover { background: rgba(255,255,255,0.03); }
-        .rank { color: var(--gold); text-align: center; font-weight: bold; width: 8%; }
-        .player { text-align: left; font-weight: 600; width: 22%; }
-        .number { text-align: right; }
-        .diff-blink { color: var(--gold) !important; font-weight: 900; animation: blink 1.6s infinite; }
-        @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.4} }
+        /* TAULA */
+        .container { max-width:900px; margin:0 auto; padding:0 8px; }
+        .card { background:var(--dark2); border-radius:10px; overflow:hidden; margin:10px 0; box-shadow:0 4px 15px rgba(0,0,0,0.6); border:1px solid rgba(165,0,68,0.2); }
+        .card h2 { margin:0; padding:9px 12px; font-family:'Orbitron',sans-serif; font-size:1em; background:linear-gradient(135deg,var(--grana),#7a0033); color:white; text-align:center; }
+        table { width:100%; border-collapse:collapse; font-size:0.88em; }
+        th,td { padding:6px 5px; border-bottom:1px solid rgba(255,255,255,0.05); }
+        th { background:var(--dark3); font-family:'Orbitron',sans-serif; font-size:0.78em; color:#aaa; position:sticky; top:0; }
+        th.th-sort { color:var(--gold); }
+        tr:hover { background:rgba(255,255,255,0.03); }
+        tr.actiu td { color:var(--gold); }
+        .rank { text-align:center; font-weight:bold; width:8%; }
+        .player { text-align:left; font-weight:600; }
+        .col-pj,.col-g { text-align:right; }
+        .col-anys { text-align:center; font-size:0.88em; }
 
-        /* SEPARADORS DE FILTRE */
-        .filters-divider {
-            width: 1px; height: 28px;
-            background: rgba(255,255,255,0.15);
-            margin: 0 4px;
-        }
-
-        /* SCROLLBAR */
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-track { background: var(--dark); }
-        ::-webkit-scrollbar-thumb { background: var(--grana); border-radius: 3px; }
-
-        @media(max-width:400px) {
-            .filter-btn { padding: 5px 8px; font-size: 0.72em; }
-        }
+        ::-webkit-scrollbar { width:6px; }
+        ::-webkit-scrollbar-track { background:var(--dark); }
+        ::-webkit-scrollbar-thumb { background:var(--grana); border-radius:3px; }
+        @media(max-width:400px) { .filter-btn { padding:5px 8px; font-size:0.72em; } }
     </style>
 </head>
 <body>
@@ -285,7 +105,7 @@
         <div class="site-title">TOP DATA BARÇA</div>
     </div>
     <div class="topbar-right">
-        <svg class="topbar-icon" viewBox="0 0 24 24" onclick="alert('Notificacions pròximament')">
+        <svg class="topbar-icon" viewBox="0 0 24 24">
             <path d="M12 22a2 2 0 0 0 2-2h-4a2 2 0 0 0 2 2zm6-6V11a6 6 0 1 0-12 0v5l-2 2v1h16v-1l-2-2z"/>
         </svg>
     </div>
@@ -301,48 +121,53 @@
     <button class="tab-btn" onclick="openTab('rankings')">📊 Rànquings en viu</button>
 </div>
 
-<!-- ÚLTIMS MOVIMENTS -->
 <div id="moves" class="tab-content active">
     <div class="moves-area">
-        <div class="moves-list">
-            <div id="moves-list"></div>
-        </div>
+        <div class="moves-list"><div id="moves-list"></div></div>
     </div>
 </div>
 
-<!-- RÀNQUINGS EN VIU -->
 <div id="rankings" class="tab-content">
     <div class="filter-section">
-        <!-- Fila 1: Competició -->
-        <div class="filter-label">COMPETICIÓ</div>
-        <div class="filter-row">
-            <button class="filter-btn active" data-comp="Total">Total</button>
-            <button class="filter-btn" data-comp="Liga">Lliga</button>
-            <button class="filter-btn" data-comp="Copa">Copa</button>
-            <button class="filter-btn" data-comp="Champions">Champions</button>
+        <div class="filter-group">
+            <div class="filter-label">COMPETICIÓ</div>
+            <div class="filter-row">
+                <button class="filter-btn active" data-comp="Total">Total</button>
+                <button class="filter-btn" data-comp="Liga">Lliga</button>
+                <button class="filter-btn" data-comp="Copa">Copa</button>
+                <button class="filter-btn" data-comp="Champions">Champions</button>
+            </div>
         </div>
-        <!-- Fila 2: Estadística -->
-        <div class="filter-label">ESTADÍSTICA</div>
-        <div class="filter-row">
-            <button class="filter-btn blau active" data-stat="pj">Partits</button>
-            <button class="filter-btn blau" data-stat="g">Gols</button>
-        </div>
-        <!-- Fila 3: Top -->
-        <div class="filter-label">RÀNQUING</div>
-        <div class="filter-row">
-            <button class="filter-btn gold active" data-top="all">Tots</button>
-            <button class="filter-btn gold" data-top="10">Top 10</button>
-            <button class="filter-btn gold" data-top="25">Top 25</button>
-            <button class="filter-btn gold" data-top="100">Top 100</button>
+        <div class="filter-row-wrap">
+            <div class="filter-col">
+                <div class="filter-label">ORDENATS PER</div>
+                <div class="filter-row">
+                    <button class="filter-btn blau active" data-stat="pj">Partits</button>
+                    <button class="filter-btn blau" data-stat="g">Gols</button>
+                </div>
+            </div>
+            <div class="filter-col">
+                <div class="filter-label">MOSTRA</div>
+                <div class="filter-row">
+                    <button class="filter-btn gold active" data-actuals="tots">Tots</button>
+                    <button class="filter-btn gold" data-actuals="actuals">Actuals</button>
+                </div>
+            </div>
+            <div class="filter-col">
+                <div class="filter-label">RÀNQUING</div>
+                <div class="filter-row">
+                    <button class="filter-btn active" data-top="all">Tots</button>
+                    <button class="filter-btn" data-top="10">Top 10</button>
+                    <button class="filter-btn" data-top="25">Top 25</button>
+                    <button class="filter-btn" data-top="100">Top 100</button>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="container">
-        <div id="tables"></div>
-    </div>
+    <div class="container"><div id="tables"></div></div>
 </div>
 
 <script>
-    // === TABS ===
     function openTab(name) {
         document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -352,132 +177,128 @@
         if (name === 'moves') updateMoves();
     }
 
-    // === FILTRES (exclusius per grup) ===
-    function setupFilters(selector, callback) {
-        document.querySelectorAll(selector).forEach(btn => {
+    function setupFilters(sel, cb) {
+        document.querySelectorAll(sel).forEach(btn => {
             btn.addEventListener('click', function() {
-                document.querySelectorAll(selector).forEach(b => b.classList.remove('active'));
+                document.querySelectorAll(sel).forEach(b => b.classList.remove('active'));
                 this.classList.add('active');
-                callback();
+                cb();
             });
         });
     }
-    setupFilters('[data-comp]', () => updateRankings());
-    setupFilters('[data-stat]', () => updateRankings());
-    setupFilters('[data-top]',  () => updateRankings());
+    setupFilters('[data-comp]',    () => updateRankings());
+    setupFilters('[data-stat]',    () => updateRankings());
+    setupFilters('[data-top]',     () => updateRankings());
+    setupFilters('[data-actuals]', () => updateRankings());
 
     function getFilters() {
         return {
-            comp: document.querySelector('[data-comp].active')?.dataset.comp || 'Total',
-            stat: document.querySelector('[data-stat].active')?.dataset.stat || 'pj',
-            top:  document.querySelector('[data-top].active')?.dataset.top  || 'all'
+            comp:    document.querySelector('[data-comp].active')?.dataset.comp    || 'Total',
+            stat:    document.querySelector('[data-stat].active')?.dataset.stat    || 'pj',
+            top:     document.querySelector('[data-top].active')?.dataset.top      || 'all',
+            actuals: document.querySelector('[data-actuals].active')?.dataset.actuals || 'tots'
         };
     }
 
-    // === CLOCK ===
+    function ordinal(n) {
+        if (n===1) return '1r'; if (n===2) return '2n';
+        if (n===3) return '3r'; if (n===4) return '4t';
+        return n + 'è';
+    }
+
     function updateClock() {
-        const now = new Date();
-        const t = now.toLocaleTimeString('ca-ES', { hour: '2-digit', minute: '2-digit', second: '2-digit', timeZone: 'Europe/Madrid' });
+        const t = new Date().toLocaleTimeString('ca-ES', {hour:'2-digit',minute:'2-digit',second:'2-digit',timeZone:'Europe/Madrid'});
         document.getElementById('clock-line').textContent = t + ' CET';
     }
-    setInterval(updateClock, 1000);
-    updateClock();
 
-    // === RANKINGS ===
     function updateRankings() {
-        const { comp, stat, top } = getFilters();
+        const { comp, stat, top, actuals } = getFilters();
         const tablesDiv = document.getElementById('tables');
         tablesDiv.innerHTML = '';
-
         fetch('data.json?v=' + Date.now())
             .then(r => r.json())
             .then(data => {
-                const baseline = data.baseline || {};
-                const compData = baseline[comp] || {};
-
-                // Construir ranking
+                updateClock();
+                const compData = (data.baseline || {})[comp] || {};
                 let jugadors = Object.entries(compData).map(([nom, s]) => ({
-                    nom: s.alias || nom,
-                    nom_complet: nom,
-                    valor: s[stat] || 0,
-                    inici: s.inici || '',
-                    final: s.final || ''
-                })).filter(j => j.valor > 0);
+                    nom: s.alias || nom, pj: s.pj||0, g: s.g||0,
+                    inici: s.inici||'', final: s.final||''
+                })).filter(j => j[stat] > 0);
 
-                jugadors.sort((a, b) => b.valor - a.valor);
+                if (actuals === 'actuals') jugadors = jugadors.filter(j => j.final === '2026');
+                jugadors.sort((a,b) => b[stat] - a[stat]);
 
-                // Assignar posicions (amb empats)
                 let pos = 1;
-                jugadors.forEach((j, i) => {
-                    if (i > 0 && j.valor < jugadors[i-1].valor) pos = i + 1;
+                jugadors.forEach((j,i) => {
+                    if (i>0 && j[stat] < jugadors[i-1][stat]) pos = i+1;
                     j.pos = pos;
                 });
-
-                // Filtrar per top
                 if (top !== 'all') {
-                    const limit = parseInt(top);
-                    jugadors = jugadors.filter(j => j.pos <= limit);
+                    const lim = parseInt(top);
+                    jugadors = jugadors.filter(j => j.pos <= lim);
                 }
-
-                if (jugadors.length === 0) {
-                    tablesDiv.innerHTML = '<div style="text-align:center;color:#888;padding:40px;">Sense dades disponibles</div>';
+                if (!jugadors.length) {
+                    tablesDiv.innerHTML = '<div style="text-align:center;color:#888;padding:40px">Sense dades</div>';
                     return;
                 }
 
-                const statLabel = stat === 'pj' ? 'Partits Jugats' : 'Gols';
-                const compLabel = { Total: 'Partits Oficials', Liga: 'Lliga', Copa: 'Copa del Rei', Champions: 'Champions League' }[comp] || comp;
-
+                const compLabel = {Total:'Partits Oficials',Liga:'Lliga',Copa:'Copa del Rei',Champions:'Champions League'}[comp]||comp;
                 const card = document.createElement('div');
                 card.className = 'card';
-                card.innerHTML = `<h2>${compLabel} · ${statLabel}</h2>
-                    <table>
-                        <thead><tr>
-                            <th class="rank">#</th>
-                            <th class="player">Jugador</th>
-                            <th class="number">${stat === 'pj' ? 'PJ' : 'G'}</th>
-                            <th>Temporades</th>
-                        </tr></thead>
-                        <tbody></tbody>
-                    </table>`;
+                card.innerHTML = `<h2>${compLabel}</h2>
+                    <table><thead><tr>
+                        <th class="rank">#</th>
+                        <th class="player">Jugador</th>
+                        <th class="col-pj ${stat==='pj'?'th-sort':''}">Partits</th>
+                        <th class="col-g  ${stat==='g' ?'th-sort':''}">Gols</th>
+                        <th class="col-anys">Temporades</th>
+                    </tr></thead><tbody></tbody></table>`;
 
                 const tbody = card.querySelector('tbody');
                 jugadors.forEach(j => {
                     const tr = document.createElement('tr');
-                    const anys = j.inici && j.final ? `${j.inici}–${j.final}` : '–';
+                    if (j.final === '2026') tr.classList.add('actiu');
+                    const anys = j.inici&&j.final ? `${j.inici}–${j.final}` : '–';
                     tr.innerHTML = `
-                        <td class="rank">${j.pos}</td>
+                        <td class="rank">${ordinal(j.pos)}</td>
                         <td class="player">${j.nom}</td>
-                        <td class="number"><strong>${j.valor.toLocaleString()}</strong></td>
-                        <td style="color:#888;font-size:0.9em">${anys}</td>`;
+                        <td class="col-pj" style="${stat==='pj'?'color:var(--gold);font-weight:700':''}">${j.pj}</td>
+                        <td class="col-g"  style="${stat==='g' ?'color:var(--gold);font-weight:700':''}">${j.g}</td>
+                        <td class="col-anys">${anys}</td>`;
                     tbody.appendChild(tr);
                 });
-
                 tablesDiv.appendChild(card);
             })
-            .catch(() => {
-                tablesDiv.innerHTML = '<div style="text-align:center;color:#888;padding:40px;">Esperant dades del proper partit...</div>';
-            });
+            .catch(() => { tablesDiv.innerHTML = '<div style="text-align:center;color:#888;padding:40px">Esperant dades...</div>'; });
     }
 
-    // === ÚLTIMS MOVIMENTS ===
+    function formatText(text) {
+        // Número ordinal inicial en daurat
+        text = text.replace(/^(\d+[rntèé]\s+)/i, '<span class="dest">$1</span>');
+        // Supera -> blanc negreta + emoji
+        text = text.replace(/Supera/g, '<span class="accio">🔀 Supera</span>');
+        // Empata -> blanc negreta + emoji
+        text = text.replace(/Empata/g, '<span class="accio">↔️ Empata</span>');
+        // Lloc final (ex: "371è lloc") -> daurat negreta
+        text = text.replace(/(\d+[rntèé]\s+lloc)/gi, '<span class="lloc">$1</span>');
+        return text;
+    }
+
     const emojiList = [
-        { key: 'fire', em: '🔥' },
-        { key: 'goat', em: '🐐' },
-        { key: 'clap', em: '👏' },
-        { key: 'eyes', em: '👀' },
-        { key: 'heart', em: '❤️' }
+        {key:'fire',em:'🔥'},{key:'goat',em:'🐐'},
+        {key:'clap',em:'👏'},{key:'eyes',em:'👀'},{key:'heart',em:'❤️'}
     ];
 
     function timeAgo(ts) {
-        const diff = Math.floor(Date.now() / 1000 - ts);
-        if (diff < 60) return 'ara';
-        if (diff < 3600) return Math.floor(diff / 60) + 'm';
-        if (diff < 86400) return Math.floor(diff / 3600) + 'h';
-        return Math.floor(diff / 86400) + 'd';
+        const d = Math.floor(Date.now()/1000 - ts);
+        if (d<60) return 'ara';
+        if (d<3600) return Math.floor(d/60)+'m';
+        if (d<86400) return Math.floor(d/3600)+'h';
+        return Math.floor(d/86400)+'d';
     }
 
-    function makeFooter(text, timestamp) {
-        const t = text.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    function makeFooter(raw) {
+        const t = raw.replace(/'/g,"\\'").replace(/"/g,'&quot;');
         const shareIcon = `<svg viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>`;
         const emojiBtns = emojiList.map(e =>
             `<button class="emoji-btn" data-emoji="${e.key}"><span class="em">${e.em}</span><span class="emoji-count"></span></button>`
@@ -485,61 +306,53 @@
         return `<div class="move-footer">
             <div class="emoji-bar">${emojiBtns}</div>
             <span class="foot-sep">│</span>
-            <button class="share-btn" onclick="shareMove('${t}', this)" title="Compartir">${shareIcon}</button>
+            <button class="share-btn" onclick="shareMove('${t}',this)" title="Compartir">${shareIcon}</button>
         </div>`;
     }
 
     async function shareMove(text, btn) {
-        const clean = text.replace(/<[^>]*>/g, '');
+        const clean = text.replace(/<[^>]*>/g,'');
         try {
-            if (navigator.share) {
-                await navigator.share({ title: 'Top Data Barça', text: clean, url: window.location.href });
-            } else {
-                await navigator.clipboard.writeText(clean + '\n' + window.location.href);
-            }
+            if (navigator.share) await navigator.share({title:'Top Data Barça',text:clean,url:window.location.href});
+            else await navigator.clipboard.writeText(clean+'\n'+window.location.href);
             btn.classList.add('shared');
-            setTimeout(() => btn.classList.remove('shared'), 1500);
-        } catch(e) {}
+            setTimeout(()=>btn.classList.remove('shared'),1500);
+        } catch(e){}
     }
 
     function updateMoves() {
         const list = document.getElementById('moves-list');
         if (!list) return;
-
         fetch('data.json?v=' + Date.now())
             .then(r => r.json())
             .then(data => {
-                const notis = (data.notificacions || []).slice().reverse();
-                if (notis.length === 0) {
-                    list.innerHTML = '<div style="text-align:center;color:#666;padding:60px;font-size:1.1em">⚽ Esperant el proper partit del Barça...</div>';
+                updateClock();
+                const notis = (data.notificacions||[]).slice().reverse();
+                if (!notis.length) {
+                    list.innerHTML = '<div style="text-align:center;color:#555;padding:60px;font-size:1.1em">⚽ Esperant el proper partit del Barça...</div>';
                     return;
                 }
                 list.innerHTML = notis.map(n => {
-                    const text = n.text || '';
-                    const quan = n.ts ? timeAgo(new Date(n.ts).getTime() / 1000) : '';
-                    const tipusClass = n.tipus === 'prioritaria' ? 'tipus-prioritaria' : 'tipus-programada';
-                    const tipusLabel = n.tipus === 'prioritaria' ? '⚽ GOL' : '📋 PARTIT';
+                    const raw = n.text||'';
+                    const text = formatText(raw);
+                    const quan = n.ts ? timeAgo(new Date(n.ts).getTime()/1000) : '';
                     return `<div class="move-item">
-                        <div><span class="move-tipus ${tipusClass}">${tipusLabel}</span></div>
                         <div class="move-text">${text} <span class="move-time">(${quan})</span></div>
-                        ${makeFooter(text, n.ts)}
+                        ${makeFooter(raw)}
                     </div>`;
                 }).join('');
             })
             .catch(() => {
-                list.innerHTML = '<div style="text-align:center;color:#666;padding:60px;">⚽ Esperant el proper partit del Barça...</div>';
+                list.innerHTML = '<div style="text-align:center;color:#555;padding:60px">⚽ Esperant el proper partit del Barça...</div>';
             });
     }
 
-    // Actualització automàtica cada 30s
     setInterval(() => {
         if (document.getElementById('moves').classList.contains('active')) updateMoves();
         if (document.getElementById('rankings').classList.contains('active')) updateRankings();
     }, 30000);
 
-    // Càrrega inicial
     updateMoves();
 </script>
-
 </body>
 </html>
