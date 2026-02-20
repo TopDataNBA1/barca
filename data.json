@@ -1,4 +1,12 @@
 {
-  "notificacions": [],
-  "baseline": {}
+  "notificacions": [
+    {
+      "text": "29è partit oficial per a Joan Garcia amb el Barça. Supera Saura (1928-1930), Amorós (1946-1948), Castro (1968-1971), Serrat (1979-1980), Carreras (1990-1996), Cuéllar (1995-1997), Quaresma (2003-2004) i Jonathan dos Santos (2009-2014). Empata amb Areso (1935-1936), Marinho (1974-1976), Valverde (1988-1990), De Jong (2021-2022) i Pau Víctor (2023-2025) en el 371è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "02:03",
+      "ts": "2026-02-20T02:03:19.521245"
+    }
+  ],
+  "baseline": {},
+  "ultima_actualitzacio": "02:03:19"
 }
