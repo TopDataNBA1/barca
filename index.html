@@ -324,14 +324,20 @@
     }
 
     function formatText(text) {
-        // Número ordinal inicial en daurat
-        text = text.replace(/^(\d+[rntèé]\s+)/i, '<span class="dest">$1</span>');
-        // Supera -> blanc negreta + emoji
-        text = text.replace(/Supera/g, '<span class="accio">🔀 Supera</span>');
-        // Empata -> blanc negreta + emoji
-        text = text.replace(/Empata/g, '<span class="accio">↔️ Empata</span>');
-        // Lloc final (ex: "371è lloc") -> daurat negreta
-        text = text.replace(/(\d+[rntèé]\s+lloc)/gi, '<span class="lloc">$1</span>');
+        // "29è partit oficial per a Joan Garcia amb..."
+        // Capturem fins a la primera paraula en minúscules (= fora del nom propi)
+        text = text.replace(
+            /^(\d+[rntèé]\s+(?:partit|gol)[^.]*?per a\s+)((?:[A-Z\u00C0-\u017E][^\s.]*\s*)+?)(\s+(?:amb|a la|al|en|i)\b)/i,
+            function(m, p1, nom, sep) {
+                return '<span class="dest">' + p1 + '</span><span class="dest">' + nom.trim() + '</span>' + sep;
+            }
+        );
+        // Supera -> daurat negreta + emoji
+        text = text.replace(/Supera/g, '<span class="accio">🔀 Supera</span>');
+        // Empata -> daurat negreta + emoji
+        text = text.replace(/Empata/g, '<span class="accio">↔️ Empata</span>');
+        // Lloc final "371è lloc" -> daurat negreta
+        text = text.replace(/(\d+[rntèé]\s+lloc)/gi, '<span class=\"lloc\">$1</span>');
         return text;
     }
 
