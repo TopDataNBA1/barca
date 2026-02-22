@@ -173,6 +173,12 @@
       "tipus": "programada",
       "hora": "17:34",
       "ts": "2026-02-22T17:33:32.803803"
+    },
+    {
+      "text": "154è partit oficial per a Eric Garcia Martret amb el Barça. Empata amb Van Bronckhorst (2003-2007) en el 125è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "17:35",
+      "ts": "2026-02-22T17:33:32.806783"
     }
   ],
   "baseline": {
@@ -19785,5 +19791,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:34:34"
+  "ultima_actualitzacio": "17:35:34"
 }
