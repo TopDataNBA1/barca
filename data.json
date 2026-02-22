@@ -275,6 +275,12 @@
       "tipus": "programada",
       "hora": "17:55",
       "ts": "2026-02-22T17:41:03.112466"
+    },
+    {
+      "text": "29è partit oficial per a Joan Garcia amb el Barça. Supera Saura (1928-1930), Amorós (1946-1948), Castro (1968-1971), Serrat (1979-1980), Carreras (1990-1996), Cuéllar (1995-1997), Quaresma (2003-2004) i Jonathan dos Santos (2009-2014). Empata amb Areso (1935-1936), Marinho (1974-1976), Valverde (1988-1990), De Jong (2021-2022) i Pau Víctor (2023-2025) en el 371è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "18:08",
+      "ts": "2026-02-22T18:08:49.871137"
     }
   ],
   "baseline": {
@@ -589,7 +595,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 289,
+        "pj": 290,
         "g": 19,
         "inici": "2019",
         "final": "2026"
@@ -645,7 +651,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 259,
+        "pj": 260,
         "g": 5,
         "inici": "1976",
         "final": "1984"
@@ -967,7 +973,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 178,
+        "pj": 179,
         "g": 10,
         "inici": "2022",
         "final": "2026"
@@ -981,7 +987,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 177,
+        "pj": 178,
         "g": 114,
         "inici": "2022",
         "final": "2026"
@@ -1051,7 +1057,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 167,
+        "pj": 168,
         "g": 67,
         "inici": "2022",
         "final": "2026"
@@ -1156,7 +1162,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 153,
+        "pj": 154,
         "g": 7,
         "inici": "2021",
         "final": "2026"
@@ -1254,7 +1260,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 138,
+        "pj": 139,
         "g": 40,
         "inici": "2022",
         "final": "2026"
@@ -1856,7 +1862,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 76,
+        "pj": 77,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -2388,7 +2394,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 47,
+        "pj": 48,
         "g": 4,
         "inici": "2023",
         "final": "2026"
@@ -2920,7 +2926,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 28,
+        "pj": 29,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -3200,7 +3206,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 22,
+        "pj": 23,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -7080,7 +7086,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 195,
+        "pj": 196,
         "g": 14,
         "inici": "2019",
         "final": "2026"
@@ -7108,7 +7114,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 188,
+        "pj": 189,
         "g": 4,
         "inici": "1976",
         "final": "1984"
@@ -7486,7 +7492,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 122,
+        "pj": 123,
         "g": 79,
         "inici": "2022",
         "final": "2026"
@@ -7528,7 +7534,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 119,
+        "pj": 120,
         "g": 5,
         "inici": "2022",
         "final": "2026"
@@ -7542,7 +7548,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 115,
+        "pj": 116,
         "g": 39,
         "inici": "2022",
         "final": "2026"
@@ -7633,7 +7639,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 105,
+        "pj": 106,
         "g": 4,
         "inici": "2021",
         "final": "2026"
@@ -7717,7 +7723,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 93,
+        "pj": 94,
         "g": 24,
         "inici": "2022",
         "final": "2026"
@@ -8410,7 +8416,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 48,
+        "pj": 49,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -8725,7 +8731,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 35,
+        "pj": 36,
         "g": 2,
         "inici": "2023",
         "final": "2026"
@@ -9467,7 +9473,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 18,
+        "pj": 19,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -9775,7 +9781,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 14,
+        "pj": 15,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -19887,5 +19893,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:55:06"
+  "ultima_actualitzacio": "18:08:51"
 }
