@@ -47,6 +47,12 @@
       "tipus": "programada",
       "hora": "00:43",
       "ts": "2026-02-23T00:42:14.691643"
+    },
+    {
+      "text": "154è partit oficial per a Eric Garcia amb el Barça. Empata amb Van Bronckhorst (2003-2007) en el 125è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "00:44",
+      "ts": "2026-02-23T00:42:14.774616"
     }
   ],
   "baseline": {
@@ -19659,5 +19665,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:43:28"
+  "ultima_actualitzacio": "00:44:28"
 }
