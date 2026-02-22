@@ -179,6 +179,12 @@
       "tipus": "programada",
       "hora": "17:35",
       "ts": "2026-02-22T17:33:32.806783"
+    },
+    {
+      "text": "106è partit de Lliga per a Eric Garcia Martret amb el Barça. Supera Van Bronckhorst (2003-2007) i Lenglet (2018-2022).",
+      "tipus": "programada",
+      "hora": "17:36",
+      "ts": "2026-02-22T17:33:32.806783"
     }
   ],
   "baseline": {
@@ -19791,5 +19797,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:35:34"
+  "ultima_actualitzacio": "17:36:34"
 }
