@@ -326,19 +326,23 @@
     }
 
     function formatText(text) {
-        // "29è" en daurat
+        // "29è" ordinal inicial -> daurat
         text = text.replace(/^(\d+[rntèé])/i, '<span class=\"dest\">$1</span>');
-        // "Joan Garcia" (nom propi despres de "per a") en daurat
+        // "oficial" -> daurat
+        text = text.replace(/\boficial\b/g, '<span class=\"dest\">oficial</span>');
+        // "Lliga", "Copa", "Champions" (paraula sola, no "de Lliga") -> daurat
+        text = text.replace(/\b(Lliga|Copa|Champions)\b/g, '<span class=\"dest\">$1</span>');
+        // Nom del jugador (despres de "per a") -> daurat
         text = text.replace(/per a\s+((?:[A-Z\u00C0-\u017E][^\s.]*\s*)+?)(\s+(?:amb|a la|al|en|i)\b)/,
             function(m, nom, sep) {
                 return 'per a <span class="dest">' + nom.trim() + '</span>' + sep;
             }
         );
-        // "Supera" en daurat + emoji DESPRES
+        // Supera -> daurat + emoji despres
         text = text.replace(/Supera/g, '<span class="accio">Supera 🔀</span>');
-        // "Empata" en daurat + emoji DESPRES
+        // Empata -> daurat + emoji despres
         text = text.replace(/Empata/g, '<span class="accio">Empata ↔️</span>');
-        // "371è" (ordinal davant de "lloc") -> daurat, sense "lloc"
+        // "371è" davant de "lloc" -> daurat, "lloc" en blanc
         text = text.replace(/(\d+[rntèé])\s+lloc/gi, '<span class=\"lloc\">$1</span> lloc');
         return text;
     }
