@@ -137,6 +137,12 @@
       "tipus": "programada",
       "hora": "00:58",
       "ts": "2026-02-23T00:42:15.532364"
+    },
+    {
+      "text": "123è partit de Lliga per a Lewandowski amb el Barça. Supera Luis Suárez (1953-1961). Empata amb Elias (1943-1950), Benítez (1961-1968), Urbano (1982-1992), Saviola (2001-2007) i Neymar (2013-2017) en el 101è lloc historic del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "00:59",
+      "ts": "2026-02-23T00:42:15.532364"
     }
   ],
   "baseline": {
@@ -19749,5 +19755,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:58:29"
+  "ultima_actualitzacio": "00:59:29"
 }
