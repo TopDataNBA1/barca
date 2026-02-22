@@ -77,6 +77,12 @@
       "tipus": "programada",
       "hora": "00:48",
       "ts": "2026-02-23T00:42:14.917568"
+    },
+    {
+      "text": "36è partit de Lliga per a João Cancelo amb el Barça. Supera Anguera (1940-1942) i Amarilla (1985-1988). Empata amb Seminario (1964-1967), Morán (1981-1984), Maradona (1982-1984), Hagi (1994-1996), Arda Turan (2015-2018) i Gündoğan (2023-2024) en el 276è lloc historic del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "00:49",
+      "ts": "2026-02-23T00:42:14.917568"
     }
   ],
   "baseline": {
@@ -19689,5 +19695,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:48:28"
+  "ultima_actualitzacio": "00:49:28"
 }
