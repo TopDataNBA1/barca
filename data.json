@@ -263,6 +263,12 @@
       "tipus": "programada",
       "hora": "17:53",
       "ts": "2026-02-22T17:41:03.110467"
+    },
+    {
+      "text": "23è partit oficial per a Bernal amb el Barça. Supera Peris (1908-1916), Salas (1933-1935), Oliveros (1967-1969) i Dutruel (2000-2002). Empata amb Corró (1943-1951), Julián Rubio (1979-1981), Déhu (1999-2000), Cáceres (2008-2009) i Deulofeu (2010-2018) en el 412è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "17:54",
+      "ts": "2026-02-22T17:41:03.112466"
     }
   ],
   "baseline": {
@@ -19875,5 +19881,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:53:05"
+  "ultima_actualitzacio": "17:54:05"
 }
