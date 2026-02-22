@@ -131,6 +131,12 @@
       "tipus": "programada",
       "hora": "00:57",
       "ts": "2026-02-23T00:42:15.458389"
+    },
+    {
+      "text": "178è partit oficial per a Lewandowski amb el Barça. Supera Bosch (1951-1959). Empata amb Benítez (1961-1968) en el 99è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "00:58",
+      "ts": "2026-02-23T00:42:15.532364"
     }
   ],
   "baseline": {
@@ -19743,5 +19749,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:57:29"
+  "ultima_actualitzacio": "00:58:29"
 }
