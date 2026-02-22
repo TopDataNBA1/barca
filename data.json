@@ -83,6 +83,18 @@
       "tipus": "programada",
       "hora": "00:49",
       "ts": "2026-02-23T00:42:14.917568"
+    },
+    {
+      "text": "179è partit oficial per a Koundé amb el Barça. Supera Benítez (1961-1968). Empata amb Urbano (1982-1992) en el 98è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "00:50",
+      "ts": "2026-02-23T00:42:14.995555"
+    },
+    {
+      "text": "120è partit de Lliga per a Koundé amb el Barça. Supera Ramos (1976-1982), Zuviría (1977-1982) i Keita (2008-2012). Empata amb Urruti (1981-1988) en el 109è lloc historic del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "00:51",
+      "ts": "2026-02-23T00:42:14.995555"
     }
   ],
   "baseline": {
@@ -19695,5 +19707,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:49:28"
+  "ultima_actualitzacio": "00:51:29"
 }
