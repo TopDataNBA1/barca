@@ -233,6 +233,30 @@
       "tipus": "programada",
       "hora": "17:48",
       "ts": "2026-02-22T17:41:03.101472"
+    },
+    {
+      "text": "179è partit oficial per a Koundé amb el Barça. Supera Benítez (1961-1968). Empata amb Urbano (1982-1992) en el 98è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "17:49",
+      "ts": "2026-02-22T17:41:03.104469"
+    },
+    {
+      "text": "120è partit de Lliga per a Koundé amb el Barça. Supera Ramos (1976-1982), Zuviría (1977-1982) i Keita (2008-2012). Empata amb Urruti (1981-1988) en el 109è lloc historic del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:50",
+      "ts": "2026-02-22T17:41:03.104469"
+    },
+    {
+      "text": "189è partit de Lliga per a Olmo amb el Barça. Empata amb Vergés (1956-1966) en el 52è lloc historic del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:51",
+      "ts": "2026-02-22T17:41:03.107468"
+    },
+    {
+      "text": "290è partit oficial per a De Jong amb el Barça. Empata amb Eusebio (1988-1995) en el 44è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "17:52",
+      "ts": "2026-02-22T17:41:03.109467"
     }
   ],
   "baseline": {
@@ -19845,5 +19869,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:48:05"
+  "ultima_actualitzacio": "17:52:05"
 }
