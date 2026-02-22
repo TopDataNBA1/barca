@@ -125,6 +125,12 @@
       "tipus": "programada",
       "hora": "00:56",
       "ts": "2026-02-23T00:42:15.347425"
+    },
+    {
+      "text": "116è partit de Lliga per a Raphinha amb el Barça. Supera Nogués (1930-1942).",
+      "tipus": "programada",
+      "hora": "00:57",
+      "ts": "2026-02-23T00:42:15.458389"
     }
   ],
   "baseline": {
@@ -19737,5 +19743,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:56:29"
+  "ultima_actualitzacio": "00:57:29"
 }
