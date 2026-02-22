@@ -59,6 +59,12 @@
       "tipus": "programada",
       "hora": "00:45",
       "ts": "2026-02-23T00:42:14.774616"
+    },
+    {
+      "text": "77è partit oficial per a Gerard Martín amb el Barça. Supera Paco Martínez (1976-1982), Pedraza (1980-1988) i Milito (2007-2011).",
+      "tipus": "programada",
+      "hora": "00:46",
+      "ts": "2026-02-23T00:42:14.844592"
     }
   ],
   "baseline": {
@@ -19671,5 +19677,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:45:28"
+  "ultima_actualitzacio": "00:46:28"
 }
