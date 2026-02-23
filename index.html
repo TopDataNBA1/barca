@@ -19,7 +19,7 @@
         .header-wrap { position:relative; }
 
         /* TOPBAR */
-        .topbar { display:grid; grid-template-columns:auto 1fr auto; align-items:center; padding:10px 12px; background:rgba(0,0,0,0.92); border-bottom:3px solid var(--grana); gap:4px; }
+        .topbar { display:grid; grid-template-columns:auto 1fr auto; align-items:center; padding:10px 12px; background:rgba(0,0,0,0.92); gap:4px; }
         .topbar-center {
             position:absolute; left:18vw; right:0;
             text-align:center; pointer-events:none;
@@ -30,16 +30,16 @@
         .topbar-icon:hover { stroke:var(--gold); filter:drop-shadow(0 0 6px var(--gold)); }
 
         /* STATUS BAR */
-        .status-bar { padding:4px 20px 4px 18vw; background:rgba(0,0,0,0.5); font-size:0.9em; text-align:center; border-bottom:1px solid rgba(165,0,68,0.25); }
-        .status-line1 { color:#55cc55; font-size:clamp(0.75em,1.6vw,1em); white-space:nowrap; }
-        .status-line2 { color:var(--gold); font-weight:600; font-size:clamp(0.72em,1.8vw,1.05em); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+        .status-bar { padding:6px 20px 6px 18vw; background:rgba(0,0,0,0.5); font-size:0.9em; text-align:center; }
+        .status-line1 { color:#55cc55; font-size:clamp(0.95em,2.2vw,1.15em); white-space:nowrap; }
+        .status-line2 { color:var(--gold); font-weight:600; font-size:clamp(0.92em,2.2vw,1.15em); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 
         /* LOGO FLOTANT: cobreix tota l'alçada de topbar+status-bar */
         .logo-wrap {
             position:absolute;
             left:0; top:0;
             height:calc(100% + 3px);
-            min-height:90px;
+            min-height:110px;
             display:flex; align-items:center;
             z-index:20;
             pointer-events:none;
