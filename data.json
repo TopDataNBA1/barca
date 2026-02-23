@@ -179,6 +179,12 @@
       "tipus": "programada",
       "hora": "01:45",
       "ts": "2026-02-23T01:36:39.910058"
+    },
+    {
+      "text": "189è partit de Lliga per a Olmo amb el Barça. Empata amb Vergés (1956-1966) en el ➡️ 52è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "01:46",
+      "ts": "2026-02-23T01:36:40.007025"
     }
   ],
   "baseline": {
@@ -19791,5 +19797,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:45:53"
+  "ultima_actualitzacio": "01:46:53"
 }
