@@ -155,6 +155,12 @@
       "tipus": "programada",
       "hora": "01:41",
       "ts": "2026-02-23T01:36:39.720120"
+    },
+    {
+      "text": "48è partit oficial per a João Cancelo amb el Barça. Supera Christanval (2001-2003). Empata amb Seminario (1964-1967) en el ➡️ 300è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "01:42",
+      "ts": "2026-02-23T01:36:39.812091"
     }
   ],
   "baseline": {
@@ -19767,5 +19773,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:41:53"
+  "ultima_actualitzacio": "01:42:53"
 }
