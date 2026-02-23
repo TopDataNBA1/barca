@@ -149,6 +149,12 @@
       "tipus": "programada",
       "hora": "01:00",
       "ts": "2026-02-23T00:42:15.862254"
+    },
+    {
+      "text": "120è partit oficial per a Fermín amb el Barça. Supera Villa (2010-2013). Empata amb De la Peña (1995-2001) en el 156è lloc historic del club.",
+      "tipus": "programada",
+      "hora": "01:01",
+      "ts": "2026-02-23T00:42:15.941229"
     }
   ],
   "baseline": {
@@ -19761,5 +19767,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:00:29"
+  "ultima_actualitzacio": "01:01:29"
 }
