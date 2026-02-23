@@ -382,9 +382,9 @@
     function timeAgo(ts) {
         const d = Math.floor(Date.now()/1000 - ts);
         if (d<60) return 'ara';
-        if (d<3600) return Math.floor(d/60)+'m';
-        if (d<86400) return Math.floor(d/3600)+'h';
-        return Math.floor(d/86400)+'d';
+        if (d<3600) return 'fa '+Math.floor(d/60)+'m';
+        if (d<86400) return 'fa '+Math.floor(d/3600)+'h';
+        return 'fa '+Math.floor(d/86400)+'d';
     }
 
     function makeFooter(raw) {
@@ -418,7 +418,14 @@
             .then(r => r.json())
             .then(data => {
                 updateClock(data);
-                const notis = (data.notificacions||[]).slice().reverse();
+                // Eliminar duplicats (guardar primer per URL/text)
+                const _vists = new Set();
+                const notis = (data.notificacions||[]).slice().reverse().filter(n => {
+                    const k = (n.text||'').replace(/⬇️/g,'').trim();
+                    if (_vists.has(k)) return false;
+                    _vists.add(k);
+                    return true;
+                });
                 if (!notis.length) {
                     list.innerHTML = '<div style="text-align:center;color:#555;padding:60px;font-size:1.1em">⚽ Esperant el proper partit del Barça...</div>';
                     window.scrollTo(0, scrollY);
