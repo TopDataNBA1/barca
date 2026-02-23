@@ -137,6 +137,12 @@
       "tipus": "programada",
       "hora": "01:38",
       "ts": "2026-02-23T01:36:39.628151"
+    },
+    {
+      "text": "106è partit de Lliga per a Eric Garcia amb el Barça. Supera Van Bronckhorst (2003-2007) i Lenglet (2018-2022) i ara ocupa el ➡️ 126è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "01:39",
+      "ts": "2026-02-23T01:36:39.628151"
     }
   ],
   "baseline": {
@@ -19749,5 +19755,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:38:52"
+  "ultima_actualitzacio": "01:39:52"
 }
