@@ -21,7 +21,7 @@
         /* TOPBAR */
         .topbar { display:grid; grid-template-columns:auto 1fr auto; align-items:center; padding:6px 12px; background:rgba(0,0,0,0.92); border-bottom:3px solid var(--grana); gap:4px; }
         .topbar-center {
-            position:absolute; left:0; right:0;
+            position:absolute; left:18vw; right:0;
             text-align:center; pointer-events:none;
         }
         .site-title { font-family:'Orbitron',sans-serif; font-size:clamp(1em,4.5vw,2em); background:linear-gradient(90deg,var(--grana) 0%,#d4005a 35%,var(--blau) 65%,#0066cc 100%); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; filter:drop-shadow(0 0 10px rgba(165,0,68,0.5)); }
@@ -30,9 +30,9 @@
         .topbar-icon:hover { stroke:var(--gold); filter:drop-shadow(0 0 6px var(--gold)); }
 
         /* STATUS BAR */
-        .status-bar { padding:5px 20px; background:rgba(0,0,0,0.5); font-size:0.9em; text-align:center; border-bottom:1px solid rgba(165,0,68,0.25); }
-        .status-line1 { color:#55cc55; font-size:0.82em; }
-        .status-line2 { color:var(--gold); font-weight:600; }
+        .status-bar { padding:4px 20px 4px 18vw; background:rgba(0,0,0,0.5); font-size:0.9em; text-align:center; border-bottom:1px solid rgba(165,0,68,0.25); }
+        .status-line1 { color:#55cc55; font-size:0.78em; white-space:nowrap; }
+        .status-line2 { color:var(--gold); font-weight:600; font-size:clamp(0.6em,1.8vw,0.95em); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 
         /* LOGO FLOTANT: cobreix tota l'alçada de topbar+status-bar */
         .logo-wrap {
@@ -228,30 +228,69 @@
         return n + 'è';
     }
 
-    function updateClock(data) {
-        const t = new Date().toLocaleTimeString('ca-ES', {hour:'2-digit',minute:'2-digit',timeZone:'Europe/Madrid'});
-        document.getElementById('clock-line').textContent = t;
-        // Actualitzar línia d'estat del partit
+    // Estat del proper partit (s'actualitza amb cada fetch)
+    let _matchData = null;
+    let _countdownTarget = null;
+
+    function formatCountdown(segs) {
+        if (segs <= 0) return 'Ara!';
+        const d = Math.floor(segs / 86400);
+        const h = Math.floor((segs % 86400) / 3600);
+        const m = Math.floor((segs % 3600) / 60);
+        const s = segs % 60;
+        let parts = [];
+        if (d > 0) parts.push(d + 'd');
+        if (h > 0) parts.push(h + 'h');
+        if (m > 0) parts.push(m + 'm');
+        parts.push(s + 's');
+        return parts.join(' ');
+    }
+
+    function tickCountdown() {
         const ms = document.getElementById('match-status-line');
-        if (!ms) return;
-        const status = (data && data.match_status) || 'U';
-        const propPartit = data && data.proper_partit;
+        if (!ms || !_matchData) return;
+        const status = _matchData.match_status || 'U';
         if (status === 'L') {
-            // Partit en joc
-            const comp = (data.match_comp || '').toUpperCase();
-            const rival = (data.match_rival || '').toUpperCase();
+            const comp = (_matchData.match_comp || '').toUpperCase();
+            const rival = (_matchData.match_rival || '').toUpperCase();
             ms.textContent = '🔴 PARTIT EN JOC: ' + (comp ? comp + ' · ' : '') + 'BARÇA - ' + rival;
             ms.style.color = '#ff4444';
-        } else if (propPartit && propPartit.compte_enrere) {
-            // Compte enrere
-            ms.innerHTML = '⏳ Proper partit: <strong>' + propPartit.descripcio + '</strong> · ' + propPartit.compte_enrere;
+        } else if (_countdownTarget) {
+            const segsRestants = Math.max(0, Math.floor((_countdownTarget - Date.now()) / 1000));
+            const propPartit = _matchData.proper_partit;
+            const desc = propPartit ? propPartit.descripcio : '';
+            ms.innerHTML = '⏳ ' + desc + ' · ' + formatCountdown(segsRestants);
             ms.style.color = 'var(--gold)';
-        } else if (propPartit && propPartit.descripcio) {
-            ms.innerHTML = '📅 Proper partit: <strong>' + propPartit.descripcio + '</strong>';
+        } else if (_matchData.proper_partit && _matchData.proper_partit.descripcio) {
+            ms.innerHTML = '📅 ' + _matchData.proper_partit.descripcio;
             ms.style.color = 'var(--gold)';
         } else {
             ms.textContent = '';
         }
+    }
+
+    // Tick cada segon
+    setInterval(tickCountdown, 1000);
+
+    function updateClock(data) {
+        const t = new Date().toLocaleTimeString('ca-ES', {hour:'2-digit',minute:'2-digit',timeZone:'Europe/Madrid'});
+        document.getElementById('clock-line').textContent = t;
+        if (!data) return;
+        _matchData = data;
+        // Calcular target del compte enrere des del text "Xd Xh Xm Xs"
+        const propPartit = data.proper_partit;
+        if (propPartit && propPartit.compte_enrere) {
+            const ce = propPartit.compte_enrere;
+            let segs = 0;
+            const md = ce.match(/(\d+)d/); if (md) segs += parseInt(md[1]) * 86400;
+            const mh = ce.match(/(\d+)h/); if (mh) segs += parseInt(mh[1]) * 3600;
+            const mm = ce.match(/(\d+)m/); if (mm) segs += parseInt(mm[1]) * 60;
+            const ms2 = ce.match(/(\d+)s/); if (ms2) segs += parseInt(ms2[1]);
+            _countdownTarget = Date.now() + segs * 1000;
+        } else {
+            _countdownTarget = null;
+        }
+        tickCountdown();
     }
 
     // Ter Stegen: excepció - no es considera actual
