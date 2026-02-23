@@ -327,6 +327,7 @@
 
     function formatText(text) {
         // "29è" ordinal inicial -> daurat
+        text = text.replace(/^(⚽\s*)(\d+[rntèé])/i, '$1<span class=\"dest\">$2</span>');
         text = text.replace(/^(\d+[rntèé])/i, '<span class=\"dest\">$1</span>');
         // "oficial" -> daurat
         text = text.replace(/\boficial\b/g, '<span class=\"dest\">oficial</span>');
@@ -339,11 +340,14 @@
             }
         );
         // Supera -> daurat + emoji despres
-        text = text.replace(/Supera/g, '<span class="accio">Supera 🔀</span>');
+        text = text.replace(/Supera/g, '<span class="accio">🔀 Supera</span>');
         // Empata -> daurat + emoji despres
-        text = text.replace(/Empata/g, '<span class="accio">Empata ↔️</span>');
+        text = text.replace(/Empata/g, '<span class="accio">↔️ Empata</span>');
         // "371è" davant de "lloc" -> daurat, "lloc" en blanc
-        text = text.replace(/(\d+[rntèé])\s+lloc/gi, '<span class=\"lloc\">$1</span> lloc');
+        text = text.replace(/(\d+[rntèé])\s+lloc/gi, '➡️ <span class=\"lloc\">$1</span> lloc');
+        text = text.replace(/historic/gi, 'històric');
+        // Any final 2 xifres: (1942-1955) -> (1942-55)
+        text = text.replace(/\((\d{4})-(\d{4})\)/g, function(m, a, b) { return '(' + a + '‑' + b.slice(2) + ')'; });
         return text;
     }
 
