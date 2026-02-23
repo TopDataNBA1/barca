@@ -426,8 +426,14 @@
                 }
                 list.innerHTML = notis.map(n => {
                     const raw = n.text||'';
+                    const esTitol = raw.startsWith('📋');
                     const text = formatText(raw);
                     const quan = n.ts ? timeAgo(new Date(n.ts).getTime()/1000) : '';
+                    if (esTitol) {
+                        return `<div class="move-item move-titol">
+                            <div class="move-text">${text}</div>
+                        </div>`;
+                    }
                     return `<div class="move-item">
                         <div class="move-text">${text} <span class="move-time">(${quan})</span></div>
                         ${makeFooter(raw)}
