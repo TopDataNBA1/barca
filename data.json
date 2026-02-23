@@ -167,6 +167,12 @@
       "tipus": "programada",
       "hora": "01:03",
       "ts": "2026-02-23T00:42:16.088180"
+    },
+    {
+      "text": "198è partit oficial per a Araújo amb el Barça. Supera Velasco (1942-1955).",
+      "tipus": "programada",
+      "hora": "01:04",
+      "ts": "2026-02-23T00:42:16.203141"
     }
   ],
   "baseline": {
@@ -19779,5 +19785,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:03:29"
+  "ultima_actualitzacio": "01:04:29"
 }
