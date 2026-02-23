@@ -143,6 +143,12 @@
       "tipus": "programada",
       "hora": "00:59",
       "ts": "2026-02-23T00:42:15.532364"
+    },
+    {
+      "text": "130è partit de Lliga per a Ferran Torres amb el Barça. Supera Gabri (1999-2006).",
+      "tipus": "programada",
+      "hora": "01:00",
+      "ts": "2026-02-23T00:42:15.862254"
     }
   ],
   "baseline": {
@@ -19755,5 +19761,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:59:29"
+  "ultima_actualitzacio": "01:00:29"
 }
