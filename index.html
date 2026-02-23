@@ -344,7 +344,7 @@
         // Empata -> daurat + emoji despres
         text = text.replace(/Empata/g, '<span class="accio">↔️ Empata</span>');
         // "371è" davant de "lloc" -> daurat, "lloc" en blanc
-        text = text.replace(/(\d+[rntèé])\s+lloc/gi, '➡️ <span class=\"lloc\">$1</span> lloc');
+        text = text.replace(/(\d+[rntèé])\s+lloc/gi, '<span class=\"lloc\">$1</span> lloc');
         text = text.replace(/historic/gi, 'històric');
         // Any final 2 xifres: (1942-1955) -> (1942-55)
         text = text.replace(/\((\d{4})-(\d{4})\)/g, function(m, a, b) { return '(' + a + '‑' + b.slice(2) + ')'; });
