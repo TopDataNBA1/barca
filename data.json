@@ -251,6 +251,12 @@
       "tipus": "programada",
       "hora": "01:57",
       "ts": "2026-02-23T01:36:41.346579"
+    },
+    {
+      "text": "198è partit oficial per a Araújo amb el Barça. Supera Velasco (1942-1955) i ara ocupa el ➡️ 80è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "01:58",
+      "ts": "2026-02-23T01:36:41.478535"
     }
   ],
   "baseline": {
@@ -19863,5 +19869,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:57:54"
+  "ultima_actualitzacio": "01:58:54"
 }
