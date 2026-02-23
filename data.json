@@ -227,6 +227,12 @@
       "tipus": "programada",
       "hora": "01:53",
       "ts": "2026-02-23T01:36:40.595828"
+    },
+    {
+      "text": "130è partit de Lliga per a Ferran Torres amb el Barça. Supera Gabri (1999-2006) i ara ocupa el ➡️ 94è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "01:54",
+      "ts": "2026-02-23T01:36:41.134650"
     }
   ],
   "baseline": {
@@ -19839,5 +19845,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:53:53"
+  "ultima_actualitzacio": "01:54:54"
 }
