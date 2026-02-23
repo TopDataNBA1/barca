@@ -133,8 +133,8 @@
 </div>
 
 <div class="status-bar">
-    <div class="status-line1">EN LÍNIA · Última actualització:</div>
-    <div class="status-line2" id="clock-line">--:--:--</div>
+    <div class="status-line1">EN LÍNIA · Última actualització: <span id="clock-line">--:--</span></div>
+    <div class="status-line2" id="match-status-line">⏳ Carregant...</div>
 </div>
 </div><!-- fi header-wrap -->
 
@@ -228,9 +228,30 @@
         return n + 'è';
     }
 
-    function updateClock() {
-        const t = new Date().toLocaleTimeString('ca-ES', {hour:'2-digit',minute:'2-digit',second:'2-digit',timeZone:'Europe/Madrid'});
-        document.getElementById('clock-line').textContent = t + ' CET';
+    function updateClock(data) {
+        const t = new Date().toLocaleTimeString('ca-ES', {hour:'2-digit',minute:'2-digit',timeZone:'Europe/Madrid'});
+        document.getElementById('clock-line').textContent = t;
+        // Actualitzar línia d'estat del partit
+        const ms = document.getElementById('match-status-line');
+        if (!ms) return;
+        const status = (data && data.match_status) || 'U';
+        const propPartit = data && data.proper_partit;
+        if (status === 'L') {
+            // Partit en joc
+            const comp = (data.match_comp || '').toUpperCase();
+            const rival = (data.match_rival || '').toUpperCase();
+            ms.textContent = '🔴 PARTIT EN JOC: ' + (comp ? comp + ' · ' : '') + 'BARÇA - ' + rival;
+            ms.style.color = '#ff4444';
+        } else if (propPartit && propPartit.compte_enrere) {
+            // Compte enrere
+            ms.innerHTML = '⏳ Proper partit: <strong>' + propPartit.descripcio + '</strong> · ' + propPartit.compte_enrere;
+            ms.style.color = 'var(--gold)';
+        } else if (propPartit && propPartit.descripcio) {
+            ms.innerHTML = '📅 Proper partit: <strong>' + propPartit.descripcio + '</strong>';
+            ms.style.color = 'var(--gold)';
+        } else {
+            ms.textContent = '';
+        }
     }
 
     // Ter Stegen: excepció - no es considera actual
@@ -244,11 +265,12 @@
     function updateRankings() {
         const { comp, stat, top, actuals } = getFilters();
         const tablesDiv = document.getElementById('tables');
+        const scrollY = window.scrollY;
         tablesDiv.innerHTML = '';
         fetch('data.json?v=' + Date.now())
             .then(r => r.json())
             .then(data => {
-                updateClock();
+                updateClock(data);
                 const compData = (data.baseline || {})[comp] || {};
 
                 // Llista TOTAL (per calcular posició global)
@@ -321,6 +343,7 @@
                     tbody.appendChild(tr);
                 });
                 tablesDiv.appendChild(card);
+                window.scrollTo(0, scrollY);
             })
             .catch(() => { tablesDiv.innerHTML = '<div style="text-align:center;color:#888;padding:40px">Esperant dades...</div>'; });
     }
@@ -390,13 +413,15 @@
     function updateMoves() {
         const list = document.getElementById('moves-list');
         if (!list) return;
+        const scrollY = window.scrollY;
         fetch('data.json?v=' + Date.now())
             .then(r => r.json())
             .then(data => {
-                updateClock();
+                updateClock(data);
                 const notis = (data.notificacions||[]).slice().reverse();
                 if (!notis.length) {
                     list.innerHTML = '<div style="text-align:center;color:#555;padding:60px;font-size:1.1em">⚽ Esperant el proper partit del Barça...</div>';
+                    window.scrollTo(0, scrollY);
                     return;
                 }
                 list.innerHTML = notis.map(n => {
@@ -408,6 +433,7 @@
                         ${makeFooter(raw)}
                     </div>`;
                 }).join('');
+                window.scrollTo(0, scrollY);
             })
             .catch(() => {
                 list.innerHTML = '<div style="text-align:center;color:#555;padding:60px">⚽ Esperant el proper partit del Barça...</div>';
