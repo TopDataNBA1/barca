@@ -155,6 +155,12 @@
       "tipus": "programada",
       "hora": "01:01",
       "ts": "2026-02-23T00:42:15.941229"
+    },
+    {
+      "text": "78è partit de Lliga per a Fermín amb el Barça. Supera Valle (1940-1950) i Villa (2010-2013). Empata amb Roger (1994-1999) en el 164è lloc historic del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "01:02",
+      "ts": "2026-02-23T00:42:15.941229"
     }
   ],
   "baseline": {
@@ -19767,5 +19773,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:01:29"
+  "ultima_actualitzacio": "01:02:29"
 }
