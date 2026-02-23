@@ -19893,5 +19893,12 @@
       }
     }
   },
-  "ultima_actualitzacio": "02:00:54"
+  "ultima_actualitzacio": "02:00:54",
+  "match_status": "U",
+  "match_comp": "Lliga",
+  "match_rival": "Villarreal",
+  "proper_partit": {
+    "descripcio": "Lliga · Barça - Villarreal",
+    "compte_enrere": "05d 13h 26min"
+  }
 }
