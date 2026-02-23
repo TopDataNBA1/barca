@@ -161,6 +161,12 @@
       "tipus": "programada",
       "hora": "01:02",
       "ts": "2026-02-23T00:42:15.941229"
+    },
+    {
+      "text": "153è partit de Lliga per a Pedri amb el Barça. Supera Escolà (1934-1948) i Calvet (1939-1953).",
+      "tipus": "programada",
+      "hora": "01:03",
+      "ts": "2026-02-23T00:42:16.088180"
     }
   ],
   "baseline": {
@@ -19773,5 +19779,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:02:29"
+  "ultima_actualitzacio": "01:03:29"
 }
