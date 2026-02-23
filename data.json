@@ -59,6 +59,12 @@
       "tipus": "programada",
       "hora": "01:24",
       "ts": "2026-02-23T01:21:02.612482"
+    },
+    {
+      "text": "77è partit oficial per a Gerard Martín amb el Barça. Supera Paco Martínez (1976-1982), Pedraza (1980-1988) i Milito (2007-2011) i ara ocupa el ➡️ 224è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "01:25",
+      "ts": "2026-02-23T01:21:02.699453"
     }
   ],
   "baseline": {
@@ -19671,5 +19677,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:24:15"
+  "ultima_actualitzacio": "01:25:15"
 }
