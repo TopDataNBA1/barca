@@ -209,6 +209,12 @@
       "tipus": "programada",
       "hora": "01:50",
       "ts": "2026-02-23T01:36:40.409890"
+    },
+    {
+      "text": "116è partit de Lliga per a Raphinha amb el Barça. Supera Nogués (1930-1942) i ara ocupa el ➡️ 114è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "01:51",
+      "ts": "2026-02-23T01:36:40.497861"
     }
   ],
   "baseline": {
@@ -19821,5 +19827,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:50:53"
+  "ultima_actualitzacio": "01:51:53"
 }
