@@ -245,6 +245,12 @@
       "tipus": "programada",
       "hora": "01:56",
       "ts": "2026-02-23T01:36:41.246612"
+    },
+    {
+      "text": "153è partit de Lliga per a Pedri amb el Barça. Supera Escolà (1934-1948) i Calvet (1939-1953) i ara ocupa el ➡️ 72è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "01:57",
+      "ts": "2026-02-23T01:36:41.346579"
     }
   ],
   "baseline": {
@@ -19857,5 +19863,5 @@
       }
     }
   },
-  "ultima_actualitzacio": "01:56:54"
+  "ultima_actualitzacio": "01:57:54"
 }
