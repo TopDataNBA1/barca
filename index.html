@@ -281,7 +281,11 @@
         _matchData = data;
         // Calcular target del compte enrere des del text "Xd Xh Xm Xs"
         const propPartit = data.proper_partit;
-        if (propPartit && propPartit.compte_enrere) {
+        if (propPartit && propPartit.kickoff_ts) {
+            // Timestamp Unix absolut - sempre correcte independentment de quan s'actualitza
+            _countdownTarget = propPartit.kickoff_ts * 1000;
+        } else if (propPartit && propPartit.compte_enrere) {
+            // Fallback: compte enrere textual
             const ce = propPartit.compte_enrere;
             let segs = 0;
             const md = ce.match(/(\d+)d/); if (md) segs += parseInt(md[1]) * 86400;
