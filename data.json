@@ -479,6 +479,12 @@
       "tipus": "programada",
       "hora": "19:25",
       "ts": "2026-02-28T19:10:32.833179"
+    },
+    {
+      "text": "194è partit oficial per a Ferran Torres amb el Barça. Supera Abidal (2007-2013). Empata amb Tejada (1953-1961), Zabalza (1967-1973) i Gabri (1999-2006) en el ➡️ 84è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:26",
+      "ts": "2026-02-28T19:10:32.900156"
     }
   ],
   "baseline": {
@@ -20091,7 +20097,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:25:51",
+  "ultima_actualitzacio": "19:26:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
