@@ -431,6 +431,12 @@
       "tipus": "programada",
       "hora": "19:17",
       "ts": "2026-02-28T19:10:32.572246"
+    },
+    {
+      "text": "115è partit oficial per a Cubarsí amb el Barça. Supera Cayetano Ré (1961-1966) i Guðjohnsen (2006-2010). Empata amb Zabalo (1929-1945) en el ➡️ 163è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:18",
+      "ts": "2026-02-28T19:10:32.639225"
     }
   ],
   "baseline": {
@@ -20043,7 +20049,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:17:51",
+  "ultima_actualitzacio": "19:18:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
