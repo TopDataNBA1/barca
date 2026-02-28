@@ -533,6 +533,12 @@
       "tipus": "programada",
       "hora": "19:34",
       "ts": "2026-02-28T19:10:33.522931"
+    },
+    {
+      "text": "36è partit oficial per a Rashford amb el Barça. Supera Macizo (1974-1979), Fernando Navarro (2000-2005) i Afellay (2010-2014). Empata amb Torralba (1915-1928), Sancho (1918-1928), León (1939-1941), Szegedi (1950-1952), Vila (1951-1954) i Hleb (2008-2009) en el ➡️ 337è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:35",
+      "ts": "2026-02-28T19:10:33.612903"
     }
   ],
   "baseline": {
@@ -20145,7 +20151,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:34:52",
+  "ultima_actualitzacio": "19:35:52",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
