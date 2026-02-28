@@ -485,6 +485,12 @@
       "tipus": "programada",
       "hora": "19:26",
       "ts": "2026-02-28T19:10:32.900156"
+    },
+    {
+      "text": "132è partit de Lliga per a Ferran Torres amb el Barça. Supera Gensana (1956-1966) i ara ocupa el ➡️ 93è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:27",
+      "ts": "2026-02-28T19:10:32.900156"
     }
   ],
   "baseline": {
@@ -20097,7 +20103,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:26:51",
+  "ultima_actualitzacio": "19:27:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
