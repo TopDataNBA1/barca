@@ -407,6 +407,12 @@
       "tipus": "programada",
       "hora": "19:13",
       "ts": "2026-02-28T19:10:32.424315"
+    },
+    {
+      "text": "156è partit oficial per a Eric Garcia amb el Barça. Supera Gavi (2021-2026). Empata amb Manolo (1978-1988) en el ➡️ 123è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:14",
+      "ts": "2026-02-28T19:10:32.494291"
     }
   ],
   "baseline": {
@@ -20019,7 +20025,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:13:50",
+  "ultima_actualitzacio": "19:14:50",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
