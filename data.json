@@ -461,6 +461,12 @@
       "tipus": "programada",
       "hora": "19:22",
       "ts": "2026-02-28T19:10:32.768182"
+    },
+    {
+      "text": "80è partit de Lliga per a Fermín amb el Barça. Supera Busquets (1990-1999). Empata amb Henry (2007-2010) en el ➡️ 162è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:23",
+      "ts": "2026-02-28T19:10:32.768182"
     }
   ],
   "baseline": {
@@ -20073,7 +20079,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:22:51",
+  "ultima_actualitzacio": "19:23:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
