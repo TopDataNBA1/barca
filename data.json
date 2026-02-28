@@ -467,6 +467,12 @@
       "tipus": "programada",
       "hora": "19:23",
       "ts": "2026-02-28T19:10:32.768182"
+    },
+    {
+      "text": "25è partit oficial per a Bernal amb el Barça. Supera Santos (1933-1934), Quique (1943-1950), Sagrera (1947-1951), Cos (1972-1976), Quique Estebaranz (1993-1994), Jorquera (2003-2009), Malcom (2018-2019) i Aubameyang (2021-2023). Empata amb Sierra (1942-1945), Goyvaerts (1961-1965), Cubilla (1961-1964), Corominas (1975-1977) i Pellegrino (1998-1999) en el ➡️ 399è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:24",
+      "ts": "2026-02-28T19:10:32.833179"
     }
   ],
   "baseline": {
@@ -20079,7 +20085,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:23:51",
+  "ultima_actualitzacio": "19:24:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
