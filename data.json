@@ -455,6 +455,12 @@
       "tipus": "programada",
       "hora": "19:21",
       "ts": "2026-02-28T19:10:32.704203"
+    },
+    {
+      "text": "122è partit oficial per a Fermín amb el Barça. Supera Rosalén (1939-1946) i Henry (2007-2010) i ara ocupa el ➡️ 154è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:22",
+      "ts": "2026-02-28T19:10:32.768182"
     }
   ],
   "baseline": {
@@ -20067,7 +20073,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:21:51",
+  "ultima_actualitzacio": "19:22:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
