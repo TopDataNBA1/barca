@@ -521,6 +521,12 @@
       "tipus": "programada",
       "hora": "19:32",
       "ts": "2026-02-28T19:10:33.452974"
+    },
+    {
+      "text": "200è partit oficial per a Araújo amb el Barça. Supera Gensana (1956-1966) i Eto'o (2004-2009) i ara ocupa el ➡️ 78è lloc històric del club.. Araújo es converteix en el 77è jugador que arriba als 200 partit oficials amb el Barça.",
+      "tipus": "programada",
+      "hora": "19:33",
+      "ts": "2026-02-28T19:10:33.522931"
     }
   ],
   "baseline": {
@@ -20133,7 +20139,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:32:52",
+  "ultima_actualitzacio": "19:33:52",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
