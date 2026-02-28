@@ -473,6 +473,12 @@
       "tipus": "programada",
       "hora": "19:24",
       "ts": "2026-02-28T19:10:32.833179"
+    },
+    {
+      "text": "17è partit de Lliga per a Bernal amb el Barça. Supera Uriach (1928-1931), Lecuona (1934-1935), Iborra (1935-1936), Emilín (1939-1940), Aloy (1950-1954), Moll (1954-1956), Pinto (1959-1961), Cubilla (1961-1964) i Cuenca (2011-2014). Empata amb Plattkó (1928-1930), Enrique Fernández (1934-1936), Herrerita (1939-1940), Homedes (1939-1940), Corró (1943-1951), Aretio (1949-1950), Camps (1961-1965), Goyvaerts (1961-1965), Franch (1968-1971), Cos (1972-1976), Carreño (1973-1978), Corominas (1975-1977), Fradera (1985-1988), Sergi (1987-1991) i Sandro (2014-2016) en el ➡️ 391è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:25",
+      "ts": "2026-02-28T19:10:32.833179"
     }
   ],
   "baseline": {
@@ -20085,7 +20091,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:24:51",
+  "ultima_actualitzacio": "19:25:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
