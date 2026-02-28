@@ -437,6 +437,12 @@
       "tipus": "programada",
       "hora": "19:18",
       "ts": "2026-02-28T19:10:32.639225"
+    },
+    {
+      "text": "76è partit de Lliga per a Cubarsí amb el Barça. Supera Kocsis (1958-1966). Empata amb Sans (1943-1950) i Coutinho (2017-2022) en el ➡️ 168è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:19",
+      "ts": "2026-02-28T19:10:32.639225"
     }
   ],
   "baseline": {
@@ -20049,7 +20055,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:18:51",
+  "ultima_actualitzacio": "19:19:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
