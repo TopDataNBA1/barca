@@ -401,6 +401,12 @@
       "tipus": "programada",
       "hora": "19:12",
       "ts": "2026-02-28T19:10:32.424315"
+    },
+    {
+      "text": "110è partit de Lliga per a Balde amb el Barça. Empata amb Calderé (1983-1988) i Gavi (2021-2026) en el ➡️ 122è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:13",
+      "ts": "2026-02-28T19:10:32.424315"
     }
   ],
   "baseline": {
@@ -20013,7 +20019,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:12:50",
+  "ultima_actualitzacio": "19:13:50",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
