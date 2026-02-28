@@ -425,6 +425,12 @@
       "tipus": "programada",
       "hora": "19:16",
       "ts": "2026-02-28T19:10:32.572246"
+    },
+    {
+      "text": "122è partit de Lliga per a Koundé amb el Barça. Supera Bravo (1940-1948). Empata amb Luis Suárez (1953-1961) en el ➡️ 107è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:17",
+      "ts": "2026-02-28T19:10:32.572246"
     }
   ],
   "baseline": {
@@ -20037,7 +20043,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:16:50",
+  "ultima_actualitzacio": "19:17:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
