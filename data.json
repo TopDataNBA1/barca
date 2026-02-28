@@ -527,6 +527,12 @@
       "tipus": "programada",
       "hora": "19:33",
       "ts": "2026-02-28T19:10:33.522931"
+    },
+    {
+      "text": "135è partit de Lliga per a Araújo amb el Barça. Supera Pereda (1961-1969) i ara ocupa el ➡️ 91è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:34",
+      "ts": "2026-02-28T19:10:33.522931"
     }
   ],
   "baseline": {
@@ -20139,7 +20145,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:33:52",
+  "ultima_actualitzacio": "19:34:52",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
