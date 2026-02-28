@@ -281,6 +281,60 @@
       "tipus": "prioritaria",
       "hora": "23:59",
       "ts": "2026-02-23T23:59:00"
+    },
+    {
+      "text": "⚽ 41è gol de Lamine Yamal amb el Barça. Supera Zaballa (1961-1967) i Dembélé (2017-2023). Empata amb Ramón (1927-1935) i Bojan (2007-2011) en el ➡️ 65è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "19:08",
+      "ts": "2026-02-28T19:08:12.281109"
+    },
+    {
+      "text": "⚽ 25è gol de Lamine Yamal a la Lliga amb el Barça. Supera Bestit (1929-1934), Goiburu (1929-1934), Rifé (1964-1976), Archibald (1984-1987), Rakitić (2014-2020) i Dembélé (2017-2023) i ara ocupa el ➡️ 72è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "19:08",
+      "ts": "2026-02-28T19:08:12.281109"
+    },
+    {
+      "text": "⚽ 42è gol de Lamine Yamal amb el Barça. Supera Ramón (1927-1935) i Bojan (2007-2011). Empata amb Moreno (1951-1956), Simonsen (1979-1982), Alexanco (1980-1993) i Fàbregas (2011-2014) en el ➡️ 61è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "19:08",
+      "ts": "2026-02-28T19:08:12.342087"
+    },
+    {
+      "text": "⚽ 26è gol de Lamine Yamal a la Lliga amb el Barça. Empata amb Gonzalvo III (1940-1956) i Bojan (2007-2011) en el ➡️ 70è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "19:08",
+      "ts": "2026-02-28T19:08:12.342087"
+    },
+    {
+      "text": "⚽ 43è gol de Lamine Yamal amb el Barça. Supera Moreno (1951-1956), Simonsen (1979-1982), Alexanco (1980-1993) i Fàbregas (2011-2014) i ara ocupa el ➡️ 61è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "19:08",
+      "ts": "2026-02-28T19:08:12.393070"
+    },
+    {
+      "text": "⚽ 27è gol de Lamine Yamal a la Lliga amb el Barça. Supera Gonzalvo III (1940-1956) i Bojan (2007-2011). Empata amb Alexanco (1980-1993) en el ➡️ 69è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "19:08",
+      "ts": "2026-02-28T19:08:12.393070"
+    },
+    {
+      "text": "📋 28/02/2026 · LLIGA · BARÇA - VILLARREAL",
+      "tipus": "prioritaria",
+      "hora": "19:08",
+      "ts": "2026-02-28T19:08:22.957572"
+    },
+    {
+      "text": "30è partit oficial per a Joan Garcia amb el Barça. Supera Areso (1935-1936), Marinho (1974-1976), Valverde (1988-1990), De Jong (2021-2022) i Pau Víctor (2023-2025). Empata amb Sampedro (1955-1959), Cuenca (2011-2014), Pjanić (2020-2023) i Fort (2023-2025) en el ➡️ 367è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:08",
+      "ts": "2026-02-28T19:08:11.568829"
+    },
+    {
+      "text": "20è partit de Lliga per a Joan Garcia amb el Barça. Supera Soler (1933-1940), Salas (1933-1935), Castro (1968-1971), Carreras (1990-1996), Prosinečki (1995-1997), Amunike (1996-2000), Andersson (2001-2004), Hleb (2008-2009) i Pjanić (2020-2023). Empata amb Mas (1928-1932), Quique (1943-1950), Marinho (1974-1976) i Cuéllar (1995-1997) en el ➡️ 370è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:09",
+      "ts": "2026-02-28T19:08:11.568829"
     }
   ],
   "baseline": {
@@ -651,7 +705,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 260,
+        "pj": 261,
         "g": 5,
         "inici": "1976",
         "final": "1984"
@@ -749,7 +803,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 228,
+        "pj": 229,
         "g": 28,
         "inici": "2020",
         "final": "2026"
@@ -840,7 +894,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 198,
+        "pj": 199,
         "g": 13,
         "inici": "2019",
         "final": "2026"
@@ -896,7 +950,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 192,
+        "pj": 193,
         "g": 60,
         "inici": "2021",
         "final": "2026"
@@ -973,7 +1027,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 179,
+        "pj": 180,
         "g": 10,
         "inici": "2022",
         "final": "2026"
@@ -987,8 +1041,8 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 178,
-        "g": 114,
+        "pj": 179,
+        "g": 115,
         "inici": "2022",
         "final": "2026"
       },
@@ -1057,7 +1111,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 168,
+        "pj": 169,
         "g": 67,
         "inici": "2022",
         "final": "2026"
@@ -1120,7 +1174,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 158,
+        "pj": 159,
         "g": 3,
         "inici": "2021",
         "final": "2026"
@@ -1162,7 +1216,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 154,
+        "pj": 155,
         "g": 7,
         "inici": "2021",
         "final": "2026"
@@ -1260,8 +1314,8 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 139,
-        "g": 40,
+        "pj": 140,
+        "g": 43,
         "inici": "2022",
         "final": "2026"
       },
@@ -1386,7 +1440,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 120,
+        "pj": 121,
         "g": 30,
         "inici": "2023",
         "final": "2026"
@@ -1442,7 +1496,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 113,
+        "pj": 114,
         "g": 2,
         "inici": "2023",
         "final": "2026"
@@ -2709,7 +2763,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 34,
+        "pj": 35,
         "g": 10,
         "inici": "2025",
         "final": "2026"
@@ -2926,7 +2980,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 29,
+        "pj": 30,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -3206,7 +3260,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 23,
+        "pj": 24,
         "g": 2,
         "inici": "2024",
         "final": "2026"
@@ -3332,7 +3386,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 20,
+        "pj": 21,
         "g": 2,
         "inici": "2025",
         "final": "2026"
@@ -7114,7 +7168,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 189,
+        "pj": 190,
         "g": 4,
         "inici": "1976",
         "final": "1984"
@@ -7261,7 +7315,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 153,
+        "pj": 154,
         "g": 22,
         "inici": "2020",
         "final": "2026"
@@ -7387,7 +7441,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 133,
+        "pj": 134,
         "g": 10,
         "inici": "2019",
         "final": "2026"
@@ -7408,7 +7462,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 130,
+        "pj": 131,
         "g": 37,
         "inici": "2021",
         "final": "2026"
@@ -7492,8 +7546,8 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 123,
-        "g": 79,
+        "pj": 124,
+        "g": 80,
         "inici": "2022",
         "final": "2026"
       },
@@ -7534,7 +7588,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 120,
+        "pj": 121,
         "g": 5,
         "inici": "2022",
         "final": "2026"
@@ -7548,7 +7602,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 116,
+        "pj": 117,
         "g": 39,
         "inici": "2022",
         "final": "2026"
@@ -7611,7 +7665,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 108,
+        "pj": 109,
         "g": 1,
         "inici": "2021",
         "final": "2026"
@@ -7639,7 +7693,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 106,
+        "pj": 107,
         "g": 4,
         "inici": "2021",
         "final": "2026"
@@ -7723,8 +7777,8 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 94,
-        "g": 24,
+        "pj": 95,
+        "g": 27,
         "inici": "2022",
         "final": "2026"
       },
@@ -7912,7 +7966,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 78,
+        "pj": 79,
         "g": 19,
         "inici": "2023",
         "final": "2026"
@@ -7968,7 +8022,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 74,
+        "pj": 75,
         "g": 1,
         "inici": "2023",
         "final": "2026"
@@ -9326,7 +9380,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 21,
+        "pj": 22,
         "g": 4,
         "inici": "2025",
         "final": "2026"
@@ -9473,7 +9527,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 19,
+        "pj": 20,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -9781,7 +9835,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 15,
+        "pj": 16,
         "g": 2,
         "inici": "2024",
         "final": "2026"
@@ -9851,7 +9905,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 14,
+        "pj": 15,
         "g": 1,
         "inici": "2025",
         "final": "2026"
@@ -19893,13 +19947,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "02:00:54",
-  "match_status": "U",
+  "ultima_actualitzacio": "19:09:27",
+  "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Villarreal",
-    "compte_enrere": "3d 16h 13m 49s",
-    "kickoff_ts": 1772291700
+    "compte_enrere": "3d 16h 13m 11s",
+    "kickoff_ts": 1772291699
   }
 }
