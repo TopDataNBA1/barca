@@ -509,6 +509,12 @@
       "tipus": "programada",
       "hora": "19:30",
       "ts": "2026-02-28T19:10:33.026096"
+    },
+    {
+      "text": "180è partit oficial per a Lewandowski amb el Barça. Supera Urbano (1982-1992). Empata amb Cruyff (1973-1978) en el ➡️ 97è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:31",
+      "ts": "2026-02-28T19:10:33.452974"
     }
   ],
   "baseline": {
@@ -20121,7 +20127,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:30:51",
+  "ultima_actualitzacio": "19:31:52",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
