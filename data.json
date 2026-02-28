@@ -395,6 +395,12 @@
       "tipus": "programada",
       "hora": "19:11",
       "ts": "2026-02-28T19:10:32.360335"
+    },
+    {
+      "text": "160è partit oficial per a Balde amb el Barça. Supera Zaballa (1961-1967). Empata amb Lenglet (2018-2022) en el ➡️ 118è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:12",
+      "ts": "2026-02-28T19:10:32.424315"
     }
   ],
   "baseline": {
@@ -20007,7 +20013,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:11:50",
+  "ultima_actualitzacio": "19:12:50",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
