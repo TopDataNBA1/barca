@@ -515,6 +515,12 @@
       "tipus": "programada",
       "hora": "19:31",
       "ts": "2026-02-28T19:10:33.452974"
+    },
+    {
+      "text": "125è partit de Lliga per a Lewandowski amb el Barça. Supera Marcos Alonso (1982-1987). Empata amb Abidal (2007-2013) en el ➡️ 99è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:32",
+      "ts": "2026-02-28T19:10:33.452974"
     }
   ],
   "baseline": {
@@ -20127,7 +20133,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:31:52",
+  "ultima_actualitzacio": "19:32:52",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
