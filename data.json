@@ -413,6 +413,12 @@
       "tipus": "programada",
       "hora": "19:14",
       "ts": "2026-02-28T19:10:32.494291"
+    },
+    {
+      "text": "108è partit de Lliga per a Eric Garcia amb el Barça. Supera Zaballa (1961-1967) i ara ocupa el ➡️ 125è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:15",
+      "ts": "2026-02-28T19:10:32.494291"
     }
   ],
   "baseline": {
@@ -20025,7 +20031,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:14:50",
+  "ultima_actualitzacio": "19:15:50",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
