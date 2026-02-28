@@ -491,6 +491,12 @@
       "tipus": "programada",
       "hora": "19:27",
       "ts": "2026-02-28T19:10:32.900156"
+    },
+    {
+      "text": "141è partit oficial per a Lamine Yamal amb el Barça. Empata amb Quini (1980-1984), Overmars (2000-2004) i Alexis Sánchez (2011-2014) en el ➡️ 136è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:28",
+      "ts": "2026-02-28T19:10:32.959119"
     }
   ],
   "baseline": {
@@ -20103,7 +20109,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:27:51",
+  "ultima_actualitzacio": "19:28:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
