@@ -497,6 +497,12 @@
       "tipus": "programada",
       "hora": "19:28",
       "ts": "2026-02-28T19:10:32.959119"
+    },
+    {
+      "text": "96è partit de Lliga per a Lamine Yamal amb el Barça. Supera Hesp (1997-2000). Empata amb Motta (2001-2007) i Fàbregas (2011-2014) en el ➡️ 137è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:29",
+      "ts": "2026-02-28T19:10:32.959119"
     }
   ],
   "baseline": {
@@ -20109,7 +20115,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:28:51",
+  "ultima_actualitzacio": "19:29:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
