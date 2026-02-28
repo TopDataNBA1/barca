@@ -419,6 +419,12 @@
       "tipus": "programada",
       "hora": "19:15",
       "ts": "2026-02-28T19:10:32.494291"
+    },
+    {
+      "text": "181è partit oficial per a Koundé amb el Barça. Supera Cruyff (1973-1978) i ara ocupa el ➡️ 97è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:16",
+      "ts": "2026-02-28T19:10:32.572246"
     }
   ],
   "baseline": {
@@ -20031,7 +20037,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:15:50",
+  "ultima_actualitzacio": "19:16:50",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
