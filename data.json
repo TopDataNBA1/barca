@@ -443,6 +443,18 @@
       "tipus": "programada",
       "hora": "19:19",
       "ts": "2026-02-28T19:10:32.639225"
+    },
+    {
+      "text": "262è partit oficial per a Olmo amb el Barça. Empata amb Esteban Vigo (1977-1987) en el ➡️ 52è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:20",
+      "ts": "2026-02-28T19:10:32.704203"
+    },
+    {
+      "text": "191è partit de Lliga per a Olmo amb el Barça. Empata amb Luis Suárez (2014-2020) en el ➡️ 51è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:21",
+      "ts": "2026-02-28T19:10:32.704203"
     }
   ],
   "baseline": {
@@ -20055,7 +20067,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:19:51",
+  "ultima_actualitzacio": "19:21:51",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Villarreal",
