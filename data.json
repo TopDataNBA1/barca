@@ -1269,7 +1269,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 180,
+        "pj": 179,
         "g": 116,
         "inici": "2022",
         "final": "2026"
@@ -1542,7 +1542,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 141,
+        "pj": 140,
         "g": 46,
         "inici": "2022",
         "final": "2026"
@@ -7774,7 +7774,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 125,
+        "pj": 124,
         "g": 81,
         "inici": "2022",
         "final": "2026"
@@ -8005,7 +8005,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 96,
+        "pj": 95,
         "g": 30,
         "inici": "2022",
         "final": "2026"
@@ -20181,7 +20181,7 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "2d 19h 7m 16s",
+    "compte_enrere": "2d 19h 6m 2s",
     "kickoff_ts": 1772568000
   }
 }
