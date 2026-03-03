@@ -527,6 +527,18 @@
       "tipus": "programada",
       "hora": "20:21",
       "ts": "2026-03-03T20:08:28.917443"
+    },
+    {
+      "text": "25è partit oficial per a Bernal amb el Barça. Supera Santos (1933-1934), Quique (1943-1950), Sagrera (1947-1951), Cos (1972-1976), Quique Estebaranz (1993-1994), Jorquera (2003-2009), Malcom (2018-2019) i Aubameyang (2021-2023). Empata amb Sierra (1942-1945), Goyvaerts (1961-1965), Cubilla (1961-1964), Corominas (1975-1977) i Pellegrino (1998-1999) en el ➡️ 399è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:22",
+      "ts": "2026-03-03T20:08:29.012413"
+    },
+    {
+      "text": "4t partit de Copa per a Bernal amb el Barça. Supera Grau (1908-1911), Solà (1908-1910), Percy Wallace (1909-1911), Apolinario (1912-1913), Bori (1912-1913), Castejón (1912-1913), Costa (1915-1919), Santiago Massana (1915-1916), Garchitorena (1918-1919), Sesumaga (1919-1920), Galicia (1919-1920), Plaza (1919-1920), Cella (1921-1922), Elías (1923-1926), Sabaté Solà (1924-1925), Salas (1933-1934), Aylagas (1939-1940), Virgós (1945-1949), Badenes (1946-1949), Amorós (1946-1947), Periche (1946-1947), Sagrera (1947-1950), Canal (1948-1949), Suco (1959-1961), Marañón (1961-1962), Pais (1961-1962), Corominas (1975-1976), Neeskens (1977-1979), Macizo (1977-1978), Llangostera (1980-1981), Fradera (1985-1987), Pinilla (1990-1991), Quique Estebaranz (1993-1994), Jordi Cruyff (1994-1996), Amunike (1996-1997), Ćirić (1997-1999), Déhu (1999-2000), Mario Rosas (1999-2000), Fernando Navarro (2001-2005), Òscar López (2003-2004), Crosas (2006-2008), Víctor Sánchez (2007-2009), Nolito (2008-2011), Deulofeu (2012-2018), Masip (2014-2017), Gumbau (2014-2016), Chumi (2018-2020), Miranda (2018-2019), Ilaix Moriba (2020-2021), João Cancelo (2023-2026), Fort (2023-2025), João Félix (2023-2024), Gündoğan (2023-2024) i Rashford (2025-2026). Empata amb Arsenio Comamala (1908-1911), Carlos Comamala (1908-1911), Charles Wallace (1908-1911), Rodríguez (1909-1912), Baonza (1915-1919), Bau (1915-1916), Mallorquí (1915-1916), Vidal (1928-1929), Font (1929-1932), Diego (1930-1932), Rafa (1931-1936), Emilín (1939-1940), Riera (1939-1940), Santacatalina (1939-1940), Llácer (1940-1942), Sierra (1942-1943), Basilio (1943-1945), Quique (1944-1945), Navarro (1946-1950), Marcos Aurelio (1948-1949), Areta II (1953-1955), Vicente (1961-1964), Szalay (1961-1962), Rusky (1973-1975), Marinho (1974-1975), Amarillo (1976-1978), Canito (1979-1981), Cristóbal (1987-1988), Unzué (1988-1990), Moreno (1995-1996), Prosinečki (1995-1996), Blanc (1996-1997), Ronaldo (1996-1997), Larsson (2004-2006), Van Bommel (2005-2006), Arnaiz (2017-2018), Neto (2019-2022), Dest (2020-2022), Pablo Torre (2022-2025) i Joan Garcia (2025-2026) en el ➡️ 367è lloc històric del club a la Copa.",
+      "tipus": "programada",
+      "hora": "20:23",
+      "ts": "2026-03-03T20:08:29.012413"
     }
   ],
   "baseline": {
@@ -20139,13 +20151,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:21:30",
+  "ultima_actualitzacio": "20:23:30",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 37m 59s",
+    "compte_enrere": "0d 0h 36m 43s",
     "kickoff_ts": 1772568000
   }
 }
