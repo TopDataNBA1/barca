@@ -515,6 +515,12 @@
       "tipus": "programada",
       "hora": "20:19",
       "ts": "2026-03-03T20:08:28.867474"
+    },
+    {
+      "text": "141è partit oficial per a Lamine Yamal amb el Barça. Empata amb Quini (1980-1984), Overmars (2000-2004) i Alexis Sánchez (2011-2014) en el ➡️ 136è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:20",
+      "ts": "2026-03-03T20:08:28.917443"
     }
   ],
   "baseline": {
@@ -20127,13 +20133,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:19:30",
+  "ultima_actualitzacio": "20:20:30",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 39m 50s",
+    "compte_enrere": "0d 0h 38m 36s",
     "kickoff_ts": 1772568000
   }
 }
