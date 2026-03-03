@@ -467,6 +467,12 @@
       "tipus": "programada",
       "hora": "20:11",
       "ts": "2026-03-03T20:08:28.624542"
+    },
+    {
+      "text": "49è partit oficial per a João Cancelo amb el Barça. Supera Seminario (1964-1967). Empata amb Calo (1944-1950), Mendonça (1966-1969), Ronaldo (1996-1997), Reina (1998-2002), Mendieta (2002-2003) i Paulinho (2017-2018) en el ➡️ 294è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:12",
+      "ts": "2026-03-03T20:08:28.685540"
     }
   ],
   "baseline": {
@@ -20079,13 +20085,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:11:29",
+  "ultima_actualitzacio": "20:12:29",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 48m 27s",
+    "compte_enrere": "0d 0h 47m 13s",
     "kickoff_ts": 1772568000
   }
 }
