@@ -551,6 +551,12 @@
       "tipus": "programada",
       "hora": "20:25",
       "ts": "2026-03-03T20:08:29.129373"
+    },
+    {
+      "text": "13è partit de Copa per a Raphinha amb el Barça. Supera Peris (1908-1916), Martín (1949-1952), Montesinos (1963-1967), Alfonseda (1969-1973), Soler (1988-1993), Kluivert (1998-2004), Víctor Valdés (2000-2014), Song (2012-2014), Balde (2021-2026) i Lewandowski (2022-2026). Empata amb Pesudo (1961-1963), Mendonça (1966-1968), Simonsen (1979-1982), Periko Alonso (1982-1985), Serna (1988-1992), Dani (1999-2003), Ronaldinho (2003-2008), Jorquera (2005-2009), Rafinha (2011-2019), Mathieu (2014-2017), André Gomes (2016-2018), Cubarsí (2023-2026) i Fermín (2023-2026) en el ➡️ 188è lloc històric del club a la Copa.",
+      "tipus": "programada",
+      "hora": "20:26",
+      "ts": "2026-03-03T20:08:29.129373"
     }
   ],
   "baseline": {
@@ -20163,13 +20169,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:25:30",
+  "ultima_actualitzacio": "20:26:30",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 34m 52s",
-    "kickoff_ts": 1772567999
+    "compte_enrere": "0d 0h 33m 39s",
+    "kickoff_ts": 1772568000
   }
 }
