@@ -617,6 +617,12 @@
       "tipus": "programada",
       "hora": "22:32",
       "ts": "2026-03-03T22:31:30.175151"
+    },
+    {
+      "text": "26è partit de Copa per a Olmo amb el Barça. Supera Sastre (1926-1930), Benítez (1961-1967) i Juan Carlos (1969-1975). Empata amb Planas (1921-1927), Zabalo (1929-1936), Calvet (1940-1951), Curta (1942-1949), Foncho (1960-1967), Urruti (1982-1988), Figo (1995-2000), Luis Enrique (1996-2004) i Bojan (2007-2011) en el ➡️ 88è lloc històric del club a la Copa.",
+      "tipus": "programada",
+      "hora": "22:33",
+      "ts": "2026-03-03T22:31:30.234150"
     }
   ],
   "baseline": {
@@ -20229,7 +20235,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:32:30",
+  "ultima_actualitzacio": "22:33:30",
   "match_status": "L",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
