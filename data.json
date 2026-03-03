@@ -563,6 +563,12 @@
       "tipus": "programada",
       "hora": "20:27",
       "ts": "2026-03-03T20:08:29.193042"
+    },
+    {
+      "text": "17è partit de Copa per a Ferran Torres amb el Barça. Supera Surroca (1921-1926), Brugué (1952-1958), Goikoetxea (1990-1994), Hesp (1997-2000), Van Bronckhorst (2003-2007), Tello (2011-2014), Umtiti (2016-2021), Denis Suárez (2016-2019), Dembélé (2017-2023) i Semedo (2017-2020). Empata amb Martínez (1915-1922), Bosch (1924-1928), Alcoriza (1931-1935), Miró (1939-1943), Urbano (1982-1991), Òscar (1992-1999), Guðjohnsen (2006-2009) i Lenglet (2018-2022) en el ➡️ 148è lloc històric del club a la Copa.",
+      "tipus": "programada",
+      "hora": "20:28",
+      "ts": "2026-03-03T20:08:29.193042"
     }
   ],
   "baseline": {
@@ -20175,13 +20181,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:27:31",
+  "ultima_actualitzacio": "20:28:31",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 32m 24s",
+    "compte_enrere": "0d 0h 31m 47s",
     "kickoff_ts": 1772567999
   }
 }
