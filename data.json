@@ -20266,12 +20266,12 @@
     }
   },
   "ultima_actualitzacio": "23:04:30",
-  "match_status": "C",
-  "match_comp": "Copa",
-  "match_rival": "Atletico Madrid",
+  "match_status": "U",
+  "match_comp": "Lliga",
+  "match_rival": "?",
   "proper_partit": {
-    "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1772568237
+    "descripcio": "Lliga · Barça - ?",
+    "compte_enrere": "3d 20h 33m 7s",
+    "kickoff_ts": 1772913600
   }
 }
