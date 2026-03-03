@@ -539,6 +539,12 @@
       "tipus": "programada",
       "hora": "20:23",
       "ts": "2026-03-03T20:08:29.012413"
+    },
+    {
+      "text": "19è partit de Copa per a Pedri amb el Barça. Supera Parera (1925-1933), Balmanya (1935-1944), Bravo (1940-1946), Gonzalvo II (1944-1950), Rodri (1958-1963), Quini (1980-1984), Calderé (1984-1988), Cocu (1998-2004), Frank de Boer (1998-2003), Sylvinho (2005-2009), Keita (2008-2012), Araújo (2020-2026) i Koundé (2022-2026). Empata amb Franco (1934-1942), Valle (1941-1949), Zuviría (1977-1981), Koeman (1989-1995), Laudrup (1989-1994) i Thiago Alcántara (2009-2013) en el ➡️ 129è lloc històric del club a la Copa.",
+      "tipus": "programada",
+      "hora": "20:24",
+      "ts": "2026-03-03T20:08:29.074392"
     }
   ],
   "baseline": {
@@ -20151,13 +20157,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:23:30",
+  "ultima_actualitzacio": "20:24:30",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 36m 43s",
-    "kickoff_ts": 1772568000
+    "compte_enrere": "0d 0h 35m 29s",
+    "kickoff_ts": 1772567999
   }
 }
