@@ -461,6 +461,12 @@
       "tipus": "programada",
       "hora": "20:10",
       "ts": "2026-03-03T20:08:28.624542"
+    },
+    {
+      "text": "10è partit de Copa per a Gerard Martín amb el Barça. Supera Forns (1908-1913), Reguera (1915-1919), Gràcia (1921-1924), Enrique Fernández (1934-1936), Gracia (1939-1942), Zabala (1941-1942), Elias (1943-1948), Aldecoa (1950-1952), Vila (1951-1953), Garay (1960-1965), Heredia (1974-1979), Maradona (1982-1984), Pedraza (1985-1988), Aloísio (1988-1990), Celades (1995-1998), Overmars (2000-2004), Alfonso (2000-2002), Deco (2005-2008), Ezquerro (2005-2008), Henry (2007-2010), Jonathan dos Santos (2009-2013), Arda Turan (2015-2017) i Griezmann (2019-2021). Empata amb Nicolau (1948-1951), Ribelles (1958-1961), Camps (1962-1963), Carreño (1973-1978), Fortes (1975-1978), Paco Martínez (1978-1982), Estella (1979-1982), López Rekarte (1988-1991), Milla (1988-1990), De la Peña (1995-2001), Popescu (1995-1997), Giovanni (1996-1999), Ronald de Boer (1998-2000), Eto'o (2004-2009), Edmílson (2005-2008), Yaya Touré (2007-2010), Munir (2014-2019), Vidal (2018-2020), Arthur (2018-2020), Ansu Fati (2019-2025), Gavi (2021-2025) i Lamine Yamal (2023-2026) en el ➡️ 230è lloc històric del club a la Copa.",
+      "tipus": "programada",
+      "hora": "20:11",
+      "ts": "2026-03-03T20:08:28.624542"
     }
   ],
   "baseline": {
@@ -20073,13 +20079,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:10:29",
+  "ultima_actualitzacio": "20:11:29",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 49m 4s",
+    "compte_enrere": "0d 0h 48m 27s",
     "kickoff_ts": 1772568000
   }
 }
