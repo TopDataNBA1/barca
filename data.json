@@ -545,6 +545,12 @@
       "tipus": "programada",
       "hora": "20:24",
       "ts": "2026-03-03T20:08:29.074392"
+    },
+    {
+      "text": "170è partit oficial per a Raphinha amb el Barça. Empata amb Moratalla (1981-1988) en el ➡️ 110è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:25",
+      "ts": "2026-03-03T20:08:29.129373"
     }
   ],
   "baseline": {
@@ -20157,13 +20163,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:24:30",
+  "ultima_actualitzacio": "20:25:30",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 35m 29s",
+    "compte_enrere": "0d 0h 34m 52s",
     "kickoff_ts": 1772567999
   }
 }
