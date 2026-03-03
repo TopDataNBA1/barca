@@ -258,11 +258,15 @@
             ms.textContent = '🔴 PARTIT EN JOC: ' + (comp ? comp + ' · ' : '') + 'BARÇA - ' + rival;
             ms.style.color = '#ff4444';
         } else if (_countdownTarget) {
-            const segsRestants = Math.max(0, Math.floor((_countdownTarget - Date.now()) / 1000));
+            const segsRestants = Math.floor((_countdownTarget - Date.now()) / 1000);
             const propPartit = _matchData.proper_partit;
             const desc = propPartit ? propPartit.descripcio : '';
-            ms.innerHTML = '⏳ ' + desc + ' · ' + formatCountdown(segsRestants);
-            ms.style.color = 'var(--gold)';
+            if (segsRestants > 0) {
+                ms.innerHTML = '⏳ ' + desc + ' · ' + formatCountdown(segsRestants);
+                ms.style.color = 'var(--gold)';
+            } else {
+                ms.textContent = '';
+            }
         } else if (_matchData.proper_partit && _matchData.proper_partit.descripcio) {
             ms.innerHTML = '📅 ' + _matchData.proper_partit.descripcio;
             ms.style.color = 'var(--gold)';
