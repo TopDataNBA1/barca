@@ -503,6 +503,12 @@
       "tipus": "programada",
       "hora": "20:17",
       "ts": "2026-03-03T20:08:28.800482"
+    },
+    {
+      "text": "122è partit oficial per a Fermín amb el Barça. Supera Rosalén (1939-1946) i Henry (2007-2010) i ara ocupa el ➡️ 154è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:18",
+      "ts": "2026-03-03T20:08:28.867474"
     }
   ],
   "baseline": {
@@ -20115,13 +20121,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:17:30",
+  "ultima_actualitzacio": "20:18:30",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 42m 18s",
+    "compte_enrere": "0d 0h 41m 4s",
     "kickoff_ts": 1772568000
   }
 }
