@@ -455,6 +455,12 @@
       "tipus": "programada",
       "hora": "20:09",
       "ts": "2026-03-03T20:08:28.534572"
+    },
+    {
+      "text": "78è partit oficial per a Gerard Martín amb el Barça. Empata amb Archibald (1984-1987) i André Gomes (2016-2018) en el ➡️ 222è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:10",
+      "ts": "2026-03-03T20:08:28.624542"
     }
   ],
   "baseline": {
@@ -20067,13 +20073,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:09:29",
+  "ultima_actualitzacio": "20:10:29",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 50m 17s",
-    "kickoff_ts": 1772567999
+    "compte_enrere": "0d 0h 49m 4s",
+    "kickoff_ts": 1772568000
   }
 }
