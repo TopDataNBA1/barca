@@ -473,6 +473,12 @@
       "tipus": "programada",
       "hora": "20:12",
       "ts": "2026-03-03T20:08:28.685540"
+    },
+    {
+      "text": "3r partit de Copa per a João Cancelo amb el Barça. Supera Pakán (1911-1912), Estévez (1911-1912), Morales (1911-1912), Oller (1912-1913), Aramburu (1915-1916), Just (1925-1926), Musterós (1925-1926), Padrón (1933-1934), Trujillo (1933-1934), Bayo (1935-1936), Gual (1935-1936), Iborra (1935-1936), León (1939-1940), Anguera (1940-1941), Ceballos (1940-1941), Vergara (1940-1941), Gamonal (1945-1946), Aretio (1949-1950), Escudero (1949-1950), Peiró (1950-1951), Estrems (1958-1959), Coll (1959-1961), Loayza (1959-1960), Pinto (1959-1960), Celdrán (1961-1962), Cubilla (1962-1963), Seminario (1964-1965), Franch (1968-1969), Castro (1969-1970), Paredes (1970-1971), Sotil (1975-1976), Botella (1976-1977), Juanjo (1977-1978), Krankl (1978-1979), Julián Rubio (1979-1980), Hughes (1986-1987), Sergi (1989-1991), Carreras (1992-1996), Pablo Alfaro (1992-1993), Vučević (1992-1993), Romário (1993-1994), Lopetegui (1994-1997), Eskurza (1994-1995), Cuéllar (1995-1997), Arnau (1998-2001), Pellegrino (1998-1999), Litmanen (1999-2000), Andersson (2001-2004), Geovanni (2001-2003), Rochemback (2001-2003), Davids (2003-2004), Quaresma (2003-2004), Sergio García (2003-2004), Maxi López (2005-2006), Rodri (2005-2006), Marc Valiente (2006-2008), Chygrynskiy (2009-2010), Ibrahimović (2009-2010), Adama (2014-2015), Cantalapiedra (2015-2016), Kaptoum (2015-2016), Oriol Busquets (2017-2019), Murillo (2018-2019), Nico (2021-2022), Jutglà (2021-2022), Bellerín (2022-2023), Pau Víctor (2023-2025), Guiu (2023-2024), Romeu (2023-2024) i Vitor Roque (2023-2024). Empata amb Grau (1908-1911), Solà (1908-1910), Percy Wallace (1909-1911), Apolinario (1912-1913), Bori (1912-1913), Castejón (1912-1913), Costa (1915-1919), Santiago Massana (1915-1916), Garchitorena (1918-1919), Sesumaga (1919-1920), Galicia (1919-1920), Plaza (1919-1920), Cella (1921-1922), Elías (1923-1926), Sabaté Solà (1924-1925), Salas (1933-1934), Aylagas (1939-1940), Virgós (1945-1949), Badenes (1946-1949), Amorós (1946-1947), Periche (1946-1947), Sagrera (1947-1950), Canal (1948-1949), Suco (1959-1961), Marañón (1961-1962), Pais (1961-1962), Corominas (1975-1976), Neeskens (1977-1979), Macizo (1977-1978), Llangostera (1980-1981), Fradera (1985-1987), Pinilla (1990-1991), Quique Estebaranz (1993-1994), Jordi Cruyff (1994-1996), Amunike (1996-1997), Ćirić (1997-1999), Déhu (1999-2000), Mario Rosas (1999-2000), Fernando Navarro (2001-2005), Òscar López (2003-2004), Crosas (2006-2008), Víctor Sánchez (2007-2009), Nolito (2008-2011), Deulofeu (2012-2018), Masip (2014-2017), Gumbau (2014-2016), Chumi (2018-2020), Miranda (2018-2019), Ilaix Moriba (2020-2021), Fort (2023-2025), João Félix (2023-2024), Gündoğan (2023-2024), Bernal (2025-2026) i Rashford (2025-2026) en el ➡️ 406è lloc històric del club a la Copa.",
+      "tipus": "programada",
+      "hora": "20:13",
+      "ts": "2026-03-03T20:08:28.685540"
     }
   ],
   "baseline": {
@@ -20085,13 +20091,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:12:29",
+  "ultima_actualitzacio": "20:13:29",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 47m 13s",
+    "compte_enrere": "0d 0h 45m 59s",
     "kickoff_ts": 1772568000
   }
 }
