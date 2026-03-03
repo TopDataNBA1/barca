@@ -557,6 +557,12 @@
       "tipus": "programada",
       "hora": "20:26",
       "ts": "2026-03-03T20:08:29.129373"
+    },
+    {
+      "text": "194è partit oficial per a Ferran Torres amb el Barça. Supera Abidal (2007-2013). Empata amb Tejada (1953-1961), Zabalza (1967-1973) i Gabri (1999-2006) en el ➡️ 84è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:27",
+      "ts": "2026-03-03T20:08:29.193042"
     }
   ],
   "baseline": {
@@ -20169,13 +20175,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:26:30",
+  "ultima_actualitzacio": "20:27:31",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 33m 39s",
-    "kickoff_ts": 1772568000
+    "compte_enrere": "0d 0h 32m 24s",
+    "kickoff_ts": 1772567999
   }
 }
