@@ -605,6 +605,12 @@
       "tipus": "prioritaria",
       "hora": "21:53",
       "ts": "2026-03-03T21:53:49.071926"
+    },
+    {
+      "text": "36è partit oficial per a Rashford amb el Barça. Supera Macizo (1974-1979), Fernando Navarro (2000-2005) i Afellay (2010-2014). Empata amb Torralba (1915-1928), Sancho (1918-1928), León (1939-1941), Szegedi (1950-1952), Vila (1951-1954) i Hleb (2008-2009) en el ➡️ 337è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:31",
+      "ts": "2026-03-03T22:31:30.175151"
     }
   ],
   "baseline": {
@@ -975,7 +981,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 259,
+        "pj": 260,
         "g": 5,
         "inici": "1976",
         "final": "1984"
@@ -3019,7 +3025,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 35,
+        "pj": 36,
         "g": 10,
         "inici": "2025",
         "final": "2026"
@@ -16206,7 +16212,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 25,
+        "pj": 26,
         "g": 0,
         "inici": "1976",
         "final": "1983"
@@ -18726,7 +18732,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 3,
+        "pj": 4,
         "g": 1,
         "inici": "2025",
         "final": "2026"
@@ -20217,7 +20223,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:53:53",
+  "ultima_actualitzacio": "22:31:30",
   "match_status": "L",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
