@@ -479,6 +479,12 @@
       "tipus": "programada",
       "hora": "20:13",
       "ts": "2026-03-03T20:08:28.685540"
+    },
+    {
+      "text": "181è partit oficial per a Koundé amb el Barça. Supera Cruyff (1973-1978) i ara ocupa el ➡️ 97è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:14",
+      "ts": "2026-03-03T20:08:28.743501"
     }
   ],
   "baseline": {
@@ -20091,13 +20097,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:13:29",
+  "ultima_actualitzacio": "20:14:29",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 45m 59s",
+    "compte_enrere": "0d 0h 45m 22s",
     "kickoff_ts": 1772568000
   }
 }
