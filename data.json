@@ -521,6 +521,12 @@
       "tipus": "programada",
       "hora": "20:20",
       "ts": "2026-03-03T20:08:28.917443"
+    },
+    {
+      "text": "11è partit de Copa per a Lamine Yamal amb el Barça. Supera Nicolau (1948-1951), Ribelles (1958-1961), Camps (1962-1963), Carreño (1973-1978), Fortes (1975-1978), Paco Martínez (1978-1982), Estella (1979-1982), López Rekarte (1988-1991), Milla (1988-1990), De la Peña (1995-2001), Popescu (1995-1997), Giovanni (1996-1999), Ronald de Boer (1998-2000), Eto'o (2004-2009), Edmílson (2005-2008), Yaya Touré (2007-2010), Munir (2014-2019), Vidal (2018-2020), Arthur (2018-2020), Ansu Fati (2019-2025), Gavi (2021-2025) i Gerard Martín (2024-2026). Empata amb Uriach (1928-1930), Dueñas (1970-1972), Tomé (1973-1976), Landaburu (1979-1982), Rojo (1983-1985), Archibald (1984-1986), Lineker (1986-1989), Roger (1995-1999), Pizzi (1996-1998), Gerard (2000-2004), Giuly (2004-2007), Zambrotta (2006-2008), Milito (2007-2011), Maxwell (2009-2012), Villa (2010-2013), Aleñá (2015-2019), Vermaelen (2015-2019) i Coutinho (2017-2019) en el ➡️ 212è lloc històric del club a la Copa.",
+      "tipus": "programada",
+      "hora": "20:21",
+      "ts": "2026-03-03T20:08:28.917443"
     }
   ],
   "baseline": {
@@ -20133,13 +20139,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:20:30",
+  "ultima_actualitzacio": "20:21:30",
   "match_status": "U",
   "match_comp": "Copa",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Copa · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 38m 36s",
+    "compte_enrere": "0d 0h 37m 59s",
     "kickoff_ts": 1772568000
   }
 }
