@@ -749,6 +749,12 @@
       "tipus": "programada",
       "hora": "20:11",
       "ts": "2026-03-07T19:56:31.574449"
+    },
+    {
+      "text": "132è partit de Lliga per a Ferran Torres amb el Barça. Supera Gensana (1956-1966) i ara ocupa el ➡️ 93è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:12",
+      "ts": "2026-03-07T19:56:31.574449"
     }
   ],
   "baseline": {
@@ -20361,13 +20367,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:11:36",
+  "ultima_actualitzacio": "20:12:36",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 48m 9s",
+    "compte_enrere": "0d 0h 47m 32s",
     "kickoff_ts": 1772913600
   }
 }
