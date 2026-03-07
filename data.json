@@ -677,6 +677,12 @@
       "tipus": "programada",
       "hora": "19:59",
       "ts": "2026-03-07T19:56:31.109593"
+    },
+    {
+      "text": "79è partit oficial per a Gerard Martín amb el Barça. Supera Archibald (1984-1987) i André Gomes (2016-2018). Empata amb Milla (1984-1990) en el ➡️ 221è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-03-07T19:56:31.176573"
     }
   ],
   "baseline": {
@@ -20289,13 +20295,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:59:35",
+  "ultima_actualitzacio": "20:00:35",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 1h 0m 24s",
-    "kickoff_ts": 1772913599
+    "compte_enrere": "0d 0h 59m 11s",
+    "kickoff_ts": 1772913600
   }
 }
