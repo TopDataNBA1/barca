@@ -653,6 +653,12 @@
       "tipus": "prioritaria",
       "hora": "23:04",
       "ts": "2026-03-03T23:04:29.846647"
+    },
+    {
+      "text": "32è partit oficial per a Joan Garcia amb el Barça. Supera García (1925-1930), Canal (1946-1952), Carreño (1973-1978), Fradera (1985-1988) i Andersson (2001-2004). Empata amb Morera (1933-1935), Coll (1956-1961), Camps (1961-1965), Arnau (1996-2001), Litmanen (1999-2001), Sandro (2014-2016) i Cillessen (2016-2019) en el ➡️ 355è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:56",
+      "ts": "2026-03-07T19:56:31.050613"
     }
   ],
   "baseline": {
@@ -1023,7 +1029,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 260,
+        "pj": 261,
         "g": 5,
         "inici": "1976",
         "final": "1984"
@@ -1268,7 +1274,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 194,
+        "pj": 195,
         "g": 60,
         "inici": "2021",
         "final": "2026"
@@ -1520,7 +1526,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 155,
+        "pj": 156,
         "g": 7,
         "inici": "2021",
         "final": "2026"
@@ -1625,7 +1631,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 141,
+        "pj": 142,
         "g": 43,
         "inici": "2022",
         "final": "2026"
@@ -1807,7 +1813,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 115,
+        "pj": 116,
         "g": 2,
         "inici": "2023",
         "final": "2026"
@@ -2220,7 +2226,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 78,
+        "pj": 79,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -2409,7 +2415,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 66,
+        "pj": 67,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -2752,7 +2758,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 49,
+        "pj": 50,
         "g": 4,
         "inici": "2023",
         "final": "2026"
@@ -3067,7 +3073,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 36,
+        "pj": 37,
         "g": 10,
         "inici": "2025",
         "final": "2026"
@@ -3242,7 +3248,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 31,
+        "pj": 32,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -3501,7 +3507,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 25,
+        "pj": 26,
         "g": 4,
         "inici": "2024",
         "final": "2026"
@@ -7486,7 +7492,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 188,
+        "pj": 189,
         "g": 4,
         "inici": "1976",
         "final": "1984"
@@ -7773,7 +7779,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 131,
+        "pj": 132,
         "g": 37,
         "inici": "2021",
         "final": "2026"
@@ -7997,7 +8003,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 107,
+        "pj": 108,
         "g": 4,
         "inici": "2021",
         "final": "2026"
@@ -8095,7 +8101,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 95,
+        "pj": 96,
         "g": 27,
         "inici": "2022",
         "final": "2026"
@@ -8312,7 +8318,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 75,
+        "pj": 76,
         "g": 1,
         "inici": "2023",
         "final": "2026"
@@ -8753,7 +8759,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 49,
+        "pj": 50,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -8970,7 +8976,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 41,
+        "pj": 42,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -9089,7 +9095,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 36,
+        "pj": 37,
         "g": 2,
         "inici": "2023",
         "final": "2026"
@@ -9607,7 +9613,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 22,
+        "pj": 23,
         "g": 4,
         "inici": "2025",
         "final": "2026"
@@ -9733,7 +9739,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 20,
+        "pj": 21,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -10020,7 +10026,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 16,
+        "pj": 17,
         "g": 2,
         "inici": "2024",
         "final": "2026"
@@ -20265,13 +20271,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:04:30",
+  "ultima_actualitzacio": "19:56:35",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 1h 4m 6s",
+    "compte_enrere": "0d 1h 3m 29s",
     "kickoff_ts": 1772913600
   }
 }
