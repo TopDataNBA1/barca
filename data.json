@@ -695,6 +695,12 @@
       "tipus": "programada",
       "hora": "20:02",
       "ts": "2026-03-07T19:56:31.242551"
+    },
+    {
+      "text": "37è partit de Lliga per a João Cancelo amb el Barça. Supera Seminario (1964-1967), Morán (1981-1984), Maradona (1982-1984), Hagi (1994-1996), Arda Turan (2015-2018) i Gündoğan (2023-2024). Empata amb Ribelles (1957-1961), Ronaldo (1996-1997) i Alcácer (2016-2018) en el ➡️ 273è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:03",
+      "ts": "2026-03-07T19:56:31.242551"
     }
   ],
   "baseline": {
@@ -20307,13 +20313,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:02:35",
+  "ultima_actualitzacio": "20:03:35",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 56m 43s",
-    "kickoff_ts": 1772913599
+    "compte_enrere": "0d 0h 56m 7s",
+    "kickoff_ts": 1772913600
   }
 }
