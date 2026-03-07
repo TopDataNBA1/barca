@@ -731,6 +731,24 @@
       "tipus": "programada",
       "hora": "20:08",
       "ts": "2026-03-07T19:56:31.437472"
+    },
+    {
+      "text": "67è partit oficial per a Casadó amb el Barça. Supera Mingueza (2019-2022). Empata amb Montoya (2010-2015) en el ➡️ 249è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:09",
+      "ts": "2026-03-07T19:56:31.508449"
+    },
+    {
+      "text": "42è partit de Lliga per a Casadó amb el Barça. Supera Jordi Cruyff (1994-1996), Bogarde (1997-2000) i Thuram (2006-2008). Empata amb Riqui Puig (2018-2022) en el ➡️ 261è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:10",
+      "ts": "2026-03-07T19:56:31.508449"
+    },
+    {
+      "text": "195è partit oficial per a Ferran Torres amb el Barça. Supera Tejada (1953-1961), Zabalza (1967-1973) i Gabri (1999-2006) i ara ocupa el ➡️ 84è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:11",
+      "ts": "2026-03-07T19:56:31.574449"
     }
   ],
   "baseline": {
@@ -20343,13 +20361,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:08:36",
+  "ultima_actualitzacio": "20:11:36",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 50m 36s",
+    "compte_enrere": "0d 0h 48m 9s",
     "kickoff_ts": 1772913600
   }
 }
