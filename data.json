@@ -785,6 +785,12 @@
       "tipus": "programada",
       "hora": "22:22",
       "ts": "2026-03-07T22:22:54.378222"
+    },
+    {
+      "text": "125è partit de Lliga per a Lewandowski amb el Barça. Supera Marcos Alonso (1982-1987). Empata amb Abidal (2007-2013) en el ➡️ 99è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:23",
+      "ts": "2026-03-07T22:22:54.378222"
     }
   ],
   "baseline": {
@@ -1561,7 +1567,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 170,
+        "pj": 171,
         "g": 68,
         "inici": "2022",
         "final": "2026"
@@ -1869,7 +1875,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 122,
+        "pj": 123,
         "g": 30,
         "inici": "2023",
         "final": "2026"
@@ -8045,7 +8051,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 117,
+        "pj": 118,
         "g": 39,
         "inici": "2022",
         "final": "2026"
@@ -8395,7 +8401,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 79,
+        "pj": 80,
         "g": 19,
         "inici": "2023",
         "final": "2026"
@@ -20397,7 +20403,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:22:58",
+  "ultima_actualitzacio": "22:23:58",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
