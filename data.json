@@ -779,6 +779,12 @@
       "tipus": "programada",
       "hora": "20:16",
       "ts": "2026-03-07T19:56:31.702407"
+    },
+    {
+      "text": "180è partit oficial per a Lewandowski amb el Barça. Supera Urbano (1982-1992). Empata amb Cruyff (1973-1978) en el ➡️ 98è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:22",
+      "ts": "2026-03-07T22:22:54.378222"
     }
   ],
   "baseline": {
@@ -1471,7 +1477,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 179,
+        "pj": 180,
         "g": 115,
         "inici": "2022",
         "final": "2026"
@@ -7948,7 +7954,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 124,
+        "pj": 125,
         "g": 80,
         "inici": "2022",
         "final": "2026"
@@ -20391,7 +20397,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:16:37",
+  "ultima_actualitzacio": "22:22:58",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
