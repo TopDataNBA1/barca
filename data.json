@@ -767,6 +767,12 @@
       "tipus": "programada",
       "hora": "20:14",
       "ts": "2026-03-07T19:56:31.641425"
+    },
+    {
+      "text": "37è partit oficial per a Rashford amb el Barça. Supera Torralba (1915-1928), Sancho (1918-1928), León (1939-1941), Szegedi (1950-1952), Vila (1951-1954) i Hleb (2008-2009). Empata amb Hughes (1986-1987) i Nico (2021-2022) en el ➡️ 335è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:15",
+      "ts": "2026-03-07T19:56:31.702407"
     }
   ],
   "baseline": {
@@ -20379,13 +20385,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:14:36",
+  "ultima_actualitzacio": "20:15:36",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 45m 5s",
+    "compte_enrere": "0d 0h 44m 28s",
     "kickoff_ts": 1772913600
   }
 }
