@@ -665,6 +665,12 @@
       "tipus": "programada",
       "hora": "19:57",
       "ts": "2026-03-07T19:56:31.050613"
+    },
+    {
+      "text": "156è partit oficial per a Eric Garcia amb el Barça. Supera Gavi (2021-2026). Empata amb Manolo (1978-1988) en el ➡️ 123è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:58",
+      "ts": "2026-03-07T19:56:31.109593"
     }
   ],
   "baseline": {
@@ -20277,13 +20283,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:57:35",
+  "ultima_actualitzacio": "19:58:35",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 1h 2m 15s",
+    "compte_enrere": "0d 1h 1m 1s",
     "kickoff_ts": 1772913600
   }
 }
