@@ -683,6 +683,12 @@
       "tipus": "programada",
       "hora": "20:00",
       "ts": "2026-03-07T19:56:31.176573"
+    },
+    {
+      "text": "50è partit de Lliga per a Gerard Martín amb el Barça. Supera Miró (1939-1943) i Iván Iglesias (1993-1996). Empata amb Arnau (1928-1934), Castillo (1928-1932), Pérez (1971-1975) i Dani (1999-2004) en el ➡️ 228è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-03-07T19:56:31.176573"
     }
   ],
   "baseline": {
@@ -20295,13 +20301,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:00:35",
+  "ultima_actualitzacio": "20:01:35",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 59m 11s",
-    "kickoff_ts": 1772913600
+    "compte_enrere": "0d 0h 57m 57s",
+    "kickoff_ts": 1772913599
   }
 }
