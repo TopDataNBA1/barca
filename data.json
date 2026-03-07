@@ -671,6 +671,12 @@
       "tipus": "programada",
       "hora": "19:58",
       "ts": "2026-03-07T19:56:31.109593"
+    },
+    {
+      "text": "108è partit de Lliga per a Eric Garcia amb el Barça. Supera Zaballa (1961-1967) i ara ocupa el ➡️ 125è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:59",
+      "ts": "2026-03-07T19:56:31.109593"
     }
   ],
   "baseline": {
@@ -20283,13 +20289,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:58:35",
+  "ultima_actualitzacio": "19:59:35",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 1h 1m 1s",
-    "kickoff_ts": 1772913600
+    "compte_enrere": "0d 1h 0m 24s",
+    "kickoff_ts": 1772913599
   }
 }
