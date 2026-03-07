@@ -797,6 +797,12 @@
       "tipus": "programada",
       "hora": "22:24",
       "ts": "2026-03-07T22:24:08.249474"
+    },
+    {
+      "text": "123è partit oficial per a Fermín amb el Barça. Empata amb Ansu Fati (2019-2025) en el ➡️ 153è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:25",
+      "ts": "2026-03-07T22:24:08.309455"
     }
   ],
   "baseline": {
@@ -20409,7 +20415,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:24:58",
+  "ultima_actualitzacio": "22:25:58",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
