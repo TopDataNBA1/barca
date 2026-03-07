@@ -659,6 +659,12 @@
       "tipus": "programada",
       "hora": "19:56",
       "ts": "2026-03-07T19:56:31.050613"
+    },
+    {
+      "text": "21è partit de Lliga per a Joan Garcia amb el Barça. Supera Mas (1928-1932), Quique (1943-1950), Marinho (1974-1976) i Cuéllar (1995-1997). Empata amb Font (1932-1934), Sierra (1942-1945), Sagrera (1947-1951), Areta II (1953-1956), Pellicer (1967-1970), Serrat (1979-1980), Litmanen (1999-2001), Fernando Navarro (2000-2005), Alfonso (2000-2002), Afellay (2010-2014), De Jong (2021-2022), Pau Víctor (2023-2025) i Szczęsny (2024-2026) en el ➡️ 357è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:57",
+      "ts": "2026-03-07T19:56:31.050613"
     }
   ],
   "baseline": {
@@ -20271,13 +20277,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:56:35",
+  "ultima_actualitzacio": "19:57:35",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 1h 3m 29s",
+    "compte_enrere": "0d 1h 2m 15s",
     "kickoff_ts": 1772913600
   }
 }
