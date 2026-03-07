@@ -773,6 +773,12 @@
       "tipus": "programada",
       "hora": "20:15",
       "ts": "2026-03-07T19:56:31.702407"
+    },
+    {
+      "text": "23è partit de Lliga per a Rashford amb el Barça. Supera Areso (1935-1936), Salva (1984-1989), Valverde (1988-1990), Quaresma (2003-2004) i Jeffrén (2006-2011). Empata amb Aldecoa (1950-1954), Sampedro (1955-1959), Pellegrino (1998-1999), Petit (2000-2001) i Coco (2001-2002) en el ➡️ 346è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:16",
+      "ts": "2026-03-07T19:56:31.702407"
     }
   ],
   "baseline": {
@@ -20385,13 +20391,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:15:36",
+  "ultima_actualitzacio": "20:16:37",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 44m 28s",
-    "kickoff_ts": 1772913600
+    "compte_enrere": "0d 0h 43m 14s",
+    "kickoff_ts": 1772913599
   }
 }
