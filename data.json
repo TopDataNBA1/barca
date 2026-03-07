@@ -707,6 +707,12 @@
       "tipus": "programada",
       "hora": "20:04",
       "ts": "2026-03-07T19:56:31.308530"
+    },
+    {
+      "text": "76è partit de Lliga per a Cubarsí amb el Barça. Supera Kocsis (1958-1966). Empata amb Sans (1943-1950) i Coutinho (2017-2022) en el ➡️ 168è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:05",
+      "ts": "2026-03-07T19:56:31.308530"
     }
   ],
   "baseline": {
@@ -20319,13 +20325,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:04:36",
+  "ultima_actualitzacio": "20:05:36",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 54m 53s",
-    "kickoff_ts": 1772913599
+    "compte_enrere": "0d 0h 53m 40s",
+    "kickoff_ts": 1772913600
   }
 }
