@@ -719,6 +719,12 @@
       "tipus": "programada",
       "hora": "20:06",
       "ts": "2026-03-07T19:56:31.374509"
+    },
+    {
+      "text": "26è partit oficial per a Bernal amb el Barça. Supera Sierra (1942-1945), Goyvaerts (1961-1965), Cubilla (1961-1964), Corominas (1975-1977) i Pellegrino (1998-1999). Empata amb Planas (1921-1927), Bosch (1924-1929), Font (1932-1934), Enrique Fernández (1934-1936), Gamonal (1945-1946), Amador (1980-1986), Prosinečki (1995-1997) i Amunike (1996-2000) en el ➡️ 391è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-03-07T19:56:31.437472"
     }
   ],
   "baseline": {
@@ -20331,13 +20337,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:06:36",
+  "ultima_actualitzacio": "20:07:36",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 53m 3s",
+    "compte_enrere": "0d 0h 51m 49s",
     "kickoff_ts": 1772913599
   }
 }
