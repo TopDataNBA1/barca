@@ -713,6 +713,12 @@
       "tipus": "programada",
       "hora": "20:05",
       "ts": "2026-03-07T19:56:31.308530"
+    },
+    {
+      "text": "189è partit de Lliga per a Olmo amb el Barça. Empata amb Vergés (1956-1966) en el ➡️ 52è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:06",
+      "ts": "2026-03-07T19:56:31.374509"
     }
   ],
   "baseline": {
@@ -20325,13 +20331,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:05:36",
+  "ultima_actualitzacio": "20:06:36",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 53m 40s",
-    "kickoff_ts": 1772913600
+    "compte_enrere": "0d 0h 53m 3s",
+    "kickoff_ts": 1772913599
   }
 }
