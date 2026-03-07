@@ -761,6 +761,12 @@
       "tipus": "programada",
       "hora": "20:13",
       "ts": "2026-03-07T19:56:31.641425"
+    },
+    {
+      "text": "96è partit de Lliga per a Lamine Yamal amb el Barça. Supera Hesp (1997-2000). Empata amb Motta (2001-2007) i Fàbregas (2011-2014) en el ➡️ 137è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:14",
+      "ts": "2026-03-07T19:56:31.641425"
     }
   ],
   "baseline": {
@@ -20373,13 +20379,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:13:36",
+  "ultima_actualitzacio": "20:14:36",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 46m 18s",
-    "kickoff_ts": 1772913599
+    "compte_enrere": "0d 0h 45m 5s",
+    "kickoff_ts": 1772913600
   }
 }
