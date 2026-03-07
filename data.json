@@ -809,6 +809,18 @@
       "tipus": "programada",
       "hora": "22:26",
       "ts": "2026-03-07T22:24:08.309455"
+    },
+    {
+      "text": "⚽ 44è gol de Lamine Yamal amb el Barça. Empata amb Neeskens (1974-1979) en el ➡️ 60è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:29",
+      "ts": "2026-03-07T22:29:03.900962"
+    },
+    {
+      "text": "⚽ 28è gol de Lamine Yamal a la Lliga amb el Barça. Supera Alexanco (1980-1993). Empata amb Zaballa (1961-1967), Marcos Alonso (1982-1987) i Fàbregas (2011-2014) en el ➡️ 66è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:29",
+      "ts": "2026-03-07T22:29:03.900962"
     }
   ],
   "baseline": {
@@ -1782,7 +1794,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 142,
-        "g": 43,
+        "g": 44,
         "inici": "2022",
         "final": "2026"
       },
@@ -8252,7 +8264,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 96,
-        "g": 27,
+        "g": 28,
         "inici": "2022",
         "final": "2026"
       },
@@ -20421,7 +20433,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:26:58",
+  "ultima_actualitzacio": "22:29:10",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
