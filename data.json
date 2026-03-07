@@ -821,6 +821,12 @@
       "tipus": "prioritaria",
       "hora": "22:29",
       "ts": "2026-03-07T22:29:03.900962"
+    },
+    {
+      "text": "135è partit de Lliga per a Araújo amb el Barça. Supera Pereda (1961-1969) i ara ocupa el ➡️ 91è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:40",
+      "ts": "2026-03-07T22:40:07.961986"
     }
   ],
   "baseline": {
@@ -1380,7 +1386,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 200,
+        "pj": 201,
         "g": 13,
         "inici": "2019",
         "final": "2026"
@@ -7927,7 +7933,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 134,
+        "pj": 135,
         "g": 10,
         "inici": "2019",
         "final": "2026"
@@ -20433,7 +20439,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:29:10",
+  "ultima_actualitzacio": "22:40:12",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
