@@ -857,6 +857,18 @@
       "tipus": "programada",
       "hora": "20:55",
       "ts": "2026-03-10T20:52:50.878498"
+    },
+    {
+      "text": "51è partit oficial per a João Cancelo amb el Barça. Supera Alcácer (2016-2018). Empata amb Hagi (1994-1996), Aleix Vidal (2015-2018) i Gündoğan (2023-2024) en el ➡️ 290è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:56",
+      "ts": "2026-03-10T20:52:50.944478"
+    },
+    {
+      "text": "38è partit de Lliga per a João Cancelo amb el Barça. Supera Ribelles (1957-1961), Ronaldo (1996-1997) i Alcácer (2016-2018). Empata amb Czibor (1958-1961) en el ➡️ 272è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:57",
+      "ts": "2026-03-10T20:52:50.944478"
     }
   ],
   "baseline": {
@@ -20469,13 +20481,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:55:51",
+  "ultima_actualitzacio": "20:57:51",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Newcastle United",
-    "compte_enrere": "0d 0h 3m 28s",
-    "kickoff_ts": 1773172800
+    "compte_enrere": "0d 0h 2m 14s",
+    "kickoff_ts": 1773172799
   }
 }
