@@ -953,6 +953,12 @@
       "tipus": "programada",
       "hora": "22:27",
       "ts": "2026-03-10T22:26:47.325872"
+    },
+    {
+      "text": "38è partit oficial per a Rashford amb el Barça. Supera Hughes (1986-1987) i Nico (2021-2022). Empata amb Ramírez (1979-1982), Canito (1979-1981), Blanc (1996-1997), Alfonso (2000-2002), Petit (2000-2001), Van Bommel (2005-2007) i Giovani dos Santos (2006-2008) en el ➡️ 328è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:28",
+      "ts": "2026-03-10T22:26:47.440836"
     }
   ],
   "baseline": {
@@ -20565,7 +20571,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:27:48",
+  "ultima_actualitzacio": "22:28:48",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
