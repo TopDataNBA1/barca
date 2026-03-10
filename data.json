@@ -899,6 +899,12 @@
       "tipus": "programada",
       "hora": "21:02",
       "ts": "2026-03-10T20:52:51.195393"
+    },
+    {
+      "text": "97è partit de Lliga per a Lamine Yamal amb el Barça. Supera Motta (2001-2007) i Fàbregas (2011-2014). Empata amb Manolo (1978-1988) i Overmars (2000-2004) en el ➡️ 135è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:03",
+      "ts": "2026-03-10T20:52:51.195393"
     }
   ],
   "baseline": {
@@ -20511,7 +20517,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:02:52",
+  "ultima_actualitzacio": "21:03:52",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
