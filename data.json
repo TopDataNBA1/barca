@@ -839,6 +839,12 @@
       "tipus": "programada",
       "hora": "20:52",
       "ts": "2026-03-10T20:52:50.805523"
+    },
+    {
+      "text": "22è partit de Lliga per a Joan Garcia amb el Barça. Supera Font (1932-1934), Sierra (1942-1945), Sagrera (1947-1951), Areta II (1953-1956), Pellicer (1967-1970), Serrat (1979-1980), Litmanen (1999-2001), Fernando Navarro (2000-2005), Alfonso (2000-2002), Afellay (2010-2014), De Jong (2021-2022), Pau Víctor (2023-2025) i Szczęsny (2024-2026). Empata amb Areso (1935-1936), Salva (1984-1989), Valverde (1988-1990), Quaresma (2003-2004) i Jeffrén (2006-2011) en el ➡️ 352è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:53",
+      "ts": "2026-03-10T20:52:50.805523"
     }
   ],
   "baseline": {
@@ -20451,13 +20457,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:52:51",
+  "ultima_actualitzacio": "20:53:51",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Newcastle United",
-    "compte_enrere": "0d 0h 6m 32s",
+    "compte_enrere": "0d 0h 5m 18s",
     "kickoff_ts": 1773172800
   }
 }
