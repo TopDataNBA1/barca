@@ -893,6 +893,12 @@
       "tipus": "programada",
       "hora": "21:01",
       "ts": "2026-03-10T20:52:51.123430"
+    },
+    {
+      "text": "143è partit oficial per a Lamine Yamal amb el Barça. Empata amb Bravo (1940-1948) i Serna (1988-1993) en el ➡️ 134è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:02",
+      "ts": "2026-03-10T20:52:51.195393"
     }
   ],
   "baseline": {
@@ -20505,7 +20511,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:01:52",
+  "ultima_actualitzacio": "21:02:52",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
