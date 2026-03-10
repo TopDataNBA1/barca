@@ -875,6 +875,12 @@
       "tipus": "programada",
       "hora": "20:58",
       "ts": "2026-03-10T20:52:50.998458"
+    },
+    {
+      "text": "77è partit de Lliga per a Cubarsí amb el Barça. Supera Sans (1943-1950) i Coutinho (2017-2022). Empata amb Valle (1940-1950) i Villa (2010-2013) en el ➡️ 166è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:59",
+      "ts": "2026-03-10T20:52:50.998458"
     }
   ],
   "baseline": {
@@ -20487,13 +20493,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:58:51",
+  "ultima_actualitzacio": "20:59:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Newcastle United",
-    "compte_enrere": "0d 0h 1m 38s",
-    "kickoff_ts": 1773172800
+    "compte_enrere": "0d 0h 0m 24s",
+    "kickoff_ts": 1773172799
   }
 }
