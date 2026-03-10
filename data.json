@@ -881,6 +881,12 @@
       "tipus": "programada",
       "hora": "20:59",
       "ts": "2026-03-10T20:52:50.998458"
+    },
+    {
+      "text": "124è partit oficial per a Fermín amb el Barça. Supera Ansu Fati (2019-2025). Empata amb Giuly (2004-2007) i Semedo (2017-2020) en el ➡️ 151è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:00",
+      "ts": "2026-03-10T20:52:51.123430"
     }
   ],
   "baseline": {
@@ -20493,13 +20499,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:59:52",
+  "ultima_actualitzacio": "21:00:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Newcastle United",
-    "compte_enrere": "0d 0h 0m 24s",
-    "kickoff_ts": 1773172799
+    "compte_enrere": "0d 0h 0m 0s",
+    "kickoff_ts": 1773172849
   }
 }
