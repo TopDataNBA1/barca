@@ -887,6 +887,12 @@
       "tipus": "programada",
       "hora": "21:00",
       "ts": "2026-03-10T20:52:51.123430"
+    },
+    {
+      "text": "81è partit de Lliga per a Fermín amb el Barça. Supera Henry (2007-2010). Empata amb Soler (1988-1993) en el ➡️ 161è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:01",
+      "ts": "2026-03-10T20:52:51.123430"
     }
   ],
   "baseline": {
@@ -20499,13 +20505,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:00:52",
-  "match_status": "U",
+  "ultima_actualitzacio": "21:01:52",
+  "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Newcastle United",
     "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1773172849
+    "kickoff_ts": 1773172885
   }
 }
