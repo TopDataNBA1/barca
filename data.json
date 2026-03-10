@@ -959,6 +959,12 @@
       "tipus": "programada",
       "hora": "22:28",
       "ts": "2026-03-10T22:26:47.440836"
+    },
+    {
+      "text": "24è partit de Lliga per a Rashford amb el Barça. Supera Aldecoa (1950-1954), Sampedro (1955-1959), Pellegrino (1998-1999), Petit (2000-2001) i Coco (2001-2002). Empata amb Morera (1933-1935), Zabala (1941-1943), Gamonal (1945-1946), Canal (1946-1952), Arnau (1996-2001), Ezquerro (2005-2008), Van Bommel (2005-2007), Junior Firpo (2019-2021) i Fort (2023-2025) en el ➡️ 337è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:29",
+      "ts": "2026-03-10T22:26:47.440836"
     }
   ],
   "baseline": {
@@ -2715,7 +2721,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 67,
+        "pj": 68,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -9276,7 +9282,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 42,
+        "pj": 43,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -20571,7 +20577,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:28:48",
+  "ultima_actualitzacio": "22:29:48",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
