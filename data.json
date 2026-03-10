@@ -845,6 +845,12 @@
       "tipus": "programada",
       "hora": "20:53",
       "ts": "2026-03-10T20:52:50.805523"
+    },
+    {
+      "text": "80è partit oficial per a Gerard Martín amb el Barça. Supera Milla (1984-1990). Empata amb Muller (1965-1968) en el ➡️ 220è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:54",
+      "ts": "2026-03-10T20:52:50.878498"
     }
   ],
   "baseline": {
@@ -20457,13 +20463,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:53:51",
+  "ultima_actualitzacio": "20:54:51",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Newcastle United",
-    "compte_enrere": "0d 0h 5m 18s",
-    "kickoff_ts": 1773172800
+    "compte_enrere": "0d 0h 4m 41s",
+    "kickoff_ts": 1773172799
   }
 }
