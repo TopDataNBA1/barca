@@ -947,6 +947,12 @@
       "tipus": "programada",
       "hora": "22:26",
       "ts": "2026-03-10T22:26:47.325872"
+    },
+    {
+      "text": "190è partit de Lliga per a Olmo amb el Barça. Supera Vergés (1956-1966) i ara ocupa el ➡️ 52è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:27",
+      "ts": "2026-03-10T22:26:47.325872"
     }
   ],
   "baseline": {
@@ -20559,7 +20565,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:26:48",
+  "ultima_actualitzacio": "22:27:48",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
