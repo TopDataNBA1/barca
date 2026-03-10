@@ -971,6 +971,12 @@
       "tipus": "programada",
       "hora": "22:30",
       "ts": "2026-03-10T22:29:51.501827"
+    },
+    {
+      "text": "43è partit de Lliga per a Casadó amb el Barça. Supera Riqui Puig (2018-2022). Empata amb Alcoriza (1931-1935) i Juanito (1971-1975) en el ➡️ 259è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:31",
+      "ts": "2026-03-10T22:29:51.501827"
     }
   ],
   "baseline": {
@@ -20583,7 +20589,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:30:48",
+  "ultima_actualitzacio": "22:31:48",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
