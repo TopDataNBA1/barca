@@ -941,6 +941,12 @@
       "tipus": "programada",
       "hora": "21:09",
       "ts": "2026-03-10T20:52:51.503290"
+    },
+    {
+      "text": "262è partit oficial per a Olmo amb el Barça. Empata amb Esteban Vigo (1977-1987) en el ➡️ 52è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:26",
+      "ts": "2026-03-10T22:26:47.325872"
     }
   ],
   "baseline": {
@@ -1311,7 +1317,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 261,
+        "pj": 262,
         "g": 5,
         "inici": "1976",
         "final": "1984"
@@ -3355,7 +3361,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 37,
+        "pj": 38,
         "g": 10,
         "inici": "2025",
         "final": "2026"
@@ -7774,7 +7780,7 @@
       },
       "Antonio Olmo Ramírez": {
         "alias": "Olmo",
-        "pj": 189,
+        "pj": 190,
         "g": 4,
         "inici": "1976",
         "final": "1984"
@@ -9895,7 +9901,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 23,
+        "pj": 24,
         "g": 4,
         "inici": "2025",
         "final": "2026"
@@ -20553,7 +20559,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:09:52",
+  "ultima_actualitzacio": "22:26:48",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
