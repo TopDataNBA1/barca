@@ -965,6 +965,12 @@
       "tipus": "programada",
       "hora": "22:29",
       "ts": "2026-03-10T22:26:47.440836"
+    },
+    {
+      "text": "68è partit oficial per a Casadó amb el Barça. Supera Montoya (2010-2015). Empata amb Aloísio (1988-1990), Sonny Anderson (1997-1999) i Rochemback (2001-2003) en el ➡️ 246è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:30",
+      "ts": "2026-03-10T22:29:51.501827"
     }
   ],
   "baseline": {
@@ -20577,7 +20583,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:29:48",
+  "ultima_actualitzacio": "22:30:48",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
