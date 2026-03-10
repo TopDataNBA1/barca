@@ -917,6 +917,18 @@
       "tipus": "programada",
       "hora": "21:05",
       "ts": "2026-03-10T20:52:51.286363"
+    },
+    {
+      "text": "172è partit oficial per a Raphinha amb el Barça. Empata amb Saviola (2001-2007) en el ➡️ 109è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:06",
+      "ts": "2026-03-10T20:52:51.432314"
+    },
+    {
+      "text": "119è partit de Lliga per a Raphinha amb el Barça. Empata amb Ramos (1976-1982), Zuviría (1977-1982) i Keita (2008-2012) en el ➡️ 111è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:07",
+      "ts": "2026-03-10T20:52:51.432314"
     }
   ],
   "baseline": {
@@ -20529,7 +20541,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:05:52",
+  "ultima_actualitzacio": "21:07:52",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
