@@ -869,6 +869,12 @@
       "tipus": "programada",
       "hora": "20:57",
       "ts": "2026-03-10T20:52:50.944478"
+    },
+    {
+      "text": "117è partit oficial per a Cubarsí amb el Barça. Empata amb Sospedra (1939-1947) i Busquets (1990-1999) en el ➡️ 161è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:58",
+      "ts": "2026-03-10T20:52:50.998458"
     }
   ],
   "baseline": {
@@ -20481,13 +20487,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:57:51",
+  "ultima_actualitzacio": "20:58:51",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Newcastle United",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Newcastle United",
-    "compte_enrere": "0d 0h 2m 14s",
-    "kickoff_ts": 1773172799
+    "compte_enrere": "0d 0h 1m 38s",
+    "kickoff_ts": 1773172800
   }
 }
