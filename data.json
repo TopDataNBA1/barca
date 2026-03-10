@@ -401,6 +401,12 @@
       "tipus": "programada",
       "hora": "22:50",
       "ts": "2026-03-10T22:50:56.575981"
+    },
+    {
+      "text": "196è partit oficial per a Ferran Torres amb el Barça. Empata amb Escolà (1934-1948) i Robert (1986-1990) en el ➡️ 82è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:51",
+      "ts": "2026-03-10T22:50:56.628950"
     }
   ],
   "baseline": {
@@ -20025,7 +20031,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:50:56",
+  "ultima_actualitzacio": "22:51:56",
   "match_status": "L",
   "match_comp": "Champions League",
   "match_rival": "Newcastle United",
