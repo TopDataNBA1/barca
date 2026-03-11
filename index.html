@@ -432,12 +432,16 @@
                 return 'gol de <span class="dest">' + nom.trim() + '</span>' + sep;
             }
         );
-        // Emojis: ja vénen del text, aplicar estil sense duplicar
-        text = text.replace(/🔀\s*Supera/g, '<span class="accio">🔀 Supera</span>');
-        text = text.replace(/↔️\s*Empata/g, '<span class="accio">↔️ Empata</span>');
-        // Notificacions antigues sense emoji
-        text = text.replace(/(?<![🔀↔️] )\bSupera\b(?![^<]*<\/span>)/g, '<span class="accio">🔀 Supera</span>');
-        text = text.replace(/(?<![🔀↔️] )\bEmpata\b(?![^<]*<\/span>)/g, '<span class="accio">↔️ Empata</span>');
+        // Emojis: primer els que ja porten emoji, després els que no en porten
+        // Pas 1: marcar temporalment els que ja porten emoji per no duplicar
+        text = text.replace(/🔀\s*Supera/g, '##SUPERA##');
+        text = text.replace(/↔️\s*Empata/g, '##EMPATA##');
+        // Pas 2: els Supera/Empata sense emoji (notificacions antigues)
+        text = text.replace(/\bSupera\b/g, '<span class="accio">🔀 Supera</span>');
+        text = text.replace(/\bEmpata\b/g, '<span class="accio">↔️ Empata</span>');
+        // Pas 3: restaurar els marcats
+        text = text.replace(/##SUPERA##/g, '<span class="accio">🔀 Supera</span>');
+        text = text.replace(/##EMPATA##/g, '<span class="accio">↔️ Empata</span>');
         // Ordinal davant "lloc" -> daurat
         text = text.replace(/(\d+[rntèé])\s+lloc/gi, '<span class="lloc">$1</span> lloc');
         text = text.replace(/historic/gi, 'històric');
