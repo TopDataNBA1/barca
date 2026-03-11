@@ -441,7 +441,7 @@
         // Ordinal davant "lloc"
         text = text.replace(/(\d+[rntèé]+)\s+lloc/gi, '<span class="lloc">$1</span> lloc');
         // Any 4 xifres -> 2: (1942-1955) -> (1942-55)
-        text = text.replace(/\((\d{4})-(\d{4})\)/g, function(m,a,b){return '('+a+'\u201158'+b.slice(2)+')';});
+        text = text.replace(/\((\d{4})-(\d{4})\)/g, function(m,a,b){return '('+a+'-'+b.slice(2)+')';});
         return text;
     }
 
