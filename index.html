@@ -411,42 +411,37 @@
     }
 
     function formatText(text) {
-        // Ordinal inicial -> daurat (gol o partit)
-        text = text.replace(/^(⚽\s*)(\d+[rntèé])/i, '$1<span class="dest">$2</span>');
-        text = text.replace(/^(\d+[rntèé])/i, '<span class="dest">$1</span>');
-        // "oficial" -> daurat
-        text = text.replace(/\boficial\b/g, '<span class="dest">oficial</span>');
-        // "Lliga de Campions" sencer -> daurat (ABANS de Lliga sola)
-        text = text.replace(/Lliga de Campions/g, '<span class="dest">Lliga de Campions</span>');
-        // "Lliga", "Copa" -> daurat (no afecta el que ja està dins span)
-        text = text.replace(/\b(Lliga|Copa)\b(?![^<]*<\/span>)/g, '<span class="dest">$1</span>');
-        // Nom jugador despres de "per a" -> daurat
-        text = text.replace(/per a\s+((?:[A-Z\u00C0-\u017E][^\s.,]*\s*)+?)(\s+(?:amb|a la|al|en|i|\.))/,
-            function(m, nom, sep) {
-                return 'per a <span class="dest">' + nom.trim() + '</span>' + sep;
-            }
-        );
-        // Nom golejador despres de "gol de" -> daurat
-        text = text.replace(/gol de\s+((?:[A-Z\u00C0-\u017E][^\s.,]*\s*)+?)(\s+(?:amb|a la|al|en|\.))/,
-            function(m, nom, sep) {
-                return 'gol de <span class="dest">' + nom.trim() + '</span>' + sep;
-            }
-        );
-        // Emojis: primer els que ja porten emoji, després els que no en porten
-        // Pas 1: marcar temporalment els que ja porten emoji per no duplicar
-        text = text.replace(/🔀\s*Supera/g, '##SUPERA##');
-        text = text.replace(/↔️\s*Empata/g, '##EMPATA##');
-        // Pas 2: els Supera/Empata sense emoji (notificacions antigues)
+        const jaFormatat = text.includes('<span');
+        if (!jaFormatat) {
+            // Ordinal inicial
+            text = text.replace(/^(⚽\s*)(\d+[rntèé]+)/i, '$1<span class="dest">$2</span>');
+            text = text.replace(/^(\d+[rntèé]+)/i, '<span class="dest">$1</span>');
+            // "Lliga de Campions" -> placeholder, per evitar doble-replace
+            text = text.replace(/Lliga de Campions/g, '##LLDC##');
+            // "oficial", "Lliga", "Copa"
+            text = text.replace(/\boficial\b/g, '<span class="dest">oficial</span>');
+            text = text.replace(/\bLliga\b/g, '<span class="dest">Lliga</span>');
+            text = text.replace(/\bCopa\b/g,  '<span class="dest">Copa</span>');
+            // Restaurar "Lliga de Campions" com a bloc únic
+            text = text.replace(/##LLDC##/g, '<span class="dest">Lliga de Campions</span>');
+            // Nom jugador després de "per a"
+            text = text.replace(/per a ([A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*(?: [A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*)*)(\s+(?:amb\b|a la\b|al\b|en el\b)|[.,])/,
+                function(m, nom, sep) { return 'per a <span class="dest">' + nom + '</span>' + sep; });
+            // Nom golejador després de "gol de"
+            text = text.replace(/gol de ([A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*(?: [A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*)*)(\s+(?:amb\b|a la\b)|[.,])/,
+                function(m, nom, sep) { return 'gol de <span class="dest">' + nom + '</span>' + sep; });
+        }
+        // Sempre: Supera/Empata
+        text = text.replace(/🔀\s*Supera/g, '##S##');
+        text = text.replace(/↔️\s*Empata/g, '##E##');
         text = text.replace(/\bSupera\b/g, '<span class="accio">🔀 Supera</span>');
         text = text.replace(/\bEmpata\b/g, '<span class="accio">↔️ Empata</span>');
-        // Pas 3: restaurar els marcats
-        text = text.replace(/##SUPERA##/g, '<span class="accio">🔀 Supera</span>');
-        text = text.replace(/##EMPATA##/g, '<span class="accio">↔️ Empata</span>');
-        // Ordinal davant "lloc" -> daurat
-        text = text.replace(/(\d+[rntèé])\s+lloc/gi, '<span class="lloc">$1</span> lloc');
-        text = text.replace(/historic/gi, 'històric');
-        // Any final 2 xifres: (1942-1955) -> (1942-55)
-        text = text.replace(/\((\d{4})-(\d{4})\)/g, function(m, a, b) { return '(' + a + '‑' + b.slice(2) + ')'; });
+        text = text.replace(/##S##/g, '<span class="accio">🔀 Supera</span>');
+        text = text.replace(/##E##/g, '<span class="accio">↔️ Empata</span>');
+        // Ordinal davant "lloc"
+        text = text.replace(/(\d+[rntèé]+)\s+lloc/gi, '<span class="lloc">$1</span> lloc');
+        // Any 4 xifres -> 2: (1942-1955) -> (1942-55)
+        text = text.replace(/\((\d{4})-(\d{4})\)/g, function(m,a,b){return '('+a+'\u201158'+b.slice(2)+')';});
         return text;
     }
 
