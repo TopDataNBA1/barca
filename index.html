@@ -514,7 +514,7 @@
                         </div>`;
                     }
                     return `<div class="move-item">
-                        <div class="move-text">${text} <span class="move-time">(${quan})</span></div>
+                        <div class="move-text">${text}${quan ? '<span class="move-time"> ('+quan+')</span>' : ''}</div>
                         ${makeFooter(raw)}
                     </div>`;
                 }).join('');
