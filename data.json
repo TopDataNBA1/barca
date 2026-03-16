@@ -1126,6 +1126,18 @@
       "tipus": "programada",
       "hora": "18:02",
       "ts": "2026-03-16T17:53:09.329722"
+    },
+    {
+      "text": "263è partit oficial per a Antonio Olmo Ramírez amb el Barça. Supera Esteban Vigo (1977-1987) i ara ocupa el ➡️ 52è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:03",
+      "ts": "2026-03-16T17:53:09.399699"
+    },
+    {
+      "text": "190è partit de Lliga per a Antonio Olmo Ramírez amb el Barça. Supera Vergés (1956-1966) i ara ocupa el ➡️ 52è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:04",
+      "ts": "2026-03-16T17:53:09.399699"
     }
   ],
   "baseline": {
@@ -20717,7 +20729,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:02:30",
+  "ultima_actualitzacio": "18:04:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
