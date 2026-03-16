@@ -1108,6 +1108,12 @@
       "tipus": "programada",
       "hora": "17:59",
       "ts": "2026-03-16T17:53:09.254750"
+    },
+    {
+      "text": "78è partit de Lliga per a Cubarsí amb el Barça. Supera Valle (1940-1950) i Villa (2010-2013). Empata amb Roger (1994-1999) en el ➡️ 165è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:00",
+      "ts": "2026-03-16T17:53:09.254750"
     }
   ],
   "baseline": {
@@ -20699,7 +20705,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:59:29",
+  "ultima_actualitzacio": "18:00:29",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
