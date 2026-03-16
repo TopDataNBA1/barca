@@ -1084,6 +1084,12 @@
       "tipus": "programada",
       "hora": "17:55",
       "ts": "2026-03-16T17:53:09.107807"
+    },
+    {
+      "text": "51è partit de Lliga per a Gerard Martín amb el Barça. Supera Arnau (1928-1934), Castillo (1928-1932), Pérez (1971-1975) i Dani (1999-2004). Empata amb Pichi Alonso (1982-1986), Bonano (2001-2004) i Dest (2020-2022) en el ➡️ 225è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:56",
+      "ts": "2026-03-16T17:53:09.107807"
     }
   ],
   "baseline": {
@@ -20675,7 +20681,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:55:29",
+  "ultima_actualitzacio": "17:56:29",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
