@@ -1222,6 +1222,12 @@
       "tipus": "programada",
       "hora": "18:18",
       "ts": "2026-03-16T17:53:10.456332"
+    },
+    {
+      "text": "44è partit de Lliga per a Casadó amb el Barça. Supera Alcoriza (1931-1935) i Juanito (1971-1975). Empata amb Fortes (1975-1979), Couto (1996-1998) i Braithwaite (2019-2022) en el ➡️ 256è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:19",
+      "ts": "2026-03-16T17:53:10.456332"
     }
   ],
   "baseline": {
@@ -20813,7 +20819,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:18:31",
+  "ultima_actualitzacio": "18:19:31",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
