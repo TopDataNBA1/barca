@@ -1150,6 +1150,12 @@
       "tipus": "programada",
       "hora": "18:06",
       "ts": "2026-03-16T17:53:09.477666"
+    },
+    {
+      "text": "173è partit oficial per a Raphinha amb el Barça. Supera Saviola (2001-2007) i ara ocupa el ➡️ 109è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:07",
+      "ts": "2026-03-16T17:53:09.619612"
     }
   ],
   "baseline": {
@@ -20741,7 +20747,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:06:30",
+  "ultima_actualitzacio": "18:07:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
