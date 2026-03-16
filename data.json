@@ -1168,6 +1168,12 @@
       "tipus": "programada",
       "hora": "18:09",
       "ts": "2026-03-16T17:53:09.685625"
+    },
+    {
+      "text": "126è partit de Lliga per a Lewandowski amb el Barça. Supera Abidal (2007-2013). Empata amb Goikoetxea (1990-1994) en el ➡️ 98è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:10",
+      "ts": "2026-03-16T17:53:09.685625"
     }
   ],
   "baseline": {
@@ -20759,7 +20765,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:09:30",
+  "ultima_actualitzacio": "18:10:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
