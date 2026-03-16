@@ -1156,6 +1156,12 @@
       "tipus": "programada",
       "hora": "18:07",
       "ts": "2026-03-16T17:53:09.619612"
+    },
+    {
+      "text": "119è partit de Lliga per a Raphinha amb el Barça. Empata amb Ramos (1976-1982), Zuviría (1977-1982) i Keita (2008-2012) en el ➡️ 111è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:08",
+      "ts": "2026-03-16T17:53:09.619612"
     }
   ],
   "baseline": {
@@ -20747,7 +20753,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:07:30",
+  "ultima_actualitzacio": "18:08:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
