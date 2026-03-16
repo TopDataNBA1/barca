@@ -1078,6 +1078,12 @@
       "tipus": "programada",
       "hora": "17:54",
       "ts": "2026-03-16T17:53:09.031835"
+    },
+    {
+      "text": "81è partit oficial per a Gerard Martín amb el Barça. Supera Muller (1965-1968). Empata amb Martí (1923-1933) i Landaburu (1979-1982) en el ➡️ 218è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:55",
+      "ts": "2026-03-16T17:53:09.107807"
     }
   ],
   "baseline": {
@@ -20669,7 +20675,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:54:29",
+  "ultima_actualitzacio": "17:55:29",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
