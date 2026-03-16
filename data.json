@@ -1144,6 +1144,12 @@
       "tipus": "programada",
       "hora": "18:05",
       "ts": "2026-03-16T17:53:09.477666"
+    },
+    {
+      "text": "18è partit de Lliga per a Bernal amb el Barça. Supera Plattkó (1928-1930), Enrique Fernández (1934-1936), Herrerita (1939-1940), Homedes (1939-1940), Corró (1943-1951), Aretio (1949-1950), Camps (1961-1965), Goyvaerts (1961-1965), Franch (1968-1971), Cos (1972-1976), Carreño (1973-1978), Corominas (1975-1977), Fradera (1985-1988), Sergi (1987-1991) i Sandro (2014-2016). Empata amb Santos (1933-1934), Garcerán (1939-1940), Riba (1943-1945), Julián Rubio (1979-1981), Davids (2003-2004), Aubameyang (2021-2023) i Pablo Torre (2022-2025) en el ➡️ 384è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:06",
+      "ts": "2026-03-16T17:53:09.477666"
     }
   ],
   "baseline": {
@@ -20735,7 +20741,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:05:30",
+  "ultima_actualitzacio": "18:06:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
