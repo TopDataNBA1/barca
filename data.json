@@ -1198,6 +1198,12 @@
       "tipus": "programada",
       "hora": "18:14",
       "ts": "2026-03-16T17:53:10.221422"
+    },
+    {
+      "text": "203è partit oficial per a Araújo amb el Barça. Empata amb Pereda (1961-1969) en el ➡️ 77è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:15",
+      "ts": "2026-03-16T17:53:10.292394"
     }
   ],
   "baseline": {
@@ -20789,7 +20795,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:14:30",
+  "ultima_actualitzacio": "18:15:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
