@@ -1228,6 +1228,12 @@
       "tipus": "programada",
       "hora": "18:19",
       "ts": "2026-03-16T17:53:10.456332"
+    },
+    {
+      "text": "156è partit oficial per a Gavi amb el Barça. Empata amb Manolo (1978-1988) i Eric Garcia (2021-2026) en el ➡️ 123è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:20",
+      "ts": "2026-03-16T17:53:10.528306"
     }
   ],
   "baseline": {
@@ -20819,7 +20825,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:19:31",
+  "ultima_actualitzacio": "18:20:31",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
