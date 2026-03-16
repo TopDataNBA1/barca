@@ -1192,6 +1192,12 @@
       "tipus": "programada",
       "hora": "18:13",
       "ts": "2026-03-16T17:53:10.221422"
+    },
+    {
+      "text": "81è partit de Lliga per a Fermín amb el Barça. Supera Henry (2007-2010). Empata amb Soler (1988-1993) en el ➡️ 161è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:14",
+      "ts": "2026-03-16T17:53:10.221422"
     }
   ],
   "baseline": {
@@ -20783,7 +20789,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:13:30",
+  "ultima_actualitzacio": "18:14:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
