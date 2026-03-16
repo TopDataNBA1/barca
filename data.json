@@ -1090,6 +1090,12 @@
       "tipus": "programada",
       "hora": "17:56",
       "ts": "2026-03-16T17:53:09.107807"
+    },
+    {
+      "text": "52è partit oficial per a João Cancelo amb el Barça. Supera Hagi (1994-1996), Aleix Vidal (2015-2018) i Gündoğan (2023-2024). Empata amb Bestit (1929-1934) en el ➡️ 289è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:57",
+      "ts": "2026-03-16T17:53:09.182778"
     }
   ],
   "baseline": {
@@ -20681,7 +20687,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:56:29",
+  "ultima_actualitzacio": "17:57:29",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
