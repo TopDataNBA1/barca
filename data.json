@@ -1204,6 +1204,12 @@
       "tipus": "programada",
       "hora": "18:15",
       "ts": "2026-03-16T17:53:10.292394"
+    },
+    {
+      "text": "144è partit oficial per a Lamine Yamal amb el Barça. Supera Bravo (1940-1948) i Serna (1988-1993). Empata amb Hesp (1997-2000) en el ➡️ 133è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:16",
+      "ts": "2026-03-16T17:53:10.384360"
     }
   ],
   "baseline": {
@@ -20795,7 +20801,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:15:30",
+  "ultima_actualitzacio": "18:16:31",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
