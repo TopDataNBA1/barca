@@ -1102,6 +1102,12 @@
       "tipus": "programada",
       "hora": "17:58",
       "ts": "2026-03-16T17:53:09.182778"
+    },
+    {
+      "text": "118è partit oficial per a Cubarsí amb el Barça. Supera Sospedra (1939-1947) i Busquets (1990-1999). Empata amb Martí Filosia (1966-1975) i Yaya Touré (2007-2010) en el ➡️ 159è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:59",
+      "ts": "2026-03-16T17:53:09.254750"
     }
   ],
   "baseline": {
@@ -20693,7 +20699,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:58:29",
+  "ultima_actualitzacio": "17:59:29",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
