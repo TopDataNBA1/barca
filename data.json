@@ -1186,6 +1186,12 @@
       "tipus": "programada",
       "hora": "18:12",
       "ts": "2026-03-16T17:53:09.759599"
+    },
+    {
+      "text": "125è partit oficial per a Fermín amb el Barça. Supera Giuly (2004-2007) i Semedo (2017-2020) i ara ocupa el ➡️ 151è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:13",
+      "ts": "2026-03-16T17:53:10.221422"
     }
   ],
   "baseline": {
@@ -20777,7 +20783,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:12:30",
+  "ultima_actualitzacio": "18:13:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
