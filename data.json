@@ -1180,6 +1180,12 @@
       "tipus": "programada",
       "hora": "18:11",
       "ts": "2026-03-16T17:53:09.759599"
+    },
+    {
+      "text": "16è partit de Lliga per a Bardghji amb el Barça. Supera García (1928-1930), Diego (1929-1932), Arana (1934-1936), Pagès (1934-1936), Ribas (1939-1940), Florencio (1947-1949), Eskurza (1994-1995), Dutruel (2000-2002), Sorín (2002-2003) i Malcom (2018-2019). Empata amb Uriach (1928-1931), Lecuona (1934-1935), Iborra (1935-1936), Emilín (1939-1940), Aloy (1950-1954), Moll (1954-1956), Pinto (1959-1961), Cubilla (1961-1964) i Cuenca (2011-2014) en el ➡️ 407è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:12",
+      "ts": "2026-03-16T17:53:09.759599"
     }
   ],
   "baseline": {
@@ -20771,7 +20777,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:11:30",
+  "ultima_actualitzacio": "18:12:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
