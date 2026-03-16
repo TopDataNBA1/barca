@@ -1138,6 +1138,12 @@
       "tipus": "programada",
       "hora": "18:04",
       "ts": "2026-03-16T17:53:09.399699"
+    },
+    {
+      "text": "28è partit oficial per a Bernal amb el Barça. Supera Llorens (1926-1936), Uriach (1928-1931), Areta II (1953-1956), Mandi (1954-1957), Franch (1968-1971) i Pablo Torre (2022-2025). Empata amb Saura (1928-1930), Amorós (1946-1948), Castro (1968-1971), Serrat (1979-1980), Carreras (1990-1996), Cuéllar (1995-1997), Quaresma (2003-2004) i Jonathan dos Santos (2009-2014) en el ➡️ 377è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:05",
+      "ts": "2026-03-16T17:53:09.477666"
     }
   ],
   "baseline": {
@@ -20729,7 +20735,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:04:30",
+  "ultima_actualitzacio": "18:05:30",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
