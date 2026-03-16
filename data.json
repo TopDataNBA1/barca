@@ -1096,6 +1096,12 @@
       "tipus": "programada",
       "hora": "17:57",
       "ts": "2026-03-16T17:53:09.182778"
+    },
+    {
+      "text": "38è partit de Lliga per a João Cancelo amb el Barça. Supera Ribelles (1957-1961), Ronaldo (1996-1997) i Alcácer (2016-2018). Empata amb Czibor (1958-1961) en el ➡️ 272è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:58",
+      "ts": "2026-03-16T17:53:09.182778"
     }
   ],
   "baseline": {
@@ -20687,7 +20693,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:57:29",
+  "ultima_actualitzacio": "17:58:29",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Sevilla",
