@@ -425,10 +425,10 @@
             // Restaurar "Lliga de Campions" com a bloc únic
             text = text.replace(/##LLDC##/g, '<span class="dest">Lliga de Campions</span>');
             // Nom jugador després de "per a"
-            text = text.replace(/per a ([A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*(?: [A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*)*)(\s+(?:amb\b|a la\b|al\b|en el\b)|[.,])/,
+            text = text.replace(/per a ([A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'-]*(?: [A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'-]*)*)(\s+(?:amb\b|a la\b|al\b|en el\b)|[.,])/,
                 function(m, nom, sep) { return 'per a <span class="dest">' + nom + '</span>' + sep; });
             // Nom golejador després de "gol de"
-            text = text.replace(/gol de ([A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*(?: [A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*)*)(\s+(?:amb\b|a la\b)|[.,])/,
+            text = text.replace(/gol de ([A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'-]*(?: [A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'-]*)*)(\s+(?:amb\b|a la\b)|[.,])/,
                 function(m, nom, sep) { return 'gol de <span class="dest">' + nom + '</span>' + sep; });
         }
         // Sempre: Supera/Empata
