@@ -1481,6 +1481,18 @@
       "tipus": "programada",
       "hora": "18:48",
       "ts": "2026-03-23T18:19:10.301562"
+    },
+    {
+      "text": "40è partit oficial per a Szczęsny amb el Barça. Supera Alcántara (1912-1927), Luis García (1997-2004) i Romeu (2010-2024). Empata amb Anguera (1940-1942), Salva (1984-1989) i Ćirić (1997-1999) en el ➡️ 321è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:49",
+      "ts": "2026-03-23T18:19:10.386534"
+    },
+    {
+      "text": "12è partit de Champions per a Szczęsny amb el Barça. Supera Kubala (1959-1961), Giovanni (1997-1999), Sonny Anderson (1997-1999), Ronald de Boer (1999-2000), Fernando Navarro (2000-2005), Riquelme (2002-2003) i Dest (2020-2022). Empata amb Vergés (1959-1961), Villaverde (1959-1961), Alexanco (1985-1993), Julio Salinas (1991-1994), Song (2012-2014), Mathieu (2014-2017) i João Cancelo (2023-2024) en el ➡️ 115è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:50",
+      "ts": "2026-03-23T18:19:10.386534"
     }
   ],
   "baseline": {
@@ -21072,13 +21084,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:48:42",
-  "match_status": "C",
-  "match_comp": "Champions",
-  "match_rival": "Newcastle United",
+  "ultima_actualitzacio": "18:50:42",
+  "match_status": "U",
+  "match_comp": "Lliga",
+  "match_rival": "Atletico Madrid",
   "proper_partit": {
-    "descripcio": "Champions · Barça - Newcastle United",
-    "compte_enrere": "0d 4h 44m 49s",
-    "kickoff_ts": 1773855899
+    "descripcio": "Lliga · Barça - Atletico Madrid",
+    "compte_enrere": "12d 1h 8m 52s",
+    "kickoff_ts": 1775329199
   }
 }
