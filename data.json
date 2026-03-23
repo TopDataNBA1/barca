@@ -1373,6 +1373,12 @@
       "tipus": "programada",
       "hora": "18:30",
       "ts": "2026-03-23T18:19:09.009007"
+    },
+    {
+      "text": "145è partit oficial per a Lamine Yamal amb el Barça. Supera Hesp (1997-2000) i ara ocupa el ➡️ 133è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:31",
+      "ts": "2026-03-23T18:19:09.077984"
     }
   ],
   "baseline": {
@@ -20964,7 +20970,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:30:40",
+  "ultima_actualitzacio": "18:31:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
