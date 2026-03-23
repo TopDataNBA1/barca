@@ -1439,6 +1439,12 @@
       "tipus": "programada",
       "hora": "18:41",
       "ts": "2026-03-23T18:19:10.048647"
+    },
+    {
+      "text": "33è partit de Champions per a Araújo amb el Barça. Supera Deco (2004-2008) i Koundé (2022-2026). Empata amb Motta (2001-2007), Lenglet (2018-2022) i Raphinha (2022-2026) en el ➡️ 38è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:42",
+      "ts": "2026-03-23T18:19:10.048647"
     }
   ],
   "baseline": {
@@ -21030,7 +21036,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:41:41",
+  "ultima_actualitzacio": "18:42:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
