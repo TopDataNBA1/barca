@@ -1367,6 +1367,12 @@
       "tipus": "programada",
       "hora": "18:29",
       "ts": "2026-03-23T18:19:09.009007"
+    },
+    {
+      "text": "28è partit de Champions per a Fermín amb el Barça. Supera Zubizarreta (1991-1994), Saviola (2001-2007), Oleguer (2002-2008) i Bojan (2007-2011). Empata amb Begiristain (1991-1995), Bakero (1991-1995) i Henry (2007-2010) en el ➡️ 52è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:30",
+      "ts": "2026-03-23T18:19:09.009007"
     }
   ],
   "baseline": {
@@ -20958,7 +20964,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:29:40",
+  "ultima_actualitzacio": "18:30:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
