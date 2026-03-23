@@ -1307,6 +1307,12 @@
       "tipus": "programada",
       "hora": "18:19",
       "ts": "2026-03-23T18:19:08.655131"
+    },
+    {
+      "text": "7è partit de Champions per a Joan Garcia amb el Barça. Supera Olivella (1959-1961), Foncho (1960-1961), Juan Carlos (1974-1975), Gallego (1974-1975), Schuster (1985-1986), Serna (1991-1993), Quique Estebaranz (1993-1994), Ezquerro (2005-2008), Deulofeu (2011-2018), Vermaelen (2014-2019), Sandro (2014-2016), Denis Suárez (2016-2019), Braithwaite (2020-2021), Kessié (2022-2023) i Pau Víctor (2024-2025). Empata amb Czibor (1959-1961), Rexach (1974-1975), Neeskens (1974-1975), Asensi (1974-1975), Clares (1974-1975), Gerardo (1985-1986), Marcos Alonso (1985-1986), Afellay (2010-2012), Montoya (2011-2015), Cuenca (2011-2012), Aleñá (2016-2021), Digne (2016-2018), Trincão (2020-2021), Memphis (2021-2023) i Romeu (2023-2024) en el ➡️ 170è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:20",
+      "ts": "2026-03-23T18:19:08.655131"
     }
   ],
   "baseline": {
@@ -20898,7 +20904,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:19:40",
+  "ultima_actualitzacio": "18:20:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
