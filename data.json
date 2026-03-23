@@ -1463,6 +1463,12 @@
       "tipus": "programada",
       "hora": "18:45",
       "ts": "2026-03-23T18:19:10.221589"
+    },
+    {
+      "text": "31è partit de Champions per a Ferran Torres amb el Barça. Supera Stoichkov (1991-1998) i Dembélé (2017-2023). Empata amb Ferrer (1991-1998) i Lamine Yamal (2023-2026) en el ➡️ 44è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:46",
+      "ts": "2026-03-23T18:19:10.221589"
     }
   ],
   "baseline": {
@@ -21054,7 +21060,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:45:41",
+  "ultima_actualitzacio": "18:46:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
