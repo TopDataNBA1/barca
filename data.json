@@ -1349,6 +1349,12 @@
       "tipus": "programada",
       "hora": "18:26",
       "ts": "2026-03-23T18:19:08.872053"
+    },
+    {
+      "text": "119è partit oficial per a Cubarsí amb el Barça. Supera Martí Filosia (1966-1975) i Yaya Touré (2007-2010). Empata amb Villa (2010-2013) en el ➡️ 158è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:27",
+      "ts": "2026-03-23T18:19:08.944029"
     }
   ],
   "baseline": {
@@ -20940,7 +20946,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:26:40",
+  "ultima_actualitzacio": "18:27:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
