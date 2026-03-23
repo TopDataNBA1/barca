@@ -1403,6 +1403,12 @@
       "tipus": "programada",
       "hora": "18:35",
       "ts": "2026-03-23T18:19:09.217939"
+    },
+    {
+      "text": "41è partit de Champions per a Pedri amb el Barça. Supera Eto'o (2004-2009) i Neymar (2013-2017). Empata amb Luis Enrique (1997-2003) i Keita (2008-2012) en el ➡️ 25è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:36",
+      "ts": "2026-03-23T18:19:09.217939"
     }
   ],
   "baseline": {
@@ -20994,7 +21000,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:35:41",
+  "ultima_actualitzacio": "18:36:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
