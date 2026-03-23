@@ -1427,6 +1427,12 @@
       "tipus": "programada",
       "hora": "18:39",
       "ts": "2026-03-23T18:19:09.359890"
+    },
+    {
+      "text": "36è partit de Champions per a Lewandowski amb el Barça. Supera Nadal (1991-1999) i Ronaldinho (2004-2008). Empata amb Gabri (1999-2006) en el ➡️ 31è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:40",
+      "ts": "2026-03-23T18:19:09.359890"
     }
   ],
   "baseline": {
@@ -21018,7 +21024,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:39:41",
+  "ultima_actualitzacio": "18:40:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
