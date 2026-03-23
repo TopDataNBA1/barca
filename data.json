@@ -1415,6 +1415,12 @@
       "tipus": "programada",
       "hora": "18:37",
       "ts": "2026-03-23T18:19:09.289901"
+    },
+    {
+      "text": "33è partit de Champions per a Raphinha amb el Barça. Supera Deco (2004-2008), Araújo (2019-2026) i Koundé (2022-2026). Empata amb Motta (2001-2007) i Lenglet (2018-2022) en el ➡️ 38è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:38",
+      "ts": "2026-03-23T18:19:09.289901"
     }
   ],
   "baseline": {
@@ -21006,7 +21012,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:37:41",
+  "ultima_actualitzacio": "18:38:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
