@@ -1313,6 +1313,12 @@
       "tipus": "programada",
       "hora": "18:20",
       "ts": "2026-03-23T18:19:08.655131"
+    },
+    {
+      "text": "157è partit oficial per a Eric Garcia amb el Barça. Supera Manolo (1978-1988) i Gavi (2021-2026). Empata amb Calderé (1983-1988) en el ➡️ 122è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:21",
+      "ts": "2026-03-23T18:19:08.704109"
     }
   ],
   "baseline": {
@@ -20904,7 +20910,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:20:40",
+  "ultima_actualitzacio": "18:21:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
