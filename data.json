@@ -1391,6 +1391,12 @@
       "tipus": "programada",
       "hora": "18:33",
       "ts": "2026-03-23T18:19:09.142962"
+    },
+    {
+      "text": "6è partit de Champions per a Bernal amb el Barça. Supera Costas (1974-1975), Sadurní (1974-1975), Esteban Vigo (1985-1986), Moratalla (1985-1986), Calderé (1985-1986), Jordi Cruyff (1994-1995), De la Peña (1997-2001), Couto (1997-1998), Arnau (1998-2001), Okunowo (1998-1999), Alfonso (2000-2002), Dutruel (2000-2001), Giovani dos Santos (2007-2008), Aleix Vidal (2015-2018), Alcácer (2016-2018), Riqui Puig (2019-2022) i Pablo Torre (2022-2025). Empata amb Olivella (1959-1961), Foncho (1960-1961), Juan Carlos (1974-1975), Gallego (1974-1975), Schuster (1985-1986), Serna (1991-1993), Quique Estebaranz (1993-1994), Ezquerro (2005-2008), Deulofeu (2011-2018), Vermaelen (2014-2019), Sandro (2014-2016), Denis Suárez (2016-2019), Braithwaite (2020-2021), Kessié (2022-2023) i Pau Víctor (2024-2025) en el ➡️ 185è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:34",
+      "ts": "2026-03-23T18:19:09.142962"
     }
   ],
   "baseline": {
@@ -20982,7 +20988,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:33:41",
+  "ultima_actualitzacio": "18:34:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
