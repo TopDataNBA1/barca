@@ -1409,6 +1409,12 @@
       "tipus": "programada",
       "hora": "18:36",
       "ts": "2026-03-23T18:19:09.217939"
+    },
+    {
+      "text": "174è partit oficial per a Raphinha amb el Barça. Empata amb Raich (1934-1945), Manchón (1950-1957) i Goikoetxea (1990-1994) en el ➡️ 106è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:37",
+      "ts": "2026-03-23T18:19:09.289901"
     }
   ],
   "baseline": {
@@ -21000,7 +21006,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:36:41",
+  "ultima_actualitzacio": "18:37:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
