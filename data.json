@@ -1475,6 +1475,12 @@
       "tipus": "programada",
       "hora": "18:47",
       "ts": "2026-03-23T18:19:10.301562"
+    },
+    {
+      "text": "16è partit de Champions per a Dani Olmo amb el Barça. Supera Migueli (1974-1986), Romário (1993-1995), Zenden (1998-2001), Geovanni (2001-2003), Mendieta (2002-2003), Christensen (2022-2026) i Iñigo Martínez (2023-2025). Empata amb Evaristo (1959-1961), Luis Suárez (1959-1961), Gracia (1959-1961), Christanval (2001-2003), Milito (2007-2011) i Griezmann (2019-2021) en el ➡️ 94è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:48",
+      "ts": "2026-03-23T18:19:10.301562"
     }
   ],
   "baseline": {
@@ -21066,7 +21072,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:47:42",
+  "ultima_actualitzacio": "18:48:42",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
