@@ -1379,6 +1379,18 @@
       "tipus": "programada",
       "hora": "18:31",
       "ts": "2026-03-23T18:19:09.077984"
+    },
+    {
+      "text": "31è partit de Champions per a Lamine Yamal amb el Barça. Supera Stoichkov (1991-1998), Dembélé (2017-2023) i Ferran Torres (2022-2026). Empata amb Ferrer (1991-1998) en el ➡️ 44è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:32",
+      "ts": "2026-03-23T18:19:09.077984"
+    },
+    {
+      "text": "29è partit oficial per a Bernal amb el Barça. Supera Saura (1928-1930), Amorós (1946-1948), Castro (1968-1971), Serrat (1979-1980), Carreras (1990-1996), Cuéllar (1995-1997), Quaresma (2003-2004) i Jonathan dos Santos (2009-2014). Empata amb Areso (1935-1936), Marinho (1974-1976), Valverde (1988-1990), De Jong (2021-2022) i Pau Víctor (2023-2025) en el ➡️ 372è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:33",
+      "ts": "2026-03-23T18:19:09.142962"
     }
   ],
   "baseline": {
@@ -20970,7 +20982,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:31:40",
+  "ultima_actualitzacio": "18:33:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
