@@ -1325,6 +1325,12 @@
       "tipus": "programada",
       "hora": "18:22",
       "ts": "2026-03-23T18:19:08.704109"
+    },
+    {
+      "text": "82è partit oficial per a Gerard Martín amb el Barça. Supera Martí (1923-1933) i Landaburu (1979-1982). Empata amb Ramón (1927-1935) i Moreno (1951-1956) en el ➡️ 216è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:23",
+      "ts": "2026-03-23T18:19:08.798084"
     }
   ],
   "baseline": {
@@ -20916,7 +20922,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:22:40",
+  "ultima_actualitzacio": "18:23:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
