@@ -1319,6 +1319,12 @@
       "tipus": "programada",
       "hora": "18:21",
       "ts": "2026-03-23T18:19:08.704109"
+    },
+    {
+      "text": "26è partit de Champions per a Eric Garcia amb el Barça. Supera Eusebio (1991-1995), Hesp (1997-2000) i Van Bronckhorst (2004-2007). Empata amb Figo (1997-2000), Villa (2010-2013) i Fàbregas (2011-2014) en el ➡️ 60è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:22",
+      "ts": "2026-03-23T18:19:08.704109"
     }
   ],
   "baseline": {
@@ -20910,7 +20916,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:21:40",
+  "ultima_actualitzacio": "18:22:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
