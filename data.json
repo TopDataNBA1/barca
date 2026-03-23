@@ -1421,6 +1421,12 @@
       "tipus": "programada",
       "hora": "18:38",
       "ts": "2026-03-23T18:19:09.289901"
+    },
+    {
+      "text": "183è partit oficial per a Lewandowski amb el Barça. Supera Marcos Alonso (1982-1987). Empata amb Neeskens (1974-1979) i Urruti (1981-1988) en el ➡️ 94è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:39",
+      "ts": "2026-03-23T18:19:09.359890"
     }
   ],
   "baseline": {
@@ -21012,7 +21018,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:38:41",
+  "ultima_actualitzacio": "18:39:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
