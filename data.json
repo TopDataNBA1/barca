@@ -1355,6 +1355,12 @@
       "tipus": "programada",
       "hora": "18:27",
       "ts": "2026-03-23T18:19:08.944029"
+    },
+    {
+      "text": "24è partit de Champions per a Cubarsí amb el Barça. Supera Bonano (2001-2003). Empata amb Alexis Sánchez (2011-2014), Semedo (2017-2020) i Gavi (2021-2025) en el ➡️ 67è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:28",
+      "ts": "2026-03-23T18:19:08.944029"
     }
   ],
   "baseline": {
@@ -20946,7 +20952,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:27:40",
+  "ultima_actualitzacio": "18:28:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
