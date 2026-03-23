@@ -1331,6 +1331,12 @@
       "tipus": "programada",
       "hora": "18:23",
       "ts": "2026-03-23T18:19:08.798084"
+    },
+    {
+      "text": "18è partit de Champions per a Gerard Martín amb el Barça. Supera Gensana (1959-1961), Sylvinho (2004-2009), Maxwell (2009-2012) i André Gomes (2016-2018). Empata amb Ramallets (1959-1961), Rafinha (2011-2019), Coutinho (2018-2022), Vidal (2018-2020) i Casadó (2022-2026) en el ➡️ 84è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "18:24",
+      "ts": "2026-03-23T18:19:08.798084"
     }
   ],
   "baseline": {
@@ -20922,7 +20928,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:23:40",
+  "ultima_actualitzacio": "18:24:40",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
