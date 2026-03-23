@@ -1433,6 +1433,12 @@
       "tipus": "programada",
       "hora": "18:40",
       "ts": "2026-03-23T18:19:09.359890"
+    },
+    {
+      "text": "204è partit oficial per a Araújo amb el Barça. Supera Pereda (1961-1969) i ara ocupa el ➡️ 77è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:41",
+      "ts": "2026-03-23T18:19:10.048647"
     }
   ],
   "baseline": {
@@ -21024,7 +21030,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:40:41",
+  "ultima_actualitzacio": "18:41:41",
   "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Newcastle United",
