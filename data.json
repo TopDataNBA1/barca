@@ -1839,6 +1839,12 @@
       "tipus": "prioritaria",
       "hora": "22:54",
       "ts": "2026-04-04T22:54:49.737680"
+    },
+    {
+      "text": "📋 04/04/2026 · LLIGA · BARÇA - ATLETICO MADRID",
+      "tipus": "prioritaria",
+      "hora": "23:03",
+      "ts": "2026-04-04T23:03:37.653794"
     }
   ],
   "baseline": {
@@ -21430,13 +21436,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:54:56",
-  "match_status": "C",
-  "match_comp": "Lliga",
+  "ultima_actualitzacio": "23:03:38",
+  "match_status": "U",
+  "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1775329346
+    "descripcio": "Champions · Barça - Atletico Madrid",
+    "compte_enrere": "3d 21h 55m 57s",
+    "kickoff_ts": 1775674800
   }
 }
