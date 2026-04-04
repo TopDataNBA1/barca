@@ -1815,6 +1815,12 @@
       "tipus": "programada",
       "hora": "22:46",
       "ts": "2026-04-04T22:45:34.600056"
+    },
+    {
+      "text": "184è partit oficial per a Lewandowski amb el Barça. Supera Neeskens (1974-1979) i Urruti (1981-1988) i ara ocupa el ➡️ 94è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:47",
+      "ts": "2026-04-04T22:45:34.673037"
     }
   ],
   "baseline": {
@@ -21406,7 +21412,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:46:39",
+  "ultima_actualitzacio": "22:47:39",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
