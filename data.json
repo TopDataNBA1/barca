@@ -1659,6 +1659,12 @@
       "tipus": "programada",
       "hora": "20:00",
       "ts": "2026-04-04T19:57:30.841817"
+    },
+    {
+      "text": "55è partit oficial per a João Cancelo amb el Barça. Supera Amarilla (1985-1988), Jordi Cruyff (1994-1996) i Vítor Baía (1996-1999). Empata amb Ronald de Boer (1998-2000) i Arda Turan (2015-2018) en el ➡️ 280è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-04-04T19:57:30.848814"
     }
   ],
   "baseline": {
@@ -21250,13 +21256,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:00:31",
+  "ultima_actualitzacio": "20:01:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 59m 25s",
-    "kickoff_ts": 1775329199
+    "compte_enrere": "0d 0h 58m 12s",
+    "kickoff_ts": 1775329200
   }
 }
