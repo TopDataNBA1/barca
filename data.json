@@ -1683,6 +1683,12 @@
       "tipus": "programada",
       "hora": "20:04",
       "ts": "2026-04-04T19:57:30.854813"
+    },
+    {
+      "text": "138è partit de Lliga per a Araújo amb el Barça. Empata amb Raich (1934-1945) en el ➡️ 90è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:05",
+      "ts": "2026-04-04T19:57:30.861810"
     }
   ],
   "baseline": {
@@ -21274,13 +21280,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:04:31",
+  "ultima_actualitzacio": "20:05:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 55m 7s",
-    "kickoff_ts": 1775329199
+    "compte_enrere": "0d 0h 53m 54s",
+    "kickoff_ts": 1775329200
   }
 }
