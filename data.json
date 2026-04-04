@@ -1731,6 +1731,12 @@
       "tipus": "programada",
       "hora": "20:12",
       "ts": "2026-04-04T19:57:30.886798"
+    },
+    {
+      "text": "50è partit de Lliga per a Dani Olmo amb el Barça. Supera Miró (1939-1943) i Iván Iglesias (1993-1996). Empata amb Arnau (1928-1934), Castillo (1928-1932), Pérez (1971-1975) i Dani (1999-2004) en el ➡️ 229è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:13",
+      "ts": "2026-04-04T19:57:30.886798"
     }
   ],
   "baseline": {
@@ -21322,13 +21328,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:12:32",
+  "ultima_actualitzacio": "20:13:32",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 47m 46s",
-    "kickoff_ts": 1775329200
+    "compte_enrere": "0d 0h 46m 32s",
+    "kickoff_ts": 1775329199
   }
 }
