@@ -1755,6 +1755,12 @@
       "tipus": "programada",
       "hora": "20:16",
       "ts": "2026-04-04T19:57:30.898793"
+    },
+    {
+      "text": "25è partit de Lliga per a Rashford amb el Barça. Supera Morera (1933-1935), Zabala (1941-1943), Gamonal (1945-1946), Canal (1946-1952), Arnau (1996-2001), Ezquerro (2005-2008), Van Bommel (2005-2007), Junior Firpo (2019-2021) i Fort (2023-2025). Empata amb Sagi-Barba (1928-1932), Amorós (1946-1948), Coll (1956-1961), Macizo (1974-1979), Canito (1979-1981) i Luis García (1997-2004) en el ➡️ 331è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:17",
+      "ts": "2026-04-04T19:57:30.898793"
     }
   ],
   "baseline": {
@@ -21346,13 +21352,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:16:32",
+  "ultima_actualitzacio": "20:17:33",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 43m 28s",
-    "kickoff_ts": 1775329199
+    "compte_enrere": "0d 0h 42m 15s",
+    "kickoff_ts": 1775329200
   }
 }
