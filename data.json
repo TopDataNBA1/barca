@@ -1641,6 +1641,12 @@
       "tipus": "programada",
       "hora": "19:57",
       "ts": "2026-04-04T19:57:30.835818"
+    },
+    {
+      "text": "24è partit de Lliga per a Joan Garcia amb el Barça. Supera Aldecoa (1950-1954), Sampedro (1955-1959), Pellegrino (1998-1999), Petit (2000-2001) i Coco (2001-2002). Empata amb Morera (1933-1935), Zabala (1941-1943), Gamonal (1945-1946), Canal (1946-1952), Arnau (1996-2001), Ezquerro (2005-2008), Van Bommel (2005-2007), Junior Firpo (2019-2021), Fort (2023-2025) i Rashford (2025-2026) en el ➡️ 337è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:58",
+      "ts": "2026-04-04T19:57:30.835818"
     }
   ],
   "baseline": {
@@ -21232,13 +21238,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:57:31",
+  "ultima_actualitzacio": "19:58:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 1h 2m 29s",
+    "compte_enrere": "0d 1h 1m 15s",
     "kickoff_ts": 1775329199
   }
 }
