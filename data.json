@@ -1647,6 +1647,12 @@
       "tipus": "programada",
       "hora": "19:58",
       "ts": "2026-04-04T19:57:30.835818"
+    },
+    {
+      "text": "84è partit oficial per a Gerard Martín amb el Barça. Supera Parera (1925-1933) i Sans (1943-1950). Empata amb Guzmán (1927-1935) en el ➡️ 213è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:59",
+      "ts": "2026-04-04T19:57:30.841817"
     }
   ],
   "baseline": {
@@ -21238,13 +21244,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:58:31",
+  "ultima_actualitzacio": "19:59:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 1h 1m 15s",
-    "kickoff_ts": 1775329199
+    "compte_enrere": "0d 1h 0m 2s",
+    "kickoff_ts": 1775329200
   }
 }
