@@ -1791,6 +1791,12 @@
       "tipus": "programada",
       "hora": "22:11",
       "ts": "2026-04-04T22:11:44.120590"
+    },
+    {
+      "text": "182è partit oficial per a Koundé amb el Barça. Empata amb Marcos Alonso (1982-1987) en el ➡️ 97è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:29",
+      "ts": "2026-04-04T22:29:34.645467"
     }
   ],
   "baseline": {
@@ -2469,7 +2475,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 181,
+        "pj": 182,
         "g": 10,
         "inici": "2022",
         "final": "2026"
@@ -9002,7 +9008,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 121,
+        "pj": 122,
         "g": 5,
         "inici": "2022",
         "final": "2026"
@@ -21382,7 +21388,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:11:48",
+  "ultima_actualitzacio": "22:29:38",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
