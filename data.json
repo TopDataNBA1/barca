@@ -1665,6 +1665,12 @@
       "tipus": "programada",
       "hora": "20:01",
       "ts": "2026-04-04T19:57:30.848814"
+    },
+    {
+      "text": "40è partit de Lliga per a João Cancelo amb el Barça. Supera Montesinos (1963-1967), Vítor Baía (1996-1999) i Song (2012-2014). Empata amb Albaladejo (1974-1981), Witschge (1991-1993) i Larsson (2004-2006) en el ➡️ 266è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:02",
+      "ts": "2026-04-04T19:57:30.848814"
     }
   ],
   "baseline": {
@@ -21256,13 +21262,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:01:31",
+  "ultima_actualitzacio": "20:02:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 58m 12s",
-    "kickoff_ts": 1775329200
+    "compte_enrere": "0d 0h 56m 57s",
+    "kickoff_ts": 1775329199
   }
 }
