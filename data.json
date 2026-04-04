@@ -1809,6 +1809,12 @@
       "tipus": "programada",
       "hora": "22:45",
       "ts": "2026-04-04T22:45:34.600056"
+    },
+    {
+      "text": "112è partit de Lliga per a Gavi amb el Barça. Supera Eulogio Martínez (1956-1962) i Reina (1965-1973). Empata amb Martín (1939-1948) en el ➡️ 119è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:46",
+      "ts": "2026-04-04T22:45:34.600056"
     }
   ],
   "baseline": {
@@ -21400,7 +21406,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:45:38",
+  "ultima_actualitzacio": "22:46:39",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
