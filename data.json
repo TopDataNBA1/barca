@@ -1761,6 +1761,12 @@
       "tipus": "programada",
       "hora": "20:17",
       "ts": "2026-04-04T19:57:30.898793"
+    },
+    {
+      "text": "30è partit oficial per a Bernal amb el Barça. Supera Areso (1935-1936), Marinho (1974-1976), Valverde (1988-1990), De Jong (2021-2022) i Pau Víctor (2023-2025). Empata amb Sampedro (1955-1959), Cuenca (2011-2014), Pjanić (2020-2023) i Fort (2023-2025) en el ➡️ 368è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:42",
+      "ts": "2026-04-04T21:42:52.957118"
     }
   ],
   "baseline": {
@@ -4169,7 +4175,7 @@
       "Marcus Rashford": {
         "alias": "Rashford",
         "pj": 39,
-        "g": 10,
+        "g": 11,
         "inici": "2025",
         "final": "2026"
       },
@@ -4602,7 +4608,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 29,
+        "pj": 30,
         "g": 5,
         "inici": "2024",
         "final": "2026"
@@ -10702,7 +10708,7 @@
       "Marcus Rashford": {
         "alias": "Rashford",
         "pj": 24,
-        "g": 4,
+        "g": 5,
         "inici": "2025",
         "final": "2026"
       },
@@ -11114,7 +11120,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 18,
+        "pj": 19,
         "g": 2,
         "inici": "2024",
         "final": "2026"
@@ -21352,7 +21358,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:17:33",
+  "ultima_actualitzacio": "21:42:53",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
