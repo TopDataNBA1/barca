@@ -1785,6 +1785,12 @@
       "tipus": "programada",
       "hora": "21:43",
       "ts": "2026-04-04T21:42:52.957118"
+    },
+    {
+      "text": "198è partit oficial per a Ferran Torres amb el Barça. Supera Velasco (1942-1955) i ara ocupa el ➡️ 82è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:11",
+      "ts": "2026-04-04T22:11:44.120590"
     }
   ],
   "baseline": {
@@ -2393,7 +2399,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 197,
+        "pj": 198,
         "g": 60,
         "inici": "2021",
         "final": "2026"
@@ -8891,7 +8897,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 132,
+        "pj": 133,
         "g": 37,
         "inici": "2021",
         "final": "2026"
@@ -21376,7 +21382,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:43:58",
+  "ultima_actualitzacio": "22:11:48",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
