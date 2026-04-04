@@ -1689,6 +1689,12 @@
       "tipus": "programada",
       "hora": "20:05",
       "ts": "2026-04-04T19:57:30.861810"
+    },
+    {
+      "text": "158è partit oficial per a Eric Garcia amb el Barça. Supera Calderé (1983-1988). Empata amb Ramos (1976-1982) en el ➡️ 121è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:06",
+      "ts": "2026-04-04T19:57:30.867808"
     }
   ],
   "baseline": {
@@ -21280,13 +21286,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:05:31",
+  "ultima_actualitzacio": "20:06:32",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 53m 54s",
-    "kickoff_ts": 1775329200
+    "compte_enrere": "0d 0h 52m 40s",
+    "kickoff_ts": 1775329199
   }
 }
