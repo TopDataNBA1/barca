@@ -1653,6 +1653,12 @@
       "tipus": "programada",
       "hora": "19:59",
       "ts": "2026-04-04T19:57:30.841817"
+    },
+    {
+      "text": "53è partit de Lliga per a Gerard Martín amb el Barça. Empata amb Piera (1928-1933) i Paco Martínez (1976-1982) en el ➡️ 223è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-04-04T19:57:30.841817"
     }
   ],
   "baseline": {
@@ -21244,13 +21250,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:59:31",
+  "ultima_actualitzacio": "20:00:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 1h 0m 2s",
-    "kickoff_ts": 1775329200
+    "compte_enrere": "0d 0h 59m 25s",
+    "kickoff_ts": 1775329199
   }
 }
