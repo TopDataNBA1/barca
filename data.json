@@ -1725,6 +1725,12 @@
       "tipus": "programada",
       "hora": "20:11",
       "ts": "2026-04-04T19:57:30.879799"
+    },
+    {
+      "text": "78è partit oficial per a Dani Olmo amb el Barça. Empata amb Archibald (1984-1987) i André Gomes (2016-2018) en el ➡️ 223è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:12",
+      "ts": "2026-04-04T19:57:30.886798"
     }
   ],
   "baseline": {
@@ -21316,13 +21322,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:11:32",
+  "ultima_actualitzacio": "20:12:32",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 48m 23s",
+    "compte_enrere": "0d 0h 47m 46s",
     "kickoff_ts": 1775329200
   }
 }
