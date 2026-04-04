@@ -1695,6 +1695,12 @@
       "tipus": "programada",
       "hora": "20:06",
       "ts": "2026-04-04T19:57:30.867808"
+    },
+    {
+      "text": "109è partit de Lliga per a Eric Garcia amb el Barça. Empata amb Balde (2021-2026) en el ➡️ 124è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-04-04T19:57:30.867808"
     }
   ],
   "baseline": {
@@ -21286,13 +21292,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:06:32",
+  "ultima_actualitzacio": "20:07:32",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 52m 40s",
+    "compte_enrere": "0d 0h 52m 3s",
     "kickoff_ts": 1775329199
   }
 }
