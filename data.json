@@ -1821,6 +1821,12 @@
       "tipus": "programada",
       "hora": "22:47",
       "ts": "2026-04-04T22:45:34.673037"
+    },
+    {
+      "text": "127è partit de Lliga per a Lewandowski amb el Barça. Supera Goikoetxea (1990-1994). Empata amb Oleguer (2001-2008) i Dembélé (2017-2023) en el ➡️ 96è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:48",
+      "ts": "2026-04-04T22:45:34.673037"
     }
   ],
   "baseline": {
@@ -21412,7 +21418,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:47:39",
+  "ultima_actualitzacio": "22:48:39",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
