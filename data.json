@@ -1827,6 +1827,18 @@
       "tipus": "programada",
       "hora": "22:48",
       "ts": "2026-04-04T22:45:34.673037"
+    },
+    {
+      "text": "⚽ 118è gol de Lewandowski amb el Barça. Supera Stoichkov (1990-1998) i ara ocupa el ➡️ 11è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:54",
+      "ts": "2026-04-04T22:54:49.737680"
+    },
+    {
+      "text": "⚽ 81è gol de Lewandowski a la Lliga amb el Barça. Empata amb Rexach (1964-1981) en el ➡️ 12è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:54",
+      "ts": "2026-04-04T22:54:49.737680"
     }
   ],
   "baseline": {
@@ -2513,7 +2525,7 @@
       "Robert Lewandowski": {
         "alias": "Lewandowski",
         "pj": 184,
-        "g": 117,
+        "g": 118,
         "inici": "2022",
         "final": "2026"
       },
@@ -8983,7 +8995,7 @@
       "Robert Lewandowski": {
         "alias": "Lewandowski",
         "pj": 127,
-        "g": 80,
+        "g": 81,
         "inici": "2022",
         "final": "2026"
       },
@@ -21418,7 +21430,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:48:39",
+  "ultima_actualitzacio": "22:54:56",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
