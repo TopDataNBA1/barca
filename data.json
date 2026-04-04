@@ -1719,6 +1719,12 @@
       "tipus": "programada",
       "hora": "20:10",
       "ts": "2026-04-04T19:57:30.879799"
+    },
+    {
+      "text": "158è partit de Lliga per a Pedri amb el Barça. Supera Rivaldo (1997-2002) i ara ocupa el ➡️ 71è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:11",
+      "ts": "2026-04-04T19:57:30.879799"
     }
   ],
   "baseline": {
@@ -21310,13 +21316,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:10:32",
+  "ultima_actualitzacio": "20:11:32",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 49m 36s",
-    "kickoff_ts": 1775329199
+    "compte_enrere": "0d 0h 48m 23s",
+    "kickoff_ts": 1775329200
   }
 }
