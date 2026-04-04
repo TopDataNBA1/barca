@@ -1803,6 +1803,12 @@
       "tipus": "programada",
       "hora": "22:30",
       "ts": "2026-04-04T22:29:34.645467"
+    },
+    {
+      "text": "157è partit oficial per a Gavi amb el Barça. Supera Manolo (1978-1988). Empata amb Calderé (1983-1988) en el ➡️ 122è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:45",
+      "ts": "2026-04-04T22:45:34.600056"
     }
   ],
   "baseline": {
@@ -2488,7 +2494,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 183,
+        "pj": 184,
         "g": 117,
         "inici": "2022",
         "final": "2026"
@@ -2670,7 +2676,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 156,
+        "pj": 157,
         "g": 10,
         "inici": "2021",
         "final": "2026"
@@ -8958,7 +8964,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 126,
+        "pj": 127,
         "g": 80,
         "inici": "2022",
         "final": "2026"
@@ -9112,7 +9118,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 111,
+        "pj": 112,
         "g": 6,
         "inici": "2021",
         "final": "2026"
@@ -21394,7 +21400,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:30:38",
+  "ultima_actualitzacio": "22:45:38",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
