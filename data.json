@@ -1677,6 +1677,12 @@
       "tipus": "programada",
       "hora": "20:03",
       "ts": "2026-04-04T19:57:30.854813"
+    },
+    {
+      "text": "80è partit de Lliga per a Cubarsí amb el Barça. Supera Busquets (1990-1999). Empata amb Henry (2007-2010) en el ➡️ 163è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:04",
+      "ts": "2026-04-04T19:57:30.854813"
     }
   ],
   "baseline": {
@@ -21268,13 +21274,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:03:31",
+  "ultima_actualitzacio": "20:04:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 55m 44s",
-    "kickoff_ts": 1775329200
+    "compte_enrere": "0d 0h 55m 7s",
+    "kickoff_ts": 1775329199
   }
 }
