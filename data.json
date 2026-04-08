@@ -1899,6 +1899,12 @@
       "tipus": "programada",
       "hora": "19:59",
       "ts": "2026-04-08T19:51:36.333013"
+    },
+    {
+      "text": "25è partit de Champions per a Cubarsí amb el Barça. Supera Alexis Sánchez (2011-2014), Semedo (2017-2020) i Gavi (2021-2025). Empata amb Eusebio (1991-1995), Hesp (1997-2000) i Van Bronckhorst (2004-2007) en el ➡️ 64è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-04-08T19:51:36.333013"
     }
   ],
   "baseline": {
@@ -21490,13 +21496,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:59:39",
+  "ultima_actualitzacio": "20:00:39",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 1h 0m 25s",
+    "compte_enrere": "0d 0h 59m 48s",
     "kickoff_ts": 1775674799
   }
 }
