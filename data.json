@@ -1953,6 +1953,12 @@
       "tipus": "programada",
       "hora": "20:08",
       "ts": "2026-04-08T19:51:36.351008"
+    },
+    {
+      "text": "236è partit oficial per a Pedri amb el Barça. Supera Rivaldo (1997-2002) i ara ocupa el ➡️ 65è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:09",
+      "ts": "2026-04-08T19:51:36.355006"
     }
   ],
   "baseline": {
@@ -21544,13 +21550,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:08:40",
+  "ultima_actualitzacio": "20:09:40",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 51m 12s",
-    "kickoff_ts": 1775674800
+    "compte_enrere": "0d 0h 49m 58s",
+    "kickoff_ts": 1775674799
   }
 }
