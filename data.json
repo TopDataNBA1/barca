@@ -1875,6 +1875,12 @@
       "tipus": "programada",
       "hora": "19:55",
       "ts": "2026-04-08T19:51:36.325016"
+    },
+    {
+      "text": "13è partit de Champions per a João Cancelo amb el Barça. Supera Vergés (1959-1961), Villaverde (1959-1961), Alexanco (1985-1993), Julio Salinas (1991-1994), Song (2012-2014), Mathieu (2014-2017) i Szczęsny (2024-2026). Empata amb Segarra (1959-1961), Iván Iglesias (1993-1995), Simão (1999-2001), Edmílson (2004-2008), Zambrotta (2006-2008) i Arthur (2018-2020) en el ➡️ 109è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "19:56",
+      "ts": "2026-04-08T19:51:36.325016"
     }
   ],
   "baseline": {
@@ -21466,13 +21472,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:55:39",
+  "ultima_actualitzacio": "19:56:39",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 1h 3m 29s",
+    "compte_enrere": "0d 1h 2m 52s",
     "kickoff_ts": 1775674799
   }
 }
