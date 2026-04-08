@@ -1923,6 +1923,12 @@
       "tipus": "programada",
       "hora": "20:03",
       "ts": "2026-04-08T19:51:36.342010"
+    },
+    {
+      "text": "27è partit de Champions per a Eric Garcia amb el Barça. Supera Figo (1997-2000), Villa (2010-2013) i Fàbregas (2011-2014). Empata amb Zubizarreta (1991-1994), Saviola (2001-2007), Oleguer (2002-2008) i Bojan (2007-2011) en el ➡️ 56è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "20:04",
+      "ts": "2026-04-08T19:51:36.342010"
     }
   ],
   "baseline": {
@@ -21514,13 +21520,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:03:39",
+  "ultima_actualitzacio": "20:04:40",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 56m 7s",
-    "kickoff_ts": 1775674799
+    "compte_enrere": "0d 0h 55m 31s",
+    "kickoff_ts": 1775674800
   }
 }
