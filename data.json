@@ -1881,6 +1881,18 @@
       "tipus": "programada",
       "hora": "19:56",
       "ts": "2026-04-08T19:51:36.325016"
+    },
+    {
+      "text": "183è partit oficial per a Koundé amb el Barça. Supera Marcos Alonso (1982-1987). Empata amb Neeskens (1974-1979) i Urruti (1981-1988) en el ➡️ 95è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:57",
+      "ts": "2026-04-08T19:51:36.329015"
+    },
+    {
+      "text": "33è partit de Champions per a Koundé amb el Barça. Supera Deco (2004-2008) i Lamine Yamal (2023-2026). Empata amb Motta (2001-2007), Lenglet (2018-2022), Araújo (2019-2026) i Raphinha (2022-2026) en el ➡️ 38è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "19:58",
+      "ts": "2026-04-08T19:51:36.329015"
     }
   ],
   "baseline": {
@@ -21472,13 +21484,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:56:39",
+  "ultima_actualitzacio": "19:58:39",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 1h 2m 52s",
-    "kickoff_ts": 1775674799
+    "compte_enrere": "0d 1h 1m 39s",
+    "kickoff_ts": 1775674800
   }
 }
