@@ -1863,6 +1863,12 @@
       "tipus": "programada",
       "hora": "19:53",
       "ts": "2026-04-08T19:51:36.320018"
+    },
+    {
+      "text": "19è partit de Champions per a Gerard Martín amb el Barça. Supera Ramallets (1959-1961), Rafinha (2011-2019), Coutinho (2018-2022), Vidal (2018-2020) i Casadó (2022-2026). Empata amb Goikoetxea (1991-1994) en el ➡️ 83è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "19:54",
+      "ts": "2026-04-08T19:51:36.320018"
     }
   ],
   "baseline": {
@@ -21454,13 +21460,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:53:38",
+  "ultima_actualitzacio": "19:54:39",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 1h 5m 56s",
-    "kickoff_ts": 1775674799
+    "compte_enrere": "0d 1h 4m 43s",
+    "kickoff_ts": 1775674800
   }
 }
