@@ -2007,6 +2007,12 @@
       "tipus": "programada",
       "hora": "22:36",
       "ts": "2026-04-08T22:36:08.497121"
+    },
+    {
+      "text": "32è partit de Champions per a Ferran Torres amb el Barça. Supera Ferrer (1991-1998). Empata amb Deco (2004-2008) i Lamine Yamal (2023-2026) en el ➡️ 42è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "22:37",
+      "ts": "2026-04-08T22:36:08.497121"
     }
   ],
   "baseline": {
@@ -21598,7 +21604,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:36:12",
+  "ultima_actualitzacio": "22:37:12",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
