@@ -1989,6 +1989,12 @@
       "tipus": "programada",
       "hora": "22:08",
       "ts": "2026-04-08T22:07:49.458858"
+    },
+    {
+      "text": "158è partit oficial per a Gavi amb el Barça. Supera Calderé (1983-1988). Empata amb Ramos (1976-1982) en el ➡️ 121è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:09",
+      "ts": "2026-04-08T22:07:49.528834"
     }
   ],
   "baseline": {
@@ -21580,7 +21586,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:08:52",
+  "ultima_actualitzacio": "22:09:52",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
