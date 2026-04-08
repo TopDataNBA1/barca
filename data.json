@@ -1941,6 +1941,12 @@
       "tipus": "programada",
       "hora": "20:06",
       "ts": "2026-04-08T19:51:36.346009"
+    },
+    {
+      "text": "40è partit oficial per a Rashford amb el Barça. Supera Alcántara (1912-1927), Luis García (1997-2004) i Romeu (2010-2024). Empata amb Anguera (1940-1942), Salva (1984-1989), Ćirić (1997-1999) i Szczęsny (2024-2026) en el ➡️ 321è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-04-08T19:51:36.351008"
     }
   ],
   "baseline": {
@@ -21532,13 +21538,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:06:40",
+  "ultima_actualitzacio": "20:07:40",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 53m 2s",
+    "compte_enrere": "0d 0h 52m 25s",
     "kickoff_ts": 1775674799
   }
 }
