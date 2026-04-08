@@ -2031,6 +2031,12 @@
       "tipus": "programada",
       "hora": "22:50",
       "ts": "2026-04-08T22:49:05.785703"
+    },
+    {
+      "text": "📋 08/04/2026 · CHAMPIONS · BARÇA - ATLETICO MADRID",
+      "tipus": "prioritaria",
+      "hora": "22:57",
+      "ts": "2026-04-08T22:57:16.813624"
     }
   ],
   "baseline": {
@@ -21622,8 +21628,8 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:50:08",
-  "match_status": "L",
+  "ultima_actualitzacio": "22:57:18",
+  "match_status": "C",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
