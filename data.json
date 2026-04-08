@@ -1851,6 +1851,12 @@
       "tipus": "programada",
       "hora": "19:51",
       "ts": "2026-04-08T19:51:36.315019"
+    },
+    {
+      "text": "8è partit de Champions per a Joan Garcia amb el Barça. Supera Czibor (1959-1961), Rexach (1974-1975), Neeskens (1974-1975), Asensi (1974-1975), Clares (1974-1975), Gerardo (1985-1986), Marcos Alonso (1985-1986), Afellay (2010-2012), Montoya (2011-2015), Cuenca (2011-2012), Aleñá (2016-2021), Digne (2016-2018), Trincão (2020-2021), Memphis (2021-2023) i Romeu (2023-2024). Empata amb Eulogio Martínez (1959-1960), Garay (1960-1961), De la Cruz (1974-1975), Rifé (1974-1975), Cruyff (1974-1975), Carrasco (1985-1986), Nando (1991-1992), Celades (1997-1999), Ćirić (1997-1999), Litmanen (1999-2001), Déhu (1999-2000), Pinto (2007-2014), Arda Turan (2015-2017), Iñaki Peña (2018-2025), Pjanić (2020-2021) i Marcos Alonso (2022-2024) en el ➡️ 154è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "19:52",
+      "ts": "2026-04-08T19:51:36.315019"
     }
   ],
   "baseline": {
@@ -21442,13 +21448,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:51:38",
+  "ultima_actualitzacio": "19:52:38",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 1h 7m 47s",
+    "compte_enrere": "0d 1h 7m 10s",
     "kickoff_ts": 1775674800
   }
 }
