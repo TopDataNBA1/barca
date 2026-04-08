@@ -2019,6 +2019,12 @@
       "tipus": "programada",
       "hora": "22:38",
       "ts": "2026-04-08T22:36:08.546105"
+    },
+    {
+      "text": "161è partit oficial per a Balde amb el Barça. Supera Lenglet (2018-2022). Empata amb Reina (1965-1973) i Deco (2004-2008) en el ➡️ 116è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:49",
+      "ts": "2026-04-08T22:49:05.785703"
     }
   ],
   "baseline": {
@@ -2844,7 +2850,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 160,
+        "pj": 161,
         "g": 3,
         "inici": "2021",
         "final": "2026"
@@ -14706,7 +14712,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 29,
+        "pj": 30,
         "g": 0,
         "inici": "2021",
         "final": "2026"
@@ -21610,7 +21616,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:38:12",
+  "ultima_actualitzacio": "22:49:08",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
