@@ -1965,6 +1965,12 @@
       "tipus": "programada",
       "hora": "20:10",
       "ts": "2026-04-08T19:51:36.355006"
+    },
+    {
+      "text": "185è partit oficial per a Lewandowski amb el Barça. Empata amb Dembélé (2017-2023) en el ➡️ 93è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:11",
+      "ts": "2026-04-08T19:51:36.360005"
     }
   ],
   "baseline": {
@@ -21556,13 +21562,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:10:40",
+  "ultima_actualitzacio": "20:11:40",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 48m 44s",
-    "kickoff_ts": 1775674799
+    "compte_enrere": "0d 0h 48m 8s",
+    "kickoff_ts": 1775674800
   }
 }
