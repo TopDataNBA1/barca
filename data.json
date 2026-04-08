@@ -1977,6 +1977,12 @@
       "tipus": "programada",
       "hora": "20:12",
       "ts": "2026-04-08T19:51:36.360005"
+    },
+    {
+      "text": "128è partit oficial per a Fermín amb el Barça. Supera Clares (1973-1979). Empata amb Sylvinho (2004-2009) en el ➡️ 146è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:07",
+      "ts": "2026-04-08T22:07:49.458858"
     }
   ],
   "baseline": {
@@ -2844,7 +2850,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 157,
+        "pj": 158,
         "g": 10,
         "inici": "2021",
         "final": "2026"
@@ -3054,7 +3060,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 127,
+        "pj": 128,
         "g": 31,
         "inici": "2023",
         "final": "2026"
@@ -14748,7 +14754,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 28,
+        "pj": 29,
         "g": 9,
         "inici": "2023",
         "final": "2026"
@@ -14797,7 +14803,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 24,
+        "pj": 25,
         "g": 1,
         "inici": "2021",
         "final": "2025"
@@ -21568,7 +21574,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:12:40",
+  "ultima_actualitzacio": "22:07:52",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
