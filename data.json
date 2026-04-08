@@ -1917,6 +1917,12 @@
       "tipus": "programada",
       "hora": "20:02",
       "ts": "2026-04-08T19:51:36.337012"
+    },
+    {
+      "text": "159è partit oficial per a Eric Garcia amb el Barça. Supera Ramos (1976-1982). Empata amb Zaballa (1961-1967) en el ➡️ 120è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:03",
+      "ts": "2026-04-08T19:51:36.342010"
     }
   ],
   "baseline": {
@@ -21508,13 +21514,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:02:39",
+  "ultima_actualitzacio": "20:03:39",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 57m 21s",
-    "kickoff_ts": 1775674800
+    "compte_enrere": "0d 0h 56m 7s",
+    "kickoff_ts": 1775674799
   }
 }
