@@ -2025,6 +2025,12 @@
       "tipus": "programada",
       "hora": "22:49",
       "ts": "2026-04-08T22:49:05.785703"
+    },
+    {
+      "text": "30è partit de Champions per a Balde amb el Barça. Supera Amor (1991-1998), Yaya Touré (2007-2010) i Fermín (2023-2026). Empata amb Stoichkov (1991-1998) i Dembélé (2017-2023) en el ➡️ 47è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "22:50",
+      "ts": "2026-04-08T22:49:05.785703"
     }
   ],
   "baseline": {
@@ -21616,7 +21622,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:49:08",
+  "ultima_actualitzacio": "22:50:08",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
