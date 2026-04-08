@@ -2013,6 +2013,12 @@
       "tipus": "programada",
       "hora": "22:37",
       "ts": "2026-04-08T22:36:08.497121"
+    },
+    {
+      "text": "34è partit de Champions per a Araújo amb el Barça. Supera Motta (2001-2007), Lenglet (2018-2022), Koundé (2022-2026) i Raphinha (2022-2026). Empata amb Koeman (1991-1995), Abelardo (1994-2002) i Adriano (2010-2016) en el ➡️ 35è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "22:38",
+      "ts": "2026-04-08T22:36:08.546105"
     }
   ],
   "baseline": {
@@ -21604,7 +21610,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:37:12",
+  "ultima_actualitzacio": "22:38:12",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
