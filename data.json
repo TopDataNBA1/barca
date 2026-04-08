@@ -2001,6 +2001,12 @@
       "tipus": "programada",
       "hora": "22:10",
       "ts": "2026-04-08T22:07:49.528834"
+    },
+    {
+      "text": "199è partit oficial per a Ferran Torres amb el Barça. Empata amb Gensana (1956-1966) i Eto'o (2004-2009) en el ➡️ 79è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:36",
+      "ts": "2026-04-08T22:36:08.497121"
     }
   ],
   "baseline": {
@@ -2553,7 +2559,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 205,
+        "pj": 206,
         "g": 13,
         "inici": "2019",
         "final": "2026"
@@ -2609,7 +2615,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 198,
+        "pj": 199,
         "g": 60,
         "inici": "2021",
         "final": "2026"
@@ -14639,7 +14645,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 33,
+        "pj": 34,
         "g": 1,
         "inici": "2019",
         "final": "2026"
@@ -14667,7 +14673,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 31,
+        "pj": 32,
         "g": 11,
         "inici": "2022",
         "final": "2026"
@@ -21592,7 +21598,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:10:52",
+  "ultima_actualitzacio": "22:36:12",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
