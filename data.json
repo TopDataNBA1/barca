@@ -1947,6 +1947,12 @@
       "tipus": "programada",
       "hora": "20:07",
       "ts": "2026-04-08T19:51:36.351008"
+    },
+    {
+      "text": "10è partit de Champions per a Rashford amb el Barça. Supera Rodri (1959-1961), Urruti (1985-1986), Julio Alberto (1985-1986), Víctor Muñoz (1985-1986), Busquets (1991-1998), Van Bommel (2005-2006), Hleb (2008-2009), Tello (2011-2014), Munir (2014-2019), Paulinho (2017-2018) i João Félix (2023-2024). Empata amb Kocsis (1959-1961), Juan Carlos (1991-1994), Witschge (1991-1993), Bogarde (1999-2000), Andersson (2001-2003), Coco (2001-2002), Thuram (2006-2008), Thiago Alcántara (2009-2013), Ibrahimović (2009-2010), Mingueza (2019-2022), Junior Firpo (2019-2021) i Gündoğan (2023-2024) en el ➡️ 130è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "20:08",
+      "ts": "2026-04-08T19:51:36.351008"
     }
   ],
   "baseline": {
@@ -21538,13 +21544,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:07:40",
+  "ultima_actualitzacio": "20:08:40",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 52m 25s",
-    "kickoff_ts": 1775674799
+    "compte_enrere": "0d 0h 51m 12s",
+    "kickoff_ts": 1775674800
   }
 }
