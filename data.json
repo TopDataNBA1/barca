@@ -1929,6 +1929,12 @@
       "tipus": "programada",
       "hora": "20:04",
       "ts": "2026-04-08T19:51:36.342010"
+    },
+    {
+      "text": "147è partit oficial per a Lamine Yamal amb el Barça. Supera Foncho (1960-1967). Empata amb Motta (2001-2007) en el ➡️ 131è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:05",
+      "ts": "2026-04-08T19:51:36.346009"
     }
   ],
   "baseline": {
@@ -21520,13 +21526,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:04:40",
+  "ultima_actualitzacio": "20:05:40",
   "match_status": "U",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Champions · Barça - Atletico Madrid",
-    "compte_enrere": "0d 0h 55m 31s",
+    "compte_enrere": "0d 0h 54m 17s",
     "kickoff_ts": 1775674800
   }
 }
