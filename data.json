@@ -1995,6 +1995,12 @@
       "tipus": "programada",
       "hora": "22:09",
       "ts": "2026-04-08T22:07:49.528834"
+    },
+    {
+      "text": "25è partit de Champions per a Gavi amb el Barça. Supera Alexis Sánchez (2011-2014) i Semedo (2017-2020). Empata amb Eusebio (1991-1995), Hesp (1997-2000), Van Bronckhorst (2004-2007) i Cubarsí (2023-2026) en el ➡️ 64è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "22:10",
+      "ts": "2026-04-08T22:07:49.528834"
     }
   ],
   "baseline": {
@@ -21586,7 +21592,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:09:52",
+  "ultima_actualitzacio": "22:10:52",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
