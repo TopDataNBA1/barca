@@ -1983,6 +1983,12 @@
       "tipus": "programada",
       "hora": "22:07",
       "ts": "2026-04-08T22:07:49.458858"
+    },
+    {
+      "text": "29è partit de Champions per a Fermín amb el Barça. Supera Begiristain (1991-1995), Bakero (1991-1995) i Henry (2007-2010). Empata amb Amor (1991-1998), Yaya Touré (2007-2010) i Balde (2021-2026) en el ➡️ 49è lloc històric del club a la Champions.",
+      "tipus": "programada",
+      "hora": "22:08",
+      "ts": "2026-04-08T22:07:49.458858"
     }
   ],
   "baseline": {
@@ -21574,7 +21580,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:07:52",
+  "ultima_actualitzacio": "22:08:52",
   "match_status": "L",
   "match_comp": "Champions",
   "match_rival": "Atletico Madrid",
