@@ -67,6 +67,7 @@
         .move-titol { background:linear-gradient(135deg,var(--grana),#7a0033) !important; border-left:none !important; box-shadow:0 0 18px rgba(165,0,68,0.6) !important; }
         .move-titol .move-text { color:#fff !important; font-family:'Orbitron',sans-serif; font-size:1em; letter-spacing:0.06em; font-weight:700; text-shadow:0 0 8px rgba(255,255,255,0.3); }
         .move-text { font-size:1.05em; line-height:1.65; color:var(--text); text-align:center; }
+        .collage-img { width:100%; max-width:600px; display:block; margin:0 auto 10px; border-radius:8px; }
         .dest  { color:var(--gold); font-weight:700; }
         .accio { color:var(--gold); font-weight:700; }
         .lloc  { color:var(--gold); font-weight:700; }
@@ -425,10 +426,10 @@
             // Restaurar "Lliga de Campions" com a bloc únic
             text = text.replace(/##LLDC##/g, '<span class="dest">Lliga de Campions</span>');
             // Nom jugador després de "per a"
-            text = text.replace(/per a ([A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'-]*(?: [A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'-]*)*)(\s+(?:amb\b|a la\b|al\b|en el\b)|[.,])/,
+            text = text.replace(/per a ([A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*(?: [A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*)*)(\s+(?:amb\b|a la\b|al\b|en el\b)|[.,])/,
                 function(m, nom, sep) { return 'per a <span class="dest">' + nom + '</span>' + sep; });
             // Nom golejador després de "gol de"
-            text = text.replace(/gol de ([A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'-]*(?: [A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'-]*)*)(\s+(?:amb\b|a la\b)|[.,])/,
+            text = text.replace(/gol de ([A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*(?: [A-ZÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ][\wÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÇÑ]*)*)(\s+(?:amb\b|a la\b)|[.,])/,
                 function(m, nom, sep) { return 'gol de <span class="dest">' + nom + '</span>' + sep; });
         }
         // Sempre: Supera/Empata
@@ -512,7 +513,11 @@
                             <div class="move-text">${text}</div>
                         </div>`;
                     }
+                    const collageHtml = n.collage
+                        ? `<img src="${n.collage}" class="collage-img" alt="" loading="lazy">`
+                        : '';
                     return `<div class="move-item">
+                        ${collageHtml}
                         <div class="move-text">${text}${quan ? '<span class="move-time"> ('+quan+')</span>' : ''}</div>
                         ${makeFooter(raw)}
                     </div>`;
