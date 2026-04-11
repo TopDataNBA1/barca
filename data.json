@@ -2149,6 +2149,13 @@
       "hora": "17:44",
       "ts": "2026-04-11T17:29:02.981633",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921342184963.webp"
+    },
+    {
+      "text": "83è partit de Lliga per a Fermín amb el Barça. Supera Rodri (1958-1966) i Semedo (2017-2020). Empata amb Brugué (1951-1960) en el ➡️ 158è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:45",
+      "ts": "2026-04-11T17:29:02.981633",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921342775738.webp"
     }
   ],
   "baseline": {
@@ -21740,13 +21747,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:44:01",
+  "ultima_actualitzacio": "17:45:02",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 46m 12s",
-    "kickoff_ts": 1775924999
+    "compte_enrere": "0d 0h 44m 59s",
+    "kickoff_ts": 1775925000
   }
 }
