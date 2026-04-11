@@ -2121,6 +2121,13 @@
       "hora": "17:40",
       "ts": "2026-04-11T17:29:01.167596",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921340938691.webp"
+    },
+    {
+      "text": "159è partit oficial per a Gavi amb el Barça. Supera Ramos (1976-1982). Empata amb Zaballa (1961-1967) en el ➡️ 120è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:41",
+      "ts": "2026-04-11T17:29:01.767319",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921341276540.webp"
     }
   ],
   "baseline": {
@@ -21712,13 +21719,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:40:01",
+  "ultima_actualitzacio": "17:41:01",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 49m 17s",
+    "compte_enrere": "0d 0h 48m 3s",
     "kickoff_ts": 1775925000
   }
 }
