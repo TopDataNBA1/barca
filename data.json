@@ -2128,6 +2128,13 @@
       "hora": "17:41",
       "ts": "2026-04-11T17:29:01.767319",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921341276540.webp"
+    },
+    {
+      "text": "113è partit de Lliga per a Gavi amb el Barça. Supera Martín (1939-1948). Empata amb Deco (2004-2008) en el ➡️ 118è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:42",
+      "ts": "2026-04-11T17:29:01.767319",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921341583403.webp"
     }
   ],
   "baseline": {
@@ -21719,13 +21726,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:41:01",
+  "ultima_actualitzacio": "17:42:01",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 48m 3s",
+    "compte_enrere": "0d 0h 47m 26s",
     "kickoff_ts": 1775925000
   }
 }
