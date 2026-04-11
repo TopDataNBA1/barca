@@ -2289,6 +2289,20 @@
       "hora": "20:20",
       "ts": "2026-04-11T20:20:07.686863",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775931607465952.webp"
+    },
+    {
+      "text": "⚽ 47è gol de Lamine Yamal amb el Barça. Supera Alexis Sánchez (2011-2014). Empata amb Seguer (1943-1957), Robert (1986-1990) i Ronaldo (1996-1997) en el ➡️ 54è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "20:23",
+      "ts": "2026-04-11T20:23:52.602410",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775931831422971.webp"
+    },
+    {
+      "text": "⚽ 29è gol de Lamine Yamal a la Lliga amb el Barça. Supera Zaballa (1961-1967), Marcos Alonso (1982-1987) i Fàbregas (2011-2014). Empata amb Piqué (2008-2023) en el ➡️ 65è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "20:23",
+      "ts": "2026-04-11T20:23:52.602410",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775931832377485.webp"
     }
   ],
   "baseline": {
@@ -3255,7 +3269,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 148,
-        "g": 46,
+        "g": 47,
         "inici": "2022",
         "final": "2026"
       },
@@ -9718,7 +9732,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 99,
-        "g": 28,
+        "g": 29,
         "inici": "2022",
         "final": "2026"
       },
@@ -21880,7 +21894,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:20:07",
+  "ultima_actualitzacio": "20:23:55",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
