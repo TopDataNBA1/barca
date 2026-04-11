@@ -2268,6 +2268,13 @@
       "hora": "20:05",
       "ts": "2026-04-11T20:02:11.702990",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775930531450074.webp"
+    },
+    {
+      "text": "75è partit oficial per a Dani Olmo amb el Barça. Supera Alfonseda (1969-1973) i Bonano (2001-2004). Empata amb Nicolau (1948-1952) i Claudio Bravo (2014-2017) en el ➡️ 228è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:10",
+      "ts": "2026-04-11T20:10:14.648802",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775931013942753.webp"
     }
   ],
   "baseline": {
@@ -3940,7 +3947,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 74,
+        "pj": 75,
         "g": 19,
         "inici": "2024",
         "final": "2026"
@@ -10459,7 +10466,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 47,
+        "pj": 48,
         "g": 16,
         "inici": "2024",
         "final": "2026"
@@ -21859,7 +21866,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:05:57",
+  "ultima_actualitzacio": "20:10:17",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
