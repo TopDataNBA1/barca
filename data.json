@@ -2226,6 +2226,13 @@
       "hora": "19:41",
       "ts": "2026-04-11T19:40:31.136235",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775929230913323.webp"
+    },
+    {
+      "text": "56è partit oficial per a João Cancelo amb el Barça. Supera Ronald de Boer (1998-2000) i Arda Turan (2015-2018). Empata amb Carulla (1923-1930), Gracia (1939-1943) i Munir (2014-2019) en el ➡️ 277è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-04-11T20:00:56.031502",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775930455527519.webp"
     }
   ],
   "baseline": {
@@ -4318,7 +4325,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 55,
+        "pj": 56,
         "g": 5,
         "inici": "2023",
         "final": "2026"
@@ -10648,7 +10655,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 39,
+        "pj": 40,
         "g": 3,
         "inici": "2023",
         "final": "2026"
@@ -21817,7 +21824,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:41:31",
+  "ultima_actualitzacio": "20:00:57",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
