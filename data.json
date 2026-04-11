@@ -2100,6 +2100,13 @@
       "hora": "17:37",
       "ts": "2026-04-11T17:29:00.364946",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921339781207.webp"
+    },
+    {
+      "text": "138è partit de Lliga per a Araújo amb el Barça. Empata amb Raich (1934-1945) en el ➡️ 90è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:38",
+      "ts": "2026-04-11T17:29:00.364946",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921340146063.webp"
     }
   ],
   "baseline": {
@@ -21691,13 +21698,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:37:01",
+  "ultima_actualitzacio": "17:38:01",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 52m 20s",
-    "kickoff_ts": 1775925000
+    "compte_enrere": "0d 0h 51m 43s",
+    "kickoff_ts": 1775924999
   }
 }
