@@ -2170,6 +2170,13 @@
       "hora": "17:47",
       "ts": "2026-04-11T17:29:03.701312",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921343479410.webp"
+    },
+    {
+      "text": "148è partit oficial per a Lamine Yamal amb el Barça. Supera Motta (2001-2007) i ara ocupa el ➡️ 131è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:48",
+      "ts": "2026-04-11T17:29:04.377007",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921343811261.webp"
     }
   ],
   "baseline": {
@@ -21761,13 +21768,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:47:02",
+  "ultima_actualitzacio": "17:48:02",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 43m 9s",
+    "compte_enrere": "0d 0h 41m 55s",
     "kickoff_ts": 1775925000
   }
 }
