@@ -2107,6 +2107,13 @@
       "hora": "17:38",
       "ts": "2026-04-11T17:29:00.364946",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921340146063.webp"
+    },
+    {
+      "text": "160è partit oficial per a Eric Garcia amb el Barça. Supera Zaballa (1961-1967) i Gavi (2021-2026). Empata amb Lenglet (2018-2022) en el ➡️ 119è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:39",
+      "ts": "2026-04-11T17:29:01.167596",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921340595857.webp"
     }
   ],
   "baseline": {
@@ -21698,13 +21705,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:38:01",
+  "ultima_actualitzacio": "17:39:01",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 51m 43s",
-    "kickoff_ts": 1775924999
+    "compte_enrere": "0d 0h 50m 30s",
+    "kickoff_ts": 1775925000
   }
 }
