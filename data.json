@@ -2282,6 +2282,13 @@
       "hora": "20:11",
       "ts": "2026-04-11T20:10:14.648802",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775931014422876.webp"
+    },
+    {
+      "text": "291è partit oficial per a De Jong amb el Barça. Supera Eusebio (1988-1995) i ara ocupa el ➡️ 44è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:20",
+      "ts": "2026-04-11T20:20:07.686863",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775931607465952.webp"
     }
   ],
   "baseline": {
@@ -2596,7 +2603,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 290,
+        "pj": 291,
         "g": 20,
         "inici": "2019",
         "final": "2026"
@@ -9080,7 +9087,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 196,
+        "pj": 197,
         "g": 15,
         "inici": "2019",
         "final": "2026"
@@ -21873,7 +21880,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:11:17",
+  "ultima_actualitzacio": "20:20:07",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
