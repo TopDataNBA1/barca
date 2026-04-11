@@ -2212,6 +2212,13 @@
       "hora": "19:00",
       "ts": "2026-04-11T19:00:28.262291",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775926828033394.webp"
+    },
+    {
+      "text": "70è partit oficial per a Casadó amb el Barça. Supera Martín (1949-1954). Empata amb Franco (1934-1944), Miró (1939-1943), Sotil (1973-1977) i Simão (1999-2001) en el ➡️ 241è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:40",
+      "ts": "2026-04-11T19:40:31.136235",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775929230593916.webp"
     }
   ],
   "baseline": {
@@ -3961,7 +3968,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 69,
+        "pj": 70,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -10515,7 +10522,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 44,
+        "pj": 45,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -21803,7 +21810,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:00:34",
+  "ultima_actualitzacio": "19:40:31",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
