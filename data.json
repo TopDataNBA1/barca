@@ -2114,6 +2114,13 @@
       "hora": "17:39",
       "ts": "2026-04-11T17:29:01.167596",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921340595857.webp"
+    },
+    {
+      "text": "110è partit de Lliga per a Eric Garcia amb el Barça. Empata amb Calderé (1983-1988) i Balde (2021-2026) en el ➡️ 123è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:40",
+      "ts": "2026-04-11T17:29:01.167596",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921340938691.webp"
     }
   ],
   "baseline": {
@@ -21705,13 +21712,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:39:01",
+  "ultima_actualitzacio": "17:40:01",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 50m 30s",
+    "compte_enrere": "0d 0h 49m 17s",
     "kickoff_ts": 1775925000
   }
 }
