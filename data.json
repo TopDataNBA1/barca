@@ -2198,6 +2198,20 @@
       "hora": "18:44",
       "ts": "2026-04-11T18:44:30.265022",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775925870065091.webp"
+    },
+    {
+      "text": "⚽ 62è gol de Ferran Torres amb el Barça. Empata amb Marcial (1969-1977) en el ➡️ 43è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "19:00",
+      "ts": "2026-04-11T19:00:28.262291",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775926827697501.webp"
+    },
+    {
+      "text": "⚽ 39è gol de Ferran Torres a la Lliga amb el Barça. Supera Seguer (1943-1957) i Alexis Sánchez (2011-2014). Empata amb Moreno (1951-1956) i Laudrup (1989-1994) en el ➡️ 46è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "19:00",
+      "ts": "2026-04-11T19:00:28.262291",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775926828033394.webp"
     }
   ],
   "baseline": {
@@ -2807,7 +2821,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 200,
-        "g": 61,
+        "g": 62,
         "inici": "2021",
         "final": "2026"
       },
@@ -9305,7 +9319,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 134,
-        "g": 38,
+        "g": 39,
         "inici": "2021",
         "final": "2026"
       },
@@ -21789,7 +21803,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:44:35",
+  "ultima_actualitzacio": "19:00:34",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
