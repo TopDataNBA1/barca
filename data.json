@@ -2051,6 +2051,13 @@
       "hora": "17:30",
       "ts": "2026-04-11T17:28:57.748765",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921337491892.webp"
+    },
+    {
+      "text": "162è partit oficial per a Balde amb el Barça. Supera Reina (1965-1973) i Deco (2004-2008). Empata amb Eulogio Martínez (1956-1962) en el ➡️ 115è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:31",
+      "ts": "2026-04-11T17:28:58.403499",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921337870748.webp"
     }
   ],
   "baseline": {
@@ -21642,13 +21649,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:30:00",
+  "ultima_actualitzacio": "17:31:00",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 59m 42s",
+    "compte_enrere": "0d 0h 59m 5s",
     "kickoff_ts": 1775925000
   }
 }
