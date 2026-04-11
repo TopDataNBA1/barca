@@ -2065,6 +2065,13 @@
       "hora": "17:32",
       "ts": "2026-04-11T17:28:58.403499",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921338218587.webp"
+    },
+    {
+      "text": "85è partit oficial per a Gerard Martín amb el Barça. Supera Guzmán (1927-1935). Empata amb Goiburu (1929-1934), Pichi Alonso (1982-1986), López Rekarte (1988-1991), Dani (1999-2004) i Zambrotta (2006-2008) en el ➡️ 208è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:33",
+      "ts": "2026-04-11T17:28:59.073526",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921338529781.webp"
     }
   ],
   "baseline": {
@@ -21656,13 +21663,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:32:00",
+  "ultima_actualitzacio": "17:33:00",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 57m 51s",
-    "kickoff_ts": 1775925000
+    "compte_enrere": "0d 0h 56m 37s",
+    "kickoff_ts": 1775924999
   }
 }
