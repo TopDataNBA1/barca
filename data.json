@@ -2317,6 +2317,12 @@
       "hora": "20:25",
       "ts": "2026-04-11T20:25:07.488872",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775931907264933.webp"
+    },
+    {
+      "text": "📋 11/04/2026 · LLIGA · BARÇA - ESPANYOL",
+      "tipus": "prioritaria",
+      "hora": "20:32",
+      "ts": "2026-04-11T20:32:06.890458"
     }
   ],
   "baseline": {
@@ -21908,13 +21914,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:25:14",
-  "match_status": "L",
-  "match_comp": "Lliga",
-  "match_rival": "Espanyol",
+  "ultima_actualitzacio": "20:32:11",
+  "match_status": "U",
+  "match_comp": "Champions",
+  "match_rival": "Atletico Madrid",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1775925317
+    "descripcio": "Champions · Barça - Atletico Madrid",
+    "compte_enrere": "3d 0h 27m 28s",
+    "kickoff_ts": 1776193200
   }
 }
