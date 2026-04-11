@@ -2093,6 +2093,13 @@
       "hora": "17:36",
       "ts": "2026-04-11T17:28:59.678253",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921339482362.webp"
+    },
+    {
+      "text": "207è partit oficial per a Araújo amb el Barça. Empata amb Ronaldinho (2003-2008) en el ➡️ 76è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:37",
+      "ts": "2026-04-11T17:29:00.364946",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921339781207.webp"
     }
   ],
   "baseline": {
@@ -21684,13 +21691,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:36:01",
+  "ultima_actualitzacio": "17:37:01",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 53m 33s",
-    "kickoff_ts": 1775924999
+    "compte_enrere": "0d 0h 52m 20s",
+    "kickoff_ts": 1775925000
   }
 }
