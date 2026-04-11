@@ -2233,6 +2233,13 @@
       "hora": "20:00",
       "ts": "2026-04-11T20:00:56.031502",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775930455527519.webp"
+    },
+    {
+      "text": "40è partit de Lliga per a João Cancelo amb el Barça. Supera Montesinos (1963-1967), Vítor Baía (1996-1999) i Song (2012-2014). Empata amb Albaladejo (1974-1981), Witschge (1991-1993) i Larsson (2004-2006) en el ➡️ 266è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-04-11T20:00:56.031502",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775930455821566.webp"
     }
   ],
   "baseline": {
@@ -4325,7 +4332,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 56,
+        "pj": 57,
         "g": 5,
         "inici": "2023",
         "final": "2026"
@@ -4640,7 +4647,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 40,
+        "pj": 41,
         "g": 11,
         "inici": "2025",
         "final": "2026"
@@ -10655,7 +10662,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 40,
+        "pj": 41,
         "g": 3,
         "inici": "2023",
         "final": "2026"
@@ -11173,7 +11180,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 24,
+        "pj": 25,
         "g": 5,
         "inici": "2025",
         "final": "2026"
@@ -21824,7 +21831,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:00:57",
+  "ultima_actualitzacio": "20:01:57",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
