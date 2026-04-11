@@ -2037,6 +2037,13 @@
       "tipus": "prioritaria",
       "hora": "22:57",
       "ts": "2026-04-08T22:57:16.813624"
+    },
+    {
+      "text": "38è partit oficial per a Joan Garcia amb el Barça. Supera Hughes (1986-1987) i Nico (2021-2022). Empata amb Ramírez (1979-1982), Canito (1979-1981), Blanc (1996-1997), Alfonso (2000-2002), Petit (2000-2001), Van Bommel (2005-2007) i Giovani dos Santos (2006-2008) en el ➡️ 329è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:29",
+      "ts": "2026-04-11T17:28:57.748765",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921336742228.webp"
     }
   ],
   "baseline": {
@@ -2498,7 +2505,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 236,
+        "pj": 237,
         "g": 28,
         "inici": "2020",
         "final": "2026"
@@ -2589,7 +2596,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 206,
+        "pj": 207,
         "g": 13,
         "inici": "2019",
         "final": "2026"
@@ -2645,7 +2652,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 199,
+        "pj": 200,
         "g": 60,
         "inici": "2021",
         "final": "2026"
@@ -2862,7 +2869,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 161,
+        "pj": 162,
         "g": 3,
         "inici": "2021",
         "final": "2026"
@@ -2897,14 +2904,14 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 159,
+        "pj": 160,
         "g": 7,
         "inici": "2021",
         "final": "2026"
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 158,
+        "pj": 159,
         "g": 10,
         "inici": "2021",
         "final": "2026"
@@ -3002,7 +3009,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 147,
+        "pj": 148,
         "g": 46,
         "inici": "2022",
         "final": "2026"
@@ -3114,7 +3121,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 128,
+        "pj": 129,
         "g": 31,
         "inici": "2023",
         "final": "2026"
@@ -3184,7 +3191,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 121,
+        "pj": 122,
         "g": 2,
         "inici": "2023",
         "final": "2026"
@@ -3597,7 +3604,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 84,
+        "pj": 85,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -4619,7 +4626,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 37,
+        "pj": 38,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -8989,7 +8996,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 157,
+        "pj": 158,
         "g": 22,
         "inici": "2020",
         "final": "2026"
@@ -9129,7 +9136,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 137,
+        "pj": 138,
         "g": 10,
         "inici": "2019",
         "final": "2026"
@@ -9143,7 +9150,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 133,
+        "pj": 134,
         "g": 37,
         "inici": "2021",
         "final": "2026"
@@ -9346,14 +9353,14 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 112,
+        "pj": 113,
         "g": 6,
         "inici": "2021",
         "final": "2026"
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 109,
+        "pj": 110,
         "g": 1,
         "inici": "2021",
         "final": "2026"
@@ -9367,7 +9374,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 109,
+        "pj": 110,
         "g": 4,
         "inici": "2021",
         "final": "2026"
@@ -9465,7 +9472,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 98,
+        "pj": 99,
         "g": 28,
         "inici": "2022",
         "final": "2026"
@@ -9633,7 +9640,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 82,
+        "pj": 83,
         "g": 19,
         "inici": "2023",
         "final": "2026"
@@ -9682,7 +9689,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 79,
+        "pj": 80,
         "g": 1,
         "inici": "2023",
         "final": "2026"
@@ -10123,7 +10130,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 52,
+        "pj": 53,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -11103,7 +11110,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 23,
+        "pj": 24,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -21628,13 +21635,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:57:18",
+  "ultima_actualitzacio": "17:29:00",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 1h 2m 17s",
+    "compte_enrere": "0d 1h 1m 4s",
     "kickoff_ts": 1775925000
   }
 }
