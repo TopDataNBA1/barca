@@ -2079,6 +2079,13 @@
       "hora": "17:34",
       "ts": "2026-04-11T17:28:59.073526",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921338875613.webp"
+    },
+    {
+      "text": "122è partit oficial per a Cubarsí amb el Barça. Supera Rosalén (1939-1946) i Henry (2007-2010) i ara ocupa el ➡️ 155è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:35",
+      "ts": "2026-04-11T17:28:59.678253",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1775921339188486.webp"
     }
   ],
   "baseline": {
@@ -21670,13 +21677,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:34:00",
+  "ultima_actualitzacio": "17:35:00",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Espanyol",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Espanyol",
-    "compte_enrere": "0d 0h 55m 24s",
-    "kickoff_ts": 1775925000
+    "compte_enrere": "0d 0h 54m 47s",
+    "kickoff_ts": 1775924999
   }
 }
