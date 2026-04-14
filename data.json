@@ -497,6 +497,20 @@
       "hora": "21:06",
       "ts": "2026-04-14T21:06:23.389251",
       "collage": "collages/collage_1776193583163340.webp"
+    },
+    {
+      "text": "⚽ 63è gol de Ferran Torres amb el Barça. Supera Marcial (1969-1977) i ara ocupa el ➡️ 43è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "21:24",
+      "ts": "2026-04-14T21:24:51.436289",
+      "collage": "collages/collage_1776194690917155.webp"
+    },
+    {
+      "text": "⚽ 12è gol de Ferran Torres a la Lliga de Campions amb el Barça. Supera Saviola (2001-2007) i Iniesta (2002-2018). Empata amb Xavi (1997-2015) en el ➡️ 14è lloc històric del club a la Lliga de Campions.",
+      "tipus": "prioritaria",
+      "hora": "21:24",
+      "ts": "2026-04-14T21:24:51.436289",
+      "collage": "collages/collage_1776194691271319.webp"
     }
   ],
   "baseline": {
@@ -1106,7 +1120,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 202,
-        "g": 62,
+        "g": 63,
         "inici": "2021",
         "final": "2026"
       },
@@ -13164,7 +13178,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 34,
-        "g": 11,
+        "g": 12,
         "inici": "2022",
         "final": "2026"
       },
@@ -20088,7 +20102,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:06:27",
+  "ultima_actualitzacio": "21:24:57",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
