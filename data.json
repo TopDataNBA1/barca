@@ -532,6 +532,13 @@
       "hora": "22:32",
       "ts": "2026-04-14T22:31:32.616762",
       "collage": "collages/collage_1776198692431830.webp"
+    },
+    {
+      "text": "42è partit oficial per a Rashford amb el Barça. Supera Cristóbal (1987-1992), Ezquerro (2005-2008) i Junior Firpo (2019-2021). Empata amb Amarillo (1976-1979), Riquelme (2002-2003), Trincão (2020-2021) i Memphis (2021-2023) en el ➡️ 314è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:33",
+      "ts": "2026-04-14T22:32:11.333093",
+      "collage": "collages/collage_1776198730591328.webp"
     }
   ],
   "baseline": {
@@ -20123,7 +20130,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:32:37",
+  "ultima_actualitzacio": "22:33:37",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
