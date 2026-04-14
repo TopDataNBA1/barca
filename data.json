@@ -462,6 +462,13 @@
       "hora": "20:20",
       "ts": "2026-04-14T20:15:07.780763",
       "collage": "collages/collage_1776190507559833.webp"
+    },
+    {
+      "text": "58è partit oficial per a João Cancelo amb el Barça. Supera Hanke (1952-1956), Ribelles (1957-1961) i Riqui Puig (2018-2022). Empata amb Czibor (1958-1961), Vicente (1961-1966), Pérez (1971-1975), Morán (1981-1984), Maradona (1982-1984), Thuram (2006-2008) i Braithwaite (2019-2022) en el ➡️ 267è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:21",
+      "ts": "2026-04-14T20:15:08.650473",
+      "collage": "collages/collage_1776190507910727.webp"
     }
   ],
   "baseline": {
@@ -20053,13 +20060,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:20:07",
+  "ultima_actualitzacio": "20:21:07",
   "match_status": "U",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 40m 25s",
-    "kickoff_ts": 1776193200
+    "compte_enrere": "0d 0h 39m 11s",
+    "kickoff_ts": 1776193199
   }
 }
