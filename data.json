@@ -476,6 +476,13 @@
       "hora": "20:22",
       "ts": "2026-04-14T20:15:08.650473",
       "collage": "collages/collage_1776190508307602.webp"
+    },
+    {
+      "text": "184è partit oficial per a Koundé amb el Barça. Supera Neeskens (1974-1979) i Urruti (1981-1988) i ara ocupa el ➡️ 95è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:23",
+      "ts": "2026-04-14T20:15:09.768117",
+      "collage": "collages/collage_1776190508839411.webp"
     }
   ],
   "baseline": {
@@ -20067,13 +20074,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:22:07",
+  "ultima_actualitzacio": "20:23:07",
   "match_status": "U",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 37m 57s",
-    "kickoff_ts": 1776193200
+    "compte_enrere": "0d 0h 36m 43s",
+    "kickoff_ts": 1776193199
   }
 }
