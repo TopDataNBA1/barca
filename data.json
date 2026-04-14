@@ -574,6 +574,13 @@
       "hora": "22:56",
       "ts": "2026-04-14T22:54:26.160588",
       "collage": "collages/collage_1776200065241068.webp"
+    },
+    {
+      "text": "35è partit de Lliga de Campions per a Araújo amb el Barça. Supera Koeman (1991-1995), Abelardo (1994-2002), Adriano (2010-2016), Ferran Torres (2022-2026) i Lamine Yamal (2023-2026). Empata amb Nadal (1991-1999), Ronaldinho (2004-2008) i Koundé (2022-2026) en el ➡️ 33è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "22:57",
+      "ts": "2026-04-14T22:54:26.160588",
+      "collage": "collages/collage_1776200065922713.webp"
     }
   ],
   "baseline": {
@@ -20165,7 +20172,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:56:27",
+  "ultima_actualitzacio": "22:57:27",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
