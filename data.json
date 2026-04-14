@@ -525,6 +525,13 @@
       "hora": "22:31",
       "ts": "2026-04-14T22:31:32.616762",
       "collage": "collages/collage_1776198692149920.webp"
+    },
+    {
+      "text": "38è partit de Lliga de Campions per a Lewandowski amb el Barça. Supera Abidal (2007-2013) i ara ocupa el ➡️ 30è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "22:32",
+      "ts": "2026-04-14T22:31:32.616762",
+      "collage": "collages/collage_1776198692431830.webp"
     }
   ],
   "baseline": {
@@ -20116,7 +20123,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:31:37",
+  "ultima_actualitzacio": "22:32:37",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
