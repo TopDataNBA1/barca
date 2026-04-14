@@ -511,6 +511,13 @@
       "hora": "21:24",
       "ts": "2026-04-14T21:24:51.436289",
       "collage": "collages/collage_1776194691271319.webp"
+    },
+    {
+      "text": "⚽ 13è gol de Ferran Torres a la Lliga de Campions amb el Barça. Supera Xavi (1997-2015) i ara ocupa el ➡️ 14è lloc històric del club a la Lliga de Campions.",
+      "tipus": "prioritaria",
+      "hora": "22:18",
+      "ts": "2026-04-14T22:18:34.163118",
+      "collage": "collages/collage_1776197913975188.webp"
     }
   ],
   "baseline": {
@@ -1120,7 +1127,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 202,
-        "g": 63,
+        "g": 64,
         "inici": "2021",
         "final": "2026"
       },
@@ -13178,7 +13185,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 34,
-        "g": 12,
+        "g": 13,
         "inici": "2022",
         "final": "2026"
       },
@@ -20102,7 +20109,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:24:57",
+  "ultima_actualitzacio": "22:18:34",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
