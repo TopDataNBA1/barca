@@ -392,6 +392,13 @@
       "hora": "20:05",
       "ts": "2026-04-14T20:04:03.029704",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1776189842799796.webp"
+    },
+    {
+      "text": "161è partit oficial per a Eric Garcia amb el Barça. Supera Lenglet (2018-2022) i Gavi (2021-2026). Empata amb Reina (1965-1973) i Deco (2004-2008) en el ➡️ 117è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:06",
+      "ts": "2026-04-14T20:04:03.745436",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1776189843222655.webp"
     }
   ],
   "baseline": {
@@ -19983,13 +19990,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:05:03",
+  "ultima_actualitzacio": "20:06:03",
   "match_status": "U",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 54m 35s",
-    "kickoff_ts": 1776193200
+    "compte_enrere": "0d 0h 53m 21s",
+    "kickoff_ts": 1776193199
   }
 }
