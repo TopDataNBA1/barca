@@ -546,6 +546,13 @@
       "hora": "22:34",
       "ts": "2026-04-14T22:32:11.333093",
       "collage": "collages/collage_1776198731080174.webp"
+    },
+    {
+      "text": "292è partit oficial per a De Jong amb el Barça. Empata amb Cocu (1998-2004) en el ➡️ 43è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:46",
+      "ts": "2026-04-14T22:46:22.717137",
+      "collage": "collages/collage_1776199582513261.webp"
     }
   ],
   "baseline": {
@@ -860,7 +867,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 291,
+        "pj": 292,
         "g": 20,
         "inici": "2019",
         "final": "2026"
@@ -12995,7 +13002,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 51,
+        "pj": 52,
         "g": 0,
         "inici": "2019",
         "final": "2026"
@@ -20137,7 +20144,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:34:37",
+  "ultima_actualitzacio": "22:46:27",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
