@@ -455,6 +455,13 @@
       "hora": "20:19",
       "ts": "2026-04-14T20:15:07.780763",
       "collage": "collages/collage_1776190507108977.webp"
+    },
+    {
+      "text": "20è partit de Lliga de Campions per a Gerard Martín amb el Barça. Supera Goikoetxea (1991-1994) i Dani Olmo (2024-2026). Empata amb Dani (1999-2003), Overmars (2000-2003) i Belletti (2004-2007) en el ➡️ 80è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:20",
+      "ts": "2026-04-14T20:15:07.780763",
+      "collage": "collages/collage_1776190507559833.webp"
     }
   ],
   "baseline": {
@@ -20046,13 +20053,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:19:06",
+  "ultima_actualitzacio": "20:20:07",
   "match_status": "U",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 41m 2s",
+    "compte_enrere": "0d 0h 40m 25s",
     "kickoff_ts": 1776193200
   }
 }
