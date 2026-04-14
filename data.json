@@ -581,6 +581,12 @@
       "hora": "22:57",
       "ts": "2026-04-14T22:54:26.160588",
       "collage": "collages/collage_1776200065922713.webp"
+    },
+    {
+      "text": "📋 14/04/2026 · LLIGA DE CAMPIONS · ATLETICO MADRID - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "23:03",
+      "ts": "2026-04-14T23:03:16.499926"
     }
   ],
   "baseline": {
@@ -20172,13 +20178,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:57:27",
-  "match_status": "L",
-  "match_comp": "Lliga de Campions",
-  "match_rival": "Atletico Madrid",
+  "ultima_actualitzacio": "23:03:18",
+  "match_status": "U",
+  "match_comp": "Lliga",
+  "match_rival": "Celta De Vigo",
   "proper_partit": {
-    "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1776193287
+    "descripcio": "Lliga · Barça - Celta De Vigo",
+    "compte_enrere": "7d 22h 26m 18s",
+    "kickoff_ts": 1776886199
   }
 }
