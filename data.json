@@ -385,6 +385,13 @@
       "hora": "20:04",
       "ts": "2026-04-14T20:04:03.029704",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1776189842451852.webp"
+    },
+    {
+      "text": "9è partit de Lliga de Campions per a Joan Garcia amb el Barça. Supera Eulogio Martínez (1959-1960), Garay (1960-1961), De la Cruz (1974-1975), Rifé (1974-1975), Cruyff (1974-1975), Carrasco (1985-1986), Nando (1991-1992), Celades (1997-1999), Ćirić (1997-1999), Litmanen (1999-2001), Déhu (1999-2000), Pinto (2007-2014), Arda Turan (2015-2017), Iñaki Peña (2018-2025), Pjanić (2020-2021) i Marcos Alonso (2022-2024). Empata amb Rodri (1959-1961), Urruti (1985-1986), Julio Alberto (1985-1986), Víctor Muñoz (1985-1986), Busquets (1991-1998), Van Bommel (2005-2006), Hleb (2008-2009), Tello (2011-2014), Munir (2014-2019), Paulinho (2017-2018) i João Félix (2023-2024) en el ➡️ 143è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:05",
+      "ts": "2026-04-14T20:04:03.029704",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1776189842799796.webp"
     }
   ],
   "baseline": {
@@ -19976,13 +19983,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:04:03",
+  "ultima_actualitzacio": "20:05:03",
   "match_status": "U",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 55m 12s",
+    "compte_enrere": "0d 0h 54m 35s",
     "kickoff_ts": 1776193200
   }
 }
