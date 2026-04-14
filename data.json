@@ -399,6 +399,13 @@
       "hora": "20:06",
       "ts": "2026-04-14T20:04:03.745436",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1776189843222655.webp"
+    },
+    {
+      "text": "28è partit de Lliga de Campions per a Eric Garcia amb el Barça. Supera Zubizarreta (1991-1994), Saviola (2001-2007), Oleguer (2002-2008) i Bojan (2007-2011). Empata amb Begiristain (1991-1995), Bakero (1991-1995) i Henry (2007-2010) en el ➡️ 53è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-04-14T20:04:03.745436",
+      "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1776189843533517.webp"
     }
   ],
   "baseline": {
@@ -19990,13 +19997,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:06:03",
+  "ultima_actualitzacio": "20:07:03",
   "match_status": "U",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 53m 21s",
+    "compte_enrere": "0d 0h 52m 8s",
     "kickoff_ts": 1776193199
   }
 }
