@@ -567,6 +567,13 @@
       "hora": "22:55",
       "ts": "2026-04-14T22:54:25.057162",
       "collage": "collages/collage_1776200064789321.webp"
+    },
+    {
+      "text": "208è partit oficial per a Araújo amb el Barça. Supera Ronaldinho (2003-2008). Empata amb Curta (1942-1953) en el ➡️ 75è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:56",
+      "ts": "2026-04-14T22:54:26.160588",
+      "collage": "collages/collage_1776200065241068.webp"
     }
   ],
   "baseline": {
@@ -20158,7 +20165,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:55:27",
+  "ultima_actualitzacio": "22:56:27",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
