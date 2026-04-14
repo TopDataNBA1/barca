@@ -553,6 +553,13 @@
       "hora": "22:46",
       "ts": "2026-04-14T22:46:22.717137",
       "collage": "collages/collage_1776199582513261.webp"
+    },
+    {
+      "text": "23è partit oficial per a Bardghji amb el Barça. Supera Peris (1908-1916), Salas (1933-1935), Oliveros (1967-1969) i Dutruel (2000-2002). Empata amb Corró (1943-1951), Julián Rubio (1979-1981), Déhu (1999-2000), Cáceres (2008-2009) i Deulofeu (2010-2018) en el ➡️ 413è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:54",
+      "ts": "2026-04-14T22:54:25.057162",
+      "collage": "collages/collage_1776200064332542.webp"
     }
   ],
   "baseline": {
@@ -1105,7 +1112,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 207,
+        "pj": 208,
         "g": 13,
         "inici": "2019",
         "final": "2026"
@@ -3527,7 +3534,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 22,
+        "pj": 23,
         "g": 2,
         "inici": "2025",
         "final": "2026"
@@ -13191,7 +13198,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 34,
+        "pj": 35,
         "g": 1,
         "inici": "2019",
         "final": "2026"
@@ -14542,7 +14549,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 4,
+        "pj": 5,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -20144,7 +20151,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:46:27",
+  "ultima_actualitzacio": "22:54:27",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
