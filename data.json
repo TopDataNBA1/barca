@@ -420,6 +420,13 @@
       "hora": "20:09",
       "ts": "2026-04-14T20:04:04.434214",
       "collage": "C:\\Users\\USUARIO\\Desktop\\Top Data Barça\\collages\\collage_1776189844191292.webp"
+    },
+    {
+      "text": "40è partit oficial per a Joan Garcia amb el Barça. Supera Alcántara (1912-1927), Luis García (1997-2004) i Romeu (2010-2024). Empata amb Anguera (1940-1942), Salva (1984-1989), Ćirić (1997-1999) i Szczęsny (2024-2026) en el ➡️ 322è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:15",
+      "ts": "2026-04-14T20:15:06.140292",
+      "collage": "collages/collage_1776190505471536.webp"
     }
   ],
   "baseline": {
@@ -881,7 +888,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 238,
+        "pj": 239,
         "g": 28,
         "inici": "2020",
         "final": "2026"
@@ -1028,7 +1035,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 201,
+        "pj": 202,
         "g": 62,
         "inici": "2021",
         "final": "2026"
@@ -1098,7 +1105,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 184,
+        "pj": 185,
         "g": 10,
         "inici": "2022",
         "final": "2026"
@@ -1280,14 +1287,14 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 161,
+        "pj": 162,
         "g": 7,
         "inici": "2021",
         "final": "2026"
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 160,
+        "pj": 161,
         "g": 10,
         "inici": "2021",
         "final": "2026"
@@ -1385,7 +1392,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 149,
+        "pj": 150,
         "g": 47,
         "inici": "2022",
         "final": "2026"
@@ -1497,7 +1504,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 130,
+        "pj": 131,
         "g": 31,
         "inici": "2023",
         "final": "2026"
@@ -1980,7 +1987,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 86,
+        "pj": 87,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -2092,7 +2099,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 76,
+        "pj": 77,
         "g": 19,
         "inici": "2024",
         "final": "2026"
@@ -2512,7 +2519,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 58,
+        "pj": 59,
         "g": 5,
         "inici": "2023",
         "final": "2026"
@@ -3002,7 +3009,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 39,
+        "pj": 40,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -12960,7 +12967,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 43,
+        "pj": 44,
         "g": 1,
         "inici": "2020",
         "final": "2026"
@@ -13044,7 +13051,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 34,
+        "pj": 35,
         "g": 2,
         "inici": "2022",
         "final": "2026"
@@ -13086,7 +13093,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 33,
+        "pj": 34,
         "g": 11,
         "inici": "2022",
         "final": "2026"
@@ -13114,7 +13121,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 33,
+        "pj": 34,
         "g": 9,
         "inici": "2023",
         "final": "2026"
@@ -13191,7 +13198,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 30,
+        "pj": 31,
         "g": 9,
         "inici": "2023",
         "final": "2026"
@@ -13219,7 +13226,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 28,
+        "pj": 29,
         "g": 2,
         "inici": "2021",
         "final": "2026"
@@ -13240,7 +13247,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 26,
+        "pj": 27,
         "g": 1,
         "inici": "2021",
         "final": "2025"
@@ -13450,7 +13457,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 20,
+        "pj": 21,
         "g": 0,
         "inici": "2024",
         "final": "2026"
@@ -13506,7 +13513,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 18,
+        "pj": 19,
         "g": 3,
         "inici": "2024",
         "final": "2026"
@@ -13744,7 +13751,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 14,
+        "pj": 15,
         "g": 2,
         "inici": "2023",
         "final": "2024"
@@ -14276,7 +14283,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 9,
+        "pj": 10,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -20011,13 +20018,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:09:03",
+  "ultima_actualitzacio": "20:15:06",
   "match_status": "U",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 45m 47s",
-    "kickoff_ts": 1776193199
+    "compte_enrere": "0d 0h 44m 8s",
+    "kickoff_ts": 1776193200
   }
 }
