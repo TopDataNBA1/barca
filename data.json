@@ -518,6 +518,13 @@
       "hora": "22:18",
       "ts": "2026-04-14T22:18:34.163118",
       "collage": "collages/collage_1776197913975188.webp"
+    },
+    {
+      "text": "186è partit oficial per a Lewandowski amb el Barça. Supera Dembélé (2017-2023) i Koundé (2022-2026). Empata amb Calvet (1939-1953) i Neymar (2013-2017) en el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:31",
+      "ts": "2026-04-14T22:31:32.616762",
+      "collage": "collages/collage_1776198692149920.webp"
     }
   ],
   "baseline": {
@@ -1203,7 +1210,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 185,
+        "pj": 186,
         "g": 118,
         "inici": "2022",
         "final": "2026"
@@ -2925,7 +2932,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 41,
+        "pj": 42,
         "g": 12,
         "inici": "2025",
         "final": "2026"
@@ -13114,7 +13121,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 37,
+        "pj": 38,
         "g": 23,
         "inici": "2022",
         "final": "2026"
@@ -14038,7 +14045,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 10,
+        "pj": 11,
         "g": 5,
         "inici": "2025",
         "final": "2026"
@@ -20109,7 +20116,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:18:34",
+  "ultima_actualitzacio": "22:31:37",
   "match_status": "L",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
