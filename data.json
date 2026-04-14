@@ -171,11 +171,6 @@
       "ts": "2026-04-11T20:32:06.890458"
     },
     {
-      "text": "📋 11/04/2026 · LLIGA · BARÇA - ESPANYOL",
-      "tipus": "prioritaria",
-      "ts": "2026-04-11T20:32:06.890458"
-    },
-    {
       "text": "<span class=\"dest\">39è</span> partit <span class=\"dest\">oficial</span> per a <span class=\"dest\">Joan Garcia</span> amb el Barça. Supera Ramírez (1979-82), Canito (1979-81), Blanc (1996-97), Alfonso (2000-02), Petit (2000-01), Van Bommel (2005-07) i Giovani dos Santos (2006-08). Empata amb Alcántara (1912-27), Luis García (1997-04) i Romeu (2010-24) en el <span class=\"dest\">326è</span> lloc històric del club.",
       "tipus": "programada",
       "ts": "2026-04-11T20:32:06.890458",
@@ -378,6 +373,11 @@
       "tipus": "prioritaria",
       "ts": "2026-04-11T20:32:06.890458",
       "collage": "collages/collage_1776183300360318.webp"
+    },
+    {
+      "text": "📋 11/04/2026 · LLIGA · BARÇA - ESPANYOL",
+      "tipus": "prioritaria",
+      "ts": "2026-04-11T20:32:06.890458"
     }
   ],
   "baseline": {
