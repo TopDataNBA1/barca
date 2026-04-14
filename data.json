@@ -441,6 +441,20 @@
       "hora": "20:17",
       "ts": "2026-04-14T20:15:06.981005",
       "collage": "collages/collage_1776190506330230.webp"
+    },
+    {
+      "text": "28è partit de Lliga de Campions per a Eric Garcia amb el Barça. Supera Zubizarreta (1991-1994), Saviola (2001-2007), Oleguer (2002-2008), Bojan (2007-2011) i Gavi (2021-2025). Empata amb Begiristain (1991-1995), Bakero (1991-1995) i Henry (2007-2010) en el ➡️ 53è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:18",
+      "ts": "2026-04-14T20:15:06.981005",
+      "collage": "collages/collage_1776190506745093.webp"
+    },
+    {
+      "text": "87è partit oficial per a Gerard Martín amb el Barça. Supera Benito (1939-1946), Periko Alonso (1982-1985), Nando (1990-1992) i Tello (2011-2014). Empata amb Balmanya (1935-1944) en el ➡️ 203è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:19",
+      "ts": "2026-04-14T20:15:07.780763",
+      "collage": "collages/collage_1776190507108977.webp"
     }
   ],
   "baseline": {
@@ -20032,13 +20046,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:17:06",
+  "ultima_actualitzacio": "20:19:06",
   "match_status": "U",
   "match_comp": "Lliga de Campions",
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 42m 16s",
-    "kickoff_ts": 1776193199
+    "compte_enrere": "0d 0h 41m 2s",
+    "kickoff_ts": 1776193200
   }
 }
