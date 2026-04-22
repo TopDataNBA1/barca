@@ -615,6 +615,13 @@
       "hora": "20:59",
       "ts": "2026-04-22T20:52:49.970852",
       "collage": "collages/collage_1776883969736940.webp"
+    },
+    {
+      "text": "123è partit oficial per a Cubarsí amb el Barça. Empata amb Ansu Fati (2019-2025) en el ➡️ 154è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:00",
+      "ts": "2026-04-22T20:52:51.156939",
+      "collage": "collages/collage_1776883970625092.webp"
     }
   ],
   "baseline": {
@@ -20206,13 +20213,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:59:52",
+  "ultima_actualitzacio": "21:00:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 30m 18s",
-    "kickoff_ts": 1776886199
+    "compte_enrere": "0d 0h 29m 5s",
+    "kickoff_ts": 1776886200
   }
 }
