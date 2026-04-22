@@ -622,6 +622,13 @@
       "hora": "21:00",
       "ts": "2026-04-22T20:52:51.156939",
       "collage": "collages/collage_1776883970625092.webp"
+    },
+    {
+      "text": "81è partit de Lliga per a Cubarsí amb el Barça. Supera Henry (2007-2010). Empata amb Soler (1988-1993) en el ➡️ 162è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:01",
+      "ts": "2026-04-22T20:52:51.156939",
+      "collage": "collages/collage_1776883970956001.webp"
     }
   ],
   "baseline": {
@@ -20213,13 +20220,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:00:52",
+  "ultima_actualitzacio": "21:01:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 29m 5s",
+    "compte_enrere": "0d 0h 27m 51s",
     "kickoff_ts": 1776886200
   }
 }
