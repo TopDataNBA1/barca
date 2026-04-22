@@ -762,6 +762,13 @@
       "hora": "23:10",
       "ts": "2026-04-22T23:10:21.898667",
       "collage": "collages/collage_1776892221700717.webp"
+    },
+    {
+      "text": "293è partit oficial per a De Jong amb el Barça. Supera Cocu (1998-2004) i ara ocupa el ➡️ 43è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:28",
+      "ts": "2026-04-22T23:28:18.234902",
+      "collage": "collages/collage_1776893297745484.webp"
     }
   ],
   "baseline": {
@@ -1076,7 +1083,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 292,
+        "pj": 293,
         "g": 20,
         "inici": "2019",
         "final": "2026"
@@ -3169,7 +3176,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 42,
+        "pj": 43,
         "g": 12,
         "inici": "2025",
         "final": "2026"
@@ -7560,7 +7567,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 197,
+        "pj": 198,
         "g": 15,
         "inici": "2019",
         "final": "2026"
@@ -9702,7 +9709,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 25,
+        "pj": 26,
         "g": 6,
         "inici": "2025",
         "final": "2026"
@@ -20353,7 +20360,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:10:23",
+  "ultima_actualitzacio": "23:28:21",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
