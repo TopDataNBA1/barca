@@ -643,6 +643,13 @@
       "hora": "21:03",
       "ts": "2026-04-22T20:52:51.992708",
       "collage": "collages/collage_1776883971752779.webp"
+    },
+    {
+      "text": "163è partit oficial per a Eric Garcia amb el Barça. Supera Eulogio Martínez (1956-1962), Balde (2021-2026) i Gavi (2021-2026). Empata amb Bojan (2007-2011) en el ➡️ 114è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:04",
+      "ts": "2026-04-22T20:52:52.818947",
+      "collage": "collages/collage_1776883972264536.webp"
     }
   ],
   "baseline": {
@@ -20234,13 +20241,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:03:52",
+  "ultima_actualitzacio": "21:04:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 26m 0s",
-    "kickoff_ts": 1776886199
+    "compte_enrere": "0d 0h 24m 46s",
+    "kickoff_ts": 1776886200
   }
 }
