@@ -699,6 +699,13 @@
       "hora": "21:11",
       "ts": "2026-04-22T20:52:54.704380",
       "collage": "collages/collage_1776883974514394.webp"
+    },
+    {
+      "text": "163è partit oficial per a Balde amb el Barça. Supera Eulogio Martínez (1956-1962) i Gavi (2021-2026). Empata amb Bojan (2007-2011) i Eric Garcia (2021-2026) en el ➡️ 114è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:56",
+      "ts": "2026-04-22T21:56:57.391932",
+      "collage": "collages/collage_1776887816853059.webp"
     }
   ],
   "baseline": {
@@ -1524,7 +1531,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 162,
+        "pj": 163,
         "g": 3,
         "inici": "2021",
         "final": "2026"
@@ -8015,7 +8022,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 110,
+        "pj": 111,
         "g": 1,
         "inici": "2021",
         "final": "2026"
@@ -20290,7 +20297,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:11:53",
+  "ultima_actualitzacio": "21:56:58",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
