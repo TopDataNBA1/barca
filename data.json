@@ -678,6 +678,13 @@
       "hora": "21:08",
       "ts": "2026-04-22T20:52:54.114490",
       "collage": "collages/collage_1776883973614268.webp"
+    },
+    {
+      "text": "100è partit de Lliga per a Lamine Yamal amb el Barça. Empata amb Quini (1980-1984) en el ➡️ 133è lloc històric del club a la Lliga.. Lamine Yamal es converteix en el 133è jugador que arriba als 100 partit de Lligas amb el Barça.",
+      "tipus": "programada",
+      "hora": "21:09",
+      "ts": "2026-04-22T20:52:54.114490",
+      "collage": "collages/collage_1776883973900178.webp"
     }
   ],
   "baseline": {
@@ -20269,13 +20276,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:08:53",
+  "ultima_actualitzacio": "21:09:53",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 20m 27s",
+    "compte_enrere": "0d 0h 19m 13s",
     "kickoff_ts": 1776886200
   }
 }
