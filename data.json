@@ -713,6 +713,20 @@
       "hora": "21:57",
       "ts": "2026-04-22T21:56:57.391932",
       "collage": "collages/collage_1776887817202948.webp"
+    },
+    {
+      "text": "⚽ 49è gol de Lamine Yamal amb el Barça. Supera Villa (2010-2013). Empata amb Henry (2007-2010) en el ➡️ 52è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:14",
+      "ts": "2026-04-22T22:14:12.999978",
+      "collage": "collages/collage_1776888851980275.webp"
+    },
+    {
+      "text": "⚽ 30è gol de Lamine Yamal a la Lliga amb el Barça. Supera Piqué (2008-2023). Empata amb Vantolrà (1933-1936) i Figo (1995-2000) en el ➡️ 63è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:14",
+      "ts": "2026-04-22T22:14:12.999978",
+      "collage": "collages/collage_1776888852809051.webp"
     }
   ],
   "baseline": {
@@ -1679,7 +1693,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 151,
-        "g": 48,
+        "g": 49,
         "inici": "2022",
         "final": "2026"
       },
@@ -8142,7 +8156,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 100,
-        "g": 29,
+        "g": 30,
         "inici": "2022",
         "final": "2026"
       },
@@ -20304,7 +20318,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:57:58",
+  "ultima_actualitzacio": "22:14:16",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
