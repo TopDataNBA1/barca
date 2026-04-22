@@ -559,6 +559,41 @@
       "tipus": "prioritaria",
       "hora": "23:03",
       "ts": "2026-04-14T23:03:16.499926"
+    },
+    {
+      "text": "41è partit oficial per a Joan Garcia amb el Barça. Supera Anguera (1940-1942), Salva (1984-1989), Ćirić (1997-1999) i Szczęsny (2024-2026). Empata amb Cristóbal (1987-1992), Ezquerro (2005-2008) i Junior Firpo (2019-2021) en el ➡️ 319è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:52",
+      "ts": "2026-04-22T20:52:47.147862",
+      "collage": "collages/collage_1776883966160683.webp"
+    },
+    {
+      "text": "25è partit de Lliga per a Joan Garcia amb el Barça. Supera Morera (1933-1935), Zabala (1941-1943), Gamonal (1945-1946), Canal (1946-1952), Arnau (1996-2001), Ezquerro (2005-2008), Van Bommel (2005-2007), Junior Firpo (2019-2021) i Fort (2023-2025). Empata amb Sagi-Barba (1928-1932), Amorós (1946-1948), Coll (1956-1961), Macizo (1974-1979), Canito (1979-1981), Luis García (1997-2004) i Rashford (2025-2026) en el ➡️ 331è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:53",
+      "ts": "2026-04-22T20:52:47.147862",
+      "collage": "collages/collage_1776883966922933.webp"
+    },
+    {
+      "text": "88è partit oficial per a Gerard Martín amb el Barça. Supera Balmanya (1935-1944). Empata amb Sagi-Barba (1918-1932) en el ➡️ 202è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:54",
+      "ts": "2026-04-22T20:52:47.841005",
+      "collage": "collages/collage_1776883967291895.webp"
+    },
+    {
+      "text": "54è partit de Lliga per a Gerard Martín amb el Barça. Supera Piera (1928-1933) i Paco Martínez (1976-1982). Empata amb Martí (1928-1933), Alfonseda (1969-1973), Periko Alonso (1982-1985) i Milla (1984-1990) en el ➡️ 219è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:55",
+      "ts": "2026-04-22T20:52:47.841005",
+      "collage": "collages/collage_1776883967619075.webp"
+    },
+    {
+      "text": "60è partit oficial per a João Cancelo amb el Barça. Supera Mas (1927-1932), Witschge (1991-1993) i Larsson (2004-2006). Empata amb Alcoriza (1931-1935), Montesinos (1963-1967) i Couto (1996-1998) en el ➡️ 261è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:56",
+      "ts": "2026-04-22T20:52:48.562874",
+      "collage": "collages/collage_1776883967983061.webp"
     }
   ],
   "baseline": {
@@ -1020,7 +1055,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 239,
+        "pj": 240,
         "g": 28,
         "inici": "2020",
         "final": "2026"
@@ -1167,7 +1202,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 202,
+        "pj": 203,
         "g": 63,
         "inici": "2021",
         "final": "2026"
@@ -1237,7 +1272,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 185,
+        "pj": 186,
         "g": 10,
         "inici": "2022",
         "final": "2026"
@@ -1419,14 +1454,14 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 162,
+        "pj": 163,
         "g": 7,
         "inici": "2021",
         "final": "2026"
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 161,
+        "pj": 162,
         "g": 10,
         "inici": "2021",
         "final": "2026"
@@ -1524,7 +1559,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 150,
+        "pj": 151,
         "g": 48,
         "inici": "2022",
         "final": "2026"
@@ -1706,7 +1741,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 122,
+        "pj": 123,
         "g": 2,
         "inici": "2023",
         "final": "2026"
@@ -2119,7 +2154,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 87,
+        "pj": 88,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -2231,7 +2266,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 77,
+        "pj": 78,
         "g": 19,
         "inici": "2024",
         "final": "2026"
@@ -2651,7 +2686,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 59,
+        "pj": 60,
         "g": 5,
         "inici": "2023",
         "final": "2026"
@@ -3141,7 +3176,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 40,
+        "pj": 41,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -7511,7 +7546,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 158,
+        "pj": 159,
         "g": 22,
         "inici": "2020",
         "final": "2026"
@@ -7665,7 +7700,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 134,
+        "pj": 135,
         "g": 39,
         "inici": "2021",
         "final": "2026"
@@ -7770,7 +7805,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 122,
+        "pj": 123,
         "g": 5,
         "inici": "2022",
         "final": "2026"
@@ -7868,7 +7903,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 113,
+        "pj": 114,
         "g": 6,
         "inici": "2021",
         "final": "2026"
@@ -7889,7 +7924,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 110,
+        "pj": 111,
         "g": 4,
         "inici": "2021",
         "final": "2026"
@@ -7987,7 +8022,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 99,
+        "pj": 100,
         "g": 29,
         "inici": "2022",
         "final": "2026"
@@ -8204,7 +8239,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 80,
+        "pj": 81,
         "g": 1,
         "inici": "2023",
         "final": "2026"
@@ -8645,7 +8680,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 53,
+        "pj": 54,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -8750,7 +8785,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 48,
+        "pj": 49,
         "g": 16,
         "inici": "2024",
         "final": "2026"
@@ -8981,7 +9016,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 41,
+        "pj": 42,
         "g": 3,
         "inici": "2023",
         "final": "2026"
@@ -9625,7 +9660,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 24,
+        "pj": 25,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -20150,13 +20185,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:03:18",
+  "ultima_actualitzacio": "20:56:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "7d 22h 26m 18s",
-    "kickoff_ts": 1776886199
+    "compte_enrere": "0d 0h 32m 46s",
+    "kickoff_ts": 1776886200
   }
 }
