@@ -629,6 +629,13 @@
       "hora": "21:01",
       "ts": "2026-04-22T20:52:51.156939",
       "collage": "collages/collage_1776883970956001.webp"
+    },
+    {
+      "text": "78è partit oficial per a Dani Olmo amb el Barça. Empata amb Archibald (1984-1987) i André Gomes (2016-2018) en el ➡️ 223è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:02",
+      "ts": "2026-04-22T20:52:51.992708",
+      "collage": "collages/collage_1776883971282883.webp"
     }
   ],
   "baseline": {
@@ -20220,13 +20227,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:01:52",
+  "ultima_actualitzacio": "21:02:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 27m 51s",
+    "compte_enrere": "0d 0h 26m 37s",
     "kickoff_ts": 1776886200
   }
 }
