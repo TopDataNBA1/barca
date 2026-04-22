@@ -594,6 +594,20 @@
       "hora": "20:56",
       "ts": "2026-04-22T20:52:48.562874",
       "collage": "collages/collage_1776883967983061.webp"
+    },
+    {
+      "text": "42è partit de Lliga per a João Cancelo amb el Barça. Supera Jordi Cruyff (1994-1996), Bogarde (1997-2000) i Thuram (2006-2008). Empata amb Riqui Puig (2018-2022) en el ➡️ 262è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:57",
+      "ts": "2026-04-22T20:52:48.562874",
+      "collage": "collages/collage_1776883968356940.webp"
+    },
+    {
+      "text": "186è partit oficial per a Koundé amb el Barça. Supera Dembélé (2017-2023). Empata amb Calvet (1939-1953), Neymar (2013-2017) i Lewandowski (2022-2026) en el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:58",
+      "ts": "2026-04-22T20:52:49.970852",
+      "collage": "collages/collage_1776883969393034.webp"
     }
   ],
   "baseline": {
@@ -20185,13 +20199,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:56:52",
+  "ultima_actualitzacio": "20:58:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 32m 46s",
-    "kickoff_ts": 1776886200
+    "compte_enrere": "0d 0h 30m 55s",
+    "kickoff_ts": 1776886199
   }
 }
