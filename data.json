@@ -741,6 +741,13 @@
       "hora": "22:30",
       "ts": "2026-04-22T22:29:00.966920",
       "collage": "collages/collage_1776889740745003.webp"
+    },
+    {
+      "text": "132è partit oficial per a Fermín amb el Barça. Empata amb Piera (1921-1933) i Elias (1943-1950) en el ➡️ 143è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:59",
+      "ts": "2026-04-22T22:59:14.846795",
+      "collage": "collages/collage_1776891554343832.webp"
     }
   ],
   "baseline": {
@@ -1818,7 +1825,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 131,
+        "pj": 132,
         "g": 31,
         "inici": "2023",
         "final": "2026"
@@ -8337,7 +8344,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 83,
+        "pj": 84,
         "g": 19,
         "inici": "2023",
         "final": "2026"
@@ -20332,7 +20339,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:30:03",
+  "ultima_actualitzacio": "22:59:18",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
