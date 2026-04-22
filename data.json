@@ -664,6 +664,13 @@
       "hora": "21:06",
       "ts": "2026-04-22T20:52:53.490784",
       "collage": "collages/collage_1776883972994892.webp"
+    },
+    {
+      "text": "114è partit de Lliga per a Gavi amb el Barça. Supera Deco (2004-2008). Empata amb Evaristo (1957-1962) i Adriano (2010-2016) en el ➡️ 116è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:07",
+      "ts": "2026-04-22T20:52:53.490784",
+      "collage": "collages/collage_1776883973307835.webp"
     }
   ],
   "baseline": {
@@ -20255,13 +20262,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:06:53",
+  "ultima_actualitzacio": "21:07:53",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 22m 55s",
+    "compte_enrere": "0d 0h 21m 41s",
     "kickoff_ts": 1776886200
   }
 }
