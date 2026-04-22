@@ -650,6 +650,13 @@
       "hora": "21:04",
       "ts": "2026-04-22T20:52:52.818947",
       "collage": "collages/collage_1776883972264536.webp"
+    },
+    {
+      "text": "111è partit de Lliga per a Eric Garcia amb el Barça. Supera Calderé (1983-1988) i Balde (2021-2026). Empata amb Eulogio Martínez (1956-1962) i Reina (1965-1973) en el ➡️ 121è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:05",
+      "ts": "2026-04-22T20:52:52.818947",
+      "collage": "collages/collage_1776883972630008.webp"
     }
   ],
   "baseline": {
@@ -20241,13 +20248,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:04:52",
+  "ultima_actualitzacio": "21:05:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 24m 46s",
+    "compte_enrere": "0d 0h 23m 32s",
     "kickoff_ts": 1776886200
   }
 }
