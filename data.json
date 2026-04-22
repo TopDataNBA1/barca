@@ -636,6 +636,13 @@
       "hora": "21:02",
       "ts": "2026-04-22T20:52:51.992708",
       "collage": "collages/collage_1776883971282883.webp"
+    },
+    {
+      "text": "49è partit de Lliga per a Dani Olmo amb el Barça. Supera Aloísio (1988-1990), Pizzi (1996-1998), Milito (2007-2011), Arthur (2018-2020) i Iñigo Martínez (2023-2025). Empata amb Miró (1939-1943) i Iván Iglesias (1993-1996) en el ➡️ 233è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:03",
+      "ts": "2026-04-22T20:52:51.992708",
+      "collage": "collages/collage_1776883971752779.webp"
     }
   ],
   "baseline": {
@@ -20227,13 +20234,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:02:52",
+  "ultima_actualitzacio": "21:03:52",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 26m 37s",
-    "kickoff_ts": 1776886200
+    "compte_enrere": "0d 0h 26m 0s",
+    "kickoff_ts": 1776886199
   }
 }
