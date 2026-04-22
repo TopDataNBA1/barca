@@ -692,6 +692,13 @@
       "hora": "21:10",
       "ts": "2026-04-22T20:52:54.704380",
       "collage": "collages/collage_1776883974230483.webp"
+    },
+    {
+      "text": "135è partit de Lliga per a Ferran Torres amb el Barça. Supera Pereda (1961-1969) i ara ocupa el ➡️ 92è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:11",
+      "ts": "2026-04-22T20:52:54.704380",
+      "collage": "collages/collage_1776883974514394.webp"
     }
   ],
   "baseline": {
@@ -20283,13 +20290,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:10:53",
+  "ultima_actualitzacio": "21:11:53",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 18m 36s",
-    "kickoff_ts": 1776886200
+    "compte_enrere": "0d 0h 17m 22s",
+    "kickoff_ts": 1776886199
   }
 }
