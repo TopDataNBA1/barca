@@ -748,6 +748,13 @@
       "hora": "22:59",
       "ts": "2026-04-22T22:59:14.846795",
       "collage": "collages/collage_1776891554343832.webp"
+    },
+    {
+      "text": "84è partit de Lliga per a Fermín amb el Barça. Supera Brugué (1951-1960). Empata amb Flotats (1952-1960) i Cayetano Ré (1961-1966) en el ➡️ 156è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "23:00",
+      "ts": "2026-04-22T22:59:14.846795",
+      "collage": "collages/collage_1776891554649854.webp"
     }
   ],
   "baseline": {
@@ -20339,7 +20346,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:59:18",
+  "ultima_actualitzacio": "23:00:18",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
