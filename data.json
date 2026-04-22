@@ -790,6 +790,12 @@
       "hora": "23:31",
       "ts": "2026-04-22T23:28:19.326811",
       "collage": "collages/collage_1776893299092785.webp"
+    },
+    {
+      "text": "📋 22/04/2026 · LLIGA · BARÇA - CELTA DE VIGO",
+      "tipus": "prioritaria",
+      "hora": "23:49",
+      "ts": "2026-04-22T23:49:32.711474"
     }
   ],
   "baseline": {
@@ -20381,13 +20387,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:31:21",
-  "match_status": "L",
+  "ultima_actualitzacio": "23:49:36",
+  "match_status": "U",
   "match_comp": "Lliga",
-  "match_rival": "Celta De Vigo",
+  "match_rival": "Getafe",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1776886487
+    "descripcio": "Lliga · Barça - Getafe",
+    "compte_enrere": "2d 16h 25m 2s",
+    "kickoff_ts": 1777126499
   }
 }
