@@ -706,6 +706,13 @@
       "hora": "21:56",
       "ts": "2026-04-22T21:56:57.391932",
       "collage": "collages/collage_1776887816853059.webp"
+    },
+    {
+      "text": "111è partit de Lliga per a Balde amb el Barça. Supera Calderé (1983-1988). Empata amb Eulogio Martínez (1956-1962), Reina (1965-1973) i Eric Garcia (2021-2026) en el ➡️ 121è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:57",
+      "ts": "2026-04-22T21:56:57.391932",
+      "collage": "collages/collage_1776887817202948.webp"
     }
   ],
   "baseline": {
@@ -20297,7 +20304,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:56:58",
+  "ultima_actualitzacio": "21:57:58",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
