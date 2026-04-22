@@ -769,6 +769,20 @@
       "hora": "23:28",
       "ts": "2026-04-22T23:28:18.234902",
       "collage": "collages/collage_1776893297745484.webp"
+    },
+    {
+      "text": "198è partit de Lliga per a De Jong amb el Barça. Empata amb Fusté (1961-1972) en el ➡️ 48è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "23:29",
+      "ts": "2026-04-22T23:28:18.234902",
+      "collage": "collages/collage_1776893298040838.webp"
+    },
+    {
+      "text": "43è partit oficial per a Rashford amb el Barça. Supera Amarillo (1976-1979), Riquelme (2002-2003), Trincão (2020-2021) i Memphis (2021-2023). Empata amb Vidal I (1963-1968), Kodro (1995-1996), Geovanni (2001-2003) i Kessié (2022-2023) en el ➡️ 310è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:30",
+      "ts": "2026-04-22T23:28:19.326811",
+      "collage": "collages/collage_1776893298676879.webp"
     }
   ],
   "baseline": {
@@ -20360,7 +20374,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:28:21",
+  "ultima_actualitzacio": "23:30:21",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
