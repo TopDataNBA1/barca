@@ -671,6 +671,13 @@
       "hora": "21:07",
       "ts": "2026-04-22T20:52:53.490784",
       "collage": "collages/collage_1776883973307835.webp"
+    },
+    {
+      "text": "151è partit oficial per a Lamine Yamal amb el Barça. Empata amb Evaristo (1957-1962) i Fàbregas (2011-2014) en el ➡️ 128è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:08",
+      "ts": "2026-04-22T20:52:54.114490",
+      "collage": "collages/collage_1776883973614268.webp"
     }
   ],
   "baseline": {
@@ -20262,13 +20269,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:07:53",
+  "ultima_actualitzacio": "21:08:53",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 21m 41s",
+    "compte_enrere": "0d 0h 20m 27s",
     "kickoff_ts": 1776886200
   }
 }
