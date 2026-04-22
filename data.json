@@ -685,6 +685,13 @@
       "hora": "21:09",
       "ts": "2026-04-22T20:52:54.114490",
       "collage": "collages/collage_1776883973900178.webp"
+    },
+    {
+      "text": "203è partit oficial per a Ferran Torres amb el Barça. Empata amb Pereda (1961-1969) en el ➡️ 78è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:10",
+      "ts": "2026-04-22T20:52:54.704380",
+      "collage": "collages/collage_1776883974230483.webp"
     }
   ],
   "baseline": {
@@ -20276,13 +20283,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:09:53",
+  "ultima_actualitzacio": "21:10:53",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Celta De Vigo",
-    "compte_enrere": "0d 0h 19m 13s",
+    "compte_enrere": "0d 0h 18m 36s",
     "kickoff_ts": 1776886200
   }
 }
