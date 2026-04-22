@@ -727,6 +727,13 @@
       "hora": "22:14",
       "ts": "2026-04-22T22:14:12.999978",
       "collage": "collages/collage_1776888852809051.webp"
+    },
+    {
+      "text": "24è partit oficial per a Bardghji amb el Barça. Supera Corró (1943-1951), Julián Rubio (1979-1981), Déhu (1999-2000), Cáceres (2008-2009) i Deulofeu (2010-2018). Empata amb Santos (1933-1934), Quique (1943-1950), Sagrera (1947-1951), Cos (1972-1976), Quique Estebaranz (1993-1994), Jorquera (2003-2009), Malcom (2018-2019) i Aubameyang (2021-2023) en el ➡️ 405è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:29",
+      "ts": "2026-04-22T22:29:00.966920",
+      "collage": "collages/collage_1776889740403003.webp"
     }
   ],
   "baseline": {
@@ -3701,7 +3708,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 23,
+        "pj": 24,
         "g": 2,
         "inici": "2025",
         "final": "2026"
@@ -10157,7 +10164,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 16,
+        "pj": 17,
         "g": 1,
         "inici": "2025",
         "final": "2026"
@@ -20318,7 +20325,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:14:16",
+  "ultima_actualitzacio": "22:29:03",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Celta De Vigo",
