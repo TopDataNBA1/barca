@@ -757,13 +757,6 @@
       "collage": "collages/collage_1776891554649854.webp"
     },
     {
-      "text": "⚽ 40è gol de Ferran Torres a la Lliga amb el Barça. Supera Moreno (1951-1956) i Laudrup (1989-1994) i ara ocupa el ➡️ 46è lloc històric del club a la Lliga.",
-      "tipus": "prioritaria",
-      "hora": "23:10",
-      "ts": "2026-04-22T23:10:21.898667",
-      "collage": "collages/collage_1776892221700717.webp"
-    },
-    {
       "text": "293è partit oficial per a De Jong amb el Barça. Supera Cocu (1998-2004) i ara ocupa el ➡️ 43è lloc històric del club.",
       "tipus": "programada",
       "hora": "23:28",
@@ -1405,7 +1398,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 203,
-        "g": 64,
+        "g": 63,
         "inici": "2021",
         "final": "2026"
       },
@@ -7903,7 +7896,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 135,
-        "g": 40,
+        "g": 39,
         "inici": "2021",
         "final": "2026"
       },
