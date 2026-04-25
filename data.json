@@ -914,6 +914,13 @@
       "hora": "18:40",
       "ts": "2026-04-25T18:28:03.933427",
       "collage": "collages/collage_1777134483355363.webp"
+    },
+    {
+      "text": "85è partit de Lliga per a Fermín amb el Barça. Supera Flotats (1952-1960) i Cayetano Ré (1961-1966). Empata amb Giuly (2004-2007) en el ➡️ 155è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:41",
+      "ts": "2026-04-25T18:28:03.933427",
+      "collage": "collages/collage_1777134483705250.webp"
     }
   ],
   "baseline": {
@@ -20505,7 +20512,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:40:14",
+  "ultima_actualitzacio": "18:41:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
