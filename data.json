@@ -984,6 +984,13 @@
       "hora": "18:50",
       "ts": "2026-04-25T18:28:09.321296",
       "collage": "collages/collage_1777134489126370.webp"
+    },
+    {
+      "text": "199è partit de Lliga per a De Jong amb el Barça. Supera Fusté (1961-1972) i ara ocupa el ➡️ 48è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:51",
+      "ts": "2026-04-25T18:28:09.668166",
+      "collage": "collages/collage_1777134489477237.webp"
     }
   ],
   "baseline": {
@@ -20575,7 +20582,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:50:15",
+  "ultima_actualitzacio": "18:51:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
