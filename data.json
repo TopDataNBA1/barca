@@ -977,6 +977,13 @@
       "hora": "18:49",
       "ts": "2026-04-25T18:28:09.321296",
       "collage": "collages/collage_1777134488764526.webp"
+    },
+    {
+      "text": "139è partit de Lliga per a Araújo amb el Barça. Supera Raich (1934-1945). Empata amb Biosca (1950-1959) i Cruyff (1973-1978) en el ➡️ 88è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:50",
+      "ts": "2026-04-25T18:28:09.321296",
+      "collage": "collages/collage_1777134489126370.webp"
     }
   ],
   "baseline": {
@@ -20568,7 +20575,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:49:15",
+  "ultima_actualitzacio": "18:50:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
