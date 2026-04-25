@@ -1019,6 +1019,13 @@
       "hora": "18:55",
       "ts": "2026-04-25T18:28:11.548910",
       "collage": "collages/collage_1777134491372977.webp"
+    },
+    {
+      "text": "71è partit oficial per a Casadó amb el Barça. Supera Franco (1934-1944), Miró (1939-1943), Sotil (1973-1977) i Simão (1999-2001). Empata amb Iván Iglesias (1993-1996), Denis Suárez (2016-2019) i Iñigo Martínez (2023-2025) en el ➡️ 238è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:56",
+      "ts": "2026-04-25T18:28:12.501566",
+      "collage": "collages/collage_1777134491926767.webp"
     }
   ],
   "baseline": {
@@ -20610,7 +20617,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:55:15",
+  "ultima_actualitzacio": "18:56:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
