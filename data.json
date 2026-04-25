@@ -956,6 +956,13 @@
       "hora": "18:46",
       "ts": "2026-04-25T18:28:05.766851",
       "collage": "collages/collage_1777134485541941.webp"
+    },
+    {
+      "text": "187è partit oficial per a Lewandowski amb el Barça. Supera Calvet (1939-1953) i Neymar (2013-2017). Empata amb Koundé (2022-2026) en el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:47",
+      "ts": "2026-04-25T18:28:06.956390",
+      "collage": "collages/collage_1777134485936787.webp"
     }
   ],
   "baseline": {
@@ -20547,7 +20554,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:46:15",
+  "ultima_actualitzacio": "18:47:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
