@@ -963,6 +963,13 @@
       "hora": "18:47",
       "ts": "2026-04-25T18:28:06.956390",
       "collage": "collages/collage_1777134485936787.webp"
+    },
+    {
+      "text": "128è partit de Lliga per a Lewandowski amb el Barça. Supera Oleguer (2001-2008) i Dembélé (2017-2023) i ara ocupa el ➡️ 96è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:48",
+      "ts": "2026-04-25T18:28:06.956390",
+      "collage": "collages/collage_1777134486774469.webp"
     }
   ],
   "baseline": {
@@ -20554,7 +20561,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:47:15",
+  "ultima_actualitzacio": "18:48:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
