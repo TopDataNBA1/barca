@@ -1005,6 +1005,13 @@
       "hora": "18:53",
       "ts": "2026-04-25T18:28:10.714205",
       "collage": "collages/collage_1777134490495306.webp"
+    },
+    {
+      "text": "164è partit oficial per a Balde amb el Barça. Supera Bojan (2007-2011), Eric Garcia (2021-2026) i Gavi (2021-2026). Empata amb Zuviría (1977-1982) en el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:54",
+      "ts": "2026-04-25T18:28:11.548910",
+      "collage": "collages/collage_1777134491014112.webp"
     }
   ],
   "baseline": {
@@ -20596,7 +20603,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:53:15",
+  "ultima_actualitzacio": "18:54:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
