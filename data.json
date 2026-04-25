@@ -970,6 +970,13 @@
       "hora": "18:48",
       "ts": "2026-04-25T18:28:06.956390",
       "collage": "collages/collage_1777134486774469.webp"
+    },
+    {
+      "text": "209è partit oficial per a Araújo amb el Barça. Supera Curta (1942-1953). Empata amb Juan Carlos (1968-1975) en el ➡️ 74è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:49",
+      "ts": "2026-04-25T18:28:09.321296",
+      "collage": "collages/collage_1777134488764526.webp"
     }
   ],
   "baseline": {
@@ -20561,7 +20568,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:48:15",
+  "ultima_actualitzacio": "18:49:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
