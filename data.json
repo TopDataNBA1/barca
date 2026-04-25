@@ -865,6 +865,20 @@
       "hora": "18:33",
       "ts": "2026-04-25T18:28:00.114182",
       "collage": "collages/collage_1777134479924231.webp"
+    },
+    {
+      "text": "187è partit oficial per a Koundé amb el Barça. Supera Calvet (1939-1953) i Neymar (2013-2017). Empata amb Lewandowski (2022-2026) en el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:34",
+      "ts": "2026-04-25T18:28:01.015658",
+      "collage": "collages/collage_1777134480330919.webp"
+    },
+    {
+      "text": "124è partit de Lliga per a Koundé amb el Barça. Supera Elias (1943-1950), Benítez (1961-1968), Urbano (1982-1992), Saviola (2001-2007) i Neymar (2013-2017). Empata amb Marcos Alonso (1982-1987) en el ➡️ 101è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:35",
+      "ts": "2026-04-25T18:28:01.015658",
+      "collage": "collages/collage_1777134480714773.webp"
     }
   ],
   "baseline": {
@@ -20456,7 +20470,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:33:14",
+  "ultima_actualitzacio": "18:35:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
