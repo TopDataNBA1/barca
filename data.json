@@ -907,6 +907,13 @@
       "hora": "18:39",
       "ts": "2026-04-25T18:28:03.218396",
       "collage": "collages/collage_1777134482994489.webp"
+    },
+    {
+      "text": "133è partit oficial per a Fermín amb el Barça. Supera Piera (1921-1933) i Elias (1943-1950). Empata amb Umtiti (2016-2022) en el ➡️ 142è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:40",
+      "ts": "2026-04-25T18:28:03.933427",
+      "collage": "collages/collage_1777134483355363.webp"
     }
   ],
   "baseline": {
@@ -20498,7 +20505,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:39:14",
+  "ultima_actualitzacio": "18:40:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
