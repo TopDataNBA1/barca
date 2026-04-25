@@ -991,6 +991,13 @@
       "hora": "18:51",
       "ts": "2026-04-25T18:28:09.668166",
       "collage": "collages/collage_1777134489477237.webp"
+    },
+    {
+      "text": "44è partit oficial per a Rashford amb el Barça. Supera Vidal I (1963-1968), Kodro (1995-1996), Geovanni (2001-2003) i Kessié (2022-2023). Empata amb Aleñá (2015-2021) i João Félix (2023-2024) en el ➡️ 308è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:52",
+      "ts": "2026-04-25T18:28:10.714205",
+      "collage": "collages/collage_1777134490101450.webp"
     }
   ],
   "baseline": {
@@ -20582,7 +20589,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:51:15",
+  "ultima_actualitzacio": "18:52:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
