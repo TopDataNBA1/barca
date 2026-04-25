@@ -879,6 +879,13 @@
       "hora": "18:35",
       "ts": "2026-04-25T18:28:01.015658",
       "collage": "collages/collage_1777134480714773.webp"
+    },
+    {
+      "text": "124è partit oficial per a Cubarsí amb el Barça. Supera Ansu Fati (2019-2025). Empata amb Giuly (2004-2007) i Semedo (2017-2020) en el ➡️ 152è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:36",
+      "ts": "2026-04-25T18:28:02.482104",
+      "collage": "collages/collage_1777134481704398.webp"
     }
   ],
   "baseline": {
@@ -20470,7 +20477,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:35:14",
+  "ultima_actualitzacio": "18:36:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
