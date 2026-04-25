@@ -893,6 +893,20 @@
       "hora": "18:37",
       "ts": "2026-04-25T18:28:02.482104",
       "collage": "collages/collage_1777134482287196.webp"
+    },
+    {
+      "text": "79è partit oficial per a Dani Olmo amb el Barça. Supera Archibald (1984-1987) i André Gomes (2016-2018). Empata amb Milla (1984-1990) en el ➡️ 222è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:38",
+      "ts": "2026-04-25T18:28:03.218396",
+      "collage": "collages/collage_1777134482643044.webp"
+    },
+    {
+      "text": "50è partit de Lliga per a Dani Olmo amb el Barça. Supera Miró (1939-1943) i Iván Iglesias (1993-1996). Empata amb Arnau (1928-1934), Castillo (1928-1932), Pérez (1971-1975) i Dani (1999-2004) en el ➡️ 229è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:39",
+      "ts": "2026-04-25T18:28:03.218396",
+      "collage": "collages/collage_1777134482994489.webp"
     }
   ],
   "baseline": {
@@ -20484,7 +20498,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:37:14",
+  "ultima_actualitzacio": "18:39:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
