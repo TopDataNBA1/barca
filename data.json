@@ -942,6 +942,13 @@
       "hora": "18:44",
       "ts": "2026-04-25T18:28:05.012577",
       "collage": "collages/collage_1777134484815652.webp"
+    },
+    {
+      "text": "25è partit oficial per a Bardghji amb el Barça. Supera Santos (1933-1934), Quique (1943-1950), Sagrera (1947-1951), Cos (1972-1976), Quique Estebaranz (1993-1994), Jorquera (2003-2009), Malcom (2018-2019) i Aubameyang (2021-2023). Empata amb Sierra (1942-1945), Goyvaerts (1961-1965), Cubilla (1961-1964), Corominas (1975-1977) i Pellegrino (1998-1999) en el ➡️ 400è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:45",
+      "ts": "2026-04-25T18:28:05.766851",
+      "collage": "collages/collage_1777134485165079.webp"
     }
   ],
   "baseline": {
@@ -20533,7 +20540,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:44:14",
+  "ultima_actualitzacio": "18:45:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
