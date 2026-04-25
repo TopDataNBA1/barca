@@ -928,6 +928,13 @@
       "hora": "18:42",
       "ts": "2026-04-25T18:28:04.709268",
       "collage": "collages/collage_1777134484199407.webp"
+    },
+    {
+      "text": "115è partit de Lliga per a Gavi amb el Barça. Supera Evaristo (1957-1962) i Adriano (2010-2016). Empata amb Nogués (1930-1942) en el ➡️ 115è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:43",
+      "ts": "2026-04-25T18:28:04.709268",
+      "collage": "collages/collage_1777134484533333.webp"
     }
   ],
   "baseline": {
@@ -20519,7 +20526,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:42:14",
+  "ultima_actualitzacio": "18:43:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
