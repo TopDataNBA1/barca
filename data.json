@@ -998,6 +998,13 @@
       "hora": "18:52",
       "ts": "2026-04-25T18:28:10.714205",
       "collage": "collages/collage_1777134490101450.webp"
+    },
+    {
+      "text": "27è partit de Lliga per a Rashford amb el Barça. Supera Vila (1951-1954), Ćirić (1997-1999), Geovanni (2001-2003), Aleñá (2015-2021) i Joan Garcia (2025-2026). Empata amb Walter (1928-1931), Mandi (1954-1957) i Nico (2021-2022) en el ➡️ 324è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:53",
+      "ts": "2026-04-25T18:28:10.714205",
+      "collage": "collages/collage_1777134490495306.webp"
     }
   ],
   "baseline": {
@@ -20589,7 +20596,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:52:15",
+  "ultima_actualitzacio": "18:53:15",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
