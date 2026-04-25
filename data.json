@@ -921,6 +921,13 @@
       "hora": "18:41",
       "ts": "2026-04-25T18:28:03.933427",
       "collage": "collages/collage_1777134483705250.webp"
+    },
+    {
+      "text": "163è partit oficial per a Gavi amb el Barça. Supera Eulogio Martínez (1956-1962). Empata amb Bojan (2007-2011), Balde (2021-2026) i Eric Garcia (2021-2026) en el ➡️ 114è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:42",
+      "ts": "2026-04-25T18:28:04.709268",
+      "collage": "collages/collage_1777134484199407.webp"
     }
   ],
   "baseline": {
@@ -20512,7 +20519,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:41:14",
+  "ultima_actualitzacio": "18:42:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
