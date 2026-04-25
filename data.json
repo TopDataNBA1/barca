@@ -886,6 +886,13 @@
       "hora": "18:36",
       "ts": "2026-04-25T18:28:02.482104",
       "collage": "collages/collage_1777134481704398.webp"
+    },
+    {
+      "text": "82è partit de Lliga per a Cubarsí amb el Barça. Supera Soler (1988-1993). Empata amb Rodri (1958-1966) i Semedo (2017-2020) en el ➡️ 160è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:37",
+      "ts": "2026-04-25T18:28:02.482104",
+      "collage": "collages/collage_1777134482287196.webp"
     }
   ],
   "baseline": {
@@ -20477,7 +20484,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "18:36:14",
+  "ultima_actualitzacio": "18:37:14",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Getafe",
