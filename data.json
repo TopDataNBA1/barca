@@ -1180,6 +1180,13 @@
       "hora": "20:04",
       "ts": "2026-05-02T19:44:34.061795",
       "collage": "collages/collage_1777743873802876.webp"
+    },
+    {
+      "text": "200è partit de Lliga per a De Jong amb el Barça. Empata amb Rakitić (2014-2020) en el ➡️ 47è lloc històric del club a la Lliga.. De Jong es converteix en el 47è jugador que arriba als 200 partit de Lligas amb el Barça.",
+      "tipus": "programada",
+      "hora": "22:19",
+      "ts": "2026-05-02T22:19:12.908894",
+      "collage": "collages/collage_1777753152732286.webp"
     }
   ],
   "baseline": {
@@ -1494,7 +1501,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 294,
+        "pj": 295,
         "g": 20,
         "inici": "2019",
         "final": "2026"
@@ -1788,7 +1795,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 203,
+        "pj": 204,
         "g": 63,
         "inici": "2021",
         "final": "2026"
@@ -3587,7 +3594,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 44,
+        "pj": 45,
         "g": 13,
         "inici": "2025",
         "final": "2026"
@@ -7978,7 +7985,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 199,
+        "pj": 200,
         "g": 15,
         "inici": "2019",
         "final": "2026"
@@ -8286,7 +8293,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 135,
+        "pj": 136,
         "g": 39,
         "inici": "2021",
         "final": "2026"
@@ -10120,7 +10127,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 27,
+        "pj": 28,
         "g": 7,
         "inici": "2025",
         "final": "2026"
@@ -20771,7 +20778,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:04:32",
+  "ultima_actualitzacio": "22:19:13",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
