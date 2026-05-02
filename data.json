@@ -1166,6 +1166,13 @@
       "hora": "20:02",
       "ts": "2026-05-02T19:44:33.333043",
       "collage": "collages/collage_1777743873126093.webp"
+    },
+    {
+      "text": "188è partit oficial per a Lewandowski amb el Barça. Supera Koundé (2022-2026). Empata amb Keita (2008-2012) en el ➡️ 90è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:03",
+      "ts": "2026-05-02T19:44:34.061795",
+      "collage": "collages/collage_1777743873521966.webp"
     }
   ],
   "baseline": {
@@ -20757,13 +20764,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:02:32",
+  "ultima_actualitzacio": "20:03:32",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 0h 56m 59s",
+    "compte_enrere": "0d 0h 56m 22s",
     "kickoff_ts": 1777748400
   }
 }
