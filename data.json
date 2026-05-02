@@ -1096,6 +1096,13 @@
       "hora": "19:52",
       "ts": "2026-05-02T19:44:29.181332",
       "collage": "collages/collage_1777743868422575.webp"
+    },
+    {
+      "text": "83è partit de Lliga per a Cubarsí amb el Barça. Supera Rodri (1958-1966) i Semedo (2017-2020). Empata amb Brugué (1951-1960) en el ➡️ 159è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:53",
+      "ts": "2026-05-02T19:44:29.181332",
+      "collage": "collages/collage_1777743869006388.webp"
     }
   ],
   "baseline": {
@@ -20687,13 +20694,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:52:31",
+  "ultima_actualitzacio": "19:53:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 8m 4s",
+    "compte_enrere": "0d 1h 6m 50s",
     "kickoff_ts": 1777748400
   }
 }
