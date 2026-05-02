@@ -1138,6 +1138,13 @@
       "hora": "19:58",
       "ts": "2026-05-02T19:44:31.659563",
       "collage": "collages/collage_1777743871153743.webp"
+    },
+    {
+      "text": "116è partit de Lliga per a Gavi amb el Barça. Supera Nogués (1930-1942) i ara ocupa el ➡️ 115è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:59",
+      "ts": "2026-05-02T19:44:31.659563",
+      "collage": "collages/collage_1777743871458628.webp"
     }
   ],
   "baseline": {
@@ -20729,13 +20736,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:58:31",
+  "ultima_actualitzacio": "19:59:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 1m 18s",
+    "compte_enrere": "0d 1h 0m 41s",
     "kickoff_ts": 1777748400
   }
 }
