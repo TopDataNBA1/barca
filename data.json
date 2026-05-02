@@ -1201,6 +1201,13 @@
       "hora": "22:21",
       "ts": "2026-05-02T22:19:13.733992",
       "collage": "collages/collage_1777753153529056.webp"
+    },
+    {
+      "text": "204è partit oficial per a Ferran Torres amb el Barça. Supera Pereda (1961-1969) i ara ocupa el ➡️ 78è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:22",
+      "ts": "2026-05-02T22:19:14.087792",
+      "collage": "collages/collage_1777753153901097.webp"
     }
   ],
   "baseline": {
@@ -20792,7 +20799,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:21:13",
+  "ultima_actualitzacio": "22:22:13",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
