@@ -1110,6 +1110,13 @@
       "hora": "19:54",
       "ts": "2026-05-02T19:44:29.846144",
       "collage": "collages/collage_1777743869310316.webp"
+    },
+    {
+      "text": "51è partit de Lliga per a Dani Olmo amb el Barça. Supera Arnau (1928-1934), Castillo (1928-1932), Pérez (1971-1975) i Dani (1999-2004). Empata amb Pichi Alonso (1982-1986), Bonano (2001-2004) i Dest (2020-2022) en el ➡️ 226è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:55",
+      "ts": "2026-05-02T19:44:29.846144",
+      "collage": "collages/collage_1777743869615218.webp"
     }
   ],
   "baseline": {
@@ -20701,13 +20708,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:54:31",
+  "ultima_actualitzacio": "19:55:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 5m 36s",
-    "kickoff_ts": 1777748400
+    "compte_enrere": "0d 1h 4m 22s",
+    "kickoff_ts": 1777748399
   }
 }
