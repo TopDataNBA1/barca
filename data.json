@@ -1124,6 +1124,13 @@
       "hora": "19:56",
       "ts": "2026-05-02T19:44:30.931798",
       "collage": "collages/collage_1777743869958108.webp"
+    },
+    {
+      "text": "86è partit de Lliga per a Fermín amb el Barça. Supera Giuly (2004-2007). Empata amb Ansu Fati (2019-2025) en el ➡️ 154è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:57",
+      "ts": "2026-05-02T19:44:30.931798",
+      "collage": "collages/collage_1777743870752872.webp"
     }
   ],
   "baseline": {
@@ -20715,13 +20722,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:56:31",
+  "ultima_actualitzacio": "19:57:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 3m 45s",
+    "compte_enrere": "0d 1h 2m 31s",
     "kickoff_ts": 1777748399
   }
 }
