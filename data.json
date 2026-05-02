@@ -1145,6 +1145,13 @@
       "hora": "19:59",
       "ts": "2026-05-02T19:44:31.659563",
       "collage": "collages/collage_1777743871458628.webp"
+    },
+    {
+      "text": "242è partit oficial per a Pedri amb el Barça. Supera Schuster (1980-1988). Empata amb Márquez (2003-2010) en el ➡️ 63è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-05-02T19:44:32.054455",
+      "collage": "collages/collage_1777743871853502.webp"
     }
   ],
   "baseline": {
@@ -20736,13 +20743,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:59:31",
+  "ultima_actualitzacio": "20:00:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 0m 41s",
+    "compte_enrere": "0d 0h 59m 27s",
     "kickoff_ts": 1777748400
   }
 }
