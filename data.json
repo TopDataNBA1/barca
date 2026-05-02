@@ -1061,6 +1061,13 @@
       "hora": "19:47",
       "ts": "2026-05-02T19:44:26.942230",
       "collage": "collages/collage_1777743866767286.webp"
+    },
+    {
+      "text": "90è partit oficial per a Gerard Martín amb el Barça. Supera Walter (1924-1931) i Maxwell (2009-2012). Empata amb Pujol (1964-1973), Pinto (2007-2014) i Rafinha (2011-2021) en el ➡️ 197è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:48",
+      "ts": "2026-05-02T19:44:27.608741",
+      "collage": "collages/collage_1777743867070189.webp"
     }
   ],
   "baseline": {
@@ -20652,13 +20659,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:47:30",
+  "ultima_actualitzacio": "19:48:30",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 11m 45s",
+    "compte_enrere": "0d 1h 11m 8s",
     "kickoff_ts": 1777748400
   }
 }
