@@ -1159,6 +1159,13 @@
       "hora": "20:01",
       "ts": "2026-05-02T19:44:33.333043",
       "collage": "collages/collage_1777743872187394.webp"
+    },
+    {
+      "text": "19è partit de Lliga per a Bardghji amb el Barça. Supera Santos (1933-1934), Garcerán (1939-1940), Riba (1943-1945), Julián Rubio (1979-1981), Davids (2003-2004), Aubameyang (2021-2023) i Pablo Torre (2022-2025). Empata amb Soler (1933-1940), Salas (1933-1935), Castro (1968-1971), Carreras (1990-1996), Prosinečki (1995-1997), Amunike (1996-2000), Andersson (2001-2004), Hleb (2008-2009), Pjanić (2020-2023) i Bernal (2024-2026) en el ➡️ 375è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:02",
+      "ts": "2026-05-02T19:44:33.333043",
+      "collage": "collages/collage_1777743873126093.webp"
     }
   ],
   "baseline": {
@@ -20750,13 +20757,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:01:32",
+  "ultima_actualitzacio": "20:02:32",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 0h 58m 13s",
+    "compte_enrere": "0d 0h 56m 59s",
     "kickoff_ts": 1777748400
   }
 }
