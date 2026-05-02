@@ -20848,12 +20848,12 @@
     }
   },
   "ultima_actualitzacio": "22:56:08",
-  "match_status": "C",
+  "match_status": "U",
   "match_comp": "Lliga",
-  "match_rival": "Osasuna",
+  "match_rival": "Real Madrid",
   "proper_partit": {
-    "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1777748525
+    "descripcio": "Lliga · Barça - Real Madrid",
+    "compte_enrere": "7d 22h 3m 27s",
+    "kickoff_ts": 1778439600
   }
 }
