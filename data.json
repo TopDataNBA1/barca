@@ -1243,6 +1243,13 @@
       "hora": "22:45",
       "ts": "2026-05-02T22:45:21.666556",
       "collage": "collages/collage_1777754721051090.webp"
+    },
+    {
+      "text": "20è partit de Lliga per a Bernal amb el Barça. Supera Soler (1933-1940), Salas (1933-1935), Castro (1968-1971), Carreras (1990-1996), Prosinečki (1995-1997), Amunike (1996-2000), Andersson (2001-2004), Hleb (2008-2009), Pjanić (2020-2023) i Bardghji (2025-2026). Empata amb Mas (1928-1932), Quique (1943-1950), Marinho (1974-1976) i Cuéllar (1995-1997) en el ➡️ 371è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:46",
+      "ts": "2026-05-02T22:45:21.666556",
+      "collage": "collages/collage_1777754721454006.webp"
     }
   ],
   "baseline": {
@@ -20834,7 +20841,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:45:23",
+  "ultima_actualitzacio": "22:46:23",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
