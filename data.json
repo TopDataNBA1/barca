@@ -1040,6 +1040,20 @@
       "hora": "19:44",
       "ts": "2026-05-02T19:44:26.118171",
       "collage": "collages/collage_1777743865498770.webp"
+    },
+    {
+      "text": "27è partit de Lliga per a Joan Garcia amb el Barça. Supera Vila (1951-1954), Ćirić (1997-1999), Geovanni (2001-2003) i Aleñá (2015-2021). Empata amb Walter (1928-1931), Mandi (1954-1957), Nico (2021-2022) i Rashford (2025-2026) en el ➡️ 324è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:45",
+      "ts": "2026-05-02T19:44:26.118171",
+      "collage": "collages/collage_1777743865900237.webp"
+    },
+    {
+      "text": "164è partit oficial per a Eric Garcia amb el Barça. Supera Bojan (2007-2011). Empata amb Zuviría (1977-1982), Balde (2021-2026) i Gavi (2021-2026) en el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:46",
+      "ts": "2026-05-02T19:44:26.942230",
+      "collage": "collages/collage_1777743866362419.webp"
     }
   ],
   "baseline": {
@@ -20631,13 +20645,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:44:30",
+  "ultima_actualitzacio": "19:46:30",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 14m 49s",
-    "kickoff_ts": 1777748399
+    "compte_enrere": "0d 1h 12m 59s",
+    "kickoff_ts": 1777748400
   }
 }
