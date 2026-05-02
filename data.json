@@ -1082,6 +1082,20 @@
       "hora": "19:50",
       "ts": "2026-05-02T19:44:28.292617",
       "collage": "collages/collage_1777743867734324.webp"
+    },
+    {
+      "text": "44è partit de Lliga per a João Cancelo amb el Barça. Supera Alcoriza (1931-1935) i Juanito (1971-1975). Empata amb Fortes (1975-1979), Couto (1996-1998) i Braithwaite (2019-2022) en el ➡️ 257è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:51",
+      "ts": "2026-05-02T19:44:28.292617",
+      "collage": "collages/collage_1777743868085701.webp"
+    },
+    {
+      "text": "125è partit oficial per a Cubarsí amb el Barça. Supera Giuly (2004-2007) i Semedo (2017-2020) i ara ocupa el ➡️ 152è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:52",
+      "ts": "2026-05-02T19:44:29.181332",
+      "collage": "collages/collage_1777743868422575.webp"
     }
   ],
   "baseline": {
@@ -20673,13 +20687,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:50:30",
+  "ultima_actualitzacio": "19:52:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 8m 40s",
-    "kickoff_ts": 1777748399
+    "compte_enrere": "0d 1h 8m 4s",
+    "kickoff_ts": 1777748400
   }
 }
