@@ -1222,6 +1222,13 @@
       "hora": "22:37",
       "ts": "2026-05-02T22:37:49.840749",
       "collage": "collages/collage_1777754269152504.webp"
+    },
+    {
+      "text": "140è partit de Lliga per a Araújo amb el Barça. Supera Biosca (1950-1959) i Cruyff (1973-1978). Empata amb Neeskens (1974-1979) en el ➡️ 87è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:38",
+      "ts": "2026-05-02T22:37:49.840749",
+      "collage": "collages/collage_1777754269582649.webp"
     }
   ],
   "baseline": {
@@ -20813,7 +20820,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:37:51",
+  "ultima_actualitzacio": "22:38:51",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
