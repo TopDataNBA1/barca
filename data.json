@@ -1131,6 +1131,13 @@
       "hora": "19:57",
       "ts": "2026-05-02T19:44:30.931798",
       "collage": "collages/collage_1777743870752872.webp"
+    },
+    {
+      "text": "164è partit oficial per a Gavi amb el Barça. Supera Bojan (2007-2011). Empata amb Zuviría (1977-1982), Balde (2021-2026) i Eric Garcia (2021-2026) en el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:58",
+      "ts": "2026-05-02T19:44:31.659563",
+      "collage": "collages/collage_1777743871153743.webp"
     }
   ],
   "baseline": {
@@ -20722,13 +20729,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:57:31",
+  "ultima_actualitzacio": "19:58:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 2m 31s",
-    "kickoff_ts": 1777748399
+    "compte_enrere": "0d 1h 1m 18s",
+    "kickoff_ts": 1777748400
   }
 }
