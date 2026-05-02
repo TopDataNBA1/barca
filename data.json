@@ -1068,6 +1068,13 @@
       "hora": "19:48",
       "ts": "2026-05-02T19:44:27.608741",
       "collage": "collages/collage_1777743867070189.webp"
+    },
+    {
+      "text": "56è partit de Lliga per a Gerard Martín amb el Barça. Supera Martín (1949-1954), Archibald (1984-1987) i Juan Carlos (1991-1994). Empata amb Navarro (1946-1956), Marcos Aurelio (1948-1951) i Rafinha (2011-2021) en el ➡️ 213è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:49",
+      "ts": "2026-05-02T19:44:27.608741",
+      "collage": "collages/collage_1777743867368817.webp"
     }
   ],
   "baseline": {
@@ -20659,13 +20666,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:48:30",
+  "ultima_actualitzacio": "19:49:30",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 11m 8s",
-    "kickoff_ts": 1777748400
+    "compte_enrere": "0d 1h 9m 54s",
+    "kickoff_ts": 1777748399
   }
 }
