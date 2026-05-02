@@ -1173,6 +1173,13 @@
       "hora": "20:03",
       "ts": "2026-05-02T19:44:34.061795",
       "collage": "collages/collage_1777743873521966.webp"
+    },
+    {
+      "text": "129è partit de Lliga per a Lewandowski amb el Barça. Empata amb Gabri (1999-2006) en el ➡️ 95è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:04",
+      "ts": "2026-05-02T19:44:34.061795",
+      "collage": "collages/collage_1777743873802876.webp"
     }
   ],
   "baseline": {
@@ -20764,13 +20771,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:03:32",
+  "ultima_actualitzacio": "20:04:32",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 0h 56m 22s",
-    "kickoff_ts": 1777748400
+    "compte_enrere": "0d 0h 55m 8s",
+    "kickoff_ts": 1777748399
   }
 }
