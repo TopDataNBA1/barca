@@ -1208,6 +1208,20 @@
       "hora": "22:22",
       "ts": "2026-05-02T22:19:14.087792",
       "collage": "collages/collage_1777753153901097.webp"
+    },
+    {
+      "text": "⚽ 82è gol de Lewandowski a la Lliga amb el Barça. Supera Rexach (1964-1981) i ara ocupa el ➡️ 12è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:37",
+      "ts": "2026-05-02T22:37:48.888499",
+      "collage": "collages/collage_1777754268630492.webp"
+    },
+    {
+      "text": "210è partit oficial per a Araújo amb el Barça. Supera Juan Carlos (1968-1975) i ara ocupa el ➡️ 74è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:37",
+      "ts": "2026-05-02T22:37:49.840749",
+      "collage": "collages/collage_1777754269152504.webp"
     }
   ],
   "baseline": {
@@ -1760,7 +1774,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 209,
+        "pj": 210,
         "g": 13,
         "inici": "2019",
         "final": "2026"
@@ -1894,7 +1908,7 @@
       "Robert Lewandowski": {
         "alias": "Lewandowski",
         "pj": 188,
-        "g": 118,
+        "g": 119,
         "inici": "2022",
         "final": "2026"
       },
@@ -8300,7 +8314,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 139,
+        "pj": 140,
         "g": 10,
         "inici": "2019",
         "final": "2026"
@@ -8364,7 +8378,7 @@
       "Robert Lewandowski": {
         "alias": "Lewandowski",
         "pj": 129,
-        "g": 81,
+        "g": 82,
         "inici": "2022",
         "final": "2026"
       },
@@ -20799,7 +20813,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:22:13",
+  "ultima_actualitzacio": "22:37:51",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
