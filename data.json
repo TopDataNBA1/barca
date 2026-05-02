@@ -1117,6 +1117,13 @@
       "hora": "19:55",
       "ts": "2026-05-02T19:44:29.846144",
       "collage": "collages/collage_1777743869615218.webp"
+    },
+    {
+      "text": "134è partit oficial per a Fermín amb el Barça. Supera Umtiti (2016-2022) i ara ocupa el ➡️ 142è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:56",
+      "ts": "2026-05-02T19:44:30.931798",
+      "collage": "collages/collage_1777743869958108.webp"
     }
   ],
   "baseline": {
@@ -20708,13 +20715,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:55:31",
+  "ultima_actualitzacio": "19:56:31",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Osasuna",
   "proper_partit": {
     "descripcio": "Lliga · Osasuna - Barça",
-    "compte_enrere": "0d 1h 4m 22s",
+    "compte_enrere": "0d 1h 3m 45s",
     "kickoff_ts": 1777748399
   }
 }
