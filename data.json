@@ -1194,6 +1194,13 @@
       "hora": "21:23",
       "ts": "2026-05-10T21:23:47.241990",
       "collage": "collages/collage_1778441027050051.webp"
+    },
+    {
+      "text": "175è partit oficial per a Raphinha amb el Barça. Supera Raich (1934-1945), Manchón (1950-1957) i Goikoetxea (1990-1994). Empata amb Oleguer (2001-2008) en el ➡️ 105è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:30",
+      "ts": "2026-05-10T22:30:31.152097",
+      "collage": "collages/collage_1778445030644277.webp"
     }
   ],
   "baseline": {
@@ -1508,7 +1515,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 294,
+        "pj": 295,
         "g": 20,
         "inici": "2019",
         "final": "2026"
@@ -1963,7 +1970,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 174,
+        "pj": 175,
         "g": 73,
         "inici": "2022",
         "final": "2026"
@@ -7992,7 +7999,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 199,
+        "pj": 200,
         "g": 15,
         "inici": "2019",
         "final": "2026"
@@ -8440,7 +8447,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 119,
+        "pj": 120,
         "g": 42,
         "inici": "2022",
         "final": "2026"
@@ -20785,7 +20792,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:23:48",
+  "ultima_actualitzacio": "22:30:35",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
