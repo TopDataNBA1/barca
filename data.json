@@ -1131,6 +1131,13 @@
       "hora": "20:06",
       "ts": "2026-05-10T19:53:40.006979",
       "collage": "collages/collage_1778435619797060.webp"
+    },
+    {
+      "text": "164è partit oficial per a Gavi amb el Barça. Supera Bojan (2007-2011). Empata amb Zuviría (1977-1982), Balde (2021-2026) i Eric Garcia (2021-2026) en el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-05-10T19:53:40.511785",
+      "collage": "collages/collage_1778435620269878.webp"
     }
   ],
   "baseline": {
@@ -20722,13 +20729,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:06:38",
+  "ultima_actualitzacio": "20:07:38",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 52m 43s",
+    "compte_enrere": "0d 0h 52m 6s",
     "kickoff_ts": 1778439600
   }
 }
