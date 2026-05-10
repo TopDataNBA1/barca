@@ -1110,6 +1110,13 @@
       "hora": "20:03",
       "ts": "2026-05-10T19:53:39.291274",
       "collage": "collages/collage_1778435618621954.webp"
+    },
+    {
+      "text": "55è partit de Lliga per a Dani Olmo amb el Barça. Supera Martí (1928-1933), Alfonseda (1969-1973), Periko Alonso (1982-1985) i Milla (1984-1990). Empata amb Martín (1949-1954), Archibald (1984-1987) i Juan Carlos (1991-1994) en el ➡️ 217è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:04",
+      "ts": "2026-05-10T19:53:39.291274",
+      "collage": "collages/collage_1778435619015363.webp"
     }
   ],
   "baseline": {
@@ -20701,13 +20708,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:03:37",
+  "ultima_actualitzacio": "20:04:38",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 56m 25s",
+    "compte_enrere": "0d 0h 55m 11s",
     "kickoff_ts": 1778439600
   }
 }
