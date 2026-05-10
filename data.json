@@ -1040,6 +1040,20 @@
       "hora": "19:53",
       "ts": "2026-05-10T19:53:34.802576",
       "collage": "collages/collage_1778435614112288.webp"
+    },
+    {
+      "text": "29è partit de Lliga per a Joan Garcia amb el Barça. Supera Samitier (1928-1932), Saura (1928-1930), Berkessy (1934-1936), Amarillo (1976-1979), Ramírez (1979-1982), Hughes (1986-1987), Blanc (1996-1997), Giovani dos Santos (2006-2008), Iñaki Peña (2018-2026), Trincão (2020-2021), Kessié (2022-2023) i Rashford (2025-2026). Empata amb Ibrahimović (2009-2011), Romeu (2010-2024), Digne (2016-2018) i Marcos Alonso (2022-2024) en el ➡️ 309è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:54",
+      "ts": "2026-05-10T19:53:34.802576",
+      "collage": "collages/collage_1778435614547680.webp"
+    },
+    {
+      "text": "164è partit oficial per a Eric Garcia amb el Barça. Supera Bojan (2007-2011). Empata amb Zuviría (1977-1982), Balde (2021-2026) i Gavi (2021-2026) en el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:55",
+      "ts": "2026-05-10T19:53:35.758438",
+      "collage": "collages/collage_1778435615098199.webp"
     }
   ],
   "baseline": {
@@ -20631,13 +20645,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:53:37",
+  "ultima_actualitzacio": "19:55:37",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 1h 6m 27s",
+    "compte_enrere": "0d 1h 4m 27s",
     "kickoff_ts": 1778439600
   }
 }
