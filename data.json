@@ -1215,6 +1215,13 @@
       "hora": "22:32",
       "ts": "2026-05-10T22:30:31.491980",
       "collage": "collages/collage_1778445031316059.webp"
+    },
+    {
+      "text": "188è partit oficial per a Lewandowski amb el Barça. Supera Koundé (2022-2026). Empata amb Keita (2008-2012) en el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:42",
+      "ts": "2026-05-10T22:42:17.794175",
+      "collage": "collages/collage_1778445737298359.webp"
     }
   ],
   "baseline": {
@@ -1900,7 +1907,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 187,
+        "pj": 188,
         "g": 118,
         "inici": "2022",
         "final": "2026"
@@ -8370,7 +8377,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 128,
+        "pj": 129,
         "g": 81,
         "inici": "2022",
         "final": "2026"
@@ -20806,7 +20813,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:32:36",
+  "ultima_actualitzacio": "22:42:21",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
