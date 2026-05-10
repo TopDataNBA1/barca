@@ -1229,6 +1229,13 @@
       "hora": "22:43",
       "ts": "2026-05-10T22:42:17.794175",
       "collage": "collages/collage_1778445737590244.webp"
+    },
+    {
+      "text": "31è partit oficial per a Bernal amb el Barça. Supera Sampedro (1955-1959), Cuenca (2011-2014), Pjanić (2020-2023) i Fort (2023-2025). Empata amb García (1925-1930), Canal (1946-1952), Carreño (1973-1978), Fradera (1985-1988) i Andersson (2001-2004) en el ➡️ 364è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:44",
+      "ts": "2026-05-10T22:44:47.560906",
+      "collage": "collages/collage_1778445886986225.webp"
     }
   ],
   "baseline": {
@@ -4070,7 +4077,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 30,
+        "pj": 31,
         "g": 5,
         "inici": "2024",
         "final": "2026"
@@ -10582,7 +10589,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 19,
+        "pj": 20,
         "g": 2,
         "inici": "2024",
         "final": "2026"
@@ -20820,7 +20827,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:43:21",
+  "ultima_actualitzacio": "22:44:51",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
