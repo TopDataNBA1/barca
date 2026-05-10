@@ -1201,6 +1201,20 @@
       "hora": "22:30",
       "ts": "2026-05-10T22:30:31.152097",
       "collage": "collages/collage_1778445030644277.webp"
+    },
+    {
+      "text": "120è partit de Lliga per a Raphinha amb el Barça. Supera Ramos (1976-1982), Zuviría (1977-1982) i Keita (2008-2012). Empata amb Urruti (1981-1988) en el ➡️ 110è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:31",
+      "ts": "2026-05-10T22:30:31.152097",
+      "collage": "collages/collage_1778445030951174.webp"
+    },
+    {
+      "text": "200è partit de Lliga per a De Jong amb el Barça. Empata amb Rakitić (2014-2020) en el ➡️ 47è lloc històric del club a la Lliga.. De Jong es converteix en el 48è jugador que arriba als 200 partit de Lligas amb el Barça.",
+      "tipus": "programada",
+      "hora": "22:32",
+      "ts": "2026-05-10T22:30:31.491980",
+      "collage": "collages/collage_1778445031316059.webp"
     }
   ],
   "baseline": {
@@ -20792,7 +20806,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:30:35",
+  "ultima_actualitzacio": "22:32:36",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
