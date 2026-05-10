@@ -1187,6 +1187,13 @@
       "hora": "21:14",
       "ts": "2026-05-10T21:13:55.281397",
       "collage": "collages/collage_1778440435065472.webp"
+    },
+    {
+      "text": "⚽ 40è gol de Ferran Torres a la Lliga amb el Barça. Supera Moreno (1951-1956) i Laudrup (1989-1994) i ara ocupa el ➡️ 46è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "21:23",
+      "ts": "2026-05-10T21:23:47.241990",
+      "collage": "collages/collage_1778441027050051.webp"
     }
   ],
   "baseline": {
@@ -1796,7 +1803,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 204,
-        "g": 63,
+        "g": 64,
         "inici": "2021",
         "final": "2026"
       },
@@ -8294,7 +8301,7 @@
       "Ferran Torres García": {
         "alias": "Ferran Torres",
         "pj": 136,
-        "g": 39,
+        "g": 40,
         "inici": "2021",
         "final": "2026"
       },
@@ -20778,7 +20785,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "21:14:01",
+  "ultima_actualitzacio": "21:23:48",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
