@@ -1068,6 +1068,13 @@
       "hora": "19:57",
       "ts": "2026-05-10T19:53:36.533792",
       "collage": "collages/collage_1778435615915514.webp"
+    },
+    {
+      "text": "58è partit de Lliga per a Gerard Martín amb el Barça. Supera Hanke (1952-1956) i Maxwell (2009-2012). Empata amb Vantolrà (1933-1936), Benito (1939-1946), Sotil (1973-1977) i Zambrotta (2006-2008) en el ➡️ 207è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:58",
+      "ts": "2026-05-10T19:53:36.533792",
+      "collage": "collages/collage_1778435616296261.webp"
     }
   ],
   "baseline": {
@@ -20659,13 +20666,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "19:57:37",
+  "ultima_actualitzacio": "19:58:37",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 1h 2m 36s",
+    "compte_enrere": "0d 1h 1m 22s",
     "kickoff_ts": 1778439600
   }
 }
