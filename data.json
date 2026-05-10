@@ -20855,12 +20855,12 @@
     }
   },
   "ultima_actualitzacio": "22:58:01",
-  "match_status": "C",
+  "match_status": "U",
   "match_comp": "Lliga",
-  "match_rival": "Real Madrid",
+  "match_rival": "Alaves",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1778439915
+    "descripcio": "Lliga · Barça - Alaves",
+    "compte_enrere": "2d 22h 31m 35s",
+    "kickoff_ts": 1778700599
   }
 }
