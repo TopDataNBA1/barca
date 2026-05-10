@@ -1257,6 +1257,12 @@
       "hora": "22:55",
       "ts": "2026-05-10T22:54:43.392977",
       "collage": "collages/collage_1778446483220033.webp"
+    },
+    {
+      "text": "📋 10/05/2026 · LLIGA · BARÇA - REAL MADRID",
+      "tipus": "prioritaria",
+      "hora": "22:58",
+      "ts": "2026-05-10T22:57:59.454423"
     }
   ],
   "baseline": {
@@ -20848,8 +20854,8 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:55:46",
-  "match_status": "L",
+  "ultima_actualitzacio": "22:58:01",
+  "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
   "proper_partit": {
