@@ -1173,6 +1173,20 @@
       "hora": "20:12",
       "ts": "2026-05-10T19:53:42.657732",
       "collage": "collages/collage_1778435622436799.webp"
+    },
+    {
+      "text": "⚽ 14è gol de Rashford amb el Barça. Supera Enrique Fernández (1934-1936), Urbano (1982-1992), Popescu (1995-1997), Gabri (1999-2006), Márquez (2003-2010), Araújo (2019-2026) i Aubameyang (2021-2023). Empata amb Vidal I (1963-1968), Amarilla (1985-1988), Frank de Boer (1998-2003) i Memphis (2021-2023) en el ➡️ 156è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "21:13",
+      "ts": "2026-05-10T21:13:55.281397",
+      "collage": "collages/collage_1778440434723104.webp"
+    },
+    {
+      "text": "⚽ 8è gol de Rashford a la Lliga amb el Barça. Supera Arnau (1928-1934), Florencio (1947-1949), Aretio (1949-1950), Ribelles (1957-1961), Vicente (1961-1966), Alfonseda (1969-1973), Estella (1979-1983), Urbano (1982-1992), Roger (1994-1999), Hagi (1994-1996), Gabri (1999-2006), Thiago Alcántara (2008-2013) i João Félix (2023-2024). Empata amb Enrique Fernández (1934-1936), Eladio (1962-1972), Barrios (1972-1974), Amarilla (1985-1988), Valverde (1988-1990) i Rafinha (2011-2021) en el ➡️ 166è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "21:14",
+      "ts": "2026-05-10T21:13:55.281397",
+      "collage": "collages/collage_1778440435065472.webp"
     }
   ],
   "baseline": {
@@ -3581,7 +3595,7 @@
       "Marcus Rashford": {
         "alias": "Rashford",
         "pj": 45,
-        "g": 13,
+        "g": 14,
         "inici": "2025",
         "final": "2026"
       },
@@ -10114,7 +10128,7 @@
       "Marcus Rashford": {
         "alias": "Rashford",
         "pj": 28,
-        "g": 7,
+        "g": 8,
         "inici": "2025",
         "final": "2026"
       },
@@ -20764,7 +20778,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:12:38",
+  "ultima_actualitzacio": "21:14:01",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
