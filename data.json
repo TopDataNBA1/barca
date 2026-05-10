@@ -1159,6 +1159,13 @@
       "hora": "20:10",
       "ts": "2026-05-10T19:53:42.305848",
       "collage": "collages/collage_1778435621673094.webp"
+    },
+    {
+      "text": "163è partit de Lliga per a Pedri amb el Barça. Supera Villaverde (1954-1963). Empata amb Juan Carlos (1968-1975) i Márquez (2003-2010) en el ➡️ 68è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:11",
+      "ts": "2026-05-10T19:53:42.305848",
+      "collage": "collages/collage_1778435622055947.webp"
     }
   ],
   "baseline": {
@@ -20750,13 +20757,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:10:38",
+  "ultima_actualitzacio": "20:11:38",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 49m 0s",
-    "kickoff_ts": 1778439599
+    "compte_enrere": "0d 0h 47m 46s",
+    "kickoff_ts": 1778439600
   }
 }
