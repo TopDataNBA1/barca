@@ -1096,6 +1096,13 @@
       "hora": "20:01",
       "ts": "2026-05-10T19:53:38.463016",
       "collage": "collages/collage_1778435617862247.webp"
+    },
+    {
+      "text": "84è partit de Lliga per a Cubarsí amb el Barça. Supera Brugué (1951-1960). Empata amb Flotats (1952-1960) i Cayetano Ré (1961-1966) en el ➡️ 157è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:02",
+      "ts": "2026-05-10T19:53:38.463016",
+      "collage": "collages/collage_1778435618234105.webp"
     }
   ],
   "baseline": {
@@ -20687,13 +20694,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:01:37",
+  "ultima_actualitzacio": "20:02:37",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 58m 16s",
+    "compte_enrere": "0d 0h 57m 2s",
     "kickoff_ts": 1778439600
   }
 }
