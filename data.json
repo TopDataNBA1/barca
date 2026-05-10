@@ -1138,6 +1138,13 @@
       "hora": "20:07",
       "ts": "2026-05-10T19:53:40.511785",
       "collage": "collages/collage_1778435620269878.webp"
+    },
+    {
+      "text": "47è partit oficial per a Rashford amb el Barça. Supera Ibrahimović (2009-2011) i Digne (2016-2018). Empata amb Christanval (2001-2003) en el ➡️ 302è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:08",
+      "ts": "2026-05-10T19:53:41.548142",
+      "collage": "collages/collage_1778435620665498.webp"
     }
   ],
   "baseline": {
@@ -20729,13 +20736,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:07:38",
+  "ultima_actualitzacio": "20:08:38",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 52m 6s",
-    "kickoff_ts": 1778439600
+    "compte_enrere": "0d 0h 50m 51s",
+    "kickoff_ts": 1778439599
   }
 }
