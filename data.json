@@ -1243,6 +1243,13 @@
       "hora": "22:45",
       "ts": "2026-05-10T22:44:47.560906",
       "collage": "collages/collage_1778445887325994.webp"
+    },
+    {
+      "text": "165è partit oficial per a Balde amb el Barça. Supera Zuviría (1977-1982), Eric Garcia (2021-2026) i Gavi (2021-2026) i ara ocupa el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:54",
+      "ts": "2026-05-10T22:54:43.392977",
+      "collage": "collages/collage_1778446482874167.webp"
     }
   ],
   "baseline": {
@@ -2068,7 +2075,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 164,
+        "pj": 165,
         "g": 3,
         "inici": "2021",
         "final": "2026"
@@ -8559,7 +8566,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 112,
+        "pj": 113,
         "g": 1,
         "inici": "2021",
         "final": "2026"
@@ -20834,7 +20841,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:45:51",
+  "ultima_actualitzacio": "22:54:46",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Madrid",
