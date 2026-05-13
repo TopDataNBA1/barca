@@ -1409,6 +1409,13 @@
       "hora": "00:03",
       "ts": "2026-05-14T00:02:22.320174",
       "collage": "collages/collage_1778709742092269.webp"
+    },
+    {
+      "text": "243è partit oficial per a Pedri amb el Barça. Supera Márquez (2003-2010) i ara ocupa el ➡️ 63è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "00:04",
+      "ts": "2026-05-14T00:02:23.158895",
+      "collage": "collages/collage_1778709742572092.webp"
     }
   ],
   "baseline": {
@@ -21000,7 +21007,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:03:25",
+  "ultima_actualitzacio": "00:04:25",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Alaves",
