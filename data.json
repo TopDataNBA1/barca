@@ -1263,6 +1263,55 @@
       "tipus": "prioritaria",
       "hora": "22:58",
       "ts": "2026-05-10T22:57:59.454423"
+    },
+    {
+      "text": "41è partit oficial per a Szczęsny amb el Barça. Supera Anguera (1940-1942), Salva (1984-1989) i Ćirić (1997-1999). Empata amb Cristóbal (1987-1992), Ezquerro (2005-2008) i Junior Firpo (2019-2021) en el ➡️ 320è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:32",
+      "ts": "2026-05-13T20:32:09.566103",
+      "collage": "collages/collage_1778697129006002.webp"
+    },
+    {
+      "text": "22è partit de Lliga per a Szczęsny amb el Barça. Supera Font (1932-1934), Sierra (1942-1945), Sagrera (1947-1951), Areta II (1953-1956), Pellicer (1967-1970), Serrat (1979-1980), Litmanen (1999-2001), Fernando Navarro (2000-2005), Alfonso (2000-2002), Afellay (2010-2014), De Jong (2021-2022), Pau Víctor (2023-2025) i Bernal (2024-2026). Empata amb Areso (1935-1936), Salva (1984-1989), Valverde (1988-1990), Quaresma (2003-2004) i Jeffrén (2006-2011) en el ➡️ 353è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:33",
+      "ts": "2026-05-13T20:32:09.566103",
+      "collage": "collages/collage_1778697129345124.webp"
+    },
+    {
+      "text": "166è partit oficial per a Balde amb el Barça. Empata amb Gonzalvo II (1944-1950) en el ➡️ 112è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:34",
+      "ts": "2026-05-13T20:32:10.179463",
+      "collage": "collages/collage_1778697129677060.webp"
+    },
+    {
+      "text": "114è partit de Lliga per a Balde amb el Barça. Supera Deco (2004-2008). Empata amb Evaristo (1957-1962) i Adriano (2010-2016) en el ➡️ 117è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:35",
+      "ts": "2026-05-13T20:32:10.179463",
+      "collage": "collages/collage_1778697130002547.webp"
+    },
+    {
+      "text": "188è partit oficial per a Koundé amb el Barça. Empata amb Keita (2008-2012) en el ➡️ 90è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:36",
+      "ts": "2026-05-13T20:32:10.747064",
+      "collage": "collages/collage_1778697130285237.webp"
+    },
+    {
+      "text": "125è partit de Lliga per a Koundé amb el Barça. Supera Marcos Alonso (1982-1987). Empata amb Abidal (2007-2013) en el ➡️ 100è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:37",
+      "ts": "2026-05-13T20:32:10.747064",
+      "collage": "collages/collage_1778697130567133.webp"
+    },
+    {
+      "text": "126è partit oficial per a Cubarsí amb el Barça. Empata amb Rodri (1958-1966), Kocsis (1958-1966) i Garay (1960-1965) en el ➡️ 149è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:38",
+      "ts": "2026-05-13T20:32:11.615395",
+      "collage": "collages/collage_1778697131144832.webp"
     }
   ],
   "baseline": {
@@ -1941,14 +1990,14 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 187,
+        "pj": 188,
         "g": 10,
         "inici": "2022",
         "final": "2026"
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 188,
+        "pj": 189,
         "g": 118,
         "inici": "2022",
         "final": "2026"
@@ -2088,7 +2137,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 165,
+        "pj": 166,
         "g": 3,
         "inici": "2021",
         "final": "2026"
@@ -2410,7 +2459,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 125,
+        "pj": 126,
         "g": 2,
         "inici": "2023",
         "final": "2026"
@@ -2935,7 +2984,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 80,
+        "pj": 81,
         "g": 19,
         "inici": "2024",
         "final": "2026"
@@ -3012,7 +3061,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 71,
+        "pj": 72,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -3530,7 +3579,7 @@
       },
       "Wojciech Tomasz Szczęsny": {
         "alias": "Szczęsny",
-        "pj": 40,
+        "pj": 41,
         "g": 0,
         "inici": "2024",
         "final": "2026"
@@ -3670,7 +3719,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 45,
+        "pj": 46,
         "g": 14,
         "inici": "2025",
         "final": "2026"
@@ -4104,7 +4153,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 31,
+        "pj": 32,
         "g": 5,
         "inici": "2024",
         "final": "2026"
@@ -4237,7 +4286,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 25,
+        "pj": 26,
         "g": 2,
         "inici": "2025",
         "final": "2026"
@@ -7716,7 +7765,7 @@
       },
       "Álvaro Cortés Moyano": {
         "alias": "Cortés",
-        "pj": 0,
+        "pj": 1,
         "g": 0,
         "inici": "2024",
         "final": "2025"
@@ -8418,7 +8467,7 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 129,
+        "pj": 130,
         "g": 81,
         "inici": "2022",
         "final": "2026"
@@ -8474,7 +8523,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 124,
+        "pj": 125,
         "g": 5,
         "inici": "2022",
         "final": "2026"
@@ -8579,7 +8628,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 113,
+        "pj": 114,
         "g": 1,
         "inici": "2021",
         "final": "2026"
@@ -8908,7 +8957,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 83,
+        "pj": 84,
         "g": 1,
         "inici": "2023",
         "final": "2026"
@@ -9454,7 +9503,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 51,
+        "pj": 52,
         "g": 16,
         "inici": "2024",
         "final": "2026"
@@ -9566,7 +9615,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 46,
+        "pj": 47,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -10203,7 +10252,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 28,
+        "pj": 29,
         "g": 8,
         "inici": "2025",
         "final": "2026"
@@ -10294,7 +10343,7 @@
       },
       "Wojciech Tomasz Szczęsny": {
         "alias": "Szczęsny",
-        "pj": 21,
+        "pj": 22,
         "g": 0,
         "inici": "2024",
         "final": "2026"
@@ -10616,7 +10665,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 20,
+        "pj": 21,
         "g": 2,
         "inici": "2024",
         "final": "2026"
@@ -10693,7 +10742,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 18,
+        "pj": 19,
         "g": 1,
         "inici": "2025",
         "final": "2026"
@@ -13549,7 +13598,7 @@
       },
       "Álvaro Cortés Moyano": {
         "alias": "Cortés",
-        "pj": 0,
+        "pj": 1,
         "g": 0,
         "inici": "2024",
         "final": "2025"
@@ -20854,13 +20903,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:58:01",
+  "ultima_actualitzacio": "20:38:12",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Alaves",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "2d 22h 31m 35s",
-    "kickoff_ts": 1778700599
+    "descripcio": "Lliga · Alaves - Barça",
+    "compte_enrere": "0d 0h 50m 55s",
+    "kickoff_ts": 1778700600
   }
 }
