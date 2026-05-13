@@ -1430,6 +1430,13 @@
       "hora": "00:06",
       "ts": "2026-05-14T00:02:24.116595",
       "collage": "collages/collage_1778709743368826.webp"
+    },
+    {
+      "text": "45è partit de Lliga per a João Cancelo amb el Barça. Supera Fortes (1975-1979), Couto (1996-1998) i Braithwaite (2019-2022). Empata amb Guzmán (1928-1935), Bestit (1929-1934), Gracia (1939-1943), Pedraza (1980-1988), Rochemback (2001-2003) i Montoya (2010-2015) en el ➡️ 251è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "00:07",
+      "ts": "2026-05-14T00:02:24.116595",
+      "collage": "collages/collage_1778709743814678.webp"
     }
   ],
   "baseline": {
@@ -21021,7 +21028,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:06:25",
+  "ultima_actualitzacio": "00:07:25",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Alaves",
