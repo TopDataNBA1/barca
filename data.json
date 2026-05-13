@@ -1333,6 +1333,20 @@
       "hora": "20:41",
       "ts": "2026-05-13T20:32:12.195461",
       "collage": "collages/collage_1778697132006553.webp"
+    },
+    {
+      "text": "81è partit oficial per a Dani Olmo amb el Barça. Supera Muller (1965-1968). Empata amb Martí (1923-1933) i Landaburu (1979-1982) en el ➡️ 219è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:42",
+      "ts": "2026-05-13T20:32:12.889158",
+      "collage": "collages/collage_1778697132374117.webp"
+    },
+    {
+      "text": "52è partit de Lliga per a Dani Olmo amb el Barça. Supera Pichi Alonso (1982-1986), Bonano (2001-2004) i Dest (2020-2022) i ara ocupa el ➡️ 226è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:43",
+      "ts": "2026-05-13T20:32:12.889158",
+      "collage": "collages/collage_1778697132705239.webp"
     }
   ],
   "baseline": {
@@ -20924,13 +20938,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:41:13",
+  "ultima_actualitzacio": "20:43:13",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Alaves - Barça",
-    "compte_enrere": "0d 0h 47m 50s",
+    "compte_enrere": "0d 0h 47m 13s",
     "kickoff_ts": 1778700599
   }
 }
