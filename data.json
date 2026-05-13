@@ -1382,6 +1382,13 @@
       "hora": "20:48",
       "ts": "2026-05-13T20:32:15.959039",
       "collage": "collages/collage_1778697134983107.webp"
+    },
+    {
+      "text": "29è partit de Lliga per a Rashford amb el Barça. Supera Samitier (1928-1932), Saura (1928-1930), Berkessy (1934-1936), Amarillo (1976-1979), Ramírez (1979-1982), Hughes (1986-1987), Blanc (1996-1997), Giovani dos Santos (2006-2008), Iñaki Peña (2018-2026), Trincão (2020-2021) i Kessié (2022-2023). Empata amb Ibrahimović (2009-2011), Romeu (2010-2024), Digne (2016-2018) i Marcos Alonso (2022-2024) en el ➡️ 309è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:49",
+      "ts": "2026-05-13T20:32:15.959039",
+      "collage": "collages/collage_1778697135739130.webp"
     }
   ],
   "baseline": {
@@ -20973,13 +20980,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:48:13",
+  "ultima_actualitzacio": "20:49:13",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Alaves - Barça",
-    "compte_enrere": "0d 0h 41m 40s",
-    "kickoff_ts": 1778700599
+    "compte_enrere": "0d 0h 40m 27s",
+    "kickoff_ts": 1778700600
   }
 }
