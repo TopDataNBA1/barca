@@ -1423,6 +1423,13 @@
       "hora": "00:05",
       "ts": "2026-05-14T00:02:23.158895",
       "collage": "collages/collage_1778709742952964.webp"
+    },
+    {
+      "text": "63è partit oficial per a João Cancelo amb el Barça. Supera Sastre (1926-1932) i Navarro (1946-1956). Empata amb Albaladejo (1974-1981) en el ➡️ 255è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "00:06",
+      "ts": "2026-05-14T00:02:24.116595",
+      "collage": "collages/collage_1778709743368826.webp"
     }
   ],
   "baseline": {
@@ -21014,7 +21021,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:05:25",
+  "ultima_actualitzacio": "00:06:25",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Alaves",
