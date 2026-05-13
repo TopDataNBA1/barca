@@ -1347,6 +1347,13 @@
       "hora": "20:43",
       "ts": "2026-05-13T20:32:12.889158",
       "collage": "collages/collage_1778697132705239.webp"
+    },
+    {
+      "text": "32è partit oficial per a Bernal amb el Barça. Supera García (1925-1930), Canal (1946-1952), Carreño (1973-1978), Fradera (1985-1988) i Andersson (2001-2004). Empata amb Morera (1933-1935), Coll (1956-1961), Camps (1961-1965), Arnau (1996-2001), Litmanen (1999-2001), Sandro (2014-2016) i Cillessen (2016-2019) en el ➡️ 356è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:44",
+      "ts": "2026-05-13T20:32:13.952315",
+      "collage": "collages/collage_1778697133022518.webp"
     }
   ],
   "baseline": {
@@ -20938,13 +20945,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:43:13",
+  "ultima_actualitzacio": "20:44:13",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Alaves - Barça",
-    "compte_enrere": "0d 0h 47m 13s",
-    "kickoff_ts": 1778700599
+    "compte_enrere": "0d 0h 45m 59s",
+    "kickoff_ts": 1778700600
   }
 }
