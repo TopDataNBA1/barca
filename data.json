@@ -1396,6 +1396,19 @@
       "hora": "00:02",
       "ts": "2026-05-14T00:02:22.320174",
       "collage": "collages/collage_1778709741504492.webp"
+    },
+    {
+      "text": "📋 14/05/2026 · LLIGA · ALAVES - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "00:03",
+      "ts": "2026-05-14T00:02:36.383712"
+    },
+    {
+      "text": "1r partit de Lliga per a Espart amb el Barça. Empata amb Carulla (1928-1930), Parera II (1928-1929), Solà (1929-1930), Portas (1930-1931), Cambra (1931-1932), Sanfeliu (1931-1932), Escrig (1932-1933), Jordà (1932-1933), Vela (1932-1933), Miranda (1933-1934), Quico (1933-1934), Ruano (1934-1935), Saurina (1934-1935), Miranda (1939-1940), Olivé (1939-1940), González (1940-1941), Herrera (1941-1942), Font (1942-1948), Casamor (1943-1944), Soto (1944-1946), Peralta (1945-1946), Vendrell (1945-1946), Prais (1949-1950), Peiró (1950-1951), Ferrer (1951-1952), Castañer (1955-1956), Rifé (1958-1962), Mas (1965-1967), Huguet (1979-1980), Carreras (1983-1985), Abellán (1984-1985), Aranda (1984-1985), Bueno (1984-1985), Cristóbal Sánchez (1984-1985), Durán (1984-1985), Lobo (1984-1985), Martín Domínguez (1984-1985), Padilla (1984-1985), Retuerto (1984-1985), Serer (1988-1989), Geli (1989-1990), Lucendo (1989-1990), Herrera (1990-1991), Ekelund (1993-1994), Quique Álvarez (1994-1996), García Pimienta (1995-1996), Juanjo (1995-1996), Rufete (1995-1996), Setvalls (1995-1996), Xavi Roca (1995-1996), Mario Rosas (1997-2000), Trashorras (2001-2002), Enke (2002-2004), Mario (2003-2004), Ros (2003-2004), Martos (2005-2006), Masó (2005-2006), Montañés (2005-2006), Orlandi (2005-2006), Pitu Comadevall (2005-2006), Víctor Vázquez (2006-2011), Oier Olazábal (2007-2014), Botía (2007-2009), Fali (2007-2008), Rueda (2007-2008), Abraham (2008-2009), Masip (2012-2017), Dongou (2013-2014), Samper (2014-2019), Arnaiz (2017-2018), Abel Ruiz (2018-2020), Estanis (2021-2023), Mika Mármol (2021-2022), Dani Rodríguez (2022-2026), Aleix Garrido (2022-2024), Riad (2022-2023), Toni Fernández (2024-2026), Cortés (2024-2025) i Marqués (2025-2026) en el ➡️ 625è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "00:03",
+      "ts": "2026-05-14T00:02:22.320174",
+      "collage": "collages/collage_1778709742092269.webp"
     }
   ],
   "baseline": {
@@ -20987,7 +21000,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "00:02:23",
+  "ultima_actualitzacio": "00:03:25",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Alaves",
