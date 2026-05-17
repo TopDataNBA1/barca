@@ -1556,6 +1556,13 @@
       "hora": "22:03",
       "ts": "2026-05-17T21:50:58.171999",
       "collage": "collages/collage_1779047457859074.webp"
+    },
+    {
+      "text": "136è partit oficial per a Fermín amb el Barça. Supera Gerard (2000-2005) i ara ocupa el ➡️ 141è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:04",
+      "ts": "2026-05-17T21:50:58.841730",
+      "collage": "collages/collage_1779047458292886.webp"
     }
   ],
   "baseline": {
@@ -21175,7 +21182,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:03:00",
+  "ultima_actualitzacio": "22:04:00",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
