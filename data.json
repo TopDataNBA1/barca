@@ -1661,6 +1661,13 @@
       "hora": "23:03",
       "ts": "2026-05-17T23:03:33.402695",
       "collage": "collages/collage_1779051812658965.webp"
+    },
+    {
+      "text": "48è partit de Lliga per a Casadó amb el Barça. Supera Sonny Anderson (1997-1999) i João Cancelo (2023-2026). Empata amb Aloísio (1988-1990), Pizzi (1996-1998), Milito (2007-2011), Arthur (2018-2020) i Iñigo Martínez (2023-2025) en el ➡️ 236è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "23:04",
+      "ts": "2026-05-17T23:03:33.402695",
+      "collage": "collages/collage_1779051813184779.webp"
     }
   ],
   "baseline": {
@@ -21280,7 +21287,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:03:33",
+  "ultima_actualitzacio": "23:04:33",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
