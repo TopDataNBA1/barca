@@ -1626,6 +1626,20 @@
       "hora": "22:43",
       "ts": "2026-05-17T22:41:51.197480",
       "collage": "collages/collage_1779050511009541.webp"
+    },
+    {
+      "text": "⚽ 6è gol de João Cancelo amb el Barça. Supera Carlos Comamala (1908-1911), Charles Wallace (1908-1911), Lakatos (1918-1919), Musterós (1925-1926), Zabalo (1929-1945), Riba (1943-1945), Gracia (1952-1966), Hanke (1952-1956), Coll (1956-1961), Camps (1961-1965), Cubilla (1961-1964), Pellicer (1967-1970), Olmo (1976-1984), Ramírez (1979-1982), Pedraza (1980-1988), Hughes (1986-1987), Iván Iglesias (1993-1996), Alfonso (2000-2002), Christensen (2022-2026), Pablo Torre (2022-2025), Gündoğan (2023-2024) i Bernal (2024-2026). Empata amb Percy Wallace (1909-1914), Rodríguez (1909-1912), Planas (1921-1927), Pedrol (1926-1941), Guzmán (1927-1935), Diego (1929-1932), Balmanya (1935-1944), Calvet (1939-1953), Emilín (1939-1940), Colino (1945-1948), Gamonal (1945-1946), Aloy (1950-1954), Oliveros (1967-1969), De la Cruz (1972-1980), Paco Martínez (1976-1982), Canito (1979-1981), Gerardo (1981-1988), Celades (1995-1999), Riquelme (2002-2003), Mendieta (2002-2003), Yaya Touré (2007-2010) i Bartra (2009-2016) en el ➡️ 217è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:53",
+      "ts": "2026-05-17T22:52:58.972595",
+      "collage": "collages/collage_1779051178436631.webp"
+    },
+    {
+      "text": "⚽ 4t gol de João Cancelo a la Lliga amb el Barça. Supera Walter (1928-1931), García (1929-1931), Helguera (1932-1933), Berkessy (1934-1936), Barceló (1935-1936), Navarro (1941-1942), Betancourt (1942-1944), Biosca (1950-1959), Aldecoa (1950-1954), Flotats (1952-1960), Duró (1953-1954), Mandi (1954-1957), Coll (1956-1961), Garay (1960-1965), Muller (1965-1968), Palau (1968-1969), Juanito (1968-1969), Costas (1970-1980), Marinho (1974-1976), Bio (1977-1979), Quique Estebaranz (1993-1994), Toni Velamazán (1995-1996), Litmanen (1999-2001), Simão (1999-2001), Rochemback (2001-2003), Riquelme (2002-2003), Ezquerro (2005-2008), Jeffrén (2006-2011), Giovani dos Santos (2006-2008), Zambrotta (2006-2008), Mathieu (2014-2017), Aleix Vidal (2015-2018), Denis Suárez (2016-2019), André Gomes (2016-2018), Arthur (2018-2020), Trincão (2020-2021), Christensen (2022-2026) i Pablo Torre (2022-2025). Empata amb Diego (1929-1932), Pascual (1939-1940), Moll (1954-1956), Camps (1961-1965), Oliveros (1967-1969), Olmo (1976-1984), Ramírez (1979-1982), Pedraza (1980-1988), Rojo (1983-1987), Hughes (1986-1987), Celades (1995-1999), Luis García (1997-2004), Bogarde (1997-2000), Mendieta (2002-2003), Yaya Touré (2007-2010), Lenglet (2018-2022) i Eric Garcia (2021-2026) en el ➡️ 221è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:53",
+      "ts": "2026-05-17T22:52:58.972595",
+      "collage": "collages/collage_1779051178764673.webp"
     }
   ],
   "baseline": {
@@ -3418,7 +3432,7 @@
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
         "pj": 64,
-        "g": 5,
+        "g": 6,
         "inici": "2023",
         "final": "2026"
       },
@@ -9846,7 +9860,7 @@
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
         "pj": 47,
-        "g": 3,
+        "g": 4,
         "inici": "2023",
         "final": "2026"
       },
@@ -21245,7 +21259,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:43:53",
+  "ultima_actualitzacio": "22:53:06",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
