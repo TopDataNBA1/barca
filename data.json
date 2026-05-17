@@ -1549,6 +1549,13 @@
       "hora": "22:02",
       "ts": "2026-05-17T21:50:58.171999",
       "collage": "collages/collage_1779047457522088.webp"
+    },
+    {
+      "text": "24è partit de Lliga per a Bernal amb el Barça. Supera Aldecoa (1950-1954), Sampedro (1955-1959), Pellegrino (1998-1999), Petit (2000-2001) i Coco (2001-2002). Empata amb Morera (1933-1935), Zabala (1941-1943), Gamonal (1945-1946), Canal (1946-1952), Arnau (1996-2001), Ezquerro (2005-2008), Van Bommel (2005-2007), Junior Firpo (2019-2021) i Fort (2023-2025) en el ➡️ 339è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:03",
+      "ts": "2026-05-17T21:50:58.171999",
+      "collage": "collages/collage_1779047457859074.webp"
     }
   ],
   "baseline": {
@@ -21168,7 +21175,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:02:00",
+  "ultima_actualitzacio": "22:03:00",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
