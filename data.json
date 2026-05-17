@@ -1654,6 +1654,13 @@
       "hora": "22:55",
       "ts": "2026-05-17T22:54:50.769904",
       "collage": "collages/collage_1779051290577874.webp"
+    },
+    {
+      "text": "74è partit oficial per a Casadó amb el Barça. Supera Vantolrà (1933-1936) i Juan Carlos (1991-1994). Empata amb Alfonseda (1969-1973) i Bonano (2001-2004) en el ➡️ 231è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:03",
+      "ts": "2026-05-17T23:03:33.402695",
+      "collage": "collages/collage_1779051812658965.webp"
     }
   ],
   "baseline": {
@@ -3291,7 +3298,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 73,
+        "pj": 74,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -9810,7 +9817,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 47,
+        "pj": 48,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -21273,7 +21280,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:55:53",
+  "ultima_actualitzacio": "23:03:33",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
