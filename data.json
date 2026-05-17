@@ -1598,6 +1598,13 @@
       "hora": "22:24",
       "ts": "2026-05-17T22:23:52.728252",
       "collage": "collages/collage_1779049432544310.webp"
+    },
+    {
+      "text": "⚽ 75è gol de Raphinha amb el Barça. Empata amb Villaverde (1954-1963) en el ➡️ 33è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:41",
+      "ts": "2026-05-17T22:41:12.187055",
+      "collage": "collages/collage_1779050472008113.webp"
     }
   ],
   "baseline": {
@@ -2115,7 +2122,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 211,
+        "pj": 212,
         "g": 14,
         "inici": "2019",
         "final": "2026"
@@ -2326,7 +2333,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 177,
-        "g": 74,
+        "g": 75,
         "inici": "2022",
         "final": "2026"
       },
@@ -4306,7 +4313,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 27,
+        "pj": 28,
         "g": 2,
         "inici": "2025",
         "final": "2026"
@@ -8669,7 +8676,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 141,
+        "pj": 142,
         "g": 11,
         "inici": "2019",
         "final": "2026"
@@ -8831,7 +8838,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 122,
-        "g": 43,
+        "g": 44,
         "inici": "2022",
         "final": "2026"
       },
@@ -10692,7 +10699,7 @@
       },
       "Roony Bardghji": {
         "alias": "Bardghji",
-        "pj": 20,
+        "pj": 21,
         "g": 1,
         "inici": "2025",
         "final": "2026"
@@ -21217,7 +21224,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:24:56",
+  "ultima_actualitzacio": "22:41:16",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
