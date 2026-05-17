@@ -1668,6 +1668,12 @@
       "hora": "23:04",
       "ts": "2026-05-17T23:03:33.402695",
       "collage": "collages/collage_1779051813184779.webp"
+    },
+    {
+      "text": "📋 17/05/2026 · LLIGA · BARÇA - REAL BETIS",
+      "tipus": "prioritaria",
+      "hora": "23:12",
+      "ts": "2026-05-17T23:12:25.095364"
     }
   ],
   "baseline": {
@@ -21287,13 +21293,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:04:33",
-  "match_status": "L",
+  "ultima_actualitzacio": "23:12:28",
+  "match_status": "U",
   "match_comp": "Lliga",
-  "match_rival": "Real Betis",
+  "match_rival": "Valencia Cf",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Real Betis",
-    "compte_enrere": "2d 15h 35m 39s",
-    "kickoff_ts": 1779045300
+    "descripcio": "Lliga · Barça - Valencia Cf",
+    "compte_enrere": "5d 21h 47m 11s",
+    "kickoff_ts": 1779562800
   }
 }
