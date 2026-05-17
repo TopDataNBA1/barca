@@ -1535,6 +1535,20 @@
       "hora": "22:00",
       "ts": "2026-05-17T21:50:57.034330",
       "collage": "collages/collage_1779047456857515.webp"
+    },
+    {
+      "text": "165è partit oficial per a Gavi amb el Barça. Supera Zuviría (1977-1982). Empata amb Eric Garcia (2021-2026) en el ➡️ 114è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:01",
+      "ts": "2026-05-17T21:50:57.381232",
+      "collage": "collages/collage_1779047457194279.webp"
+    },
+    {
+      "text": "35è partit oficial per a Bernal amb el Barça. Supera Rafa (1931-1936), Zabala (1941-1943), Aldecoa (1950-1954), Barrios (1972-1974) i Jeffrén (2006-2011). Empata amb Macizo (1974-1979), Fernando Navarro (2000-2005) i Afellay (2010-2014) en el ➡️ 345è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:02",
+      "ts": "2026-05-17T21:50:58.171999",
+      "collage": "collages/collage_1779047457522088.webp"
     }
   ],
   "baseline": {
@@ -21154,7 +21168,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:00:00",
+  "ultima_actualitzacio": "22:02:00",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
