@@ -1605,6 +1605,20 @@
       "hora": "22:41",
       "ts": "2026-05-17T22:41:12.187055",
       "collage": "collages/collage_1779050472008113.webp"
+    },
+    {
+      "text": "28è partit oficial per a Bardghji amb el Barça. Supera Llorens (1926-1936), Uriach (1928-1931), Areta II (1953-1956), Mandi (1954-1957), Franch (1968-1971) i Pablo Torre (2022-2025). Empata amb Saura (1928-1930), Amorós (1946-1948), Castro (1968-1971), Serrat (1979-1980), Carreras (1990-1996), Cuéllar (1995-1997), Quaresma (2003-2004) i Jonathan dos Santos (2009-2014) en el ➡️ 378è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:41",
+      "ts": "2026-05-17T22:41:50.850592",
+      "collage": "collages/collage_1779050509938460.webp"
+    },
+    {
+      "text": "21è partit de Lliga per a Bardghji amb el Barça. Supera Mas (1928-1932), Quique (1943-1950), Marinho (1974-1976) i Cuéllar (1995-1997). Empata amb Font (1932-1934), Sierra (1942-1945), Sagrera (1947-1951), Areta II (1953-1956), Pellicer (1967-1970), Serrat (1979-1980), Litmanen (1999-2001), Fernando Navarro (2000-2005), Alfonso (2000-2002), Afellay (2010-2014), De Jong (2021-2022) i Pau Víctor (2023-2025) en el ➡️ 360è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:42",
+      "ts": "2026-05-17T22:41:50.850592",
+      "collage": "collages/collage_1779050510640673.webp"
     }
   ],
   "baseline": {
@@ -21224,7 +21238,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:41:16",
+  "ultima_actualitzacio": "22:42:53",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
