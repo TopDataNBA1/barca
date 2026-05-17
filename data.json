@@ -1640,6 +1640,13 @@
       "hora": "22:53",
       "ts": "2026-05-17T22:52:58.972595",
       "collage": "collages/collage_1779051178764673.webp"
+    },
+    {
+      "text": "87è partit oficial per a Dani Olmo amb el Barça. Supera Benito (1939-1946), Periko Alonso (1982-1985), Nando (1990-1992) i Tello (2011-2014). Empata amb Balmanya (1935-1944) en el ➡️ 204è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:54",
+      "ts": "2026-05-17T22:54:50.769904",
+      "collage": "collages/collage_1779051290268102.webp"
     }
   ],
   "baseline": {
@@ -3088,7 +3095,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 86,
+        "pj": 87,
         "g": 20,
         "inici": "2024",
         "final": "2026"
@@ -9621,7 +9628,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 56,
+        "pj": 57,
         "g": 17,
         "inici": "2024",
         "final": "2026"
@@ -21259,7 +21266,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:53:06",
+  "ultima_actualitzacio": "22:54:53",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
