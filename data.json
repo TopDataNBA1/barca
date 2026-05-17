@@ -1563,6 +1563,13 @@
       "hora": "22:04",
       "ts": "2026-05-17T21:50:58.841730",
       "collage": "collages/collage_1779047458292886.webp"
+    },
+    {
+      "text": "89è partit de Lliga per a Fermín amb el Barça. Supera Alexis Sánchez (2011-2014). Empata amb Zabalo (1929-1945), Garay (1960-1965), Martí Filosia (1966-1975) i Sylvinho (2004-2009) en el ➡️ 147è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:05",
+      "ts": "2026-05-17T21:50:58.841730",
+      "collage": "collages/collage_1779047458631797.webp"
     }
   ],
   "baseline": {
@@ -21182,7 +21189,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:04:00",
+  "ultima_actualitzacio": "22:05:00",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
