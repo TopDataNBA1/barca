@@ -1647,6 +1647,13 @@
       "hora": "22:54",
       "ts": "2026-05-17T22:54:50.769904",
       "collage": "collages/collage_1779051290268102.webp"
+    },
+    {
+      "text": "57è partit de Lliga per a Dani Olmo amb el Barça. Supera Navarro (1946-1956), Marcos Aurelio (1948-1951) i Rafinha (2011-2021). Empata amb Hanke (1952-1956) i Maxwell (2009-2012) en el ➡️ 212è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:55",
+      "ts": "2026-05-17T22:54:50.769904",
+      "collage": "collages/collage_1779051290577874.webp"
     }
   ],
   "baseline": {
@@ -21266,7 +21273,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:54:53",
+  "ultima_actualitzacio": "22:55:53",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
