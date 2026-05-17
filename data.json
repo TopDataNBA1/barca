@@ -1584,6 +1584,20 @@
       "hora": "22:07",
       "ts": "2026-05-17T21:50:59.464904",
       "collage": "collages/collage_1779047459278784.webp"
+    },
+    {
+      "text": "167è partit oficial per a Balde amb el Barça. Supera Gonzalvo II (1944-1950) i ara ocupa el ➡️ 112è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:23",
+      "ts": "2026-05-17T22:23:52.728252",
+      "collage": "collages/collage_1779049432182444.webp"
+    },
+    {
+      "text": "115è partit de Lliga per a Balde amb el Barça. Supera Evaristo (1957-1962), Adriano (2010-2016) i Eric Garcia (2021-2026). Empata amb Nogués (1930-1942) en el ➡️ 116è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:24",
+      "ts": "2026-05-17T22:23:52.728252",
+      "collage": "collages/collage_1779049432544310.webp"
     }
   ],
   "baseline": {
@@ -21203,7 +21217,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:07:00",
+  "ultima_actualitzacio": "22:24:56",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
