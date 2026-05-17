@@ -1619,6 +1619,13 @@
       "hora": "22:42",
       "ts": "2026-05-17T22:41:50.850592",
       "collage": "collages/collage_1779050510640673.webp"
+    },
+    {
+      "text": "142è partit de Lliga per a Araújo amb el Barça. Empata amb Bosch (1951-1959) en el ➡️ 86è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:43",
+      "ts": "2026-05-17T22:41:51.197480",
+      "collage": "collages/collage_1779050511009541.webp"
     }
   ],
   "baseline": {
@@ -21238,7 +21245,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:42:53",
+  "ultima_actualitzacio": "22:43:53",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Real Betis",
