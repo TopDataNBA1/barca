@@ -2259,6 +2259,13 @@
       "hora": "16:36",
       "ts": "2026-05-24T16:19:28.425676",
       "collage": "collages/collage_1779632368196732.webp"
+    },
+    {
+      "text": "193è partit oficial per a Lewandowski amb el Barça. Empata amb Abidal (2007-2013) en el ➡️ 88è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "16:37",
+      "ts": "2026-05-24T16:19:29.042746",
+      "collage": "collages/collage_1779632368533653.webp"
     }
   ],
   "baseline": {
@@ -21878,7 +21885,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:36:32",
+  "ultima_actualitzacio": "16:37:32",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
