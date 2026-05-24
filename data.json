@@ -2287,6 +2287,13 @@
       "hora": "16:40",
       "ts": "2026-05-24T16:19:30.666469",
       "collage": "collages/collage_1779632370451523.webp"
+    },
+    {
+      "text": "98è partit oficial per a Christensen amb el Barça. Supera Arocha (1927-1933) i Òscar (1992-1999) i ara ocupa el ➡️ 185è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "16:41",
+      "ts": "2026-05-24T16:19:31.479668",
+      "collage": "collages/collage_1779632370869384.webp"
     }
   ],
   "baseline": {
@@ -21906,7 +21913,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:40:33",
+  "ultima_actualitzacio": "16:41:33",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
