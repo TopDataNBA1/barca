@@ -2329,6 +2329,13 @@
       "hora": "16:46",
       "ts": "2026-05-24T16:19:33.280654",
       "collage": "collages/collage_1779632373055694.webp"
+    },
+    {
+      "text": "75è partit oficial per a Casadó amb el Barça. Supera Alfonseda (1969-1973) i Bonano (2001-2004). Empata amb Nicolau (1948-1952) i Claudio Bravo (2014-2017) en el ➡️ 229è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "16:47",
+      "ts": "2026-05-24T16:19:34.277230",
+      "collage": "collages/collage_1779632373476989.webp"
     }
   ],
   "baseline": {
@@ -21948,7 +21955,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:46:33",
+  "ultima_actualitzacio": "16:47:33",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
