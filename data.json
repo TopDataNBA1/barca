@@ -2308,6 +2308,13 @@
       "hora": "16:43",
       "ts": "2026-05-24T16:19:32.185446",
       "collage": "collages/collage_1779632371664639.webp"
+    },
+    {
+      "text": "202è partit de Lliga per a De Jong amb el Barça. Empata amb Julio Alberto (1982-1991) en el ➡️ 46è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "16:44",
+      "ts": "2026-05-24T16:19:32.185446",
+      "collage": "collages/collage_1779632371974669.webp"
     }
   ],
   "baseline": {
@@ -21927,7 +21934,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:43:33",
+  "ultima_actualitzacio": "16:44:33",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
