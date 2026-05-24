@@ -2315,6 +2315,13 @@
       "hora": "16:44",
       "ts": "2026-05-24T16:19:32.185446",
       "collage": "collages/collage_1779632371974669.webp"
+    },
+    {
+      "text": "65è partit oficial per a João Cancelo amb el Barça. Empata amb Fortes (1975-1979), Romário (1993-1995) i Song (2012-2014) en el ➡️ 252è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "16:45",
+      "ts": "2026-05-24T16:19:33.280654",
+      "collage": "collages/collage_1779632372497366.webp"
     }
   ],
   "baseline": {
@@ -21934,7 +21941,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:44:33",
+  "ultima_actualitzacio": "16:45:33",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
