@@ -2336,6 +2336,13 @@
       "hora": "16:47",
       "ts": "2026-05-24T16:19:34.277230",
       "collage": "collages/collage_1779632373476989.webp"
+    },
+    {
+      "text": "49è partit de Lliga per a Casadó amb el Barça. Supera Aloísio (1988-1990), Pizzi (1996-1998), Milito (2007-2011), Arthur (2018-2020), João Cancelo (2023-2026) i Iñigo Martínez (2023-2025). Empata amb Miró (1939-1943) i Iván Iglesias (1993-1996) en el ➡️ 234è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "16:48",
+      "ts": "2026-05-24T16:19:34.277230",
+      "collage": "collages/collage_1779632374024332.webp"
     }
   ],
   "baseline": {
@@ -21955,13 +21962,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:47:33",
-  "match_status": "C",
+  "ultima_actualitzacio": "16:48:33",
+  "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Valencia Cf",
     "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1779577858
+    "kickoff_ts": 1779634141
   }
 }
