@@ -2245,6 +2245,20 @@
       "hora": "16:34",
       "ts": "2026-05-24T16:19:27.646538",
       "collage": "collages/collage_1779632367412612.webp"
+    },
+    {
+      "text": "49è partit oficial per a Rashford amb el Barça. Supera Seminario (1964-1967). Empata amb Calo (1944-1950), Mendonça (1966-1969), Ronaldo (1996-1997), Reina (1998-2002), Mendieta (2002-2003) i Paulinho (2017-2018) en el ➡️ 295è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "16:35",
+      "ts": "2026-05-24T16:19:28.425676",
+      "collage": "collages/collage_1779632367788706.webp"
+    },
+    {
+      "text": "32è partit de Lliga per a Rashford amb el Barça. Supera Sastre (1928-1932), Vidal I (1963-1968), Cristóbal (1987-1992) i Christanval (2001-2003). Empata amb León (1939-1941) i Kodro (1995-1996) en el ➡️ 295è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "16:36",
+      "ts": "2026-05-24T16:19:28.425676",
+      "collage": "collages/collage_1779632368196732.webp"
     }
   ],
   "baseline": {
@@ -21864,7 +21878,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:34:32",
+  "ultima_actualitzacio": "16:36:32",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
