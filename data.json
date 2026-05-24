@@ -2294,6 +2294,20 @@
       "hora": "16:41",
       "ts": "2026-05-24T16:19:31.479668",
       "collage": "collages/collage_1779632370869384.webp"
+    },
+    {
+      "text": "71è partit de Lliga per a Christensen amb el Barça. Supera Claudio Bravo (2014-2017). Empata amb Mora (1970-1979), Giovanni (1996-1999), Edmílson (2004-2008) i Belletti (2004-2007) en el ➡️ 178è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "16:42",
+      "ts": "2026-05-24T16:19:31.479668",
+      "collage": "collages/collage_1779632371273677.webp"
+    },
+    {
+      "text": "297è partit oficial per a De Jong amb el Barça. Empata amb Nadal (1991-1999) en el ➡️ 42è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "16:43",
+      "ts": "2026-05-24T16:19:32.185446",
+      "collage": "collages/collage_1779632371664639.webp"
     }
   ],
   "baseline": {
@@ -21913,7 +21927,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:41:33",
+  "ultima_actualitzacio": "16:43:33",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
