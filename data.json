@@ -2266,6 +2266,20 @@
       "hora": "16:37",
       "ts": "2026-05-24T16:19:29.042746",
       "collage": "collages/collage_1779632368533653.webp"
+    },
+    {
+      "text": "134è partit de Lliga per a Lewandowski amb el Barça. Empata amb Pereda (1961-1969) en el ➡️ 93è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "16:38",
+      "ts": "2026-05-24T16:19:29.042746",
+      "collage": "collages/collage_1779632368824669.webp"
+    },
+    {
+      "text": "6è partit oficial per a Espart amb el Barça. Supera Arsenio Comamala (1908-1911), Solà (1908-1910), Apolinario (1912-1913), Blanco (1918-1919), Lakatos (1918-1919), Vidal (1931-1933), Barceló (1935-1936), Galvany (1939-1944), Tejedor (1950-1952), Goicolea (1953-1959), Hermes González (1957-1959), Rodri (1960-1961), Serafín (1965-1966), Onésimo (1989-1990), Herrera (1990-1991), Vučević (1992-1994), Mario Rosas (1997-2000), Nolito (2008-2011), Arnaiz (2017-2018), Todibo (2018-2020), Agüero (2021-2022), Alarcón (2022-2024) i Dro (2025-2026). Empata amb Grau (1908-1911), Percy Wallace (1909-1914), Bau (1913-1916), Mallorquí (1913-1916), García (1929-1931), Gual (1931-1936), Santacatalina (1939-1941), Hilario (1939-1940), Quique (1940-1941), Serratusell (1941-1950), Cerveró (1948-1950), Maristany (1952-1955), Medrano (1959-1961), Beitia (1960-1961), Szalay (1961-1963), Manolo (1980-1986), Luis Cembranos (1994-1995), Nano (1999-2003), Albertini (2004-2005), Yerry Mina (2017-2018), Wagué (2018-2020) i Domínguez (2024-2025) en el ➡️ 569è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "16:39",
+      "ts": "2026-05-24T16:19:30.666469",
+      "collage": "collages/collage_1779632369861643.webp"
     }
   ],
   "baseline": {
@@ -21885,7 +21899,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "16:37:32",
+  "ultima_actualitzacio": "16:39:33",
   "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Valencia Cf",
