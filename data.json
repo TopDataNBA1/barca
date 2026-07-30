@@ -1696,7 +1696,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 1,
+        "pj": 0,
         "g": 59,
         "inici": "0",
         "final": "0"
@@ -1913,7 +1913,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 1,
+        "pj": 0,
         "g": 37,
         "inici": "0",
         "final": "0"
@@ -1941,7 +1941,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 1,
+        "pj": 0,
         "g": 43,
         "inici": "3",
         "final": "2"
@@ -2018,8 +2018,8 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 1,
-        "g": 40,
+        "pj": 0,
+        "g": 39,
         "inici": "4",
         "final": "14"
       },
@@ -2179,21 +2179,21 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 1,
+        "pj": 0,
         "g": 32,
         "inici": "0",
         "final": "0"
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 1,
+        "pj": 0,
         "g": 33,
         "inici": "0",
         "final": "0"
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 1,
+        "pj": 0,
         "g": 32,
         "inici": "0",
         "final": "0"
@@ -2753,7 +2753,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 1,
+        "pj": 0,
         "g": 15,
         "inici": "0",
         "final": "0"
@@ -2816,7 +2816,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 1,
+        "pj": 0,
         "g": 15,
         "inici": "0",
         "final": "2"
@@ -3005,7 +3005,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 1,
+        "pj": 0,
         "g": 11,
         "inici": "0",
         "final": "0"
@@ -3173,7 +3173,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 1,
+        "pj": 0,
         "g": 13,
         "inici": "0",
         "final": "0"
@@ -3481,7 +3481,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 1,
+        "pj": 0,
         "g": 8,
         "inici": "0",
         "final": "0"
@@ -3628,7 +3628,7 @@
       },
       "Wojciech Tomasz Szczęsny": {
         "alias": "Szczęsny",
-        "pj": 1,
+        "pj": 0,
         "g": 7,
         "inici": "0",
         "final": "0"
@@ -3775,7 +3775,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 1,
+        "pj": 0,
         "g": 4,
         "inici": "0",
         "final": "0"
@@ -8187,7 +8187,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 1,
+        "pj": 0,
         "g": 35,
         "inici": "0",
         "final": "0"
@@ -8460,7 +8460,7 @@
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
-        "pj": 1,
+        "pj": 0,
         "g": 17,
         "inici": "0",
         "final": "0"
@@ -8481,7 +8481,7 @@
       },
       "Ferran Torres García": {
         "alias": "Ferran Torres",
-        "pj": 1,
+        "pj": 0,
         "g": 24,
         "inici": "2",
         "final": "1"
@@ -8516,8 +8516,8 @@
       },
       "Robert Lewandowski": {
         "alias": "Lewandowski",
-        "pj": 1,
-        "g": 23,
+        "pj": 0,
+        "g": 22,
         "inici": "3",
         "final": "8"
       },
@@ -8663,14 +8663,14 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 1,
+        "pj": 0,
         "g": 19,
         "inici": "0",
         "final": "0"
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 1,
+        "pj": 0,
         "g": 18,
         "inici": "0",
         "final": "0"
@@ -8684,7 +8684,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 1,
+        "pj": 0,
         "g": 19,
         "inici": "0",
         "final": "0"
@@ -9286,7 +9286,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 1,
+        "pj": 0,
         "g": 8,
         "inici": "0",
         "final": "0"
@@ -9342,7 +9342,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 1,
+        "pj": 0,
         "g": 9,
         "inici": "0",
         "final": "2"
@@ -9510,7 +9510,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 1,
+        "pj": 0,
         "g": 7,
         "inici": "0",
         "final": "0"
@@ -9552,7 +9552,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 1,
+        "pj": 0,
         "g": 8,
         "inici": "0",
         "final": "0"
@@ -9937,7 +9937,7 @@
       },
       "Marcus Rashford": {
         "alias": "Rashford",
-        "pj": 1,
+        "pj": 0,
         "g": 5,
         "inici": "0",
         "final": "0"
@@ -10231,7 +10231,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 1,
+        "pj": 0,
         "g": 3,
         "inici": "0",
         "final": "0"
@@ -10336,7 +10336,7 @@
       },
       "Wojciech Tomasz Szczęsny": {
         "alias": "Szczęsny",
-        "pj": 1,
+        "pj": 0,
         "g": 4,
         "inici": "0",
         "final": "0"
