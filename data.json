@@ -2690,7 +2690,7 @@
       },
       "Andreas Bødtker Christensen": {
         "alias": "Christensen",
-        "pj": 98,
+        "pj": 99,
         "g": 5,
         "inici": "2022",
         "final": "2026"
@@ -2753,7 +2753,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 93,
+        "pj": 94,
         "g": 1,
         "inici": "2024",
         "final": "2026"
@@ -3005,7 +3005,7 @@
       },
       "Marc Casadó Torras": {
         "alias": "Casadó",
-        "pj": 75,
+        "pj": 76,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -3628,7 +3628,7 @@
       },
       "Wojciech Tomasz Szczęsny": {
         "alias": "Szczęsny",
-        "pj": 42,
+        "pj": 43,
         "g": 0,
         "inici": "2024",
         "final": "2026"
@@ -3775,7 +3775,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 36,
+        "pj": 37,
         "g": 5,
         "inici": "2024",
         "final": "2026"
@@ -5413,7 +5413,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 6,
+        "pj": 7,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -5756,7 +5756,7 @@
       },
       "Jofre Torrents Salvat": {
         "alias": "Torrents",
-        "pj": 4,
+        "pj": 5,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -21021,7 +21021,7 @@
   "match_rival": "Birmingham City",
   "proper_partit": {
     "descripcio": "Lliga · Elche - Barça",
-    "compte_enrere": "23d 1h 36m 21s",
+    "compte_enrere": "23d 1h 35m 30s",
     "kickoff_ts": 1787513400
   }
 }
