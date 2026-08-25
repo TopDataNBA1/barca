@@ -21112,12 +21112,12 @@
     }
   },
   "ultima_actualitzacio": "17:37:11",
-  "match_status": "C",
-  "match_comp": "Amistós",
-  "match_rival": "Fc Basel",
+  "match_status": "U",
+  "match_comp": "Lliga",
+  "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "2d 3h 23m 0s",
-    "kickoff_ts": 1787857199
+    "compte_enrere": "2d 3h 22m 22s",
+    "kickoff_ts": 1787857200
   }
 }
