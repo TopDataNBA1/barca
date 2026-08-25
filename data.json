@@ -1402,6 +1402,12 @@
       "tipus": "prioritaria",
       "hora": "08:42",
       "ts": "2026-08-10T08:42:32.582846"
+    },
+    {
+      "text": "📋 25/08/2026 · AMISTÓS · FC BASEL - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "17:37",
+      "ts": "2026-08-25T17:37:08.693773"
     }
   ],
   "baseline": {
@@ -1705,7 +1711,7 @@
         "pj": 297,
         "g": 20,
         "inici": "2019",
-        "final": "2026"
+        "final": "2027"
       },
       "Phillip John William Cocu": {
         "alias": "Cocu",
@@ -1842,10 +1848,10 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 245,
+        "pj": 246,
         "g": 28,
         "inici": "2020",
-        "final": "2026"
+        "final": "2027"
       },
       "Rafael Márquez Álvarez": {
         "alias": "Márquez",
@@ -2036,19 +2042,19 @@
         "inici": "2010",
         "final": "2016"
       },
+      "Jules Olivier Koundé": {
+        "alias": "Koundé",
+        "pj": 189,
+        "g": 10,
+        "inici": "2022",
+        "final": "2027"
+      },
       "Seydou Keita": {
         "alias": "Keita",
         "pj": 188,
         "g": 22,
         "inici": "2008",
         "final": "2012"
-      },
-      "Jules Olivier Koundé": {
-        "alias": "Koundé",
-        "pj": 188,
-        "g": 10,
-        "inici": "2022",
-        "final": "2026"
       },
       "Neymar da Silva Santos Júnior": {
         "alias": "Neymar",
@@ -2106,19 +2112,19 @@
         "inici": "1982",
         "final": "1992"
       },
+      "Raphael Dias Belloli": {
+        "alias": "Raphinha",
+        "pj": 179,
+        "g": 77,
+        "inici": "2022",
+        "final": "2027"
+      },
       "Julio César Benítez Amoedo": {
         "alias": "Benítez",
         "pj": 178,
         "g": 19,
         "inici": "1961",
         "final": "1968"
-      },
-      "Raphael Dias Belloli": {
-        "alias": "Raphinha",
-        "pj": 177,
-        "g": 75,
-        "inici": "2022",
-        "final": "2026"
       },
       "Andrés Bosch Pujol": {
         "alias": "Bosch",
@@ -2185,24 +2191,24 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 168,
+        "pj": 169,
         "g": 3,
         "inici": "2021",
-        "final": "2026"
+        "final": "2027"
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 166,
+        "pj": 168,
         "g": 7,
         "inici": "2021",
-        "final": "2026"
+        "final": "2027"
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 166,
+        "pj": 167,
         "g": 10,
         "inici": "2021",
-        "final": "2026"
+        "final": "2027"
       },
       "Josep Gonzalvo Falcón": {
         "alias": "Gonzalvo II",
@@ -2288,6 +2294,13 @@
         "inici": "2003",
         "final": "2007"
       },
+      "Lamine Yamal Nasraoui Ebana": {
+        "alias": "Lamine Yamal",
+        "pj": 152,
+        "g": 49,
+        "inici": "2022",
+        "final": "2027"
+      },
       "Juan José Nogués Portalatín": {
         "alias": "Nogués",
         "pj": 152,
@@ -2308,13 +2321,6 @@
         "g": 42,
         "inici": "2011",
         "final": "2014"
-      },
-      "Lamine Yamal Nasraoui Ebana": {
-        "alias": "Lamine Yamal",
-        "pj": 151,
-        "g": 49,
-        "inici": "2022",
-        "final": "2026"
       },
       "Mariano Martín Alonso": {
         "alias": "Martín",
@@ -2388,10 +2394,10 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 136,
-        "g": 32,
+        "pj": 138,
+        "g": 34,
         "inici": "2023",
-        "final": "2026"
+        "final": "2027"
       },
       "Gerard López Segú": {
         "alias": "Gerard",
@@ -2440,7 +2446,7 @@
         "pj": 128,
         "g": 2,
         "inici": "2023",
-        "final": "2026"
+        "final": "2027"
       },
       "Manuel Clares García": {
         "alias": "Clares",
@@ -2687,19 +2693,19 @@
         "inici": "1970",
         "final": "1979"
       },
+      "Andreas Bødtker Christensen": {
+        "alias": "Christensen",
+        "pj": 99,
+        "g": 5,
+        "inici": "2022",
+        "final": "2027"
+      },
       "José Valle Mas": {
         "alias": "Valle",
         "pj": 99,
         "g": 33,
         "inici": "1940",
         "final": "1950"
-      },
-      "Andreas Bødtker Christensen": {
-        "alias": "Christensen",
-        "pj": 98,
-        "g": 5,
-        "inici": "2022",
-        "final": "2026"
       },
       "Òscar García Junyent": {
         "alias": "Òscar",
@@ -2743,6 +2749,13 @@
         "inici": "1983",
         "final": "1987"
       },
+      "Gerard Martín Langreo": {
+        "alias": "Gerard Martín",
+        "pj": 95,
+        "g": 1,
+        "inici": "2024",
+        "final": "2027"
+      },
       "Gheorghe Popescu": {
         "alias": "Popescu",
         "pj": 94,
@@ -2756,13 +2769,6 @@
         "g": 0,
         "inici": "1961",
         "final": "1966"
-      },
-      "Gerard Martín Langreo": {
-        "alias": "Gerard Martín",
-        "pj": 93,
-        "g": 1,
-        "inici": "2024",
-        "final": "2026"
       },
       "Patricio Arnau Pericás": {
         "alias": "Arnau",
@@ -2813,19 +2819,19 @@
         "inici": "2009",
         "final": "2012"
       },
+      "Daniel Olmo Carvajal": {
+        "alias": "Dani Olmo",
+        "pj": 89,
+        "g": 20,
+        "inici": "2024",
+        "final": "2027"
+      },
       "Emil Walter Buckhard": {
         "alias": "Walter",
         "pj": 89,
         "g": 7,
         "inici": "1924",
         "final": "1931"
-      },
-      "Daniel Olmo Carvajal": {
-        "alias": "Dani Olmo",
-        "pj": 88,
-        "g": 20,
-        "inici": "2024",
-        "final": "2026"
       },
       "Emilio Sagi Liñán": {
         "alias": "Sagi-Barba",
@@ -3163,6 +3169,13 @@
         "inici": "2019",
         "final": "2022"
       },
+      "João Pedro Cavaco Cancelo": {
+        "alias": "João Cancelo",
+        "pj": 66,
+        "g": 6,
+        "inici": "2023",
+        "final": "2027"
+      },
       "Romário de Souza Faria": {
         "alias": "Romário",
         "pj": 65,
@@ -3176,13 +3189,6 @@
         "g": 1,
         "inici": "2012",
         "final": "2014"
-      },
-      "João Pedro Cavaco Cancelo": {
-        "alias": "João Cancelo",
-        "pj": 65,
-        "g": 6,
-        "inici": "2023",
-        "final": "2026"
       },
       "Francisco Fortes Calvo": {
         "alias": "Fortes",
@@ -3541,6 +3547,13 @@
         "inici": "2016",
         "final": "2018"
       },
+      "Joan Garcia Pons": {
+        "alias": "Joan Garcia",
+        "pj": 47,
+        "g": 0,
+        "inici": "2025",
+        "final": "2027"
+      },
       "Ignacio Peña Sotorres": {
         "alias": "Iñaki Peña",
         "pj": 45,
@@ -3554,13 +3567,6 @@
         "g": 3,
         "inici": "2022",
         "final": "2024"
-      },
-      "Joan Garcia Pons": {
-        "alias": "Joan Garcia",
-        "pj": 45,
-        "g": 0,
-        "inici": "2025",
-        "final": "2026"
       },
       "Teófilo Dueñas Samper": {
         "alias": "Dueñas",
@@ -3637,7 +3643,7 @@
         "pj": 42,
         "g": 0,
         "inici": "2024",
-        "final": "2026"
+        "final": "2027"
       },
       "Alfredo Amarillo Kechichian": {
         "alias": "Amarillo",
@@ -3765,6 +3771,13 @@
         "inici": "2021",
         "final": "2022"
       },
+      "Marc Bernal Casas": {
+        "alias": "Bernal",
+        "pj": 38,
+        "g": 5,
+        "inici": "2024",
+        "final": "2027"
+      },
       "Leslie Mark Hughes": {
         "alias": "Hughes",
         "pj": 37,
@@ -3778,13 +3791,6 @@
         "g": 0,
         "inici": "2008",
         "final": "2009"
-      },
-      "Marc Bernal Casas": {
-        "alias": "Bernal",
-        "pj": 36,
-        "g": 5,
-        "inici": "2024",
-        "final": "2026"
       },
       "Jordi Vila Soler": {
         "alias": "Vila",
@@ -5298,6 +5304,13 @@
         "inici": "2022",
         "final": "2024"
       },
+      "Xavier Espart Font": {
+        "alias": "Espart",
+        "pj": 7,
+        "g": 0,
+        "inici": "2025",
+        "final": "2027"
+      },
       "Rüştü Reçber": {
         "alias": "Rüştü",
         "pj": 7,
@@ -5416,13 +5429,6 @@
         "g": 0,
         "inici": "2024",
         "final": "2025"
-      },
-      "Xavier Espart Font": {
-        "alias": "Espart",
-        "pj": 6,
-        "g": 0,
-        "inici": "2025",
-        "final": "2026"
       },
       "Manuel Muñoz Navas": {
         "alias": "Manolo",
@@ -6675,7 +6681,7 @@
         "pj": 1,
         "g": 0,
         "inici": "2024",
-        "final": "2026"
+        "final": "2027"
       },
       "Daniel Rodríguez Crespo": {
         "alias": "Dani Rodríguez",
@@ -7265,6 +7271,20 @@
         "inici": "2022",
         "final": "2023"
       },
+      "Anthony Michael Gordon": {
+        "alias": "Gordon",
+        "pj": 1,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
+      },
+      "Karim-David Adeyemi": {
+        "alias": "Adeyemi",
+        "pj": 1,
+        "g": 1,
+        "inici": "2026",
+        "final": "2027"
+      },
       "Gonzalo Sánchez Moreno": {
         "alias": "Gonzalo",
         "pj": 0,
@@ -7389,7 +7409,7 @@
         "pj": 0,
         "g": 0,
         "inici": "2025",
-        "final": "2026"
+        "final": "2027"
       },
       "Juan Hernández Torres": {
         "alias": "Hernández",
@@ -7866,6 +7886,34 @@
         "g": 0,
         "inici": "2024",
         "final": "2025"
+      },
+      "Brian Fariñas Pérez": {
+        "alias": "Fariñas",
+        "pj": 0,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
+      },
+      "Hamza Mohamed Abdelkarim Selim": {
+        "alias": "Hamza Abdelkarim",
+        "pj": 0,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
+      },
+      "Jordi Pesquer Barraquer": {
+        "alias": "Pesquer",
+        "pj": 0,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
+      },
+      "Rodrigo Hernández Cascante": {
+        "alias": "Rodri",
+        "pj": 0,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
       }
     },
     "Liga": {
@@ -8196,7 +8244,7 @@
         "pj": 202,
         "g": 15,
         "inici": "2019",
-        "final": "2026"
+        "final": "2027"
       },
       "Ivan Rakitić": {
         "alias": "Rakitić",
@@ -8340,10 +8388,10 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 165,
+        "pj": 166,
         "g": 22,
         "inici": "2020",
-        "final": "2026"
+        "final": "2027"
       },
       "Juan Carlos Pérez López": {
         "alias": "Juan Carlos",
@@ -8555,19 +8603,19 @@
         "inici": "2017",
         "final": "2023"
       },
+      "Jules Olivier Koundé": {
+        "alias": "Koundé",
+        "pj": 127,
+        "g": 5,
+        "inici": "2022",
+        "final": "2027"
+      },
       "Jon Andoni Goikoetxea Lasa": {
         "alias": "Goikoetxea",
         "pj": 126,
         "g": 6,
         "inici": "1990",
         "final": "1994"
-      },
-      "Jules Olivier Koundé": {
-        "alias": "Koundé",
-        "pj": 126,
-        "g": 5,
-        "inici": "2022",
-        "final": "2026"
       },
       "Éric Sylvain Abidal": {
         "alias": "Abidal",
@@ -8618,19 +8666,19 @@
         "inici": "2013",
         "final": "2017"
       },
+      "Raphael Dias Belloli": {
+        "alias": "Raphinha",
+        "pj": 123,
+        "g": 46,
+        "inici": "2022",
+        "final": "2027"
+      },
       "Luis Suárez Miramontes": {
         "alias": "Luis Suárez",
         "pj": 122,
         "g": 60,
         "inici": "1953",
         "final": "1961"
-      },
-      "Raphael Dias Belloli": {
-        "alias": "Raphinha",
-        "pj": 122,
-        "g": 44,
-        "inici": "2022",
-        "final": "2026"
       },
       "José Bravo Domínguez": {
         "alias": "Bravo",
@@ -8645,6 +8693,13 @@
         "g": 0,
         "inici": "1981",
         "final": "1988"
+      },
+      "Pablo Martín Páez Gavira": {
+        "alias": "Gavi",
+        "pj": 120,
+        "g": 6,
+        "inici": "2021",
+        "final": "2027"
       },
       "José Antonio Ramos Huete": {
         "alias": "Ramos",
@@ -8667,19 +8722,19 @@
         "inici": "2008",
         "final": "2012"
       },
-      "Pablo Martín Páez Gavira": {
-        "alias": "Gavi",
-        "pj": 119,
-        "g": 6,
-        "inici": "2021",
-        "final": "2026"
-      },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
         "pj": 116,
         "g": 1,
         "inici": "2021",
-        "final": "2026"
+        "final": "2027"
+      },
+      "Eric Garcia Martret": {
+        "alias": "Eric Garcia",
+        "pj": 116,
+        "g": 4,
+        "inici": "2021",
+        "final": "2027"
       },
       "Juan José Nogués Portalatín": {
         "alias": "Nogués",
@@ -8687,13 +8742,6 @@
         "g": 0,
         "inici": "1930",
         "final": "1942"
-      },
-      "Eric Garcia Martret": {
-        "alias": "Eric Garcia",
-        "pj": 115,
-        "g": 4,
-        "inici": "2021",
-        "final": "2026"
       },
       "Evaristo de Macedo Filho": {
         "alias": "Evaristo",
@@ -8786,19 +8834,19 @@
         "inici": "1986",
         "final": "1989"
       },
+      "Lamine Yamal Nasraoui Ebana": {
+        "alias": "Lamine Yamal",
+        "pj": 102,
+        "g": 30,
+        "inici": "2022",
+        "final": "2027"
+      },
       "Ricardo Jesús Serna Orozco": {
         "alias": "Serna",
         "pj": 101,
         "g": 2,
         "inici": "1988",
         "final": "1993"
-      },
-      "Lamine Yamal Nasraoui Ebana": {
-        "alias": "Lamine Yamal",
-        "pj": 101,
-        "g": 30,
-        "inici": "2022",
-        "final": "2026"
       },
       "Enrique de Castro González": {
         "alias": "Quini",
@@ -8891,6 +8939,13 @@
         "inici": "1995",
         "final": "2001"
       },
+      "Fermín López Marín": {
+        "alias": "Fermín",
+        "pj": 90,
+        "g": 22,
+        "inici": "2023",
+        "final": "2027"
+      },
       "Ramón de Zabalo Zubiaurre": {
         "alias": "Zabalo",
         "pj": 89,
@@ -8918,13 +8973,6 @@
         "g": 2,
         "inici": "2004",
         "final": "2009"
-      },
-      "Fermín López Marín": {
-        "alias": "Fermín",
-        "pj": 89,
-        "g": 20,
-        "inici": "2023",
-        "final": "2026"
       },
       "Alexis Alejandro Sánchez Sánchez": {
         "alias": "Alexis Sánchez",
@@ -8966,7 +9014,7 @@
         "pj": 85,
         "g": 1,
         "inici": "2023",
-        "final": "2026"
+        "final": "2027"
       },
       "Isidro Flotats Vilanova": {
         "alias": "Flotats",
@@ -9108,6 +9156,13 @@
         "inici": "2006",
         "final": "2010"
       },
+      "Andreas Bødtker Christensen": {
+        "alias": "Christensen",
+        "pj": 72,
+        "g": 3,
+        "inici": "2022",
+        "final": "2027"
+      },
       "Pere Valentí Mora Mariné": {
         "alias": "Mora",
         "pj": 71,
@@ -9135,13 +9190,6 @@
         "g": 0,
         "inici": "2004",
         "final": "2008"
-      },
-      "Andreas Bødtker Christensen": {
-        "alias": "Christensen",
-        "pj": 71,
-        "g": 3,
-        "inici": "2022",
-        "final": "2026"
       },
       "Claudio Andrés Bravo Muñoz": {
         "alias": "Claudio Bravo",
@@ -9283,19 +9331,19 @@
         "inici": "1979",
         "final": "1982"
       },
+      "Gerard Martín Langreo": {
+        "alias": "Gerard Martín",
+        "pj": 61,
+        "g": 1,
+        "inici": "2024",
+        "final": "2027"
+      },
       "Ángel Arocha Guillén": {
         "alias": "Arocha",
         "pj": 60,
         "g": 51,
         "inici": "1928",
         "final": "1933"
-      },
-      "Gerard Martín Langreo": {
-        "alias": "Gerard Martín",
-        "pj": 60,
-        "g": 1,
-        "inici": "2024",
-        "final": "2026"
       },
       "Luis María López Rekarte": {
         "alias": "López Rekarte",
@@ -9317,6 +9365,13 @@
         "g": 11,
         "inici": "2011",
         "final": "2014"
+      },
+      "Daniel Olmo Carvajal": {
+        "alias": "Dani Olmo",
+        "pj": 59,
+        "g": 17,
+        "inici": "2024",
+        "final": "2027"
       },
       "Martín Vantolrà Fort": {
         "alias": "Vantolrà",
@@ -9345,13 +9400,6 @@
         "g": 3,
         "inici": "2006",
         "final": "2008"
-      },
-      "Daniel Olmo Carvajal": {
-        "alias": "Dani Olmo",
-        "pj": 58,
-        "g": 17,
-        "inici": "2024",
-        "final": "2026"
       },
       "Jiří Hanke Hiron": {
         "alias": "Hanke",
@@ -9521,6 +9569,13 @@
         "inici": "2022",
         "final": "2026"
       },
+      "João Pedro Cavaco Cancelo": {
+        "alias": "João Cancelo",
+        "pj": 49,
+        "g": 4,
+        "inici": "2023",
+        "final": "2027"
+      },
       "Aloísio Pires Alves": {
         "alias": "Aloísio",
         "pj": 48,
@@ -9555,13 +9610,6 @@
         "g": 0,
         "inici": "2023",
         "final": "2025"
-      },
-      "João Pedro Cavaco Cancelo": {
-        "alias": "João Cancelo",
-        "pj": 48,
-        "g": 4,
-        "inici": "2023",
-        "final": "2026"
       },
       "Anderson da Silva Nilmar": {
         "alias": "Sonny Anderson",
@@ -9976,6 +10024,13 @@
         "inici": "2001",
         "final": "2003"
       },
+      "Joan Garcia Pons": {
+        "alias": "Joan Garcia",
+        "pj": 31,
+        "g": 0,
+        "inici": "2025",
+        "final": "2027"
+      },
       "Juan Rafa Mas": {
         "alias": "Rafa",
         "pj": 30,
@@ -10031,13 +10086,6 @@
         "g": 7,
         "inici": "2023",
         "final": "2024"
-      },
-      "Joan Garcia Pons": {
-        "alias": "Joan Garcia",
-        "pj": 30,
-        "g": 0,
-        "inici": "2025",
-        "final": "2026"
       },
       "Zlatan Ibrahimović": {
         "alias": "Ibrahimović",
@@ -10193,6 +10241,13 @@
         "inici": "2015",
         "final": "2021"
       },
+      "Marc Bernal Casas": {
+        "alias": "Bernal",
+        "pj": 26,
+        "g": 2,
+        "inici": "2024",
+        "final": "2027"
+      },
       "Emilio Sagi Liñán": {
         "alias": "Sagi-Barba",
         "pj": 25,
@@ -10234,13 +10289,6 @@
         "g": 4,
         "inici": "1997",
         "final": "2004"
-      },
-      "Marc Bernal Casas": {
-        "alias": "Bernal",
-        "pj": 25,
-        "g": 2,
-        "inici": "2024",
-        "final": "2026"
       },
       "Alejandro Morera Soto": {
         "alias": "Morera",
@@ -10345,7 +10393,7 @@
         "pj": 23,
         "g": 0,
         "inici": "2024",
-        "final": "2026"
+        "final": "2027"
       },
       "Pedro Pablo Areso Aramburu": {
         "alias": "Areso",
@@ -11677,6 +11725,13 @@
         "inici": "2017",
         "final": "2018"
       },
+      "Xavier Espart Font": {
+        "alias": "Espart",
+        "pj": 5,
+        "g": 0,
+        "inici": "2025",
+        "final": "2027"
+      },
       "Ramón Campabadal Martí": {
         "alias": "Campabadal",
         "pj": 4,
@@ -11812,13 +11867,6 @@
       },
       "Pedro Fernández Sarmiento": {
         "alias": "Dro",
-        "pj": 4,
-        "g": 0,
-        "inici": "2025",
-        "final": "2026"
-      },
-      "Xavier Espart Font": {
-        "alias": "Espart",
         "pj": 4,
         "g": 0,
         "inici": "2025",
@@ -12788,7 +12836,7 @@
         "pj": 1,
         "g": 0,
         "inici": "2024",
-        "final": "2026"
+        "final": "2027"
       },
       "Antonio Fernández Casino": {
         "alias": "Toni Fernández",
@@ -12796,6 +12844,20 @@
         "g": 0,
         "inici": "2024",
         "final": "2026"
+      },
+      "Anthony Michael Gordon": {
+        "alias": "Gordon",
+        "pj": 1,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
+      },
+      "Karim-David Adeyemi": {
+        "alias": "Adeyemi",
+        "pj": 1,
+        "g": 1,
+        "inici": "2026",
+        "final": "2027"
       },
       "Jaime Hospital Gallego": {
         "alias": "Hospital",
@@ -13747,7 +13809,7 @@
         "pj": 0,
         "g": 0,
         "inici": "2025",
-        "final": "2026"
+        "final": "2027"
       },
       "Juan Hernández Torres": {
         "alias": "Hernández",
@@ -13755,6 +13817,34 @@
         "g": 0,
         "inici": "2025",
         "final": "2026"
+      },
+      "Brian Fariñas Pérez": {
+        "alias": "Fariñas",
+        "pj": 0,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
+      },
+      "Hamza Mohamed Abdelkarim Selim": {
+        "alias": "Hamza Abdelkarim",
+        "pj": 0,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
+      },
+      "Jordi Pesquer Barraquer": {
+        "alias": "Pesquer",
+        "pj": 0,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
+      },
+      "Rodrigo Hernández Cascante": {
+        "alias": "Rodri",
+        "pj": 0,
+        "g": 0,
+        "inici": "2026",
+        "final": "2027"
       }
     },
     "Champions": {
@@ -21021,13 +21111,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "08:42:36",
-  "match_status": "U",
+  "ultima_actualitzacio": "17:37:11",
+  "match_status": "C",
   "match_comp": "Amistós",
   "match_rival": "Fc Basel",
   "proper_partit": {
-    "descripcio": "Lliga · Elche - Barça",
-    "compte_enrere": "13d 4h 44m 49s",
-    "kickoff_ts": 1787513399
+    "descripcio": "Lliga · Barça - Athletic Club",
+    "compte_enrere": "2d 3h 23m 0s",
+    "kickoff_ts": 1787857199
   }
 }
