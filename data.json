@@ -1709,6 +1709,13 @@
       "hora": "20:15",
       "ts": "2026-08-27T20:00:38.003795",
       "collage": "collages/collage_1787853637393027.webp"
+    },
+    {
+      "text": "27è partit de Lliga per a Bernal amb el Barça. Supera Vila (1951-1954), Ćirić (1997-1999), Geovanni (2001-2003) i Aleñá (2015-2021). Empata amb Walter (1928-1931), Mandi (1954-1957) i Nico (2021-2022) en el ➡️ 326è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:16",
+      "ts": "2026-08-27T20:00:38.003795",
+      "collage": "collages/collage_1787853637741878.webp"
     }
   ],
   "baseline": {
@@ -21412,13 +21419,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:15:34",
+  "ultima_actualitzacio": "20:16:34",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 43m 59s",
-    "kickoff_ts": 1787857199
+    "compte_enrere": "0d 0h 42m 43s",
+    "kickoff_ts": 1787857200
   }
 }
