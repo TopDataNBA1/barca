@@ -1695,6 +1695,13 @@
       "hora": "20:13",
       "ts": "2026-08-27T20:00:37.251055",
       "collage": "collages/collage_1787853636758201.webp"
+    },
+    {
+      "text": "103è partit de Lliga per a Lamine Yamal amb el Barça. Empata amb Lineker (1986-1989) en el ➡️ 131è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:14",
+      "ts": "2026-08-27T20:00:37.251055",
+      "collage": "collages/collage_1787853637042122.webp"
     }
   ],
   "baseline": {
@@ -21398,13 +21405,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:13:34",
+  "ultima_actualitzacio": "20:14:34",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 45m 50s",
+    "compte_enrere": "0d 0h 45m 13s",
     "kickoff_ts": 1787857200
   }
 }
