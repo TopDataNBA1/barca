@@ -1779,6 +1779,13 @@
       "hora": "22:34",
       "ts": "2026-08-27T22:32:08.568436",
       "collage": "collages/collage_1787862728376485.webp"
+    },
+    {
+      "text": "190è partit oficial per a Koundé amb el Barça. Supera Adriano (2010-2016) i ara ocupa el ➡️ 90è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:49",
+      "ts": "2026-08-27T22:49:27.968710",
+      "collage": "collages/collage_1787863766976862.webp"
     }
   ],
   "baseline": {
@@ -2415,7 +2422,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 189,
+        "pj": 190,
         "g": 10,
         "inici": "2022",
         "final": "2027"
@@ -8976,7 +8983,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 127,
+        "pj": 128,
         "g": 5,
         "inici": "2022",
         "final": "2027"
@@ -21482,7 +21489,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:34:33",
+  "ultima_actualitzacio": "22:49:28",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
