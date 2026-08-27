@@ -1681,6 +1681,13 @@
       "hora": "20:11",
       "ts": "2026-08-27T20:00:36.321672",
       "collage": "collages/collage_1787853636064755.webp"
+    },
+    {
+      "text": "91è partit de Lliga per a Fermín amb el Barça. Supera Rosalén (1939-1946) i De la Peña (1995-2001). Empata amb Umtiti (2016-2022) en el ➡️ 144è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:12",
+      "ts": "2026-08-27T20:00:36.652585",
+      "collage": "collages/collage_1787853636460646.webp"
     }
   ],
   "baseline": {
@@ -21384,13 +21391,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:11:34",
+  "ultima_actualitzacio": "20:12:34",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 48m 17s",
-    "kickoff_ts": 1787857199
+    "compte_enrere": "0d 0h 47m 4s",
+    "kickoff_ts": 1787857200
   }
 }
