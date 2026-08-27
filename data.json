@@ -1604,6 +1604,20 @@
       "hora": "20:00",
       "ts": "2026-08-27T20:00:32.277227",
       "collage": "collages/collage_1787853631659089.webp"
+    },
+    {
+      "text": "32è partit de Lliga per a Joan Garcia amb el Barça. Supera Sastre (1928-1932), Vidal I (1963-1968), Cristóbal (1987-1992) i Christanval (2001-2003). Empata amb León (1939-1941), Kodro (1995-1996) i Rashford (2025-2026) en el ➡️ 295è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-08-27T20:00:32.277227",
+      "collage": "collages/collage_1787853632046303.webp"
+    },
+    {
+      "text": "168è partit oficial per a Eric Garcia amb el Barça. Supera Gavi (2021-2027). Empata amb Balde (2021-2027) en el ➡️ 112è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:02",
+      "ts": "2026-08-27T20:00:33.041017",
+      "collage": "collages/collage_1787853632524181.webp"
     }
   ],
   "baseline": {
@@ -2044,7 +2058,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 246,
+        "pj": 247,
         "g": 28,
         "inici": "2020",
         "final": "2027"
@@ -2310,7 +2324,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 178,
+        "pj": 179,
         "g": 77,
         "inici": "2022",
         "final": "2027"
@@ -2394,7 +2408,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 167,
+        "pj": 168,
         "g": 7,
         "inici": "2021",
         "final": "2027"
@@ -2492,7 +2506,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 152,
+        "pj": 153,
         "g": 49,
         "inici": "2022",
         "final": "2027"
@@ -2590,7 +2604,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 137,
+        "pj": 138,
         "g": 34,
         "inici": "2023",
         "final": "2027"
@@ -2639,7 +2653,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 128,
+        "pj": 129,
         "g": 2,
         "inici": "2023",
         "final": "2027"
@@ -2947,7 +2961,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 94,
+        "pj": 95,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -3745,7 +3759,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 46,
+        "pj": 47,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -3969,7 +3983,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 37,
+        "pj": 38,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -8584,7 +8598,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 166,
+        "pj": 167,
         "g": 22,
         "inici": "2020",
         "final": "2027"
@@ -8864,7 +8878,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 123,
+        "pj": 124,
         "g": 46,
         "inici": "2022",
         "final": "2027"
@@ -8927,7 +8941,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 116,
+        "pj": 117,
         "g": 4,
         "inici": "2021",
         "final": "2027"
@@ -9032,7 +9046,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 102,
+        "pj": 103,
         "g": 30,
         "inici": "2022",
         "final": "2027"
@@ -9137,7 +9151,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 90,
+        "pj": 91,
         "g": 22,
         "inici": "2023",
         "final": "2027"
@@ -9207,7 +9221,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 85,
+        "pj": 86,
         "g": 1,
         "inici": "2023",
         "final": "2027"
@@ -9529,7 +9543,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 61,
+        "pj": 62,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -10222,7 +10236,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 31,
+        "pj": 32,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -10439,7 +10453,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 26,
+        "pj": 27,
         "g": 2,
         "inici": "2024",
         "final": "2027"
@@ -21307,13 +21321,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:00:33",
+  "ultima_actualitzacio": "20:02:33",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 1h 0m 5s",
+    "compte_enrere": "0d 0h 57m 30s",
     "kickoff_ts": 1787857199
   }
 }
