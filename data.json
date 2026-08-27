@@ -1625,6 +1625,13 @@
       "hora": "20:03",
       "ts": "2026-08-27T20:00:33.041017",
       "collage": "collages/collage_1787853632857087.webp"
+    },
+    {
+      "text": "95è partit oficial per a Gerard Martín amb el Barça. Supera Pesudo (1961-1966), Rojo (1983-1987) i Popescu (1995-1997). Empata amb Zenden (1998-2001) en el ➡️ 190è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:04",
+      "ts": "2026-08-27T20:00:33.761768",
+      "collage": "collages/collage_1787853633179848.webp"
     }
   ],
   "baseline": {
@@ -21328,13 +21335,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:03:33",
+  "ultima_actualitzacio": "20:04:33",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 56m 53s",
-    "kickoff_ts": 1787857199
+    "compte_enrere": "0d 0h 55m 40s",
+    "kickoff_ts": 1787857200
   }
 }
