@@ -1821,6 +1821,13 @@
       "hora": "22:52",
       "ts": "2026-08-27T22:49:28.916855",
       "collage": "collages/collage_1787863768711935.webp"
+    },
+    {
+      "text": "67è partit oficial per a João Cancelo amb el Barça. Supera Mingueza (2019-2022). Empata amb Montoya (2010-2015) en el ➡️ 250è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:54",
+      "ts": "2026-08-27T22:54:27.880454",
+      "collage": "collages/collage_1787864067297684.webp"
     }
   ],
   "baseline": {
@@ -3584,7 +3591,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 66,
+        "pj": 67,
         "g": 6,
         "inici": "2023",
         "final": "2027"
@@ -9984,7 +9991,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 49,
+        "pj": 50,
         "g": 4,
         "inici": "2023",
         "final": "2027"
@@ -21524,7 +21531,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:52:32",
+  "ultima_actualitzacio": "22:54:27",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
