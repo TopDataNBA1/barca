@@ -1835,6 +1835,12 @@
       "hora": "22:55",
       "ts": "2026-08-27T22:54:27.880454",
       "collage": "collages/collage_1787864067660564.webp"
+    },
+    {
+      "text": "📋 27/08/2026 · LLIGA · BARÇA - ATHLETIC CLUB",
+      "tipus": "prioritaria",
+      "hora": "23:03",
+      "ts": "2026-08-27T23:03:55.480834"
     }
   ],
   "baseline": {
@@ -21538,8 +21544,8 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:55:28",
-  "match_status": "L",
+  "ultima_actualitzacio": "23:03:58",
+  "match_status": "C",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
