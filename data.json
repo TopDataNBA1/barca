@@ -1730,6 +1730,20 @@
       "hora": "20:18",
       "ts": "2026-08-27T20:00:38.631828",
       "collage": "collages/collage_1787853638431896.webp"
+    },
+    {
+      "text": "179è partit oficial per a Raphinha amb el Barça. Supera Benítez (1961-1968). Empata amb Urbano (1982-1992) en el ➡️ 100è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:19",
+      "ts": "2026-08-27T20:00:39.295571",
+      "collage": "collages/collage_1787853638755739.webp"
+    },
+    {
+      "text": "124è partit de Lliga per a Raphinha amb el Barça. Supera Elias (1943-1950), Benítez (1961-1968), Urbano (1982-1992), Saviola (2001-2007) i Neymar (2013-2017). Empata amb Marcos Alonso (1982-1987) en el ➡️ 102è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:20",
+      "ts": "2026-08-27T20:00:39.295571",
+      "collage": "collages/collage_1787853639081653.webp"
     }
   ],
   "baseline": {
@@ -21433,13 +21447,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:18:34",
+  "ultima_actualitzacio": "20:20:34",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 40m 52s",
-    "kickoff_ts": 1787857199
+    "compte_enrere": "0d 0h 39m 39s",
+    "kickoff_ts": 1787857200
   }
 }
