@@ -1786,6 +1786,27 @@
       "hora": "22:49",
       "ts": "2026-08-27T22:49:27.968710",
       "collage": "collages/collage_1787863766976862.webp"
+    },
+    {
+      "text": "128è partit de Lliga per a Koundé amb el Barça. Supera Oleguer (2001-2008) i Dembélé (2017-2023) i ara ocupa el ➡️ 97è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:50",
+      "ts": "2026-08-27T22:49:27.968710",
+      "collage": "collages/collage_1787863767791754.webp"
+    },
+    {
+      "text": "⚽ 35è gol de Fermín amb el Barça. Supera Griezmann (2019-2022). Empata amb Giovanni (1996-1999) i Rakitić (2014-2020) en el ➡️ 79è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:51",
+      "ts": "2026-08-27T22:50:44.384633",
+      "collage": "collages/collage_1787863843357785.webp"
+    },
+    {
+      "text": "⚽ 23è gol de Fermín a la Lliga amb el Barça. Supera Maradona (1982-1984), Ansu Fati (2019-2025), Griezmann (2019-2022) i Pedri (2020-2027) i ara ocupa el ➡️ 79è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:51",
+      "ts": "2026-08-27T22:50:44.384633",
+      "collage": "collages/collage_1787863844195693.webp"
     }
   ],
   "baseline": {
@@ -2773,7 +2794,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 138,
-        "g": 34,
+        "g": 35,
         "inici": "2023",
         "final": "2027"
       },
@@ -9320,7 +9341,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 91,
-        "g": 22,
+        "g": 23,
         "inici": "2023",
         "final": "2027"
       },
@@ -21489,7 +21510,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:49:28",
+  "ultima_actualitzacio": "22:51:30",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
