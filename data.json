@@ -1772,6 +1772,13 @@
       "hora": "22:33",
       "ts": "2026-08-27T22:32:08.568436",
       "collage": "collages/collage_1787862728043561.webp"
+    },
+    {
+      "text": "60è partit de Lliga per a Dani Olmo amb el Barça. Supera López Rekarte (1988-1991), Bartra (2009-2016) i Tello (2011-2014). Empata amb Arocha (1928-1933) en el ➡️ 204è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:34",
+      "ts": "2026-08-27T22:32:08.568436",
+      "collage": "collages/collage_1787862728376485.webp"
     }
   ],
   "baseline": {
@@ -21475,7 +21482,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:33:33",
+  "ultima_actualitzacio": "22:34:33",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
