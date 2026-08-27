@@ -1639,6 +1639,13 @@
       "hora": "20:05",
       "ts": "2026-08-27T20:00:33.761768",
       "collage": "collages/collage_1787853633538838.webp"
+    },
+    {
+      "text": "129è partit oficial per a Cubarsí amb el Barça. Supera Sylvinho (2004-2009). Empata amb Simonsen (1979-1982) en el ➡️ 146è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:06",
+      "ts": "2026-08-27T20:00:34.840349",
+      "collage": "collages/collage_1787853633888255.webp"
     }
   ],
   "baseline": {
@@ -21342,13 +21349,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:05:33",
+  "ultima_actualitzacio": "20:06:33",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 54m 26s",
-    "kickoff_ts": 1787857200
+    "compte_enrere": "0d 0h 53m 12s",
+    "kickoff_ts": 1787857199
   }
 }
