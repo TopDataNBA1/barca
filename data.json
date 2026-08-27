@@ -1744,6 +1744,13 @@
       "hora": "20:20",
       "ts": "2026-08-27T20:00:39.295571",
       "collage": "collages/collage_1787853639081653.webp"
+    },
+    {
+      "text": "⚽ 47è gol de Raphinha a la Lliga amb el Barça. Empata amb Cruyff (1973-1978) i Amor (1988-1998) en el ➡️ 40è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "21:44",
+      "ts": "2026-08-27T21:44:38.027278",
+      "collage": "collages/collage_1787859877835322.webp"
     }
   ],
   "baseline": {
@@ -2451,7 +2458,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 179,
-        "g": 77,
+        "g": 78,
         "inici": "2022",
         "final": "2027"
       },
@@ -9005,7 +9012,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 124,
-        "g": 46,
+        "g": 47,
         "inici": "2022",
         "final": "2027"
       },
@@ -21447,7 +21454,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:20:34",
+  "ultima_actualitzacio": "21:44:40",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
