@@ -1688,6 +1688,13 @@
       "hora": "20:12",
       "ts": "2026-08-27T20:00:36.652585",
       "collage": "collages/collage_1787853636460646.webp"
+    },
+    {
+      "text": "153è partit oficial per a Lamine Yamal amb el Barça. Supera Nogués (1930-1942) i ara ocupa el ➡️ 127è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:13",
+      "ts": "2026-08-27T20:00:37.251055",
+      "collage": "collages/collage_1787853636758201.webp"
     }
   ],
   "baseline": {
@@ -21391,13 +21398,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:12:34",
+  "ultima_actualitzacio": "20:13:34",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 47m 4s",
+    "compte_enrere": "0d 0h 45m 50s",
     "kickoff_ts": 1787857200
   }
 }
