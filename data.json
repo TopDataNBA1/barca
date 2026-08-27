@@ -1632,6 +1632,13 @@
       "hora": "20:04",
       "ts": "2026-08-27T20:00:33.761768",
       "collage": "collages/collage_1787853633179848.webp"
+    },
+    {
+      "text": "62è partit de Lliga per a Gerard Martín amb el Barça. Supera Ramón (1928-1935) i Landaburu (1979-1982). Empata amb Parera (1928-1933), Nicolau (1948-1952), Clos (1982-1988) i Mathieu (2014-2017) en el ➡️ 197è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:05",
+      "ts": "2026-08-27T20:00:33.761768",
+      "collage": "collages/collage_1787853633538838.webp"
     }
   ],
   "baseline": {
@@ -21335,13 +21342,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:04:33",
+  "ultima_actualitzacio": "20:05:33",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 55m 40s",
+    "compte_enrere": "0d 0h 54m 26s",
     "kickoff_ts": 1787857200
   }
 }
