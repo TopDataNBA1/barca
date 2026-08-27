@@ -1765,6 +1765,13 @@
       "hora": "22:32",
       "ts": "2026-08-27T22:31:30.847165",
       "collage": "collages/collage_1787862690604257.webp"
+    },
+    {
+      "text": "90è partit oficial per a Dani Olmo amb el Barça. Supera Walter (1924-1931) i Maxwell (2009-2012). Empata amb Pujol (1964-1973), Pinto (2007-2014) i Rafinha (2011-2021) en el ➡️ 198è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:33",
+      "ts": "2026-08-27T22:32:08.568436",
+      "collage": "collages/collage_1787862728043561.webp"
     }
   ],
   "baseline": {
@@ -21468,7 +21475,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:32:33",
+  "ultima_actualitzacio": "22:33:33",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
