@@ -1716,6 +1716,13 @@
       "hora": "20:16",
       "ts": "2026-08-27T20:00:38.003795",
       "collage": "collages/collage_1787853637741878.webp"
+    },
+    {
+      "text": "247è partit oficial per a Pedri amb el Barça. Empata amb De la Cruz (1972-1980) en el ➡️ 62è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:17",
+      "ts": "2026-08-27T20:00:38.631828",
+      "collage": "collages/collage_1787853638119268.webp"
     }
   ],
   "baseline": {
@@ -21419,13 +21426,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:16:34",
+  "ultima_actualitzacio": "20:17:34",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 42m 43s",
+    "compte_enrere": "0d 0h 42m 6s",
     "kickoff_ts": 1787857200
   }
 }
