@@ -1702,6 +1702,13 @@
       "hora": "20:14",
       "ts": "2026-08-27T20:00:37.251055",
       "collage": "collages/collage_1787853637042122.webp"
+    },
+    {
+      "text": "38è partit oficial per a Bernal amb el Barça. Supera Hughes (1986-1987) i Nico (2021-2022). Empata amb Ramírez (1979-1982), Canito (1979-1981), Blanc (1996-1997), Alfonso (2000-2002), Petit (2000-2001), Van Bommel (2005-2007) i Giovani dos Santos (2006-2008) en el ➡️ 330è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:15",
+      "ts": "2026-08-27T20:00:38.003795",
+      "collage": "collages/collage_1787853637393027.webp"
     }
   ],
   "baseline": {
@@ -21405,13 +21412,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:14:34",
+  "ultima_actualitzacio": "20:15:34",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 45m 13s",
-    "kickoff_ts": 1787857200
+    "compte_enrere": "0d 0h 43m 59s",
+    "kickoff_ts": 1787857199
   }
 }
