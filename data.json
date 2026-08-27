@@ -1646,6 +1646,13 @@
       "hora": "20:06",
       "ts": "2026-08-27T20:00:34.840349",
       "collage": "collages/collage_1787853633888255.webp"
+    },
+    {
+      "text": "86è partit de Lliga per a Cubarsí amb el Barça. Supera Giuly (2004-2007). Empata amb Ansu Fati (2019-2025) en el ➡️ 155è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-08-27T20:00:34.840349",
+      "collage": "collages/collage_1787853634671396.webp"
     }
   ],
   "baseline": {
@@ -21349,13 +21356,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "20:06:33",
+  "ultima_actualitzacio": "20:07:33",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 0h 53m 12s",
+    "compte_enrere": "0d 0h 52m 35s",
     "kickoff_ts": 1787857199
   }
 }
