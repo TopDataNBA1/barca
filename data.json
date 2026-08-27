@@ -1828,6 +1828,13 @@
       "hora": "22:54",
       "ts": "2026-08-27T22:54:27.880454",
       "collage": "collages/collage_1787864067297684.webp"
+    },
+    {
+      "text": "50è partit de Lliga per a João Cancelo amb el Barça. Supera Miró (1939-1943), Iván Iglesias (1993-1996) i Casadó (2022-2026). Empata amb Arnau (1928-1934), Castillo (1928-1932), Pérez (1971-1975) i Dani (1999-2004) en el ➡️ 230è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:55",
+      "ts": "2026-08-27T22:54:27.880454",
+      "collage": "collages/collage_1787864067660564.webp"
     }
   ],
   "baseline": {
@@ -21531,7 +21538,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "22:54:27",
+  "ultima_actualitzacio": "22:55:28",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
