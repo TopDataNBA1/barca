@@ -1597,6 +1597,13 @@
       "tipus": "prioritaria",
       "ts": "2026-08-27T14:03:09.179118",
       "url_partit": "https://www.fcbarcelona.cat/ca/partits/138293/elche-fc-barcelona-la-liga-2026-2027"
+    },
+    {
+      "text": "47è partit oficial per a Joan Garcia amb el Barça. Supera Ibrahimović (2009-2011) i Digne (2016-2018). Empata amb Christanval (2001-2003) en el ➡️ 303è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-08-27T20:00:32.277227",
+      "collage": "collages/collage_1787853631659089.webp"
     }
   ],
   "baseline": {
@@ -21300,13 +21307,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "17:37:11",
+  "ultima_actualitzacio": "20:00:33",
   "match_status": "U",
   "match_comp": "Lliga",
   "match_rival": "Athletic Club",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Athletic Club",
-    "compte_enrere": "0d 1h 0m 42s",
+    "compte_enrere": "0d 1h 0m 5s",
     "kickoff_ts": 1787857199
   }
 }
