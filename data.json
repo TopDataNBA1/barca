@@ -2901,6 +2901,12 @@
       "hora": "23:26",
       "ts": "2026-08-31T23:26:14.307852",
       "collage": "collages/collage_1788211574084938.webp"
+    },
+    {
+      "text": "📋 31/08/2026 · LLIGA · BARÇA - RAYO VALLECANO",
+      "tipus": "prioritaria",
+      "hora": "23:32",
+      "ts": "2026-08-31T23:32:00.955547"
     }
   ],
   "baseline": {
@@ -22604,13 +22610,13 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:26:17",
-  "match_status": "L",
+  "ultima_actualitzacio": "23:32:04",
+  "match_status": "U",
   "match_comp": "Lliga",
-  "match_rival": "Rayo Vallecano",
+  "match_rival": "Valencia Cf",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Rayo Vallecano",
-    "compte_enrere": "0d 1h 24m 23s",
-    "kickoff_ts": 1788204600
+    "descripcio": "Lliga · Barça - Valencia Cf",
+    "compte_enrere": "5d 16h 42m 28s",
+    "kickoff_ts": 1788704100
   }
 }
