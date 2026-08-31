@@ -2824,6 +2824,13 @@
       "hora": "23:14",
       "ts": "2026-08-31T23:14:29.693305",
       "collage": "collages/collage_1788210869208521.webp"
+    },
+    {
+      "text": "92è partit de Lliga per a Fermín amb el Barça. Supera Umtiti (2016-2022). Empata amb Sospedra (1939-1947), Foncho (1960-1967) i Gerard (2000-2005) en el ➡️ 141è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "23:15",
+      "ts": "2026-08-31T23:14:29.693305",
+      "collage": "collages/collage_1788210869469376.webp"
     }
   ],
   "baseline": {
@@ -22527,7 +22534,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:14:38",
+  "ultima_actualitzacio": "23:15:38",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Rayo Vallecano",
