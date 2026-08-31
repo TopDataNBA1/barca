@@ -2887,6 +2887,20 @@
       "hora": "23:24",
       "ts": "2026-08-31T23:23:06.516348",
       "collage": "collages/collage_1788211386291434.webp"
+    },
+    {
+      "text": "⚽ 50è gol de Lamine Yamal amb el Barça. Supera Henry (2007-2010) i ara ocupa el ➡️ 52è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "23:26",
+      "ts": "2026-08-31T23:26:14.307852",
+      "collage": "collages/collage_1788211573832019.webp"
+    },
+    {
+      "text": "⚽ 31è gol de Lamine Yamal a la Lliga amb el Barça. Supera Vantolrà (1933-1936) i Figo (1995-2000). Empata amb Simonsen (1979-1982) i Cocu (1998-2004) en el ➡️ 61è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "23:26",
+      "ts": "2026-08-31T23:26:14.307852",
+      "collage": "collages/collage_1788211574084938.webp"
     }
   ],
   "baseline": {
@@ -3776,7 +3790,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 153,
-        "g": 49,
+        "g": 50,
         "inici": "2022",
         "final": "2027"
       },
@@ -10316,7 +10330,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 103,
-        "g": 30,
+        "g": 31,
         "inici": "2022",
         "final": "2027"
       },
@@ -22590,7 +22604,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:24:10",
+  "ultima_actualitzacio": "23:26:17",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Rayo Vallecano",
