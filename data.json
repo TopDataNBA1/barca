@@ -2796,6 +2796,34 @@
       "hora": "",
       "url_partit": "https://www.fcbarcelona.cat/ca/partits/138283/fc-barcelona-athletic-club-la-liga-2026-2027",
       "collage": "collages/collage_1788200394688077.webp"
+    },
+    {
+      "text": "⚽ 50è gol de Lamine Yamal amb el Barça. Supera Henry (2007-2010) i ara ocupa el ➡️ 52è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "23:14",
+      "ts": "2026-08-31T23:14:28.698951",
+      "collage": "collages/collage_1788210868132130.webp"
+    },
+    {
+      "text": "⚽ 31è gol de Lamine Yamal a la Lliga amb el Barça. Supera Vantolrà (1933-1936) i Figo (1995-2000). Empata amb Simonsen (1979-1982) i Cocu (1998-2004) en el ➡️ 61è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "23:14",
+      "ts": "2026-08-31T23:14:28.698951",
+      "collage": "collages/collage_1788210868453046.webp"
+    },
+    {
+      "text": "⚽ 48è gol de Raphinha a la Lliga amb el Barça. Supera Cruyff (1973-1978) i Amor (1988-1998). Empata amb Fusté (1961-1972) i Marcial (1969-1977) en el ➡️ 38è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "23:14",
+      "ts": "2026-08-31T23:14:29.057556",
+      "collage": "collages/collage_1788210868843643.webp"
+    },
+    {
+      "text": "139è partit oficial per a Fermín amb el Barça. Empata amb Lineker (1986-1989) en el ➡️ 140è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:14",
+      "ts": "2026-08-31T23:14:29.693305",
+      "collage": "collages/collage_1788210869208521.webp"
     }
   ],
   "baseline": {
@@ -3496,7 +3524,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 179,
-        "g": 78,
+        "g": 79,
         "inici": "2022",
         "final": "2027"
       },
@@ -3685,7 +3713,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 153,
-        "g": 49,
+        "g": 50,
         "inici": "2022",
         "final": "2027"
       },
@@ -3782,7 +3810,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 138,
+        "pj": 139,
         "g": 35,
         "inici": "2023",
         "final": "2027"
@@ -8675,7 +8703,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 1,
+        "pj": 2,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -10022,7 +10050,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 124,
-        "g": 47,
+        "g": 48,
         "inici": "2022",
         "final": "2027"
       },
@@ -10225,7 +10253,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 103,
-        "g": 30,
+        "g": 31,
         "inici": "2022",
         "final": "2027"
       },
@@ -10315,7 +10343,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 91,
+        "pj": 92,
         "g": 23,
         "inici": "2023",
         "final": "2027"
@@ -14249,7 +14277,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 1,
+        "pj": 2,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -22499,7 +22527,7 @@
       }
     }
   },
-  "ultima_actualitzacio": "23:03:58",
+  "ultima_actualitzacio": "23:14:38",
   "match_status": "L",
   "match_comp": "Lliga",
   "match_rival": "Rayo Vallecano",
