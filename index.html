@@ -200,6 +200,38 @@
 </div>
 
 <script>
+    // Carregar pestanya Temporada 2025-26 des de data2025-26.json
+    fetch('data2025-26.json?_=' + Date.now())
+        .then(r => r.json())
+        .then(data => {
+            const list = document.getElementById('list2526');
+            if (!list) return;
+            const notis = (data.notificacions||[]).slice().reverse();
+            if (!notis.length) {
+                list.innerHTML = '<div style="text-align:center;color:#555;padding:60px">Sense dades</div>';
+                return;
+            }
+            list.innerHTML = notis.map(n => {
+                const raw = n.text||'';
+                const esTitol = raw.startsWith('📋');
+                const text = formatText ? formatText(raw) : raw;
+                const quan = n.ts ? timeAgo(new Date(n.ts).getTime()/1000) : '';
+                if (esTitol) {
+                    return `<div class="move-item move-titol"><div class="move-text">${text}</div></div>`;
+                }
+                const collageHtml = n.collage
+                    ? `<img src="${n.collage}" class="collage-img" alt="" loading="lazy">`
+                    : '';
+                return `<div class="move-item">
+                    ${collageHtml}
+                    <div class="move-text">${text}${quan ? '<span class="move-time"> ('+quan+')</span>' : ''}</div>
+                </div>`;
+            }).join('');
+        })
+        .catch(() => {});
+</script>
+
+<script>
     function openTab(name) {
         document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -497,21 +529,12 @@
                 updateClock(data);
                 // Eliminar duplicats (guardar primer per URL/text)
                 const _vists = new Set();
-                const totes = (data.notificacions||[]).slice().reverse().filter(n => {
+                const notis = (data.notificacions||[]).slice().reverse().filter(n => {
                     const k = (n.text||'').replace(/⬇️/g,'').trim();
                     if (_vists.has(k)) return false;
                     _vists.add(k);
                     return true;
                 });
-
-                // Separar per temporada: les que venen ABANS del títol "Temporada 2025-2026" són de la temp passada
-                // La web fa .reverse(), per tant "Temporada 2025-2026" apareix primer en la llista invertida
-                let indexSeparador = totes.findIndex(n => (n.text||'').includes('Temporada 2025-2026'));
-                // Les de la temp actual (0..indexSeparador-1), les de la passada (indexSeparador+1..end) + el títol
-                const notisActuals = indexSeparador >= 0 ? totes.slice(0, indexSeparador) : totes;
-                const notisPassada = indexSeparador >= 0 ? totes.slice(indexSeparador) : [];
-
-                const notis = notisActuals;
                 if (!notis.length) {
                     list.innerHTML = '<div style="text-align:center;color:#555;padding:60px;font-size:1.1em">⚽ Esperant el proper partit del Barça...</div>';
                     window.scrollTo(0, scrollY);
@@ -537,32 +560,6 @@
                     </div>`;
                 }).join('');
                 window.scrollTo(0, scrollY);
-
-                // Omplir pestanya Temporada 2025-26
-                const list2526 = document.getElementById('list2526');
-                if (list2526) {
-                    if (!notisPassada.length) {
-                        list2526.innerHTML = '<div style="text-align:center;color:#555;padding:60px;font-size:1.1em">📅 Sense dades de la temporada passada</div>';
-                    } else {
-                        list2526.innerHTML = notisPassada.map(n => {
-                            const raw = n.text||'';
-                            const esTitol = raw.startsWith('📋');
-                            const text = formatText(raw);
-                            const quan = n.ts ? timeAgo(new Date(n.ts).getTime()/1000) : '';
-                            if (esTitol) {
-                                return `<div class="move-item move-titol"><div class="move-text">${text}</div></div>`;
-                            }
-                            const collageHtml = n.collage
-                                ? `<img src="${n.collage}" class="collage-img" alt="" loading="lazy">`
-                                : '';
-                            return `<div class="move-item">
-                                ${collageHtml}
-                                <div class="move-text">${text}${quan ? '<span class="move-time"> ('+quan+')</span>' : ''}</div>
-                                ${makeFooter(raw)}
-                            </div>`;
-                        }).join('');
-                    }
-                }
             })
             .catch(() => {
                 list.innerHTML = '<div style="text-align:center;color:#555;padding:60px">⚽ Esperant el proper partit del Barça...</div>';
