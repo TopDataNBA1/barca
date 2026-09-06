@@ -1223,6 +1223,20 @@
       "hora": "18:00",
       "ts": "2026-09-06T17:59:32.453238",
       "collage": "collages/collage_1788710372241318.webp"
+    },
+    {
+      "text": "⚽ 29è gol de Pedri amb el Barça. Supera Gonzalvo III (1940-1956) i Òscar (1992-1999). Empata amb Heredia (1974-1980) i Ansu Fati (2019-2025) en el ➡️ 87è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "18:01",
+      "ts": "2026-09-06T18:01:26.074033",
+      "collage": "collages/collage_1788710485189049.webp"
+    },
+    {
+      "text": "⚽ 23è gol de Pedri a la Lliga amb el Barça. Supera Maradona (1982-1984), Ansu Fati (2019-2025) i Griezmann (2019-2022) i ara ocupa el ➡️ 79è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "18:01",
+      "ts": "2026-09-06T18:01:26.074033",
+      "collage": "collages/collage_1788710485900089.webp"
     }
   ],
   "baseline": {
@@ -1650,7 +1664,7 @@
       "Pedro González López": {
         "alias": "Pedri",
         "pj": 248,
-        "g": 28,
+        "g": 29,
         "inici": "2020",
         "final": "2027"
       },
@@ -8190,7 +8204,7 @@
       "Pedro González López": {
         "alias": "Pedri",
         "pj": 168,
-        "g": 22,
+        "g": 23,
         "inici": "2020",
         "final": "2027"
       },
@@ -20934,5 +20948,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:00:35"
+  "ultima_actualitzacio": "18:01:37"
 }
