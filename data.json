@@ -1125,6 +1125,20 @@
       "hora": "16:27",
       "ts": "2026-09-06T16:27:28.999858",
       "collage": "collages/collage_1788704848795922.webp"
+    },
+    {
+      "text": "⚽ 36è gol de Fermín amb el Barça. Supera Giovanni (1996-1999) i Rakitić (2014-2020). Empata amb Sastre (1926-1932) en el ➡️ 78è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "16:41",
+      "ts": "2026-09-06T16:41:08.601554",
+      "collage": "collages/collage_1788705667655483.webp"
+    },
+    {
+      "text": "⚽ 24è gol de Fermín a la Lliga amb el Barça. Empata amb Bestit (1929-1934), Goiburu (1929-1934), Rifé (1964-1976), Archibald (1984-1987), Rakitić (2014-2020) i Dembélé (2017-2023) en el ➡️ 73è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "16:41",
+      "ts": "2026-09-06T16:41:08.602554",
+      "collage": "collages/collage_1788705668402635.webp"
     }
   ],
   "baseline": {
@@ -2105,7 +2119,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 139,
-        "g": 35,
+        "g": 36,
         "inici": "2023",
         "final": "2027"
       },
@@ -8638,7 +8652,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 92,
-        "g": 23,
+        "g": 24,
         "inici": "2023",
         "final": "2027"
       },
@@ -20836,5 +20850,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "16:27:32"
+  "ultima_actualitzacio": "16:41:12"
 }
