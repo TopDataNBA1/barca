@@ -1523,7 +1523,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 249,
+        "pj": 248,
         "g": 28,
         "inici": "2020",
         "final": "2027"
@@ -1796,7 +1796,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 181,
+        "pj": 180,
         "g": 80,
         "inici": "2022",
         "final": "2027"
@@ -1887,7 +1887,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 169,
+        "pj": 168,
         "g": 7,
         "inici": "2021",
         "final": "2027"
@@ -1985,7 +1985,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 155,
+        "pj": 154,
         "g": 51,
         "inici": "2022",
         "final": "2027"
@@ -2076,7 +2076,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 140,
+        "pj": 139,
         "g": 35,
         "inici": "2023",
         "final": "2027"
@@ -2118,7 +2118,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 131,
+        "pj": 130,
         "g": 2,
         "inici": "2023",
         "final": "2027"
@@ -2433,7 +2433,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 96,
+        "pj": 95,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -3210,7 +3210,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 49,
+        "pj": 48,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -4750,7 +4750,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 10,
+        "pj": 9,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -5891,7 +5891,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 4,
+        "pj": 3,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -6276,7 +6276,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 3,
+        "pj": 2,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -8063,7 +8063,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 169,
+        "pj": 168,
         "g": 22,
         "inici": "2020",
         "final": "2027"
@@ -8315,7 +8315,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 126,
+        "pj": 125,
         "g": 49,
         "inici": "2022",
         "final": "2027"
@@ -8413,7 +8413,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 118,
+        "pj": 117,
         "g": 4,
         "inici": "2021",
         "final": "2027"
@@ -8518,7 +8518,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 105,
+        "pj": 104,
         "g": 32,
         "inici": "2022",
         "final": "2027"
@@ -8609,7 +8609,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 93,
+        "pj": 92,
         "g": 23,
         "inici": "2023",
         "final": "2027"
@@ -8686,7 +8686,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 88,
+        "pj": 87,
         "g": 1,
         "inici": "2023",
         "final": "2027"
@@ -9008,7 +9008,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 63,
+        "pj": 62,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -9666,7 +9666,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 34,
+        "pj": 33,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -11220,7 +11220,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 8,
+        "pj": 7,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -11738,7 +11738,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 4,
+        "pj": 3,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -12004,7 +12004,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 3,
+        "pj": 2,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -20804,7 +20804,7 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 9m 3s",
+    "compte_enrere": "0d 0h 0m 43s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
