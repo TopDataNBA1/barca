@@ -985,6 +985,13 @@
       "hora": "15:20",
       "ts": "2026-09-06T15:18:53.800920",
       "collage": "collages/collage_1788700733605594.webp"
+    },
+    {
+      "text": "96è partit oficial per a Gerard Martín amb el Barça. Supera Zenden (1998-2001). Empata amb Edmílson (2004-2008) i Vidal (2018-2020) en el ➡️ 188è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:21",
+      "ts": "2026-09-06T15:18:54.460570",
+      "collage": "collages/collage_1788700733888344.webp"
     }
   ],
   "baseline": {
@@ -20692,9 +20699,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 54m 11s",
+    "compte_enrere": "0d 0h 53m 34s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:20:57"
+  "ultima_actualitzacio": "15:21:57"
 }
