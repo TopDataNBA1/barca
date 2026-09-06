@@ -999,6 +999,13 @@
       "hora": "15:22",
       "ts": "2026-09-06T15:18:54.460570",
       "collage": "collages/collage_1788700734192614.webp"
+    },
+    {
+      "text": "88è partit de Lliga per a Cubarsí amb el Barça. Supera Pedrol (1928-1941) i Clares (1973-1979). Empata amb Alexis Sánchez (2011-2014) en el ➡️ 152è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:23",
+      "ts": "2026-09-06T15:18:54.727580",
+      "collage": "collages/collage_1788700734541568.webp"
     }
   ],
   "baseline": {
@@ -20706,9 +20713,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 52m 16s",
+    "compte_enrere": "0d 0h 51m 2s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:22:58"
+  "ultima_actualitzacio": "15:23:58"
 }
