@@ -20800,12 +20800,12 @@
       }
     }
   },
-  "match_status": "U",
+  "match_status": "L",
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 0m 43s",
-    "kickoff_ts": 1788704100
+    "compte_enrere": "0d 0h 0m 0s",
+    "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
   "ultima_actualitzacio": "15:36:58"
