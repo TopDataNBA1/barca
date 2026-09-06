@@ -1153,6 +1153,20 @@
       "hora": "16:48",
       "ts": "2026-09-06T16:47:23.609887",
       "collage": "collages/collage_1788706043426965.webp"
+    },
+    {
+      "text": "⚽ 81è gol de Raphinha amb el Barça. Supera Luis Suárez (1953-1961). Empata amb Kocsis (1958-1966) i Begiristain (1988-1995) en el ➡️ 30è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "17:32",
+      "ts": "2026-09-06T17:32:47.250613",
+      "collage": "collages/collage_1788708766820164.webp"
+    },
+    {
+      "text": "⚽ 50è gol de Raphinha a la Lliga amb el Barça. Supera Carrasco (1978-1989) i Saviola (2001-2007). Empata amb Bravo (1940-1948) en el ➡️ 35è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "17:32",
+      "ts": "2026-09-06T17:32:47.250613",
+      "collage": "collages/collage_1788708767074682.webp"
     }
   ],
   "baseline": {
@@ -1853,7 +1867,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 180,
-        "g": 80,
+        "g": 81,
         "inici": "2022",
         "final": "2027"
       },
@@ -8372,7 +8386,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 125,
-        "g": 49,
+        "g": 50,
         "inici": "2022",
         "final": "2027"
       },
@@ -20864,5 +20878,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "16:48:24"
+  "ultima_actualitzacio": "17:32:52"
 }
