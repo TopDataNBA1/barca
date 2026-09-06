@@ -1083,6 +1083,13 @@
       "hora": "15:34",
       "ts": "2026-09-06T15:18:58.094768",
       "collage": "collages/collage_1788700737879848.webp"
+    },
+    {
+      "text": "181è partit oficial per a Raphinha amb el Barça. Supera Cruyff (1973-1978) i ara ocupa el ➡️ 99è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:35",
+      "ts": "2026-09-06T15:18:58.622590",
+      "collage": "collages/collage_1788700738162699.webp"
     }
   ],
   "baseline": {
@@ -20790,9 +20797,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 39m 20s",
+    "compte_enrere": "0d 0h 38m 43s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:34:58"
+  "ultima_actualitzacio": "15:35:58"
 }
