@@ -971,6 +971,20 @@
       "hora": "15:18",
       "ts": "2026-09-06T15:18:53.509631",
       "collage": "collages/collage_1788700732946254.webp"
+    },
+    {
+      "text": "34è partit de Lliga per a Joan Garcia amb el Barça. Supera Mendonça (1966-1969), Ronald de Boer (1998-2000), Mendieta (2002-2003) i Munir (2014-2019). Empata amb Calo (1944-1950), Szegedi (1950-1952), Tomé (1973-1977), Pinto (2007-2014), Vermaelen (2014-2019) i Paulinho (2017-2018) en el ➡️ 285è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:19",
+      "ts": "2026-09-06T15:18:53.509631",
+      "collage": "collages/collage_1788700733273828.webp"
+    },
+    {
+      "text": "169è partit oficial per a Eric Garcia amb el Barça. Supera Balde (2021-2027) i ara ocupa el ➡️ 112è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:20",
+      "ts": "2026-09-06T15:18:53.800920",
+      "collage": "collages/collage_1788700733605594.webp"
     }
   ],
   "baseline": {
@@ -20678,9 +20692,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 56m 8s",
+    "compte_enrere": "0d 0h 54m 11s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:18:57"
+  "ultima_actualitzacio": "15:20:57"
 }
