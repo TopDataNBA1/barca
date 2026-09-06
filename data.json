@@ -1209,6 +1209,13 @@
       "hora": "17:49",
       "ts": "2026-09-06T17:46:30.396016",
       "collage": "collages/collage_1788709590200065.webp"
+    },
+    {
+      "text": "92è partit oficial per a Dani Olmo amb el Barça. Supera Mathieu (2014-2017). Empata amb Clos (1982-1988) en el ➡️ 196è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:59",
+      "ts": "2026-09-06T17:59:32.453238",
+      "collage": "collages/collage_1788710371974081.webp"
     }
   ],
   "baseline": {
@@ -2594,7 +2601,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 91,
+        "pj": 92,
         "g": 20,
         "inici": "2024",
         "final": "2027"
@@ -9141,7 +9148,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 61,
+        "pj": 62,
         "g": 17,
         "inici": "2024",
         "final": "2027"
@@ -20920,5 +20927,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:49:39"
+  "ultima_actualitzacio": "17:59:35"
 }
