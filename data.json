@@ -1062,6 +1062,13 @@
       "hora": "15:31",
       "ts": "2026-09-06T15:18:57.150720",
       "collage": "collages/collage_1788700736970661.webp"
+    },
+    {
+      "text": "249è partit oficial per a Pedri amb el Barça. Supera Gonzalvo III (1940-1956). Empata amb Artola (1975-1984) i Figo (1995-2000) en el ➡️ 59è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:32",
+      "ts": "2026-09-06T15:18:57.440247",
+      "collage": "collages/collage_1788700737231478.webp"
     }
   ],
   "baseline": {
@@ -20769,9 +20776,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 42m 24s",
-    "kickoff_ts": 1788704100
+    "compte_enrere": "0d 0h 41m 47s",
+    "kickoff_ts": 1788704099
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:31:58"
+  "ultima_actualitzacio": "15:32:58"
 }
