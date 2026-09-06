@@ -1027,6 +1027,13 @@
       "hora": "15:26",
       "ts": "2026-09-06T15:18:56.128704",
       "collage": "collages/collage_1788700735522515.webp"
+    },
+    {
+      "text": "4t partit de Lliga per a Gordon amb el Barça. Supera Bosch (1928-1929), Artigas (1932-1933), Espuny (1933-1934), Francàs (1934-1935), Polo (1935-1936), Orriols (1941-1942), García (1945-1947), Morera (1945-1946), Da Silva (1947-1948), Serafín (1965-1966), Bustillo (1968-1972), Nieto (1968-1969), Tarrés (1978-1980), Maqueda (1990-1993), Arpón (1994-1995), Escaich (1994-1995), Luis Cembranos (1994-1995), Douglas (2014-2017), Gumbau (2014-2016), Boateng (2018-2019), Emerson Royal (2021-2022), Guiu (2022-2024), Bellerín (2022-2023), Domínguez (2024-2025), Torrents (2025-2026) i Adeyemi (2026-2027). Empata amb Campabadal (1928-1930), Gual (1931-1936), Gámiz (1931-1932), Barceló (1935-1936), Pachi (1939-1940), Colominas (1941-1942), Basilio (1943-1945), Duró (1953-1954), Hermes González (1957-1959), Celdrán (1959-1963), Medrano (1959-1961), Félix (1978-1981), Nano (1999-2003), Sergio García (2002-2004), Rüştü (2003-2004), Todibo (2018-2020), Wagué (2018-2020), Agüero (2021-2022), Alarcón (2022-2024) i Dro (2025-2026) en el ➡️ 546è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:27",
+      "ts": "2026-09-06T15:18:56.128704",
+      "collage": "collages/collage_1788700735899123.webp"
     }
   ],
   "baseline": {
@@ -20734,9 +20741,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 47m 57s",
+    "compte_enrere": "0d 0h 46m 43s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:26:58"
+  "ultima_actualitzacio": "15:27:58"
 }
