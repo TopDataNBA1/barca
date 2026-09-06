@@ -1265,6 +1265,12 @@
       "hora": "18:08",
       "ts": "2026-09-06T18:08:54.600233",
       "collage": "collages/collage_1788710934380316.webp"
+    },
+    {
+      "text": "📋 06/09/2026 · LLIGA · VALENCIA CF - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "18:19",
+      "ts": "2026-09-06T18:19:39.120615"
     }
   ],
   "baseline": {
@@ -20968,7 +20974,7 @@
       }
     }
   },
-  "match_status": "L",
+  "match_status": "C",
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
@@ -20976,5 +20982,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:08:57"
+  "ultima_actualitzacio": "18:19:39"
 }
