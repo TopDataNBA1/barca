@@ -1048,6 +1048,13 @@
       "hora": "15:29",
       "ts": "2026-09-06T15:18:56.659269",
       "collage": "collages/collage_1788700736465788.webp"
+    },
+    {
+      "text": "155è partit oficial per a Lamine Yamal amb el Barça. Supera Van Bronckhorst (2003-2007) i ara ocupa el ➡️ 126è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:30",
+      "ts": "2026-09-06T15:18:57.150720",
+      "collage": "collages/collage_1788700736727269.webp"
     }
   ],
   "baseline": {
@@ -20755,9 +20762,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 44m 52s",
+    "compte_enrere": "0d 0h 43m 38s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:29:58"
+  "ultima_actualitzacio": "15:30:58"
 }
