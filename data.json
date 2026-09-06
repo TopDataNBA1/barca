@@ -964,6 +964,13 @@
       "ts": "2026-08-31T21:30:00",
       "hora": "23:30",
       "url_partit": "https://www.fcbarcelona.cat/ca/partits/138302/fc-barcelona-rayo-vallecano-la-liga-2026-2027"
+    },
+    {
+      "text": "49è partit oficial per a Joan Garcia amb el Barça. Supera Seminario (1964-1967). Empata amb Calo (1944-1950), Mendonça (1966-1969), Ronaldo (1996-1997), Reina (1998-2002), Mendieta (2002-2003), Paulinho (2017-2018) i Rashford (2025-2026) en el ➡️ 295è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:18",
+      "ts": "2026-09-06T15:18:53.509631",
+      "collage": "collages/collage_1788700732946254.webp"
     }
   ],
   "baseline": {
@@ -1390,7 +1397,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 248,
+        "pj": 249,
         "g": 28,
         "inici": "2020",
         "final": "2027"
@@ -1663,7 +1670,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 180,
+        "pj": 181,
         "g": 80,
         "inici": "2022",
         "final": "2027"
@@ -1754,7 +1761,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 168,
+        "pj": 169,
         "g": 7,
         "inici": "2021",
         "final": "2027"
@@ -1852,7 +1859,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 154,
+        "pj": 155,
         "g": 51,
         "inici": "2022",
         "final": "2027"
@@ -1943,7 +1950,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 139,
+        "pj": 140,
         "g": 35,
         "inici": "2023",
         "final": "2027"
@@ -1985,7 +1992,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 130,
+        "pj": 131,
         "g": 2,
         "inici": "2023",
         "final": "2027"
@@ -2300,7 +2307,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 95,
+        "pj": 96,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -3077,7 +3084,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 48,
+        "pj": 49,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -4617,7 +4624,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 9,
+        "pj": 10,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -5758,7 +5765,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 3,
+        "pj": 4,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -6143,7 +6150,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 2,
+        "pj": 3,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -7930,7 +7937,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 168,
+        "pj": 169,
         "g": 22,
         "inici": "2020",
         "final": "2027"
@@ -8182,7 +8189,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 125,
+        "pj": 126,
         "g": 49,
         "inici": "2022",
         "final": "2027"
@@ -8280,7 +8287,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 117,
+        "pj": 118,
         "g": 4,
         "inici": "2021",
         "final": "2027"
@@ -8385,7 +8392,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 104,
+        "pj": 105,
         "g": 32,
         "inici": "2022",
         "final": "2027"
@@ -8476,7 +8483,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 92,
+        "pj": 93,
         "g": 23,
         "inici": "2023",
         "final": "2027"
@@ -8553,7 +8560,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 87,
+        "pj": 88,
         "g": 1,
         "inici": "2023",
         "final": "2027"
@@ -8875,7 +8882,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 62,
+        "pj": 63,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -9533,7 +9540,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 33,
+        "pj": 34,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -11087,7 +11094,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 7,
+        "pj": 8,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -11605,7 +11612,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 3,
+        "pj": 4,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -11871,7 +11878,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 2,
+        "pj": 3,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -20671,8 +20678,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 1h 47m 23s",
+    "compte_enrere": "0d 0h 56m 8s",
     "kickoff_ts": 1788704100
   },
-  "match_comp": "Lliga"
+  "match_comp": "Lliga",
+  "ultima_actualitzacio": "15:18:57"
 }
