@@ -1034,6 +1034,13 @@
       "hora": "15:27",
       "ts": "2026-09-06T15:18:56.128704",
       "collage": "collages/collage_1788700735899123.webp"
+    },
+    {
+      "text": "140è partit oficial per a Fermín amb el Barça. Supera Lineker (1986-1989) i ara ocupa el ➡️ 140è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:28",
+      "ts": "2026-09-06T15:18:56.659269",
+      "collage": "collages/collage_1788700736193835.webp"
     }
   ],
   "baseline": {
@@ -20741,9 +20748,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 46m 43s",
+    "compte_enrere": "0d 0h 46m 6s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:27:58"
+  "ultima_actualitzacio": "15:28:58"
 }
