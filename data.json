@@ -1055,6 +1055,13 @@
       "hora": "15:30",
       "ts": "2026-09-06T15:18:57.150720",
       "collage": "collages/collage_1788700736727269.webp"
+    },
+    {
+      "text": "105è partit de Lliga per a Lamine Yamal amb el Barça. Supera Moratalla (1981-1988) i Bojan (2007-2011). Empata amb Van Bronckhorst (2003-2007) i Lenglet (2018-2022) en el ➡️ 127è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:31",
+      "ts": "2026-09-06T15:18:57.150720",
+      "collage": "collages/collage_1788700736970661.webp"
     }
   ],
   "baseline": {
@@ -20762,9 +20769,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 43m 38s",
+    "compte_enrere": "0d 0h 42m 24s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:30:58"
+  "ultima_actualitzacio": "15:31:58"
 }
