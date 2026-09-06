@@ -1167,6 +1167,13 @@
       "hora": "17:32",
       "ts": "2026-09-06T17:32:47.250613",
       "collage": "collages/collage_1788708767074682.webp"
+    },
+    {
+      "text": "40è partit oficial per a Bernal amb el Barça. Supera Alcántara (1912-1927), Luis García (1997-2004) i Romeu (2010-2024). Empata amb Anguera (1940-1942), Salva (1984-1989) i Ćirić (1997-1999) en el ➡️ 324è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:44",
+      "ts": "2026-09-06T17:44:36.976057",
+      "collage": "collages/collage_1788709476262088.webp"
     }
   ],
   "baseline": {
@@ -3462,7 +3469,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 39,
+        "pj": 40,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -9953,7 +9960,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 28,
+        "pj": 29,
         "g": 2,
         "inici": "2024",
         "final": "2027"
@@ -20878,5 +20885,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:32:52"
+  "ultima_actualitzacio": "17:44:39"
 }
