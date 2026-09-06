@@ -1216,6 +1216,13 @@
       "hora": "17:59",
       "ts": "2026-09-06T17:59:32.453238",
       "collage": "collages/collage_1788710371974081.webp"
+    },
+    {
+      "text": "62è partit de Lliga per a Dani Olmo amb el Barça. Supera Ramón (1928-1935) i Landaburu (1979-1982). Empata amb Parera (1928-1933), Nicolau (1948-1952), Clos (1982-1988), Mathieu (2014-2017) i Gerard Martín (2024-2027) en el ➡️ 197è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:00",
+      "ts": "2026-09-06T17:59:32.453238",
+      "collage": "collages/collage_1788710372241318.webp"
     }
   ],
   "baseline": {
@@ -20927,5 +20934,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:59:35"
+  "ultima_actualitzacio": "18:00:35"
 }
