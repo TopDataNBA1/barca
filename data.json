@@ -1181,6 +1181,20 @@
       "hora": "17:45",
       "ts": "2026-09-06T17:44:36.976057",
       "collage": "collages/collage_1788709476771135.webp"
+    },
+    {
+      "text": "101è partit oficial per a Christensen amb el Barça. Supera Estella (1979-1983). Empata amb Celades (1995-1999) i Thiago Alcántara (2008-2013) en el ➡️ 180è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:46",
+      "ts": "2026-09-06T17:46:29.432058",
+      "collage": "collages/collage_1788709588992188.webp"
+    },
+    {
+      "text": "74è partit de Lliga per a Christensen amb el Barça. Empata amb Heredia (1974-1980), Estella (1979-1983), Yaya Touré (2007-2010) i Griezmann (2019-2022) en el ➡️ 172è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:47",
+      "ts": "2026-09-06T17:46:29.432058",
+      "collage": "collages/collage_1788709589238120.webp"
     }
   ],
   "baseline": {
@@ -20892,5 +20906,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:45:39"
+  "ultima_actualitzacio": "17:47:39"
 }
