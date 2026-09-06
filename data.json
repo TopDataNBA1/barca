@@ -992,6 +992,13 @@
       "hora": "15:21",
       "ts": "2026-09-06T15:18:54.460570",
       "collage": "collages/collage_1788700733888344.webp"
+    },
+    {
+      "text": "63è partit de Lliga per a Gerard Martín amb el Barça. Supera Parera (1928-1933), Nicolau (1948-1952), Clos (1982-1988) i Mathieu (2014-2017). Empata amb Pujol (1964-1973), Rojo (1983-1987) i Nando (1990-1992) en el ➡️ 194è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:22",
+      "ts": "2026-09-06T15:18:54.460570",
+      "collage": "collages/collage_1788700734192614.webp"
     }
   ],
   "baseline": {
@@ -20699,9 +20706,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 53m 34s",
+    "compte_enrere": "0d 0h 52m 16s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:21:57"
+  "ultima_actualitzacio": "15:22:58"
 }
