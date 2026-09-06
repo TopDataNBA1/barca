@@ -1090,6 +1090,13 @@
       "hora": "15:35",
       "ts": "2026-09-06T15:18:58.622590",
       "collage": "collages/collage_1788700738162699.webp"
+    },
+    {
+      "text": "126è partit de Lliga per a Raphinha amb el Barça. Supera Abidal (2007-2013). Empata amb Goikoetxea (1990-1994) en el ➡️ 100è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:36",
+      "ts": "2026-09-06T15:18:58.622590",
+      "collage": "collages/collage_1788700738439782.webp"
     }
   ],
   "baseline": {
@@ -20797,9 +20804,9 @@
   "match_rival": "Valencia Cf",
   "proper_partit": {
     "descripcio": "Lliga · Valencia Cf - Barça",
-    "compte_enrere": "0d 0h 38m 43s",
+    "compte_enrere": "0d 0h 37m 25s",
     "kickoff_ts": 1788704100
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:35:58"
+  "ultima_actualitzacio": "15:36:58"
 }
