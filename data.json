@@ -1174,6 +1174,13 @@
       "hora": "17:44",
       "ts": "2026-09-06T17:44:36.976057",
       "collage": "collages/collage_1788709476262088.webp"
+    },
+    {
+      "text": "29è partit de Lliga per a Bernal amb el Barça. Supera Samitier (1928-1932), Saura (1928-1930), Berkessy (1934-1936), Amarillo (1976-1979), Ramírez (1979-1982), Hughes (1986-1987), Blanc (1996-1997), Giovani dos Santos (2006-2008), Iñaki Peña (2018-2026), Trincão (2020-2021) i Kessié (2022-2023). Empata amb Ibrahimović (2009-2011), Romeu (2010-2024), Digne (2016-2018) i Marcos Alonso (2022-2024) en el ➡️ 311è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:45",
+      "ts": "2026-09-06T17:44:36.976057",
+      "collage": "collages/collage_1788709476771135.webp"
     }
   ],
   "baseline": {
@@ -2447,7 +2454,7 @@
       },
       "Andreas Bødtker Christensen": {
         "alias": "Christensen",
-        "pj": 100,
+        "pj": 101,
         "g": 5,
         "inici": "2022",
         "final": "2027"
@@ -5975,7 +5982,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 3,
+        "pj": 4,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -8910,7 +8917,7 @@
       },
       "Andreas Bødtker Christensen": {
         "alias": "Christensen",
-        "pj": 73,
+        "pj": 74,
         "g": 3,
         "inici": "2022",
         "final": "2027"
@@ -11822,7 +11829,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 3,
+        "pj": 4,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -20885,5 +20892,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:44:39"
+  "ultima_actualitzacio": "17:45:39"
 }
