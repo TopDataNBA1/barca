@@ -1139,6 +1139,13 @@
       "hora": "16:41",
       "ts": "2026-09-06T16:41:08.602554",
       "collage": "collages/collage_1788705668402635.webp"
+    },
+    {
+      "text": "192è partit oficial per a Koundé amb el Barça. . Ocupa el ➡️ 90è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "16:47",
+      "ts": "2026-09-06T16:47:23.609887",
+      "collage": "collages/collage_1788706043228023.webp"
     }
   ],
   "baseline": {
@@ -1768,7 +1775,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 191,
+        "pj": 192,
         "g": 10,
         "inici": "2022",
         "final": "2027"
@@ -8322,7 +8329,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 129,
+        "pj": 130,
         "g": 5,
         "inici": "2022",
         "final": "2027"
@@ -20850,5 +20857,5 @@
     "kickoff_ts": 1788704364
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "16:41:12"
+  "ultima_actualitzacio": "16:47:24"
 }
