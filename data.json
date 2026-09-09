@@ -1377,6 +1377,13 @@
       "hora": "19:04",
       "ts": "2026-09-09T18:53:35.066798",
       "collage": "collages/collage_1788972814629885.webp"
+    },
+    {
+      "text": "250è partit oficial per a Pedri amb el Barça. Supera Artola (1975-1984) i Figo (1995-2000) i ara ocupa el ➡️ 59è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:05",
+      "ts": "2026-09-09T18:53:35.767674",
+      "collage": "collages/collage_1788972815171786.webp"
     }
   ],
   "baseline": {
@@ -21116,5 +21123,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:04:41"
+  "ultima_actualitzacio": "19:05:41"
 }
