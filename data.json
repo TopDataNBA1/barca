@@ -1323,6 +1323,13 @@
       "hora": "17:47",
       "ts": "2026-09-09T17:42:49.428492",
       "collage": "collages/collage_1788968569183063.webp"
+    },
+    {
+      "text": "193è partit oficial per a Koundé amb el Barça. Empata amb Abidal (2007-2013) i Lewandowski (2022-2026) en el ➡️ 88è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:48",
+      "ts": "2026-09-09T17:42:50.228147",
+      "collage": "collages/collage_1788968569606588.webp"
     }
   ],
   "baseline": {
@@ -21058,9 +21065,9 @@
   "match_rival": "Feyenoord",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 0h 57m 9s",
+    "compte_enrere": "0d 0h 56m 32s",
     "kickoff_ts": 1788972300
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:47:49"
+  "ultima_actualitzacio": "17:48:49"
 }
