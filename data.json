@@ -1281,6 +1281,13 @@
       "tipus": "prioritaria",
       "hora": "18:19",
       "ts": "2026-09-06T18:19:39.120615"
+    },
+    {
+      "text": "50è partit oficial per a Joan Garcia amb el Barça. Supera Calo (1944-1950), Mendonça (1966-1969), Ronaldo (1996-1997), Reina (1998-2002), Mendieta (2002-2003), Paulinho (2017-2018) i Rashford (2025-2026). Empata amb Alcácer (2016-2018) en el ➡️ 294è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:42",
+      "ts": "2026-09-09T17:42:47.817366",
+      "collage": "collages/collage_1788968567251629.webp"
     }
   ],
   "baseline": {
@@ -1700,7 +1707,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 249,
+        "pj": 250,
         "g": 29,
         "inici": "2020",
         "final": "2027"
@@ -1910,7 +1917,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 192,
+        "pj": 193,
         "g": 10,
         "inici": "2022",
         "final": "2027"
@@ -1973,7 +1980,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 181,
+        "pj": 182,
         "g": 81,
         "inici": "2022",
         "final": "2027"
@@ -2162,7 +2169,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 155,
+        "pj": 156,
         "g": 53,
         "inici": "2022",
         "final": "2027"
@@ -2302,7 +2309,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 131,
+        "pj": 132,
         "g": 2,
         "inici": "2023",
         "final": "2027"
@@ -2554,7 +2561,7 @@
       },
       "Andreas Bødtker Christensen": {
         "alias": "Christensen",
-        "pj": 101,
+        "pj": 102,
         "g": 5,
         "inici": "2022",
         "final": "2027"
@@ -2659,7 +2666,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 92,
+        "pj": 93,
         "g": 20,
         "inici": "2024",
         "final": "2027"
@@ -3023,7 +3030,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 68,
+        "pj": 69,
         "g": 6,
         "inici": "2023",
         "final": "2027"
@@ -3366,7 +3373,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 49,
+        "pj": 50,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -5774,7 +5781,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 4,
+        "pj": 5,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -6089,7 +6096,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 3,
+        "pj": 4,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -13912,7 +13919,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 43,
+        "pj": 44,
         "g": 1,
         "inici": "2020",
         "final": "2026"
@@ -14024,7 +14031,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 34,
+        "pj": 35,
         "g": 2,
         "inici": "2022",
         "final": "2026"
@@ -14045,14 +14052,14 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 33,
+        "pj": 34,
         "g": 19,
         "inici": "2022",
         "final": "2026"
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 33,
+        "pj": 34,
         "g": 11,
         "inici": "2023",
         "final": "2026"
@@ -14199,7 +14206,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 26,
+        "pj": 27,
         "g": 0,
         "inici": "2023",
         "final": "2026"
@@ -14346,7 +14353,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 19,
+        "pj": 20,
         "g": 3,
         "inici": "2024",
         "final": "2026"
@@ -14486,7 +14493,7 @@
       },
       "Andreas Bødtker Christensen": {
         "alias": "Christensen",
-        "pj": 15,
+        "pj": 16,
         "g": 1,
         "inici": "2022",
         "final": "2026"
@@ -14507,7 +14514,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 14,
+        "pj": 15,
         "g": 2,
         "inici": "2023",
         "final": "2026"
@@ -14822,7 +14829,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 9,
+        "pj": 10,
         "g": 0,
         "inici": "2025",
         "final": "2026"
@@ -21016,9 +21023,9 @@
   "match_rival": "Feyenoord",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 1h 11m 0s",
+    "compte_enrere": "0d 1h 1m 29s",
     "kickoff_ts": 1788972300
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "18:19:39"
+  "ultima_actualitzacio": "17:42:49"
 }
