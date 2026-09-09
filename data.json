@@ -1414,6 +1414,20 @@
       "hora": "18:00",
       "ts": "2026-09-09T17:42:53.946558",
       "collage": "collages/collage_1788968573406146.webp"
+    },
+    {
+      "text": "34è partit de Lliga de Campions per a Lamine Yamal amb el Barça. Supera Motta (2001-2007) i Lenglet (2018-2022). Empata amb Koeman (1991-1995), Abelardo (1994-2002), Adriano (2010-2016) i Ferran Torres (2022-2026) en el ➡️ 36è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "18:01",
+      "ts": "2026-09-09T17:42:53.946558",
+      "collage": "collages/collage_1788968573734965.webp"
+    },
+    {
+      "text": "182è partit oficial per a Raphinha amb el Barça. Empata amb Marcos Alonso (1982-1987) en el ➡️ 98è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:02",
+      "ts": "2026-09-09T17:42:54.557812",
+      "collage": "collages/collage_1788968574015705.webp"
     }
   ],
   "baseline": {
@@ -21149,9 +21163,9 @@
   "match_rival": "Feyenoord",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 0h 43m 37s",
+    "compte_enrere": "0d 0h 42m 23s",
     "kickoff_ts": 1788972300
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "18:00:50"
+  "ultima_actualitzacio": "18:02:50"
 }
