@@ -1517,6 +1517,20 @@
       "hora": "20:19",
       "ts": "2026-09-09T20:18:32.650573",
       "collage": "collages/collage_1788977912434741.webp"
+    },
+    {
+      "text": "⚽ 54è gol de Lamine Yamal amb el Barça. Empata amb Clares (1973-1979) i Laudrup (1989-1994) en el ➡️ 48è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "20:24",
+      "ts": "2026-09-09T20:24:07.832973",
+      "collage": "collages/collage_1788978247249726.webp"
+    },
+    {
+      "text": "⚽ 12è gol de Lamine Yamal a la Lliga de Campions amb el Barça. Supera Saviola (2001-2007) i Iniesta (2002-2018). Empata amb Xavi (1997-2015) i Ferran Torres (2022-2026) en el ➡️ 14è lloc històric del club a la Lliga de Campions.",
+      "tipus": "prioritaria",
+      "hora": "20:24",
+      "ts": "2026-09-09T20:24:07.832973",
+      "collage": "collages/collage_1788978247641518.webp"
     }
   ],
   "baseline": {
@@ -2399,7 +2413,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 156,
-        "g": 53,
+        "g": 54,
         "inici": "2022",
         "final": "2027"
       },
@@ -14289,7 +14303,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 34,
-        "g": 11,
+        "g": 12,
         "inici": "2023",
         "final": "2026"
       },
@@ -21256,5 +21270,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:19:36"
+  "ultima_actualitzacio": "20:24:14"
 }
