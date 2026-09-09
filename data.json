@@ -1286,6 +1286,34 @@
       "hora": "18:53",
       "ts": "2026-09-09T18:53:31.038436",
       "collage": "collages/collage_1788972810057225.webp"
+    },
+    {
+      "text": "⚽ 82è gol de Raphinha amb el Barça. Supera Kocsis (1958-1966) i Begiristain (1988-1995) i ara ocupa el ➡️ 30è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "18:54",
+      "ts": "2026-09-09T18:53:39.752557",
+      "collage": "collages/collage_1788972819134785.webp"
+    },
+    {
+      "text": "⚽ 20è gol de Raphinha a la Lliga de Campions amb el Barça. Empata amb Luis Enrique (1997-2003) en el ➡️ 7è lloc històric del club a la Lliga de Campions.",
+      "tipus": "prioritaria",
+      "hora": "18:54",
+      "ts": "2026-09-09T18:53:39.752557",
+      "collage": "collages/collage_1788972819522826.webp"
+    },
+    {
+      "text": "10è partit de Lliga de Campions per a Joan Garcia amb el Barça. Supera Rodri (1959-1961), Urruti (1985-1986), Julio Alberto (1985-1986), Víctor Muñoz (1985-1986), Busquets (1991-1998), Van Bommel (2005-2006), Hleb (2008-2009), Tello (2011-2014), Munir (2014-2019), Paulinho (2017-2018) i João Félix (2023-2024). Empata amb Kocsis (1959-1961), Juan Carlos (1991-1994), Witschge (1991-1993), Bogarde (1999-2000), Andersson (2001-2003), Coco (2001-2002), Thuram (2006-2008), Thiago Alcántara (2009-2013), Ibrahimović (2009-2010), Mingueza (2019-2022), Junior Firpo (2019-2021) i Gündoğan (2023-2024) en el ➡️ 131è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "18:54",
+      "ts": "2026-09-09T18:53:31.038436",
+      "collage": "collages/collage_1788972810769805.webp"
+    },
+    {
+      "text": "102è partit oficial per a Christensen amb el Barça. Supera Celades (1995-1999) i Thiago Alcántara (2008-2013). Empata amb Brugué (1951-1960) i Griezmann (2019-2022) en el ➡️ 178è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:55",
+      "ts": "2026-09-09T18:53:31.728022",
+      "collage": "collages/collage_1788972811116967.webp"
     }
   ],
   "baseline": {
@@ -21025,5 +21053,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "18:53:35"
+  "ultima_actualitzacio": "18:55:40"
 }
