@@ -1531,6 +1531,13 @@
       "hora": "20:24",
       "ts": "2026-09-09T20:24:07.832973",
       "collage": "collages/collage_1788978247641518.webp"
+    },
+    {
+      "text": "168è partit oficial per a Gavi amb el Barça. Empata amb Balde (2021-2027) en el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:30",
+      "ts": "2026-09-09T20:30:20.040067",
+      "collage": "collages/collage_1788978619513681.webp"
     }
   ],
   "baseline": {
@@ -2328,7 +2335,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 167,
+        "pj": 168,
         "g": 10,
         "inici": "2021",
         "final": "2027"
@@ -7417,7 +7424,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 1,
+        "pj": 2,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -14442,7 +14449,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 26,
+        "pj": 27,
         "g": 1,
         "inici": "2021",
         "final": "2026"
@@ -21270,5 +21277,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:24:14"
+  "ultima_actualitzacio": "20:30:21"
 }
