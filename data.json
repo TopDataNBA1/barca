@@ -1314,6 +1314,13 @@
       "hora": "18:55",
       "ts": "2026-09-09T18:53:31.728022",
       "collage": "collages/collage_1788972811116967.webp"
+    },
+    {
+      "text": "16è partit de Lliga de Campions per a Christensen amb el Barça. Supera Migueli (1974-1986), Romário (1993-1995), Zenden (1998-2001), Geovanni (2001-2003), Mendieta (2002-2003) i Iñigo Martínez (2023-2025). Empata amb Evaristo (1959-1961), Luis Suárez (1959-1961), Gracia (1959-1961), Christanval (2001-2003), Milito (2007-2011) i Griezmann (2019-2021) en el ➡️ 95è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "18:56",
+      "ts": "2026-09-09T18:53:31.728022",
+      "collage": "collages/collage_1788972811441507.webp"
     }
   ],
   "baseline": {
@@ -21053,5 +21060,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "18:55:40"
+  "ultima_actualitzacio": "18:56:40"
 }
