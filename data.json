@@ -1379,6 +1379,13 @@
       "hora": "17:55",
       "ts": "2026-09-09T17:42:52.033151",
       "collage": "collages/collage_1788968571817309.webp"
+    },
+    {
+      "text": "4t partit oficial per a Rodri amb el Barça. Supera Quirante (1908-1911), Pakán (1911-1912), Morales (1911-1912), Oller (1912-1914), Allack (1912-1913), Castejón (1912-1913), Costa (1915-1919), Santiago Massana (1915-1916), Garchitorena (1918-1919), Sesumaga (1919-1920), Galicia (1919-1920), Plaza (1919-1920), Cella (1921-1922), Elías (1923-1926), Sabaté Solà (1924-1925), Francàs (1934-1935), Polo (1935-1936), Aylagas (1939-1940), Colomé (1940-1941), González (1940-1941), Orriols (1941-1942), García (1945-1947), Morera (1945-1946), Da Silva (1947-1948), Isal (1948-1950), Peiró (1950-1951), Nieto (1968-1969), Sanjuán (1969-1970), Llangostera (1977-1981), Tarrés (1978-1980), Villarroya (1985-1986), Àlex (1990-1991), Ekelund (1993-1994), Arpón (1994-1995), Trashorras (2001-2002), Rubén (2003-2007), Víctor Vázquez (2006-2011), Dongou (2013-2014), Kaptoum (2015-2017), Marlon (2016-2017), Chumi (2018-2020), De la Fuente (2019-2021), Akhomach (2021-2023) i Emerson Royal (2021-2022). Empata amb Rositzky (1911-1913), Steel (1911-1913), Jack Greenwell (1912-1914), Bori (1912-1913), Baonza (1915-1919), Campabadal (1928-1930), Gámiz (1931-1932), Artigas (1932-1933), Espuny (1933-1934), Pachi (1939-1940), Colominas (1941-1942), Duró (1953-1954), Rusky (1973-1975), Botella (1976-1978), Félix (1978-1981), Maqueda (1990-1993), Escaich (1994-1995), Enke (2002-2004), Crosas (2006-2008), Muniesa (2008-2012), Masip (2012-2017), Murillo (2018-2019), Miranda (2018-2019), Boateng (2018-2019), Álvaro Sanz (2021-2023), Torrents (2025-2026) i Gordon (2026-2027) en el ➡️ 615è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:56",
+      "ts": "2026-09-09T17:42:52.695647",
+      "collage": "collages/collage_1788968572153340.webp"
     }
   ],
   "baseline": {
@@ -21114,9 +21121,9 @@
   "match_rival": "Feyenoord",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 0h 48m 32s",
+    "compte_enrere": "0d 0h 47m 55s",
     "kickoff_ts": 1788972300
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:55:50"
+  "ultima_actualitzacio": "17:56:50"
 }
