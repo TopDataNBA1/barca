@@ -1351,6 +1351,13 @@
       "hora": "17:51",
       "ts": "2026-09-09T17:42:50.841202",
       "collage": "collages/collage_1788968570616850.webp"
+    },
+    {
+      "text": "93è partit oficial per a Dani Olmo amb el Barça. Supera Clos (1982-1988). Empata amb Arnau (1924-1934) en el ➡️ 195è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:52",
+      "ts": "2026-09-09T17:42:51.452578",
+      "collage": "collages/collage_1788968570926012.webp"
     }
   ],
   "baseline": {
@@ -21086,9 +21093,9 @@
   "match_rival": "Feyenoord",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 0h 52m 50s",
-    "kickoff_ts": 1788972299
+    "compte_enrere": "0d 0h 52m 14s",
+    "kickoff_ts": 1788972300
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:51:50"
+  "ultima_actualitzacio": "17:52:50"
 }
