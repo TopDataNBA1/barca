@@ -1510,6 +1510,13 @@
       "hora": "20:18",
       "ts": "2026-09-09T20:18:32.650573",
       "collage": "collages/collage_1788977911573590.webp"
+    },
+    {
+      "text": "31è partit de Lliga de Campions per a Fermín amb el Barça. Supera Stoichkov (1991-1998), Dembélé (2017-2023) i Balde (2021-2026). Empata amb Ferrer (1991-1998) en el ➡️ 46è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:19",
+      "ts": "2026-09-09T20:18:32.650573",
+      "collage": "collages/collage_1788977912434741.webp"
     }
   ],
   "baseline": {
@@ -21249,5 +21256,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:18:36"
+  "ultima_actualitzacio": "20:19:36"
 }
