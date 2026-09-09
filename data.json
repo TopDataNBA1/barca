@@ -1356,6 +1356,13 @@
       "hora": "19:01",
       "ts": "2026-09-09T18:53:34.217998",
       "collage": "collages/collage_1788972813607166.webp"
+    },
+    {
+      "text": "27è partit de Lliga de Campions per a Cubarsí amb el Barça. Supera Figo (1997-2000), Villa (2010-2013), Fàbregas (2011-2014) i Gavi (2021-2026). Empata amb Zubizarreta (1991-1994), Saviola (2001-2007), Oleguer (2002-2008) i Bojan (2007-2011) en el ➡️ 57è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "19:02",
+      "ts": "2026-09-09T18:53:34.217998",
+      "collage": "collages/collage_1788972813935876.webp"
     }
   ],
   "baseline": {
@@ -21095,5 +21102,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:01:41"
+  "ultima_actualitzacio": "19:02:41"
 }
