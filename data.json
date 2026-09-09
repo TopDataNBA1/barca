@@ -1407,6 +1407,13 @@
       "hora": "17:59",
       "ts": "2026-09-09T17:42:53.340693",
       "collage": "collages/collage_1788968573118942.webp"
+    },
+    {
+      "text": "156è partit oficial per a Lamine Yamal amb el Barça. Empata amb Manolo (1978-1988) en el ➡️ 125è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:00",
+      "ts": "2026-09-09T17:42:53.946558",
+      "collage": "collages/collage_1788968573406146.webp"
     }
   ],
   "baseline": {
@@ -21142,9 +21149,9 @@
   "match_rival": "Feyenoord",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 0h 44m 51s",
+    "compte_enrere": "0d 0h 43m 37s",
     "kickoff_ts": 1788972300
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:59:50"
+  "ultima_actualitzacio": "18:00:50"
 }
