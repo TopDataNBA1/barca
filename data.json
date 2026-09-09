@@ -1461,6 +1461,20 @@
       "hora": "19:14",
       "ts": "2026-09-09T18:53:38.888179",
       "collage": "collages/collage_1788972818637401.webp"
+    },
+    {
+      "text": "⚽ 83è gol de Raphinha amb el Barça. Empata amb Arocha (1927-1933) en el ➡️ 29è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "20:04",
+      "ts": "2026-09-09T20:04:10.452709",
+      "collage": "collages/collage_1788977049978146.webp"
+    },
+    {
+      "text": "⚽ 21è gol de Raphinha a la Lliga de Campions amb el Barça. Supera Luis Enrique (1997-2003). Empata amb Kluivert (1999-2003) i Neymar (2013-2017) en el ➡️ 5è lloc històric del club a la Lliga de Campions.",
+      "tipus": "prioritaria",
+      "hora": "20:04",
+      "ts": "2026-09-09T20:04:10.452709",
+      "collage": "collages/collage_1788977050249165.webp"
     }
   ],
   "baseline": {
@@ -2154,7 +2168,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 182,
-        "g": 82,
+        "g": 83,
         "inici": "2022",
         "final": "2027"
       },
@@ -14039,7 +14053,7 @@
         "pj": 52,
         "g": 0,
         "inici": "2019",
-        "final": "2027"
+        "final": "2026"
       },
       "Phillip John William Cocu": {
         "alias": "Cocu",
@@ -14095,7 +14109,7 @@
         "pj": 44,
         "g": 1,
         "inici": "2020",
-        "final": "2027"
+        "final": "2026"
       },
       "Rafael Márquez Álvarez": {
         "alias": "Márquez",
@@ -14207,7 +14221,7 @@
         "pj": 35,
         "g": 2,
         "inici": "2022",
-        "final": "2027"
+        "final": "2026"
       },
       "Thiago Motta Santon Olivares": {
         "alias": "Motta",
@@ -14226,16 +14240,16 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 34,
-        "g": 20,
+        "g": 21,
         "inici": "2022",
-        "final": "2027"
+        "final": "2026"
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 34,
         "g": 11,
         "inici": "2023",
-        "final": "2027"
+        "final": "2026"
       },
       "Anderson Luís de Souza": {
         "alias": "Deco",
@@ -14270,14 +14284,14 @@
         "pj": 30,
         "g": 0,
         "inici": "2021",
-        "final": "2027"
+        "final": "2026"
       },
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 30,
         "g": 9,
         "inici": "2023",
-        "final": "2027"
+        "final": "2026"
       },
       "Guillermo Amor Martínez": {
         "alias": "Amor",
@@ -14319,7 +14333,7 @@
         "pj": 28,
         "g": 2,
         "inici": "2021",
-        "final": "2027"
+        "final": "2026"
       },
       "Andoni Zubizarreta Urreta": {
         "alias": "Zubizarreta",
@@ -14375,14 +14389,14 @@
         "pj": 26,
         "g": 1,
         "inici": "2021",
-        "final": "2027"
+        "final": "2026"
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
         "pj": 27,
         "g": 0,
         "inici": "2023",
-        "final": "2027"
+        "final": "2026"
       },
       "Eusebio Sacristán Mena": {
         "alias": "Eusebio",
@@ -14508,7 +14522,7 @@
         "pj": 20,
         "g": 0,
         "inici": "2024",
-        "final": "2027"
+        "final": "2026"
       },
       "Jon Andoni Goikoetxea Lasa": {
         "alias": "Goikoetxea",
@@ -14529,7 +14543,7 @@
         "pj": 20,
         "g": 3,
         "inici": "2024",
-        "final": "2027"
+        "final": "2026"
       },
       "Antonio Ramallets Simón": {
         "alias": "Ramallets",
@@ -14669,7 +14683,7 @@
         "pj": 16,
         "g": 1,
         "inici": "2022",
-        "final": "2027"
+        "final": "2026"
       },
       "Iñigo Martínez Berridi": {
         "alias": "Iñigo Martínez",
@@ -14690,7 +14704,7 @@
         "pj": 15,
         "g": 2,
         "inici": "2023",
-        "final": "2027"
+        "final": "2026"
       },
       "Joan Segarra Iracheta": {
         "alias": "Segarra",
@@ -14781,7 +14795,7 @@
         "pj": 12,
         "g": 0,
         "inici": "2024",
-        "final": "2027"
+        "final": "2026"
       },
       "László Kubala Stecz": {
         "alias": "Kubala",
@@ -15005,7 +15019,7 @@
         "pj": 10,
         "g": 0,
         "inici": "2025",
-        "final": "2027"
+        "final": "2026"
       },
       "Eulogio Martínez Ramiro": {
         "alias": "Eulogio Martínez",
@@ -15334,7 +15348,7 @@
         "pj": 6,
         "g": 1,
         "inici": "2025",
-        "final": "2027"
+        "final": "2026"
       },
       "Enrique Álvarez Costas": {
         "alias": "Costas",
@@ -15852,7 +15866,7 @@
         "pj": 2,
         "g": 0,
         "inici": "2025",
-        "final": "2027"
+        "final": "2026"
       },
       "Andrés Joaquín Parada Alvite": {
         "alias": "Suco",
@@ -16447,7 +16461,7 @@
         "pj": 0,
         "g": 0,
         "inici": "2025",
-        "final": "2027"
+        "final": "2026"
       },
       "Daniel Rodríguez Crespo": {
         "alias": "Dani Rodríguez",
@@ -16461,7 +16475,7 @@
         "pj": 0,
         "g": 0,
         "inici": "2025",
-        "final": "2027"
+        "final": "2026"
       },
       "Jofre Torrents Salvat": {
         "alias": "Torrents",
@@ -17226,7 +17240,7 @@
         "pj": 24,
         "g": 3,
         "inici": "2019",
-        "final": "2027"
+        "final": "2026"
       },
       "Esteban Pedrol Albareda": {
         "alias": "Pedrol",
@@ -17429,7 +17443,7 @@
         "pj": 19,
         "g": 3,
         "inici": "2020",
-        "final": "2027"
+        "final": "2026"
       },
       "Ronald Federico Araújo da Silva": {
         "alias": "Araújo",
@@ -17520,7 +17534,7 @@
         "pj": 18,
         "g": 3,
         "inici": "2022",
-        "final": "2027"
+        "final": "2026"
       },
       "Vicente Martínez Duart": {
         "alias": "Martínez",
@@ -17793,7 +17807,7 @@
         "pj": 14,
         "g": 1,
         "inici": "2021",
-        "final": "2027"
+        "final": "2026"
       },
       "José Manuel Pesudo Soler": {
         "alias": "Pesudo",
@@ -17877,28 +17891,28 @@
         "pj": 13,
         "g": 1,
         "inici": "2021",
-        "final": "2027"
+        "final": "2026"
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 13,
         "g": 5,
         "inici": "2022",
-        "final": "2027"
+        "final": "2026"
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
         "pj": 13,
         "g": 1,
         "inici": "2023",
-        "final": "2027"
+        "final": "2026"
       },
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 13,
         "g": 2,
         "inici": "2023",
-        "final": "2027"
+        "final": "2026"
       },
       "Enrique Peris de Vargas": {
         "alias": "Peris",
@@ -18094,7 +18108,7 @@
         "pj": 11,
         "g": 5,
         "inici": "2023",
-        "final": "2027"
+        "final": "2026"
       },
       "Mateo Nicolau Garí": {
         "alias": "Nicolau",
@@ -18241,14 +18255,14 @@
         "pj": 10,
         "g": 1,
         "inici": "2021",
-        "final": "2027"
+        "final": "2025"
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
         "pj": 10,
         "g": 0,
         "inici": "2024",
-        "final": "2027"
+        "final": "2026"
       },
       "Romà Forns i Saldaña": {
         "alias": "Forns",
@@ -18507,7 +18521,7 @@
         "pj": 8,
         "g": 0,
         "inici": "2024",
-        "final": "2027"
+        "final": "2026"
       },
       "Lluís Bru Masipó": {
         "alias": "Bru",
@@ -18864,7 +18878,7 @@
         "pj": 6,
         "g": 1,
         "inici": "2022",
-        "final": "2027"
+        "final": "2026"
       },
       "Iñigo Martínez Berridi": {
         "alias": "Iñigo Martínez",
@@ -19046,7 +19060,7 @@
         "pj": 5,
         "g": 0,
         "inici": "2024",
-        "final": "2027"
+        "final": "2026"
       },
       "Arsenio Comamala López-Del Pan": {
         "alias": "Arsenio Comamala",
@@ -19326,14 +19340,14 @@
         "pj": 4,
         "g": 2,
         "inici": "2025",
-        "final": "2027"
+        "final": "2026"
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
         "pj": 4,
         "g": 0,
         "inici": "2025",
-        "final": "2027"
+        "final": "2026"
       },
       "Marcus Rashford": {
         "alias": "Rashford",
@@ -19690,7 +19704,7 @@
         "pj": 3,
         "g": 0,
         "inici": "2023",
-        "final": "2027"
+        "final": "2026"
       },
       "João Félix Sequeira": {
         "alias": "João Félix",
@@ -21200,5 +21214,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:14:46"
+  "ultima_actualitzacio": "20:04:14"
 }
