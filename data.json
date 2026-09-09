@@ -1573,6 +1573,12 @@
       "hora": "20:33",
       "ts": "2026-09-09T20:30:21.584392",
       "collage": "collages/collage_1788978621348924.webp"
+    },
+    {
+      "text": "📋 09/09/2026 · LLIGA DE CAMPIONS · BARÇA - FEYENOORD",
+      "tipus": "prioritaria",
+      "hora": "20:41",
+      "ts": "2026-09-09T20:41:07.141591"
     }
   ],
   "baseline": {
@@ -21304,13 +21310,13 @@
       }
     }
   },
-  "match_status": "C",
-  "match_rival": "Feyenoord",
+  "match_status": "U",
+  "match_rival": "Levante",
   "proper_partit": {
-    "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1788972534
+    "descripcio": "Lliga · Barça - Levante",
+    "compte_enrere": "3d 19h 33m 21s",
+    "kickoff_ts": 1789308900
   },
-  "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:33:25"
+  "match_comp": "Lliga",
+  "ultima_actualitzacio": "20:41:10"
 }
