@@ -1538,6 +1538,13 @@
       "hora": "20:30",
       "ts": "2026-09-09T20:30:20.040067",
       "collage": "collages/collage_1788978619513681.webp"
+    },
+    {
+      "text": "27è partit de Lliga de Campions per a Gavi amb el Barça. Supera Figo (1997-2000), Villa (2010-2013) i Fàbregas (2011-2014). Empata amb Zubizarreta (1991-1994), Saviola (2001-2007), Oleguer (2002-2008), Bojan (2007-2011) i Cubarsí (2023-2026) en el ➡️ 57è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:31",
+      "ts": "2026-09-09T20:30:20.040067",
+      "collage": "collages/collage_1788978619804479.webp"
     }
   ],
   "baseline": {
@@ -21277,5 +21284,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:30:21"
+  "ultima_actualitzacio": "20:31:21"
 }
