@@ -348,7 +348,7 @@
 
     function esActiu(j) {
         if (NO_ACTUALS.includes(j.nom)) return false;
-        return j.final === '2027';
+        return String(j.final) === '2027';
     }
 
     function updateRankings() {
