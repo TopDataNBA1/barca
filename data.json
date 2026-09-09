@@ -1363,6 +1363,13 @@
       "hora": "19:02",
       "ts": "2026-09-09T18:53:34.217998",
       "collage": "collages/collage_1788972813935876.webp"
+    },
+    {
+      "text": "93è partit oficial per a Dani Olmo amb el Barça. Supera Clos (1982-1988). Empata amb Arnau (1924-1934) en el ➡️ 195è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:03",
+      "ts": "2026-09-09T18:53:35.066798",
+      "collage": "collages/collage_1788972814296935.webp"
     }
   ],
   "baseline": {
@@ -21102,5 +21109,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:02:41"
+  "ultima_actualitzacio": "19:03:41"
 }
