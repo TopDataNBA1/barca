@@ -1503,6 +1503,13 @@
       "hora": "20:12",
       "ts": "2026-09-09T20:10:28.298993",
       "collage": "collages/collage_1788977428071389.webp"
+    },
+    {
+      "text": "141è partit oficial per a Fermín amb el Barça. Empata amb Quini (1980-1984), Overmars (2000-2004) i Alexis Sánchez (2011-2014) en el ➡️ 137è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:18",
+      "ts": "2026-09-09T20:18:32.650573",
+      "collage": "collages/collage_1788977911573590.webp"
     }
   ],
   "baseline": {
@@ -2482,7 +2489,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 140,
+        "pj": 141,
         "g": 36,
         "inici": "2023",
         "final": "2027"
@@ -14316,7 +14323,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 30,
+        "pj": 31,
         "g": 9,
         "inici": "2023",
         "final": "2026"
@@ -21242,5 +21249,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:12:16"
+  "ultima_actualitzacio": "20:18:36"
 }
