@@ -1372,6 +1372,13 @@
       "hora": "17:54",
       "ts": "2026-09-09T17:42:52.033151",
       "collage": "collages/collage_1788968571534884.webp"
+    },
+    {
+      "text": "44è partit de Lliga de Campions per a Pedri amb el Barça. Supera Frank de Boer (1999-2003). Empata amb Reiziger (1997-2003) en el ➡️ 22è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:55",
+      "ts": "2026-09-09T17:42:52.033151",
+      "collage": "collages/collage_1788968571817309.webp"
     }
   ],
   "baseline": {
@@ -21107,9 +21114,9 @@
   "match_rival": "Feyenoord",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 0h 49m 45s",
-    "kickoff_ts": 1788972299
+    "compte_enrere": "0d 0h 48m 32s",
+    "kickoff_ts": 1788972300
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:54:50"
+  "ultima_actualitzacio": "17:55:50"
 }
