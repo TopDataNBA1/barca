@@ -1433,6 +1433,13 @@
       "hora": "19:10",
       "ts": "2026-09-09T18:53:37.411771",
       "collage": "collages/collage_1788972817025481.webp"
+    },
+    {
+      "text": "156è partit oficial per a Lamine Yamal amb el Barça. Empata amb Manolo (1978-1988) en el ➡️ 125è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:11",
+      "ts": "2026-09-09T18:53:38.165166",
+      "collage": "collages/collage_1788972817489127.webp"
     }
   ],
   "baseline": {
@@ -21172,5 +21179,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:10:46"
+  "ultima_actualitzacio": "19:11:46"
 }
