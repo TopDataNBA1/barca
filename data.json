@@ -1288,6 +1288,27 @@
       "hora": "17:42",
       "ts": "2026-09-09T17:42:47.817366",
       "collage": "collages/collage_1788968567251629.webp"
+    },
+    {
+      "text": "10è partit de Lliga de Campions per a Joan Garcia amb el Barça. Supera Rodri (1959-1961), Urruti (1985-1986), Julio Alberto (1985-1986), Víctor Muñoz (1985-1986), Busquets (1991-1998), Van Bommel (2005-2006), Hleb (2008-2009), Tello (2011-2014), Munir (2014-2019), Paulinho (2017-2018) i João Félix (2023-2024). Empata amb Kocsis (1959-1961), Juan Carlos (1991-1994), Witschge (1991-1993), Bogarde (1999-2000), Andersson (2001-2003), Coco (2001-2002), Thuram (2006-2008), Thiago Alcántara (2009-2013), Ibrahimović (2009-2010), Mingueza (2019-2022), Junior Firpo (2019-2021) i Gündoğan (2023-2024) en el ➡️ 131è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:43",
+      "ts": "2026-09-09T17:42:47.817366",
+      "collage": "collages/collage_1788968567584052.webp"
+    },
+    {
+      "text": "102è partit oficial per a Christensen amb el Barça. Supera Celades (1995-1999) i Thiago Alcántara (2008-2013). Empata amb Brugué (1951-1960) i Griezmann (2019-2022) en el ➡️ 178è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:44",
+      "ts": "2026-09-09T17:42:48.643349",
+      "collage": "collages/collage_1788968567913725.webp"
+    },
+    {
+      "text": "16è partit de Lliga de Campions per a Christensen amb el Barça. Supera Migueli (1974-1986), Romário (1993-1995), Zenden (1998-2001), Geovanni (2001-2003), Mendieta (2002-2003) i Iñigo Martínez (2023-2025). Empata amb Evaristo (1959-1961), Luis Suárez (1959-1961), Gracia (1959-1961), Christanval (2001-2003), Milito (2007-2011) i Griezmann (2019-2021) en el ➡️ 95è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:45",
+      "ts": "2026-09-09T17:42:48.643349",
+      "collage": "collages/collage_1788968568385152.webp"
     }
   ],
   "baseline": {
@@ -21023,9 +21044,9 @@
   "match_rival": "Feyenoord",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Barça - Feyenoord",
-    "compte_enrere": "0d 1h 1m 29s",
+    "compte_enrere": "0d 0h 59m 36s",
     "kickoff_ts": 1788972300
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:42:49"
+  "ultima_actualitzacio": "17:45:49"
 }
