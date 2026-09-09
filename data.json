@@ -1328,6 +1328,13 @@
       "hora": "18:57",
       "ts": "2026-09-09T18:53:32.671727",
       "collage": "collages/collage_1788972811807000.webp"
+    },
+    {
+      "text": "15è partit de Lliga de Campions per a João Cancelo amb el Barça. Supera Larsson (2004-2006). Empata amb Migueli (1974-1986), Romário (1993-1995), Zenden (1998-2001), Geovanni (2001-2003), Mendieta (2002-2003) i Iñigo Martínez (2023-2025) en el ➡️ 101è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "18:58",
+      "ts": "2026-09-09T18:53:32.671727",
+      "collage": "collages/collage_1788972812373770.webp"
     }
   ],
   "baseline": {
@@ -21067,5 +21074,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "18:57:40"
+  "ultima_actualitzacio": "18:58:40"
 }
