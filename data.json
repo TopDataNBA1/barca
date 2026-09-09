@@ -1405,6 +1405,13 @@
       "hora": "19:08",
       "ts": "2026-09-09T18:53:36.538625",
       "collage": "collages/collage_1788972816288816.webp"
+    },
+    {
+      "text": "5è partit oficial per a Adeyemi amb el Barça. Supera Rositzky (1911-1913), Steel (1911-1913), Jack Greenwell (1912-1914), Bori (1912-1913), Baonza (1915-1919), Campabadal (1928-1930), Gámiz (1931-1932), Artigas (1932-1933), Espuny (1933-1934), Pachi (1939-1940), Colominas (1941-1942), Duró (1953-1954), Rusky (1973-1975), Botella (1976-1978), Félix (1978-1981), Maqueda (1990-1993), Escaich (1994-1995), Enke (2002-2004), Crosas (2006-2008), Muniesa (2008-2012), Masip (2012-2017), Murillo (2018-2019), Miranda (2018-2019), Boateng (2018-2019), Álvaro Sanz (2021-2023), Torrents (2025-2026) i Gordon (2026-2027). Empata amb Arsenio Comamala (1908-1911), Solà (1908-1910), Apolinario (1912-1913), Blanco (1918-1919), Lakatos (1918-1919), Vidal (1931-1933), Barceló (1935-1936), Galvany (1939-1944), Tejedor (1950-1952), Goicolea (1953-1959), Hermes González (1957-1959), Rodri (1960-1961), Serafín (1965-1966), Onésimo (1989-1990), Herrera (1990-1991), Vučević (1992-1994), Mario Rosas (1997-2000), Nolito (2008-2011), Arnaiz (2017-2018), Todibo (2018-2020), Agüero (2021-2022), Alarcón (2022-2024) i Dro (2025-2026) en el ➡️ 592è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:09",
+      "ts": "2026-09-09T18:53:37.411771",
+      "collage": "collages/collage_1788972816649081.webp"
     }
   ],
   "baseline": {
@@ -21144,5 +21151,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:08:41"
+  "ultima_actualitzacio": "19:09:41"
 }
