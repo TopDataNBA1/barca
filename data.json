@@ -1370,6 +1370,13 @@
       "hora": "19:03",
       "ts": "2026-09-09T18:53:35.066798",
       "collage": "collages/collage_1788972814296935.webp"
+    },
+    {
+      "text": "20è partit de Lliga de Campions per a Dani Olmo amb el Barça. Supera Goikoetxea (1991-1994) i Casadó (2022-2026). Empata amb Dani (1999-2003), Overmars (2000-2003), Belletti (2004-2007) i Gerard Martín (2024-2026) en el ➡️ 80è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "19:04",
+      "ts": "2026-09-09T18:53:35.066798",
+      "collage": "collages/collage_1788972814629885.webp"
     }
   ],
   "baseline": {
@@ -21109,5 +21116,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:03:41"
+  "ultima_actualitzacio": "19:04:41"
 }
