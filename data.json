@@ -1454,6 +1454,13 @@
       "hora": "19:13",
       "ts": "2026-09-09T18:53:38.888179",
       "collage": "collages/collage_1788972818247036.webp"
+    },
+    {
+      "text": "34è partit de Lliga de Campions per a Raphinha amb el Barça. Supera Motta (2001-2007) i Lenglet (2018-2022). Empata amb Koeman (1991-1995), Abelardo (1994-2002), Adriano (2010-2016) i Ferran Torres (2022-2026) en el ➡️ 36è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "19:14",
+      "ts": "2026-09-09T18:53:38.888179",
+      "collage": "collages/collage_1788972818637401.webp"
     }
   ],
   "baseline": {
@@ -21193,5 +21200,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:13:46"
+  "ultima_actualitzacio": "19:14:46"
 }
