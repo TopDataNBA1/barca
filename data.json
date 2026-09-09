@@ -1342,6 +1342,13 @@
       "hora": "18:59",
       "ts": "2026-09-09T18:53:33.521297",
       "collage": "collages/collage_1788972812826736.webp"
+    },
+    {
+      "text": "35è partit de Lliga de Campions per a Koundé amb el Barça. Supera Koeman (1991-1995), Abelardo (1994-2002), Adriano (2010-2016) i Ferran Torres (2022-2026). Empata amb Nadal (1991-1999), Ronaldinho (2004-2008) i Araújo (2019-2026) en el ➡️ 33è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "19:00",
+      "ts": "2026-09-09T18:53:33.521297",
+      "collage": "collages/collage_1788972813259870.webp"
     }
   ],
   "baseline": {
@@ -21081,5 +21088,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "18:59:41"
+  "ultima_actualitzacio": "19:00:41"
 }
