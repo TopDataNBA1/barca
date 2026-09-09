@@ -1321,6 +1321,13 @@
       "hora": "18:56",
       "ts": "2026-09-09T18:53:31.728022",
       "collage": "collages/collage_1788972811441507.webp"
+    },
+    {
+      "text": "69è partit oficial per a João Cancelo amb el Barça. Supera Aloísio (1988-1990), Sonny Anderson (1997-1999) i Rochemback (2001-2003). Empata amb Martín (1949-1954) en el ➡️ 246è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:57",
+      "ts": "2026-09-09T18:53:32.671727",
+      "collage": "collages/collage_1788972811807000.webp"
     }
   ],
   "baseline": {
@@ -21060,5 +21067,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "18:56:40"
+  "ultima_actualitzacio": "18:57:40"
 }
