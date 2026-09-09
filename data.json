@@ -1398,6 +1398,13 @@
       "hora": "19:07",
       "ts": "2026-09-09T18:53:36.538625",
       "collage": "collages/collage_1788972815904338.webp"
+    },
+    {
+      "text": "1r partit de Lliga de Campions per a Rodri amb el Barça. Empata amb Suco (1960-1961), Pinto (1960-1961), Albaladejo (1974-1975), Vučević (1992-1993), Soler (1992-1993), Korneev (1994-1995), Eskurza (1994-1995), Sánchez Jara (1994-1995), Mario Rosas (1997-2000), Vítor Baía (1997-1999), Cuadrado (1998-2001), Nano (1999-2003), Trashorras (2001-2002), David Sánchez (2002-2003), Rodri (2004-2006), Albertini (2004-2005), Javito (2004-2005), Verdú (2004-2005), Crosas (2007-2008), Riverola (2011-2012), Planas (2012-2013), Adama (2013-2014), Dongou (2013-2014), Patric (2013-2014), Cámara (2015-2016), Kaptoum (2015-2016), Cardona (2016-2017), Marlon (2016-2017), Miranda (2018-2019), Carles Pérez (2019-2020), Todibo (2019-2020), Monchu (2019-2020), Ilaix Moriba (2020-2021), Matheus Fernandes (2020-2021), Álvaro Sanz (2021-2023), Agüero (2021-2022), Cuenca (2024-2025) i Dro (2025-2026) en el ➡️ 276è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "19:08",
+      "ts": "2026-09-09T18:53:36.538625",
+      "collage": "collages/collage_1788972816288816.webp"
     }
   ],
   "baseline": {
@@ -21137,5 +21144,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:07:41"
+  "ultima_actualitzacio": "19:08:41"
 }
