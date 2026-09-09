@@ -1447,6 +1447,13 @@
       "hora": "19:12",
       "ts": "2026-09-09T18:53:38.165166",
       "collage": "collages/collage_1788972817906923.webp"
+    },
+    {
+      "text": "182è partit oficial per a Raphinha amb el Barça. Empata amb Marcos Alonso (1982-1987) en el ➡️ 98è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:13",
+      "ts": "2026-09-09T18:53:38.888179",
+      "collage": "collages/collage_1788972818247036.webp"
     }
   ],
   "baseline": {
@@ -21186,5 +21193,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:12:46"
+  "ultima_actualitzacio": "19:13:46"
 }
