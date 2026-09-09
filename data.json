@@ -1475,6 +1475,13 @@
       "hora": "20:04",
       "ts": "2026-09-09T20:04:10.452709",
       "collage": "collages/collage_1788977050249165.webp"
+    },
+    {
+      "text": "41è partit oficial per a Bernal amb el Barça. Supera Anguera (1940-1942), Salva (1984-1989) i Ćirić (1997-1999). Empata amb Cristóbal (1987-1992), Ezquerro (2005-2008) i Junior Firpo (2019-2021) en el ➡️ 321è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:09",
+      "ts": "2026-09-09T20:09:12.673678",
+      "collage": "collages/collage_1788977351840566.webp"
     }
   ],
   "baseline": {
@@ -3749,7 +3756,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 40,
+        "pj": 41,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -15345,7 +15352,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 6,
+        "pj": 7,
         "g": 1,
         "inici": "2025",
         "final": "2026"
@@ -21214,5 +21221,5 @@
     "kickoff_ts": 1788972534
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:04:14"
+  "ultima_actualitzacio": "20:09:16"
 }
