@@ -1803,6 +1803,20 @@
       "hora": "17:50",
       "ts": "2026-09-13T17:49:25.916264",
       "collage": "collages/collage_1789314565699345.webp"
+    },
+    {
+      "text": "94è partit oficial per a Dani Olmo amb el Barça. Supera Arnau (1924-1934). Empata amb Pesudo (1961-1966), Rojo (1983-1987) i Popescu (1995-1997) en el ➡️ 192è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:51",
+      "ts": "2026-09-13T17:49:26.589460",
+      "collage": "collages/collage_1789314566045216.webp"
+    },
+    {
+      "text": "63è partit de Lliga per a Dani Olmo amb el Barça. Supera Parera (1928-1933), Nicolau (1948-1952), Clos (1982-1988) i Mathieu (2014-2017). Empata amb Pujol (1964-1973), Rojo (1983-1987) i Nando (1990-1992) en el ➡️ 194è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:52",
+      "ts": "2026-09-13T17:49:26.589460",
+      "collage": "collages/collage_1789314566354547.webp"
     }
   ],
   "baseline": {
@@ -21591,5 +21605,5 @@
     "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:50:30"
+  "ultima_actualitzacio": "17:52:30"
 }
