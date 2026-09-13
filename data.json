@@ -1628,6 +1628,13 @@
       "hora": "15:15",
       "ts": "2026-09-13T15:09:45.959456",
       "collage": "collages/collage_1789304985505463.webp"
+    },
+    {
+      "text": "89è partit de Lliga per a Cubarsí amb el Barça. Supera Alexis Sánchez (2011-2014). Empata amb Zabalo (1929-1945), Garay (1960-1965), Martí Filosia (1966-1975) i Sylvinho (2004-2009) en el ➡️ 148è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:16",
+      "ts": "2026-09-13T15:09:45.959456",
+      "collage": "collages/collage_1789304985756501.webp"
     }
   ],
   "baseline": {
@@ -21412,9 +21419,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 59m 1s",
+    "compte_enrere": "0d 0h 57m 47s",
     "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:15:45"
+  "ultima_actualitzacio": "15:16:45"
 }
