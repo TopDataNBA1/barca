@@ -1663,6 +1663,13 @@
       "hora": "15:20",
       "ts": "2026-09-13T15:09:47.153320",
       "collage": "collages/collage_1789304986997354.webp"
+    },
+    {
+      "text": "251è partit oficial per a Pedri amb el Barça. . Ocupa el ➡️ 59è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:21",
+      "ts": "2026-09-13T15:09:47.634761",
+      "collage": "collages/collage_1789304987206286.webp"
     }
   ],
   "baseline": {
@@ -21447,9 +21454,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 54m 43s",
+    "compte_enrere": "0d 0h 53m 29s",
     "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:20:45"
+  "ultima_actualitzacio": "15:21:45"
 }
