@@ -21513,12 +21513,12 @@
       }
     }
   },
-  "match_status": "U",
+  "match_status": "L",
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 44m 16s",
-    "kickoff_ts": 1789308900
+    "compte_enrere": "0d 0h 0m 0s",
+    "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
   "ultima_actualitzacio": "15:30:46"
