@@ -1796,6 +1796,13 @@
       "hora": "17:49",
       "ts": "2026-09-13T17:49:25.916264",
       "collage": "collages/collage_1789314565373221.webp"
+    },
+    {
+      "text": "30è partit de Lliga per a Bernal amb el Barça. Supera Ibrahimović (2009-2011), Romeu (2010-2024), Digne (2016-2018) i Marcos Alonso (2022-2024). Empata amb Rafa (1931-1936), Dueñas (1970-1972), Barrios (1972-1974), Reina (1998-2002), Riquelme (2002-2003), Aleix Vidal (2015-2018), Memphis (2021-2023) i João Félix (2023-2024) en el ➡️ 303è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:50",
+      "ts": "2026-09-13T17:49:25.916264",
+      "collage": "collages/collage_1789314565699345.webp"
     }
   ],
   "baseline": {
@@ -5988,7 +5995,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 5,
+        "pj": 6,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -12283,7 +12290,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 4,
+        "pj": 5,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -21584,5 +21591,5 @@
     "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:49:30"
+  "ultima_actualitzacio": "17:50:30"
 }
