@@ -1649,6 +1649,20 @@
       "hora": "15:18",
       "ts": "2026-09-13T15:09:46.628514",
       "collage": "collages/collage_1789304986384594.webp"
+    },
+    {
+      "text": "142è partit oficial per a Fermín amb el Barça. Supera Quini (1980-1984), Overmars (2000-2004) i Alexis Sánchez (2011-2014) i ara ocupa el ➡️ 137è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:19",
+      "ts": "2026-09-13T15:09:47.153320",
+      "collage": "collages/collage_1789304986742323.webp"
+    },
+    {
+      "text": "94è partit de Lliga per a Fermín amb el Barça. . Ocupa el ➡️ 141è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:20",
+      "ts": "2026-09-13T15:09:47.153320",
+      "collage": "collages/collage_1789304986997354.webp"
     }
   ],
   "baseline": {
@@ -21433,9 +21447,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 55m 20s",
+    "compte_enrere": "0d 0h 54m 43s",
     "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:18:45"
+  "ultima_actualitzacio": "15:20:45"
 }
