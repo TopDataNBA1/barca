@@ -1642,6 +1642,13 @@
       "hora": "15:17",
       "ts": "2026-09-13T15:09:46.628514",
       "collage": "collages/collage_1789304986068699.webp"
+    },
+    {
+      "text": "9è partit de Lliga per a Espart amb el Barça. Supera Obiols (1928-1929), Saló (1930-1941), Fuentes (1939-1940), Pascual (1939-1940), Riera (1939-1940), Llácer (1940-1943), Torra (1946-1952), Pais (1961-1962), Fernández (1967-1969), Laredo (1972-1974), Roberto Dinamite (1979-1980), Pinilla (1989-1992), Òscar López (2002-2004), Víctor Sánchez (2007-2009) i Fontàs (2008-2013). Empata amb Llorens (1928-1936), Trujillo (1933-1935), Villacampa (1933-1934), Bardina (1935-1940), Muntaner (1939-1940), Nieto (1941-1942), Montserrat (1942-1945), Noguera (1947-1949), Suco (1959-1961), Paredes (1968-1972), Ramoní (1969-1971), Bio (1977-1979), Angoy (1990-1996) i Damià (2004-2006) en el ➡️ 469è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:18",
+      "ts": "2026-09-13T15:09:46.628514",
+      "collage": "collages/collage_1789304986384594.webp"
     }
   ],
   "baseline": {
@@ -21426,9 +21433,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 56m 33s",
-    "kickoff_ts": 1789308899
+    "compte_enrere": "0d 0h 55m 20s",
+    "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:17:45"
+  "ultima_actualitzacio": "15:18:45"
 }
