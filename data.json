@@ -1621,6 +1621,13 @@
       "hora": "15:14",
       "ts": "2026-09-13T15:09:45.419505",
       "collage": "collages/collage_1789304985197568.webp"
+    },
+    {
+      "text": "133è partit oficial per a Cubarsí amb el Barça. Supera Piera (1921-1933) i Elias (1943-1950). Empata amb Umtiti (2016-2022) en el ➡️ 143è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:15",
+      "ts": "2026-09-13T15:09:45.959456",
+      "collage": "collages/collage_1789304985505463.webp"
     }
   ],
   "baseline": {
@@ -21405,9 +21412,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 59m 38s",
+    "compte_enrere": "0d 0h 59m 1s",
     "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:14:44"
+  "ultima_actualitzacio": "15:15:45"
 }
