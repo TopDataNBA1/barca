@@ -1859,6 +1859,12 @@
       "hora": "18:15",
       "ts": "2026-09-13T18:15:28.910524",
       "collage": "collages/collage_1789316128678619.webp"
+    },
+    {
+      "text": "📋 13/09/2026 · LLIGA · LEVANTE - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "18:21",
+      "ts": "2026-09-13T18:21:50.954358"
     }
   ],
   "baseline": {
@@ -21639,7 +21645,7 @@
       }
     }
   },
-  "match_status": "L",
+  "match_status": "C",
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
@@ -21647,5 +21653,5 @@
     "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:15:33"
+  "ultima_actualitzacio": "18:21:55"
 }
