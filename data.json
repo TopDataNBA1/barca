@@ -1719,6 +1719,13 @@
       "hora": "15:28",
       "ts": "2026-09-13T15:09:49.470530",
       "collage": "collages/collage_1789304989300585.webp"
+    },
+    {
+      "text": "183è partit oficial per a Raphinha amb el Barça. Supera Marcos Alonso (1982-1987). Empata amb Neeskens (1974-1979) i Urruti (1981-1988) en el ➡️ 96è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:29",
+      "ts": "2026-09-13T15:09:50.662458",
+      "collage": "collages/collage_1789304989550505.webp"
     }
   ],
   "baseline": {
@@ -21503,9 +21510,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 46m 6s",
-    "kickoff_ts": 1789308899
+    "compte_enrere": "0d 0h 44m 53s",
+    "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:28:46"
+  "ultima_actualitzacio": "15:29:46"
 }
