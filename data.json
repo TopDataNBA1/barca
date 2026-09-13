@@ -1831,6 +1831,13 @@
       "hora": "17:54",
       "ts": "2026-09-13T17:50:41.441446",
       "collage": "collages/collage_1789314641209527.webp"
+    },
+    {
+      "text": "70è partit oficial per a João Cancelo amb el Barça. Supera Martín (1949-1954). Empata amb Franco (1934-1944), Miró (1939-1943), Sotil (1973-1977) i Simão (1999-2001) en el ➡️ 242è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:02",
+      "ts": "2026-09-13T18:02:27.548739",
+      "collage": "collages/collage_1789315347087901.webp"
     }
   ],
   "baseline": {
@@ -3552,7 +3559,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 69,
+        "pj": 70,
         "g": 6,
         "inici": "2023",
         "final": "2027"
@@ -9959,7 +9966,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 51,
+        "pj": 52,
         "g": 4,
         "inici": "2023",
         "final": "2027"
@@ -21619,5 +21626,5 @@
     "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:54:30"
+  "ultima_actualitzacio": "18:02:30"
 }
