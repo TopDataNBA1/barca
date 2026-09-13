@@ -1670,6 +1670,13 @@
       "hora": "15:21",
       "ts": "2026-09-13T15:09:47.634761",
       "collage": "collages/collage_1789304987206286.webp"
+    },
+    {
+      "text": "170è partit de Lliga per a Pedri amb el Barça. Empata amb Velasco (1942-1955), Costas (1970-1980) i Schuster (1980-1988) en el ➡️ 63è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:22",
+      "ts": "2026-09-13T15:09:47.634761",
+      "collage": "collages/collage_1789304987434839.webp"
     }
   ],
   "baseline": {
@@ -21454,9 +21461,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 53m 29s",
+    "compte_enrere": "0d 0h 52m 15s",
     "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:21:45"
+  "ultima_actualitzacio": "15:22:45"
 }
