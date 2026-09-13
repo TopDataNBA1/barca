@@ -1607,6 +1607,13 @@
       "hora": "15:12",
       "ts": "2026-09-13T15:09:44.840579",
       "collage": "collages/collage_1789304984652654.webp"
+    },
+    {
+      "text": "97è partit oficial per a Gerard Martín amb el Barça. Supera Edmílson (2004-2008) i Vidal (2018-2020). Empata amb Arocha (1927-1933) i Òscar (1992-1999) en el ➡️ 186è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:13",
+      "ts": "2026-09-13T15:09:45.419505",
+      "collage": "collages/collage_1789304984922654.webp"
     }
   ],
   "baseline": {
@@ -21391,9 +21398,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 1h 2m 5s",
+    "compte_enrere": "0d 1h 0m 51s",
     "kickoff_ts": 1789308899
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:12:44"
+  "ultima_actualitzacio": "15:13:44"
 }
