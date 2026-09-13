@@ -1600,6 +1600,13 @@
       "hora": "15:11",
       "ts": "2026-09-13T15:09:44.840579",
       "collage": "collages/collage_1789304984384370.webp"
+    },
+    {
+      "text": "119è partit de Lliga per a Eric Garcia amb el Barça. Empata amb Ramos (1976-1982), Zuviría (1977-1982) i Keita (2008-2012) en el ➡️ 113è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:12",
+      "ts": "2026-09-13T15:09:44.840579",
+      "collage": "collages/collage_1789304984652654.webp"
     }
   ],
   "baseline": {
@@ -21384,9 +21391,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 1h 2m 42s",
-    "kickoff_ts": 1789308900
+    "compte_enrere": "0d 1h 2m 5s",
+    "kickoff_ts": 1789308899
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:11:44"
+  "ultima_actualitzacio": "15:12:44"
 }
