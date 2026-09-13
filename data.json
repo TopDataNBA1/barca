@@ -1747,6 +1747,20 @@
       "hora": "16:23",
       "ts": "2026-09-13T16:23:03.490792",
       "collage": "collages/collage_1789309383231898.webp"
+    },
+    {
+      "text": "⚽ 55è gol de Lamine Yamal amb el Barça. Supera Clares (1973-1979) i Laudrup (1989-1994) i ara ocupa el ➡️ 48è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "16:37",
+      "ts": "2026-09-13T16:37:14.401740",
+      "collage": "collages/collage_1789310233877848.webp"
+    },
+    {
+      "text": "⚽ 35è gol de Lamine Yamal a la Lliga amb el Barça. Supera Krankl (1978-1981), Romário (1993-1995) i Ronaldo (1996-1997). Empata amb Clares (1973-1979), Neeskens (1974-1979), Robert (1986-1990), Iniesta (2002-2018) i Henry (2007-2010) en el ➡️ 51è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "16:37",
+      "ts": "2026-09-13T16:37:14.401740",
+      "collage": "collages/collage_1789310234163801.webp"
     }
   ],
   "baseline": {
@@ -2629,7 +2643,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 157,
-        "g": 54,
+        "g": 55,
         "inici": "2022",
         "final": "2027"
       },
@@ -9169,7 +9183,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 106,
-        "g": 34,
+        "g": 35,
         "inici": "2022",
         "final": "2027"
       },
@@ -21535,5 +21549,5 @@
     "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "16:23:09"
+  "ultima_actualitzacio": "16:37:18"
 }
