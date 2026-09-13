@@ -1705,6 +1705,13 @@
       "hora": "15:26",
       "ts": "2026-09-13T15:09:48.939694",
       "collage": "collages/collage_1789304988715241.webp"
+    },
+    {
+      "text": "157è partit oficial per a Lamine Yamal amb el Barça. Supera Manolo (1978-1988). Empata amb Calderé (1983-1988) en el ➡️ 124è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:27",
+      "ts": "2026-09-13T15:09:49.470530",
+      "collage": "collages/collage_1789304989026648.webp"
     }
   ],
   "baseline": {
@@ -21489,9 +21496,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 47m 57s",
+    "compte_enrere": "0d 0h 47m 20s",
     "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:26:46"
+  "ultima_actualitzacio": "15:27:46"
 }
