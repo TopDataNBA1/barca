@@ -1726,6 +1726,13 @@
       "hora": "15:29",
       "ts": "2026-09-13T15:09:50.662458",
       "collage": "collages/collage_1789304989550505.webp"
+    },
+    {
+      "text": "127è partit de Lliga per a Raphinha amb el Barça. Supera Goikoetxea (1990-1994). Empata amb Oleguer (2001-2008) i Dembélé (2017-2023) en el ➡️ 98è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:30",
+      "ts": "2026-09-13T15:09:50.662458",
+      "collage": "collages/collage_1789304990439324.webp"
     }
   ],
   "baseline": {
@@ -21510,9 +21517,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 44m 53s",
+    "compte_enrere": "0d 0h 44m 16s",
     "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:29:46"
+  "ultima_actualitzacio": "15:30:46"
 }
