@@ -1614,6 +1614,13 @@
       "hora": "15:13",
       "ts": "2026-09-13T15:09:45.419505",
       "collage": "collages/collage_1789304984922654.webp"
+    },
+    {
+      "text": "64è partit de Lliga per a Gerard Martín amb el Barça. Supera Pujol (1964-1973), Rojo (1983-1987) i Nando (1990-1992). Empata amb Goiburu (1929-1934) i Zenden (1998-2001) en el ➡️ 192è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:14",
+      "ts": "2026-09-13T15:09:45.419505",
+      "collage": "collages/collage_1789304985197568.webp"
     }
   ],
   "baseline": {
@@ -21398,9 +21405,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 1h 0m 51s",
-    "kickoff_ts": 1789308899
+    "compte_enrere": "0d 0h 59m 38s",
+    "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:13:44"
+  "ultima_actualitzacio": "15:14:44"
 }
