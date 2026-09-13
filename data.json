@@ -1691,6 +1691,13 @@
       "hora": "15:24",
       "ts": "2026-09-13T15:09:48.273221",
       "collage": "collages/collage_1789304988067289.webp"
+    },
+    {
+      "text": "6è partit oficial per a Gordon amb el Barça. Supera Arsenio Comamala (1908-1911), Solà (1908-1910), Apolinario (1912-1913), Blanco (1918-1919), Lakatos (1918-1919), Vidal (1931-1933), Barceló (1935-1936), Galvany (1939-1944), Tejedor (1950-1952), Goicolea (1953-1959), Hermes González (1957-1959), Rodri (1960-1961), Serafín (1965-1966), Onésimo (1989-1990), Herrera (1990-1991), Vučević (1992-1994), Mario Rosas (1997-2000), Nolito (2008-2011), Arnaiz (2017-2018), Todibo (2018-2020), Agüero (2021-2022), Alarcón (2022-2024), Dro (2025-2026) i Adeyemi (2026-2027). Empata amb Grau (1908-1911), Percy Wallace (1909-1914), Bau (1913-1916), Mallorquí (1913-1916), García (1929-1931), Gual (1931-1936), Santacatalina (1939-1941), Hilario (1939-1940), Quique (1940-1941), Serratusell (1941-1950), Cerveró (1948-1950), Maristany (1952-1955), Medrano (1959-1961), Beitia (1960-1961), Szalay (1961-1963), Manolo (1980-1986), Luis Cembranos (1994-1995), Nano (1999-2003), Albertini (2004-2005), Yerry Mina (2017-2018), Wagué (2018-2020) i Domínguez (2024-2025) en el ➡️ 570è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:25",
+      "ts": "2026-09-13T15:09:48.939694",
+      "collage": "collages/collage_1789304988377202.webp"
     }
   ],
   "baseline": {
@@ -21475,9 +21482,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 50m 24s",
-    "kickoff_ts": 1789308899
+    "compte_enrere": "0d 0h 49m 11s",
+    "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:24:45"
+  "ultima_actualitzacio": "15:25:45"
 }
