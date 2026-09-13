@@ -1768,6 +1768,13 @@
       "hora": "17:24",
       "ts": "2026-09-13T17:24:42.453509",
       "collage": "collages/collage_1789313081984190.webp"
+    },
+    {
+      "text": "75è partit de Lliga per a Christensen amb el Barça. Supera Heredia (1974-1980), Estella (1979-1983), Yaya Touré (2007-2010) i Griezmann (2019-2022). Empata amb Kocsis (1958-1966) en el ➡️ 171è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:25",
+      "ts": "2026-09-13T17:24:42.453509",
+      "collage": "collages/collage_1789313082252090.webp"
     }
   ],
   "baseline": {
@@ -21556,5 +21563,5 @@
     "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:24:45"
+  "ultima_actualitzacio": "17:25:45"
 }
