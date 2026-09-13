@@ -1712,6 +1712,13 @@
       "hora": "15:27",
       "ts": "2026-09-13T15:09:49.470530",
       "collage": "collages/collage_1789304989026648.webp"
+    },
+    {
+      "text": "106è partit de Lliga per a Lamine Yamal amb el Barça. Supera Van Bronckhorst (2003-2007) i Lenglet (2018-2022) i ara ocupa el ➡️ 127è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:28",
+      "ts": "2026-09-13T15:09:49.470530",
+      "collage": "collages/collage_1789304989300585.webp"
     }
   ],
   "baseline": {
@@ -21496,9 +21503,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 47m 20s",
-    "kickoff_ts": 1789308900
+    "compte_enrere": "0d 0h 46m 6s",
+    "kickoff_ts": 1789308899
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:27:46"
+  "ultima_actualitzacio": "15:28:46"
 }
