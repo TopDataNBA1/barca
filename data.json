@@ -1586,6 +1586,20 @@
       "hora": "15:09",
       "ts": "2026-09-13T15:09:44.304379",
       "collage": "collages/collage_1789304983808556.webp"
+    },
+    {
+      "text": "35è partit de Lliga per a Joan Garcia amb el Barça. Supera Calo (1944-1950), Szegedi (1950-1952), Tomé (1973-1977), Pinto (2007-2014), Vermaelen (2014-2019) i Paulinho (2017-2018). Empata amb Anguera (1940-1942) i Amarilla (1985-1988) en el ➡️ 283è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:10",
+      "ts": "2026-09-13T15:09:44.305378",
+      "collage": "collages/collage_1789304984093449.webp"
+    },
+    {
+      "text": "170è partit oficial per a Eric Garcia amb el Barça. Empata amb Moratalla (1981-1988) en el ➡️ 111è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:11",
+      "ts": "2026-09-13T15:09:44.840579",
+      "collage": "collages/collage_1789304984384370.webp"
     }
   ],
   "baseline": {
@@ -21370,9 +21384,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 1h 5m 17s",
+    "compte_enrere": "0d 1h 2m 42s",
     "kickoff_ts": 1789308900
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:09:44"
+  "ultima_actualitzacio": "15:11:44"
 }
