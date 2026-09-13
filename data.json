@@ -1789,6 +1789,13 @@
       "hora": "17:30",
       "ts": "2026-09-13T17:30:53.190720",
       "collage": "collages/collage_1789313452955805.webp"
+    },
+    {
+      "text": "42è partit oficial per a Bernal amb el Barça. Supera Cristóbal (1987-1992), Ezquerro (2005-2008) i Junior Firpo (2019-2021). Empata amb Amarillo (1976-1979), Riquelme (2002-2003), Trincão (2020-2021), Memphis (2021-2023) i Szczęsny (2024-2027) en el ➡️ 316è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:49",
+      "ts": "2026-09-13T17:49:25.916264",
+      "collage": "collages/collage_1789314565373221.webp"
     }
   ],
   "baseline": {
@@ -3153,7 +3160,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 93,
+        "pj": 94,
         "g": 20,
         "inici": "2024",
         "final": "2027"
@@ -4056,7 +4063,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 41,
+        "pj": 42,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -9721,7 +9728,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 62,
+        "pj": 63,
         "g": 17,
         "inici": "2024",
         "final": "2027"
@@ -10512,7 +10519,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 29,
+        "pj": 30,
         "g": 2,
         "inici": "2024",
         "final": "2027"
@@ -21577,5 +21584,5 @@
     "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:30:57"
+  "ultima_actualitzacio": "17:49:30"
 }
