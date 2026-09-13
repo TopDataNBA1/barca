@@ -1838,6 +1838,13 @@
       "hora": "18:02",
       "ts": "2026-09-13T18:02:27.548739",
       "collage": "collages/collage_1789315347087901.webp"
+    },
+    {
+      "text": "52è partit de Lliga per a João Cancelo amb el Barça. Supera Pichi Alonso (1982-1986), Bonano (2001-2004) i Dest (2020-2022) i ara ocupa el ➡️ 227è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:03",
+      "ts": "2026-09-13T18:02:27.548739",
+      "collage": "collages/collage_1789315347358793.webp"
     }
   ],
   "baseline": {
@@ -21626,5 +21633,5 @@
     "kickoff_ts": 1789309123
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:02:30"
+  "ultima_actualitzacio": "18:03:30"
 }
