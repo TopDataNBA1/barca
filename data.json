@@ -1635,6 +1635,13 @@
       "hora": "15:16",
       "ts": "2026-09-13T15:09:45.959456",
       "collage": "collages/collage_1789304985756501.webp"
+    },
+    {
+      "text": "11è partit oficial per a Espart amb el Barça. Supera Reguera (1913-1919), Muntaner (1939-1940), Noguera (1947-1949), Bustillo (1968-1972), Bio (1977-1979), Sánchez Jara (1990-1995), Lopetegui (1994-1997) i Damià (2004-2006). Empata amb Font (1929-1932), Trujillo (1933-1935), Argila (1940-1944), Va (1940-1941), Fernández (1967-1969), Paredes (1968-1972), Roberto Dinamite (1979-1980) i Angoy (1990-1996) en el ➡️ 502è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:17",
+      "ts": "2026-09-13T15:09:46.628514",
+      "collage": "collages/collage_1789304986068699.webp"
     }
   ],
   "baseline": {
@@ -21419,9 +21426,9 @@
   "match_rival": "Levante",
   "proper_partit": {
     "descripcio": "Lliga · Levante - Barça",
-    "compte_enrere": "0d 0h 57m 47s",
-    "kickoff_ts": 1789308900
+    "compte_enrere": "0d 0h 56m 33s",
+    "kickoff_ts": 1789308899
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:16:45"
+  "ultima_actualitzacio": "15:17:45"
 }
