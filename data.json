@@ -1935,6 +1935,13 @@
       "hora": "20:32",
       "ts": "2026-09-16T20:23:18.834909",
       "collage": "collages/collage_1789582998612007.webp"
+    },
+    {
+      "text": "95è partit oficial per a Dani Olmo amb el Barça. Supera Pesudo (1961-1966), Rojo (1983-1987) i Popescu (1995-1997). Empata amb Zenden (1998-2001) en el ➡️ 191è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:33",
+      "ts": "2026-09-16T20:23:19.490679",
+      "collage": "collages/collage_1789582998978855.webp"
     }
   ],
   "baseline": {
@@ -21719,9 +21726,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 58m 0s",
+    "compte_enrere": "0d 0h 56m 46s",
     "kickoff_ts": 1789586999
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:32:20"
+  "ultima_actualitzacio": "20:33:20"
 }
