@@ -1900,6 +1900,20 @@
       "hora": "20:27",
       "ts": "2026-09-16T20:23:17.525400",
       "collage": "collages/collage_1789582997038570.webp"
+    },
+    {
+      "text": "120è partit de Lliga per a Eric Garcia amb el Barça. Supera Ramos (1976-1982), Zuviría (1977-1982) i Keita (2008-2012). Empata amb Urruti (1981-1988) i Gavi (2021-2027) en el ➡️ 111è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:28",
+      "ts": "2026-09-16T20:23:17.525400",
+      "collage": "collages/collage_1789582997324449.webp"
+    },
+    {
+      "text": "98è partit oficial per a Gerard Martín amb el Barça. Supera Arocha (1927-1933) i Òscar (1992-1999) i ara ocupa el ➡️ 186è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:29",
+      "ts": "2026-09-16T20:23:18.062170",
+      "collage": "collages/collage_1789582997603356.webp"
     }
   ],
   "baseline": {
@@ -21684,9 +21698,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 1h 1m 42s",
+    "compte_enrere": "0d 1h 1m 5s",
     "kickoff_ts": 1789587000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:27:20"
+  "ultima_actualitzacio": "20:29:20"
 }
