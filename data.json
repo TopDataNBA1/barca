@@ -1872,6 +1872,20 @@
       "hora": "20:23",
       "ts": "2026-09-16T20:23:16.476745",
       "collage": "collages/collage_1789582995941826.webp"
+    },
+    {
+      "text": "36è partit de Lliga per a Joan Garcia amb el Barça. Supera Anguera (1940-1942) i Amarilla (1985-1988). Empata amb Seminario (1964-1967), Morán (1981-1984), Maradona (1982-1984), Hagi (1994-1996), Arda Turan (2015-2018) i Gündoğan (2023-2024) en el ➡️ 277è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:24",
+      "ts": "2026-09-16T20:23:16.476745",
+      "collage": "collages/collage_1789582996254828.webp"
+    },
+    {
+      "text": "104è partit oficial per a Christensen amb el Barça. Supera Castillo (1926-1932), Belletti (2004-2007) i Bartra (2009-2016) i ara ocupa el ➡️ 175è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:25",
+      "ts": "2026-09-16T20:23:16.975599",
+      "collage": "collages/collage_1789582996554721.webp"
     }
   ],
   "baseline": {
@@ -21656,9 +21670,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 1h 6m 0s",
-    "kickoff_ts": 1789586999
+    "compte_enrere": "0d 1h 4m 10s",
+    "kickoff_ts": 1789587000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:23:19"
+  "ultima_actualitzacio": "20:25:20"
 }
