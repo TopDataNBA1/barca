@@ -1942,6 +1942,13 @@
       "hora": "20:33",
       "ts": "2026-09-16T20:23:19.490679",
       "collage": "collages/collage_1789582998978855.webp"
+    },
+    {
+      "text": "64è partit de Lliga per a Dani Olmo amb el Barça. Supera Pujol (1964-1973), Rojo (1983-1987) i Nando (1990-1992). Empata amb Goiburu (1929-1934) i Zenden (1998-2001) en el ➡️ 192è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:34",
+      "ts": "2026-09-16T20:23:19.490679",
+      "collage": "collages/collage_1789582999273757.webp"
     }
   ],
   "baseline": {
@@ -21726,9 +21733,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 56m 46s",
+    "compte_enrere": "0d 0h 55m 32s",
     "kickoff_ts": 1789586999
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:33:20"
+  "ultima_actualitzacio": "20:34:20"
 }
