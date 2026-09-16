@@ -1956,6 +1956,13 @@
       "hora": "20:35",
       "ts": "2026-09-16T20:23:19.973525",
       "collage": "collages/collage_1789582999543668.webp"
+    },
+    {
+      "text": "171è partit de Lliga per a Pedri amb el Barça. Supera Velasco (1942-1955), Costas (1970-1980) i Schuster (1980-1988) i ara ocupa el ➡️ 63è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:36",
+      "ts": "2026-09-16T20:23:19.973525",
+      "collage": "collages/collage_1789582999768613.webp"
     }
   ],
   "baseline": {
@@ -21740,9 +21747,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 54m 19s",
+    "compte_enrere": "0d 0h 53m 42s",
     "kickoff_ts": 1789587000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:35:20"
+  "ultima_actualitzacio": "20:36:21"
 }
