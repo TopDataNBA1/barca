@@ -1949,6 +1949,13 @@
       "hora": "20:34",
       "ts": "2026-09-16T20:23:19.490679",
       "collage": "collages/collage_1789582999273757.webp"
+    },
+    {
+      "text": "252è partit oficial per a Pedri amb el Barça. . Ocupa el ➡️ 59è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:35",
+      "ts": "2026-09-16T20:23:19.973525",
+      "collage": "collages/collage_1789582999543668.webp"
     }
   ],
   "baseline": {
@@ -21733,9 +21740,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 55m 32s",
-    "kickoff_ts": 1789586999
+    "compte_enrere": "0d 0h 54m 19s",
+    "kickoff_ts": 1789587000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:34:20"
+  "ultima_actualitzacio": "20:35:20"
 }
