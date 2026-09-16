@@ -2061,6 +2061,20 @@
       "hora": "22:11",
       "ts": "2026-09-16T22:11:08.508189",
       "collage": "collages/collage_1789589468297257.webp"
+    },
+    {
+      "text": "⚽ 85è gol de Raphinha amb el Barça. Empata amb Julio Salinas (1988-1994) i Xavi (1997-2015) en el ➡️ 27è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:19",
+      "ts": "2026-09-16T22:19:47.334498",
+      "collage": "collages/collage_1789589986929637.webp"
+    },
+    {
+      "text": "⚽ 52è gol de Raphinha a la Lliga amb el Barça. Supera Arocha (1928-1933) i ara ocupa el ➡️ 34è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:19",
+      "ts": "2026-09-16T22:19:47.334498",
+      "collage": "collages/collage_1789589987156568.webp"
     }
   ],
   "baseline": {
@@ -2747,7 +2761,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 184,
-        "g": 84,
+        "g": 85,
         "inici": "2022",
         "final": "2027"
       },
@@ -9280,7 +9294,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 128,
-        "g": 51,
+        "g": 52,
         "inici": "2022",
         "final": "2027"
       },
@@ -21849,5 +21863,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:11:12"
+  "ultima_actualitzacio": "22:19:52"
 }
