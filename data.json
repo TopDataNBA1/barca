@@ -1921,6 +1921,13 @@
       "hora": "20:30",
       "ts": "2026-09-16T20:23:18.062170",
       "collage": "collages/collage_1789582997863246.webp"
+    },
+    {
+      "text": "71è partit oficial per a João Cancelo amb el Barça. Supera Franco (1934-1944), Miró (1939-1943), Sotil (1973-1977) i Simão (1999-2001). Empata amb Iván Iglesias (1993-1996), Denis Suárez (2016-2019) i Iñigo Martínez (2023-2025) en el ➡️ 239è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:31",
+      "ts": "2026-09-16T20:23:18.834909",
+      "collage": "collages/collage_1789582998307122.webp"
     }
   ],
   "baseline": {
@@ -21705,9 +21712,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 59m 51s",
+    "compte_enrere": "0d 0h 58m 37s",
     "kickoff_ts": 1789586999
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:30:20"
+  "ultima_actualitzacio": "20:31:20"
 }
