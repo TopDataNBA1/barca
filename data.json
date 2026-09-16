@@ -2047,6 +2047,20 @@
       "hora": "22:00",
       "ts": "2026-09-16T22:00:02.371855",
       "collage": "collages/collage_1789588802186915.webp"
+    },
+    {
+      "text": "⚽ 8è gol de João Cancelo amb el Barça. Supera Walter (1924-1931), Badenes (1946-1949), Florencio (1947-1949), Aretio (1949-1950), Juanito (1971-1975), Van Bronckhorst (2003-2007), Sandro (2014-2016), Lenglet (2018-2022), Eric Garcia (2021-2027) i De Jong (2021-2022). Empata amb Sampedro (1955-1959), Vicente (1961-1966), Luis García (1997-2004), Ezquerro (2005-2008) i Denis Suárez (2016-2019) en el ➡️ 202è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:11",
+      "ts": "2026-09-16T22:11:08.508189",
+      "collage": "collages/collage_1789589467996368.webp"
+    },
+    {
+      "text": "⚽ 6è gol de João Cancelo a la Lliga amb el Barça. Supera Zabalo (1929-1945), Balmanya (1935-1944), Emilín (1939-1940), Riba (1943-1945), Gracia (1952-1966), Hanke (1952-1956), Juanito (1971-1975), Fortes (1975-1979), Paco Martínez (1976-1982), Gerardo (1981-1988), Periko Alonso (1982-1985), Iván Iglesias (1993-1996), Frank de Boer (1998-2003), Gerard (2000-2005), Van Bronckhorst (2003-2007), Bartra (2009-2016), Munir (2014-2019), Arda Turan (2015-2018), Braithwaite (2019-2022), Koundé (2022-2027) i Gündoğan (2023-2024). Empata amb Piera (1928-1933), Calvet (1939-1953), Colino (1945-1948), Gamonal (1945-1946), Badenes (1946-1949), Aloy (1950-1954), Sampedro (1955-1959), De la Cruz (1972-1980), Guardiola (1989-2001), Goikoetxea (1990-1994), Sergi (1992-2002), Motta (2001-2007), Gavi (2021-2027) i De Jong (2021-2022) en el ➡️ 186è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:11",
+      "ts": "2026-09-16T22:11:08.508189",
+      "collage": "collages/collage_1789589468297257.webp"
     }
   ],
   "baseline": {
@@ -3748,7 +3762,7 @@
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
         "pj": 71,
-        "g": 7,
+        "g": 8,
         "inici": "2023",
         "final": "2027"
       },
@@ -10155,7 +10169,7 @@
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
         "pj": 53,
-        "g": 5,
+        "g": 6,
         "inici": "2023",
         "final": "2027"
       },
@@ -21835,5 +21849,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:00:08"
+  "ultima_actualitzacio": "22:11:12"
 }
