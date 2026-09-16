@@ -1928,6 +1928,13 @@
       "hora": "20:31",
       "ts": "2026-09-16T20:23:18.834909",
       "collage": "collages/collage_1789582998307122.webp"
+    },
+    {
+      "text": "53è partit de Lliga per a João Cancelo amb el Barça. Empata amb Piera (1928-1933) i Paco Martínez (1976-1982) en el ➡️ 225è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:32",
+      "ts": "2026-09-16T20:23:18.834909",
+      "collage": "collages/collage_1789582998612007.webp"
     }
   ],
   "baseline": {
@@ -21712,9 +21719,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 58m 37s",
+    "compte_enrere": "0d 0h 58m 0s",
     "kickoff_ts": 1789586999
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:31:20"
+  "ultima_actualitzacio": "20:32:20"
 }
