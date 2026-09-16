@@ -1893,6 +1893,13 @@
       "hora": "20:26",
       "ts": "2026-09-16T20:23:16.975599",
       "collage": "collages/collage_1789582996799660.webp"
+    },
+    {
+      "text": "171è partit oficial per a Eric Garcia amb el Barça. Supera Moratalla (1981-1988) i ara ocupa el ➡️ 111è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:27",
+      "ts": "2026-09-16T20:23:17.525400",
+      "collage": "collages/collage_1789582997038570.webp"
     }
   ],
   "baseline": {
@@ -21677,9 +21684,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 1h 2m 56s",
+    "compte_enrere": "0d 1h 1m 42s",
     "kickoff_ts": 1789587000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:26:20"
+  "ultima_actualitzacio": "20:27:20"
 }
