@@ -21799,12 +21799,12 @@
       }
     }
   },
-  "match_status": "U",
+  "match_status": "L",
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 45m 5s",
-    "kickoff_ts": 1789587000
+    "compte_enrere": "0d 0h 0m 0s",
+    "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
   "ultima_actualitzacio": "20:44:21"
