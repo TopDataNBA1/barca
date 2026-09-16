@@ -2103,6 +2103,13 @@
       "hora": "22:44",
       "ts": "2026-09-16T22:43:19.083171",
       "collage": "collages/collage_1789591398861242.webp"
+    },
+    {
+      "text": "43è partit oficial per a Bernal amb el Barça. Supera Amarillo (1976-1979), Riquelme (2002-2003), Trincão (2020-2021) i Memphis (2021-2023). Empata amb Vidal I (1963-1968), Kodro (1995-1996), Geovanni (2001-2003), Kessié (2022-2023) i Szczęsny (2024-2027) en el ➡️ 312è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:00",
+      "ts": "2026-09-16T23:00:43.643084",
+      "collage": "collages/collage_1789592443097216.webp"
     }
   ],
   "baseline": {
@@ -2900,7 +2907,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 168,
+        "pj": 169,
         "g": 10,
         "inici": "2021",
         "final": "2027"
@@ -4342,7 +4349,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 42,
+        "pj": 43,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -9405,7 +9412,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 120,
+        "pj": 121,
         "g": 6,
         "inici": "2021",
         "final": "2027"
@@ -10798,7 +10805,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 30,
+        "pj": 31,
         "g": 2,
         "inici": "2024",
         "final": "2027"
@@ -21891,5 +21898,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:44:23"
+  "ultima_actualitzacio": "23:00:43"
 }
