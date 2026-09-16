@@ -1998,6 +1998,13 @@
       "hora": "20:41",
       "ts": "2026-09-16T20:23:21.824635",
       "collage": "collages/collage_1789583001393135.webp"
+    },
+    {
+      "text": "107è partit de Lliga per a Lamine Yamal amb el Barça. Empata amb Zaballa (1961-1967) en el ➡️ 126è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:42",
+      "ts": "2026-09-16T20:23:21.824635",
+      "collage": "collages/collage_1789583001638719.webp"
     }
   ],
   "baseline": {
@@ -21782,9 +21789,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 48m 10s",
+    "compte_enrere": "0d 0h 46m 56s",
     "kickoff_ts": 1789587000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:41:21"
+  "ultima_actualitzacio": "20:42:21"
 }
