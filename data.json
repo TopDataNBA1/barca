@@ -2145,6 +2145,13 @@
       "hora": "23:09",
       "ts": "2026-09-16T23:08:12.346035",
       "collage": "collages/collage_1789592892138103.webp"
+    },
+    {
+      "text": "169è partit oficial per a Balde amb el Barça. Empata amb Gavi (2021-2027) en el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:16",
+      "ts": "2026-09-16T23:16:17.220900",
+      "collage": "collages/collage_1789593376851982.webp"
     }
   ],
   "baseline": {
@@ -2935,7 +2942,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 168,
+        "pj": 169,
         "g": 3,
         "inici": "2021",
         "final": "2027"
@@ -9482,7 +9489,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 116,
+        "pj": 117,
         "g": 1,
         "inici": "2021",
         "final": "2027"
@@ -21933,5 +21940,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "23:09:14"
+  "ultima_actualitzacio": "23:16:19"
 }
