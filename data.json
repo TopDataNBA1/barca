@@ -1865,6 +1865,13 @@
       "tipus": "prioritaria",
       "hora": "18:21",
       "ts": "2026-09-13T18:21:50.954358"
+    },
+    {
+      "text": "52è partit oficial per a Joan Garcia amb el Barça. Supera Hagi (1994-1996), Aleix Vidal (2015-2018) i Gündoğan (2023-2024). Empata amb Bestit (1929-1934) en el ➡️ 290è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:23",
+      "ts": "2026-09-16T20:23:16.476745",
+      "collage": "collages/collage_1789582995941826.webp"
     }
   ],
   "baseline": {
@@ -2277,7 +2284,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 251,
+        "pj": 252,
         "g": 29,
         "inici": "2020",
         "final": "2027"
@@ -2550,7 +2557,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 183,
+        "pj": 184,
         "g": 83,
         "inici": "2022",
         "final": "2027"
@@ -2648,7 +2655,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 170,
+        "pj": 171,
         "g": 7,
         "inici": "2021",
         "final": "2027"
@@ -2739,7 +2746,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 157,
+        "pj": 158,
         "g": 56,
         "inici": "2022",
         "final": "2027"
@@ -3103,7 +3110,7 @@
       },
       "Andreas Bødtker Christensen": {
         "alias": "Christensen",
-        "pj": 103,
+        "pj": 104,
         "g": 5,
         "inici": "2022",
         "final": "2027"
@@ -3173,7 +3180,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 97,
+        "pj": 98,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -3215,7 +3222,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 94,
+        "pj": 95,
         "g": 20,
         "inici": "2024",
         "final": "2027"
@@ -3565,7 +3572,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 70,
+        "pj": 71,
         "g": 6,
         "inici": "2023",
         "final": "2027"
@@ -3922,7 +3929,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 51,
+        "pj": 52,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -5896,7 +5903,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 6,
+        "pj": 7,
         "g": 3,
         "inici": "2026",
         "final": "2027"
@@ -6064,7 +6071,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 5,
+        "pj": 6,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -8845,7 +8852,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 170,
+        "pj": 171,
         "g": 23,
         "inici": "2020",
         "final": "2027"
@@ -9083,7 +9090,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 127,
+        "pj": 128,
         "g": 50,
         "inici": "2022",
         "final": "2027"
@@ -9195,7 +9202,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 119,
+        "pj": 120,
         "g": 4,
         "inici": "2021",
         "final": "2027"
@@ -9272,7 +9279,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 106,
+        "pj": 107,
         "g": 36,
         "inici": "2022",
         "final": "2027"
@@ -9587,7 +9594,7 @@
       },
       "Andreas Bødtker Christensen": {
         "alias": "Christensen",
-        "pj": 75,
+        "pj": 76,
         "g": 3,
         "inici": "2022",
         "final": "2027"
@@ -9741,7 +9748,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 64,
+        "pj": 65,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -9769,7 +9776,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 63,
+        "pj": 64,
         "g": 17,
         "inici": "2024",
         "final": "2027"
@@ -9972,7 +9979,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 52,
+        "pj": 53,
         "g": 4,
         "inici": "2023",
         "final": "2027"
@@ -10378,7 +10385,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 35,
+        "pj": 36,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -12212,7 +12219,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 5,
+        "pj": 6,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -12359,7 +12366,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 4,
+        "pj": 5,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -21649,9 +21656,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 2h 48m 34s",
-    "kickoff_ts": 1789587000
+    "compte_enrere": "0d 1h 6m 0s",
+    "kickoff_ts": 1789586999
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:21:55"
+  "ultima_actualitzacio": "20:23:19"
 }
