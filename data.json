@@ -1991,6 +1991,13 @@
       "hora": "20:40",
       "ts": "2026-09-16T20:23:21.312166",
       "collage": "collages/collage_1789583001059243.webp"
+    },
+    {
+      "text": "158è partit oficial per a Lamine Yamal amb el Barça. Supera Calderé (1983-1988). Empata amb Ramos (1976-1982) en el ➡️ 123è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:41",
+      "ts": "2026-09-16T20:23:21.824635",
+      "collage": "collages/collage_1789583001393135.webp"
     }
   ],
   "baseline": {
@@ -21775,9 +21782,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 49m 24s",
+    "compte_enrere": "0d 0h 48m 10s",
     "kickoff_ts": 1789587000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:40:21"
+  "ultima_actualitzacio": "20:41:21"
 }
