@@ -21973,12 +21973,12 @@
       }
     }
   },
-  "match_status": "C",
-  "match_rival": "Racing De Santander",
+  "match_status": "U",
+  "match_rival": "Sevilla",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1789587361
+    "descripcio": "Lliga · Barça - Sevilla",
+    "compte_enrere": "2d 21h 16m 17s",
+    "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
   "ultima_actualitzacio": "23:43:18"
