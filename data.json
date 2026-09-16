@@ -2089,6 +2089,20 @@
       "hora": "22:21",
       "ts": "2026-09-16T22:21:01.890788",
       "collage": "collages/collage_1789590061700850.webp"
+    },
+    {
+      "text": "43è partit oficial per a Szczęsny amb el Barça. Supera Amarillo (1976-1979), Riquelme (2002-2003), Trincão (2020-2021), Memphis (2021-2023) i Bernal (2024-2027). Empata amb Vidal I (1963-1968), Kodro (1995-1996), Geovanni (2001-2003) i Kessié (2022-2023) en el ➡️ 312è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:43",
+      "ts": "2026-09-16T22:43:19.083171",
+      "collage": "collages/collage_1789591398561342.webp"
+    },
+    {
+      "text": "24è partit de Lliga per a Szczęsny amb el Barça. Supera Aldecoa (1950-1954), Sampedro (1955-1959), Pellegrino (1998-1999), Petit (2000-2001) i Coco (2001-2002). Empata amb Morera (1933-1935), Zabala (1941-1943), Gamonal (1945-1946), Canal (1946-1952), Arnau (1996-2001), Ezquerro (2005-2008), Van Bommel (2005-2007), Junior Firpo (2019-2021) i Fort (2023-2025) en el ➡️ 340è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:44",
+      "ts": "2026-09-16T22:43:19.083171",
+      "collage": "collages/collage_1789591398861242.webp"
     }
   ],
   "baseline": {
@@ -4321,7 +4335,7 @@
       },
       "Wojciech Tomasz Szczęsny": {
         "alias": "Szczęsny",
-        "pj": 42,
+        "pj": 43,
         "g": 0,
         "inici": "2024",
         "final": "2027"
@@ -11085,7 +11099,7 @@
       },
       "Wojciech Tomasz Szczęsny": {
         "alias": "Szczęsny",
-        "pj": 23,
+        "pj": 24,
         "g": 0,
         "inici": "2024",
         "final": "2027"
@@ -21877,5 +21891,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:21:06"
+  "ultima_actualitzacio": "22:44:23"
 }
