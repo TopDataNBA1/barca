@@ -1886,6 +1886,13 @@
       "hora": "20:25",
       "ts": "2026-09-16T20:23:16.975599",
       "collage": "collages/collage_1789582996554721.webp"
+    },
+    {
+      "text": "76è partit de Lliga per a Christensen amb el Barça. Supera Kocsis (1958-1966). Empata amb Sans (1943-1950) i Coutinho (2017-2022) en el ➡️ 169è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:26",
+      "ts": "2026-09-16T20:23:16.975599",
+      "collage": "collages/collage_1789582996799660.webp"
     }
   ],
   "baseline": {
@@ -21670,9 +21677,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 1h 4m 10s",
+    "compte_enrere": "0d 1h 2m 56s",
     "kickoff_ts": 1789587000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:25:20"
+  "ultima_actualitzacio": "20:26:20"
 }
