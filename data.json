@@ -2117,6 +2117,20 @@
       "hora": "23:01",
       "ts": "2026-09-16T23:00:43.643084",
       "collage": "collages/collage_1789592443421154.webp"
+    },
+    {
+      "text": "169è partit oficial per a Gavi amb el Barça. Supera Balde (2021-2027) i ara ocupa el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:02",
+      "ts": "2026-09-16T23:01:21.485539",
+      "collage": "collages/collage_1789592481060913.webp"
+    },
+    {
+      "text": "121è partit de Lliga per a Gavi amb el Barça. Supera Urruti (1981-1988) i Eric Garcia (2021-2027). Empata amb Bravo (1940-1948) en el ➡️ 110è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "23:03",
+      "ts": "2026-09-16T23:01:21.485539",
+      "collage": "collages/collage_1789592481298861.webp"
     }
   ],
   "baseline": {
@@ -21905,5 +21919,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "23:01:44"
+  "ultima_actualitzacio": "23:03:44"
 }
