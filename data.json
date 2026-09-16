@@ -2187,6 +2187,12 @@
       "hora": "23:28",
       "ts": "2026-09-16T23:28:44.557948",
       "collage": "collages/collage_1789594124403948.webp"
+    },
+    {
+      "text": "📋 16/09/2026 · LLIGA · BARÇA - RACING DE SANTANDER",
+      "tipus": "prioritaria",
+      "hora": "23:43",
+      "ts": "2026-09-16T23:43:13.937446"
     }
   ],
   "baseline": {
@@ -21967,7 +21973,7 @@
       }
     }
   },
-  "match_status": "L",
+  "match_status": "C",
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
@@ -21975,5 +21981,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "23:28:51"
+  "ultima_actualitzacio": "23:43:18"
 }
