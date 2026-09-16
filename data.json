@@ -2082,6 +2082,13 @@
       "hora": "22:21",
       "ts": "2026-09-16T22:21:01.890788",
       "collage": "collages/collage_1789590061461942.webp"
+    },
+    {
+      "text": "⚽ 53è gol de Raphinha a la Lliga amb el Barça. Empata amb Quini (1980-1984) en el ➡️ 33è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:21",
+      "ts": "2026-09-16T22:21:01.890788",
+      "collage": "collages/collage_1789590061700850.webp"
     }
   ],
   "baseline": {
@@ -21870,5 +21877,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:21:04"
+  "ultima_actualitzacio": "22:21:06"
 }
