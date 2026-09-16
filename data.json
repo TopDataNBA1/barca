@@ -1970,6 +1970,13 @@
       "hora": "20:37",
       "ts": "2026-09-16T20:23:20.631313",
       "collage": "collages/collage_1789583000116502.webp"
+    },
+    {
+      "text": "5è partit de Lliga per a Rodri amb el Barça. Supera Campabadal (1928-1930), Gual (1931-1936), Gámiz (1931-1932), Barceló (1935-1936), Pachi (1939-1940), Colominas (1941-1942), Basilio (1943-1945), Duró (1953-1954), Hermes González (1957-1959), Celdrán (1959-1963), Medrano (1959-1961), Félix (1978-1981), Nano (1999-2003), Sergio García (2002-2004), Rüştü (2003-2004), Todibo (2018-2020), Wagué (2018-2020), Agüero (2021-2022), Alarcón (2022-2024) i Dro (2025-2026). Empata amb Vidal (1928-1929), García (1929-1931), Vidal (1931-1933), Quique (1940-1941), Serratusell (1941-1950), Periche (1946-1950), Cerveró (1948-1950), Escudero (1949-1952), Tejedor (1950-1952), Maristany (1952-1955), Goicolea (1953-1959), Beitia (1960-1961), Rodri (1960-1961), Endériz (1966-1968), Amigó (1979-1980), Unzué (1988-1990), Lopetegui (1994-1997), Rodri (2003-2006), Albertini (2004-2005), Cillessen (2016-2019), Yerry Mina (2017-2018) i Gordon (2026-2027) en el ➡️ 525è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:38",
+      "ts": "2026-09-16T20:23:20.631313",
+      "collage": "collages/collage_1789583000424392.webp"
     }
   ],
   "baseline": {
@@ -21754,9 +21761,9 @@
   "match_rival": "Racing De Santander",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Racing De Santander",
-    "compte_enrere": "0d 0h 52m 28s",
-    "kickoff_ts": 1789587000
+    "compte_enrere": "0d 0h 51m 14s",
+    "kickoff_ts": 1789586999
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:37:21"
+  "ultima_actualitzacio": "20:38:21"
 }
