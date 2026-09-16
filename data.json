@@ -2075,6 +2075,13 @@
       "hora": "22:19",
       "ts": "2026-09-16T22:19:47.334498",
       "collage": "collages/collage_1789589987156568.webp"
+    },
+    {
+      "text": "⚽ 86è gol de Raphinha amb el Barça. Supera Julio Salinas (1988-1994) i Xavi (1997-2015) i ara ocupa el ➡️ 27è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:21",
+      "ts": "2026-09-16T22:21:01.890788",
+      "collage": "collages/collage_1789590061461942.webp"
     }
   ],
   "baseline": {
@@ -2761,7 +2768,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 184,
-        "g": 85,
+        "g": 86,
         "inici": "2022",
         "final": "2027"
       },
@@ -9294,7 +9301,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 128,
-        "g": 52,
+        "g": 53,
         "inici": "2022",
         "final": "2027"
       },
@@ -21863,5 +21870,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:19:52"
+  "ultima_actualitzacio": "22:21:04"
 }
