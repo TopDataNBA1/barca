@@ -2033,6 +2033,20 @@
       "hora": "21:42",
       "ts": "2026-09-16T21:42:48.168039",
       "collage": "collages/collage_1789587767942114.webp"
+    },
+    {
+      "text": "⚽ 84è gol de Raphinha amb el Barça. Supera Arocha (1927-1933) i ara ocupa el ➡️ 29è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:00",
+      "ts": "2026-09-16T22:00:02.371855",
+      "collage": "collages/collage_1789588801934998.webp"
+    },
+    {
+      "text": "⚽ 51è gol de Raphinha a la Lliga amb el Barça. Supera Bravo (1940-1948). Empata amb Arocha (1928-1933) en el ➡️ 34è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "22:00",
+      "ts": "2026-09-16T22:00:02.371855",
+      "collage": "collages/collage_1789588802186915.webp"
     }
   ],
   "baseline": {
@@ -2719,7 +2733,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 184,
-        "g": 83,
+        "g": 84,
         "inici": "2022",
         "final": "2027"
       },
@@ -9252,7 +9266,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 128,
-        "g": 50,
+        "g": 51,
         "inici": "2022",
         "final": "2027"
       },
@@ -21821,5 +21835,5 @@
     "kickoff_ts": 1789587361
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "21:42:54"
+  "ultima_actualitzacio": "22:00:08"
 }
