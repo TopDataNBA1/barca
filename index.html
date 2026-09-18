@@ -134,7 +134,6 @@
         <svg class="topbar-icon" viewBox="0 0 24 24">
             <path d="M12 22a2 2 0 0 0 2-2h-4a2 2 0 0 0 2 2zm6-6V11a6 6 0 1 0-12 0v5l-2 2v1h16v-1l-2-2z"/>
         </svg>
-        <span style="font-size:0.75em;color:#888;" title="Visites totals">👁 <span id="visites-total">–</span></span>
     </div>
 </div>
 
@@ -511,8 +510,7 @@
             btn.classList.add('shared');
             setTimeout(()=>btn.classList.remove('shared'),1500);
             // Registrar compartició
-            const key = clean.slice(0, 80);
-            if (window._comptadorCompartir) window._comptadorCompartir(key);
+            if (window._comptadorCompartir) window._comptadorCompartir(clean);
         } catch(e){}
     }
 
@@ -569,55 +567,22 @@
 
     updateMoves();
 </script>
-<!-- Backend de comptadors -->
-<iframe id="comptadors-frame"
-  src="https://claude.ai/artifact/BZxtjrVKGKLEwzmaDYD9di"
-  style="display:none" width="0" height="0">
-</iframe>
+
+<!-- GoatCounter: comptador de visites -->
+<script data-goatcounter="https://topdatabarca.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
 
 <script>
-(function() {
-  const frame = document.getElementById('comptadors-frame');
-  let frameReady = false;
-  const queue = [];
-
-  function send(msg) {
-    if (frameReady) {
-      frame.contentWindow.postMessage(msg, '*');
-    } else {
-      queue.push(msg);
+// Comptador de comparticions via GoatCounter
+window._comptadorCompartir = function(key) {
+    if (window.goatcounter && window.goatcounter.count) {
+        window.goatcounter.count({
+            path: 'compartit/' + key.replace(/[^a-zA-Z0-9]/g, '_').slice(0, 60),
+            title: 'Compartit: ' + key.slice(0, 60),
+            event: true,
+        });
     }
-  }
-
-  frame.addEventListener('load', () => {
-    // Esperar un moment perquè el JS de l'artifact s'inicialitze
-    setTimeout(() => {
-      frameReady = true;
-      queue.forEach(m => frame.contentWindow.postMessage(m, '*'));
-      queue.length = 0;
-      // Registrar visita
-      send({ type: 'visita' });
-      // Carregar total de visites
-      send({ type: 'get_visites' });
-    }, 2000);
-  });
-
-  window.addEventListener('message', (e) => {
-    if (e.data?.type === 'visites_data') {
-      const el = document.getElementById('visites-total');
-      if (el) el.textContent = e.data.total.toLocaleString('ca');
-    }
-    if (e.data?.type === 'compartir_ok') {
-      const el = document.getElementById('share-count-' + CSS.escape(e.data.key));
-      if (el) el.textContent = e.data.total;
-    }
-  });
-
-  // Exposar funció global per als botons de compartir
-  window._comptadorCompartir = function(key) {
-    send({ type: 'compartir', key });
-  };
-})();
+};
 </script>
 </body>
 </html>
