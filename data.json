@@ -2256,6 +2256,13 @@
       "hora": "20:21",
       "ts": "2026-09-19T20:11:03.290120",
       "collage": "collages/collage_1789841462793277.webp"
+    },
+    {
+      "text": "95è partit de Lliga per a Fermín amb el Barça. Empata amb Hesp (1997-2000) en el ➡️ 140è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:22",
+      "ts": "2026-09-19T20:11:03.290120",
+      "collage": "collages/collage_1789841463058193.webp"
     }
   ],
   "baseline": {
@@ -22040,9 +22047,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 39m 2s",
-    "kickoff_ts": 1789844399
+    "compte_enrere": "0d 0h 37m 49s",
+    "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:21:03"
+  "ultima_actualitzacio": "20:22:03"
 }
