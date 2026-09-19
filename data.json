@@ -2242,6 +2242,13 @@
       "hora": "20:19",
       "ts": "2026-09-19T20:11:02.714408",
       "collage": "collages/collage_1789841462225472.webp"
+    },
+    {
+      "text": "90è partit de Lliga per a Cubarsí amb el Barça. Supera Zabalo (1929-1945), Garay (1960-1965), Martí Filosia (1966-1975) i Sylvinho (2004-2009). Empata amb Rosalén (1939-1946) i De la Peña (1995-2001) en el ➡️ 146è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:20",
+      "ts": "2026-09-19T20:11:02.714408",
+      "collage": "collages/collage_1789841462497495.webp"
     }
   ],
   "baseline": {
@@ -22026,9 +22033,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 41m 30s",
+    "compte_enrere": "0d 0h 40m 16s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:19:03"
+  "ultima_actualitzacio": "20:20:03"
 }
