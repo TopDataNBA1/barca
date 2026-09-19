@@ -2361,6 +2361,13 @@
       "hora": "22:16",
       "ts": "2026-09-19T22:16:03.961286",
       "collage": "collages/collage_1789848963785346.webp"
+    },
+    {
+      "text": "99è partit oficial per a Gerard Martín amb el Barça. Empata amb Valle (1940-1950) i Mora (1970-1979) en el ➡️ 184è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:22",
+      "ts": "2026-09-19T22:22:51.555777",
+      "collage": "collages/collage_1789849371143927.webp"
     }
   ],
   "baseline": {
@@ -3662,7 +3669,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 98,
+        "pj": 99,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -10223,7 +10230,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 65,
+        "pj": 66,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -22149,5 +22156,5 @@
     "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:16:06"
+  "ultima_actualitzacio": "22:22:53"
 }
