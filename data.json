@@ -2368,6 +2368,13 @@
       "hora": "22:22",
       "ts": "2026-09-19T22:22:51.555777",
       "collage": "collages/collage_1789849371143927.webp"
+    },
+    {
+      "text": "66è partit de Lliga per a Gerard Martín amb el Barça. Supera Pesudo (1961-1966). Empata amb Popescu (1995-1997) i Vidal (2018-2020) en el ➡️ 189è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:23",
+      "ts": "2026-09-19T22:22:51.555777",
+      "collage": "collages/collage_1789849371381846.webp"
     }
   ],
   "baseline": {
@@ -22156,5 +22163,5 @@
     "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:22:53"
+  "ultima_actualitzacio": "22:23:53"
 }
