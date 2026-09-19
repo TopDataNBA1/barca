@@ -2284,6 +2284,13 @@
       "hora": "20:25",
       "ts": "2026-09-19T20:11:04.734226",
       "collage": "collages/collage_1789841464206113.webp"
+    },
+    {
+      "text": "6è partit de Lliga per a Rodri amb el Barça. Supera Vidal (1928-1929), García (1929-1931), Vidal (1931-1933), Quique (1940-1941), Serratusell (1941-1950), Periche (1946-1950), Cerveró (1948-1950), Escudero (1949-1952), Tejedor (1950-1952), Maristany (1952-1955), Goicolea (1953-1959), Beitia (1960-1961), Rodri (1960-1961), Endériz (1966-1968), Amigó (1979-1980), Unzué (1988-1990), Lopetegui (1994-1997), Rodri (2003-2006), Albertini (2004-2005), Cillessen (2016-2019) i Yerry Mina (2017-2018). Empata amb Padrón (1933-1934), Hilario (1939-1940), Cortés (1972-1975), Sánchez Jara (1990-1995), Santamaría (1999-2004), Jutglà (2021-2022), Demir (2021-2022) i Adeyemi (2026-2027) en el ➡️ 518è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:26",
+      "ts": "2026-09-19T20:11:04.734226",
+      "collage": "collages/collage_1789841464524291.webp"
     }
   ],
   "baseline": {
@@ -22068,9 +22075,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 34m 44s",
+    "compte_enrere": "0d 0h 34m 7s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:25:03"
+  "ultima_actualitzacio": "20:26:03"
 }
