@@ -2214,6 +2214,13 @@
       "hora": "20:15",
       "ts": "2026-09-19T20:11:01.422243",
       "collage": "collages/collage_1789841460994376.webp"
+    },
+    {
+      "text": "121è partit de Lliga per a Eric Garcia amb el Barça. Supera Urruti (1981-1988). Empata amb Bravo (1940-1948) i Gavi (2021-2027) en el ➡️ 110è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:16",
+      "ts": "2026-09-19T20:11:01.422243",
+      "collage": "collages/collage_1789841461239318.webp"
     }
   ],
   "baseline": {
@@ -21998,9 +22005,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 44m 35s",
+    "compte_enrere": "0d 0h 43m 21s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:15:02"
+  "ultima_actualitzacio": "20:16:02"
 }
