@@ -2291,6 +2291,13 @@
       "hora": "20:26",
       "ts": "2026-09-19T20:11:04.734226",
       "collage": "collages/collage_1789841464524291.webp"
+    },
+    {
+      "text": "7è partit oficial per a Gordon amb el Barça. Supera Grau (1908-1911), Percy Wallace (1909-1914), Bau (1913-1916), Mallorquí (1913-1916), García (1929-1931), Gual (1931-1936), Santacatalina (1939-1941), Hilario (1939-1940), Quique (1940-1941), Serratusell (1941-1950), Cerveró (1948-1950), Maristany (1952-1955), Medrano (1959-1961), Beitia (1960-1961), Szalay (1961-1963), Manolo (1980-1986), Luis Cembranos (1994-1995), Nano (1999-2003), Albertini (2004-2005), Yerry Mina (2017-2018), Wagué (2018-2020) i Domínguez (2024-2025). Empata amb Rodríguez (1909-1912), Rocasolano II (1939-1940), Martínez (1941-1945), Navarro (1941-1942), Rueda (1944-1950), Giménez (1949-1950), Endériz (1966-1968), Cortés (1972-1975), Vilà (1977-1981), Amigó (1979-1980), Romerito (1988-1989), Santamaría (1999-2004), Rüştü (2003-2004), Guiu (2022-2024), Bellerín (2022-2023) i Adeyemi (2026-2027) en el ➡️ 555è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:27",
+      "ts": "2026-09-19T20:11:05.351038",
+      "collage": "collages/collage_1789841464833134.webp"
     }
   ],
   "baseline": {
@@ -22075,9 +22082,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 34m 7s",
-    "kickoff_ts": 1789844400
+    "compte_enrere": "0d 0h 32m 53s",
+    "kickoff_ts": 1789844399
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:26:03"
+  "ultima_actualitzacio": "20:27:03"
 }
