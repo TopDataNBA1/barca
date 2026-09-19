@@ -2326,6 +2326,13 @@
       "hora": "20:31",
       "ts": "2026-09-19T20:11:07.011433",
       "collage": "collages/collage_1789841466564557.webp"
+    },
+    {
+      "text": "129è partit de Lliga per a Raphinha amb el Barça. Empata amb Gabri (1999-2006) en el ➡️ 97è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:32",
+      "ts": "2026-09-19T20:11:07.011433",
+      "collage": "collages/collage_1789841466803481.webp"
     }
   ],
   "baseline": {
@@ -22110,9 +22117,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 28m 35s",
-    "kickoff_ts": 1789844400
+    "compte_enrere": "0d 0h 27m 21s",
+    "kickoff_ts": 1789844399
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:31:04"
+  "ultima_actualitzacio": "20:32:04"
 }
