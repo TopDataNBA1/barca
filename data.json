@@ -2424,6 +2424,13 @@
       "hora": "22:49",
       "ts": "2026-09-19T22:49:28.695300",
       "collage": "collages/collage_1789850968119199.webp"
+    },
+    {
+      "text": "32è partit de Lliga per a Bernal amb el Barça. Supera Sastre (1928-1932), Vidal I (1963-1968), Cristóbal (1987-1992) i Christanval (2001-2003). Empata amb León (1939-1941), Kodro (1995-1996) i Rashford (2025-2026) en el ➡️ 296è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:50",
+      "ts": "2026-09-19T22:49:28.695300",
+      "collage": "collages/collage_1789850968472371.webp"
     }
   ],
   "baseline": {
@@ -6994,7 +7001,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 3,
+        "pj": 4,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -13352,7 +13359,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 2,
+        "pj": 3,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -22212,5 +22219,5 @@
     "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:49:33"
+  "ultima_actualitzacio": "22:50:33"
 }
