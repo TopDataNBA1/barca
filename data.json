@@ -2319,6 +2319,13 @@
       "hora": "20:30",
       "ts": "2026-09-19T20:11:05.878777",
       "collage": "collages/collage_1789841465677840.webp"
+    },
+    {
+      "text": "185è partit oficial per a Raphinha amb el Barça. Empata amb Dembélé (2017-2023) en el ➡️ 95è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:31",
+      "ts": "2026-09-19T20:11:07.011433",
+      "collage": "collages/collage_1789841466564557.webp"
     }
   ],
   "baseline": {
@@ -22103,9 +22110,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 29m 49s",
+    "compte_enrere": "0d 0h 28m 35s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:30:04"
+  "ultima_actualitzacio": "20:31:04"
 }
