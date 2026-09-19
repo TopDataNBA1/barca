@@ -22113,12 +22113,12 @@
       }
     }
   },
-  "match_status": "U",
+  "match_status": "L",
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 27m 21s",
-    "kickoff_ts": 1789844399
+    "compte_enrere": "0d 0h 0m 0s",
+    "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
   "ultima_actualitzacio": "20:32:04"
