@@ -2333,6 +2333,20 @@
       "hora": "20:32",
       "ts": "2026-09-19T20:11:07.011433",
       "collage": "collages/collage_1789841466803481.webp"
+    },
+    {
+      "text": "⚽ 87è gol de Raphinha amb el Barça. . Ocupa el ➡️ 27è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "21:25",
+      "ts": "2026-09-19T21:25:32.575582",
+      "collage": "collages/collage_1789845932168120.webp"
+    },
+    {
+      "text": "⚽ 54è gol de Raphinha a la Lliga amb el Barça. Supera Quini (1980-1984). Empata amb Villaverde (1954-1963) en el ➡️ 32è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "21:25",
+      "ts": "2026-09-19T21:25:32.575582",
+      "collage": "collages/collage_1789845932394639.webp"
     }
   ],
   "baseline": {
@@ -3005,7 +3019,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 185,
-        "g": 86,
+        "g": 87,
         "inici": "2022",
         "final": "2027"
       },
@@ -9538,7 +9552,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 129,
-        "g": 53,
+        "g": 54,
         "inici": "2022",
         "final": "2027"
       },
@@ -22121,5 +22135,5 @@
     "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:32:04"
+  "ultima_actualitzacio": "21:25:36"
 }
