@@ -2270,6 +2270,13 @@
       "hora": "20:23",
       "ts": "2026-09-19T20:11:03.760976",
       "collage": "collages/collage_1789841463342110.webp"
+    },
+    {
+      "text": "172è partit de Lliga per a Pedri amb el Barça. Empata amb Figo (1995-2000) en el ➡️ 62è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:24",
+      "ts": "2026-09-19T20:11:03.761982",
+      "collage": "collages/collage_1789841463550043.webp"
     }
   ],
   "baseline": {
@@ -22054,9 +22061,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 37m 12s",
+    "compte_enrere": "0d 0h 35m 58s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:23:03"
+  "ultima_actualitzacio": "20:24:03"
 }
