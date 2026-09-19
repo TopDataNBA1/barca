@@ -2263,6 +2263,13 @@
       "hora": "20:22",
       "ts": "2026-09-19T20:11:03.290120",
       "collage": "collages/collage_1789841463058193.webp"
+    },
+    {
+      "text": "253è partit oficial per a Pedri amb el Barça. . Ocupa el ➡️ 59è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:23",
+      "ts": "2026-09-19T20:11:03.760976",
+      "collage": "collages/collage_1789841463342110.webp"
     }
   ],
   "baseline": {
@@ -22047,9 +22054,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 37m 49s",
+    "compte_enrere": "0d 0h 37m 12s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:22:03"
+  "ultima_actualitzacio": "20:23:03"
 }
