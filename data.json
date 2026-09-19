@@ -2396,6 +2396,13 @@
       "hora": "22:39",
       "ts": "2026-09-19T22:39:33.545530",
       "collage": "collages/collage_1789850373112899.webp"
+    },
+    {
+      "text": "65è partit de Lliga per a Dani Olmo amb el Barça. Supera Goiburu (1929-1934) i Zenden (1998-2001). Empata amb Pesudo (1961-1966) en el ➡️ 191è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:40",
+      "ts": "2026-09-19T22:39:33.545530",
+      "collage": "collages/collage_1789850373354591.webp"
     }
   ],
   "baseline": {
@@ -22184,5 +22191,5 @@
     "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:39:38"
+  "ultima_actualitzacio": "22:40:38"
 }
