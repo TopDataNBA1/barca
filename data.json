@@ -2200,6 +2200,13 @@
       "hora": "20:13",
       "ts": "2026-09-19T20:11:00.930396",
       "collage": "collages/collage_1789841460512423.webp"
+    },
+    {
+      "text": "77è partit de Lliga per a Christensen amb el Barça. Supera Sans (1943-1950) i Coutinho (2017-2022). Empata amb Valle (1940-1950) i Villa (2010-2013) en el ➡️ 167è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:14",
+      "ts": "2026-09-19T20:11:00.930396",
+      "collage": "collages/collage_1789841460748454.webp"
     }
   ],
   "baseline": {
@@ -21984,9 +21991,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 46m 26s",
+    "compte_enrere": "0d 0h 45m 12s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:13:02"
+  "ultima_actualitzacio": "20:14:02"
 }
