@@ -2417,6 +2417,13 @@
       "hora": "22:42",
       "ts": "2026-09-19T22:41:25.340478",
       "collage": "collages/collage_1789850485122548.webp"
+    },
+    {
+      "text": "44è partit oficial per a Bernal amb el Barça. Supera Vidal I (1963-1968), Kodro (1995-1996), Geovanni (2001-2003), Kessié (2022-2023) i Szczęsny (2024-2027). Empata amb Aleñá (2015-2021) i João Félix (2023-2024) en el ➡️ 310è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:49",
+      "ts": "2026-09-19T22:49:28.695300",
+      "collage": "collages/collage_1789850968119199.webp"
     }
   ],
   "baseline": {
@@ -4621,7 +4628,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 43,
+        "pj": 44,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -11056,7 +11063,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 31,
+        "pj": 32,
         "g": 2,
         "inici": "2024",
         "final": "2027"
@@ -22205,5 +22212,5 @@
     "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:42:38"
+  "ultima_actualitzacio": "22:49:33"
 }
