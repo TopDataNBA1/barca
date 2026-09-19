@@ -2445,6 +2445,12 @@
       "hora": "22:52",
       "ts": "2026-09-19T22:50:43.644461",
       "collage": "collages/collage_1789851043429528.webp"
+    },
+    {
+      "text": "📋 19/09/2026 · LLIGA · SEVILLA - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "22:59",
+      "ts": "2026-09-19T22:59:33.882581"
     }
   ],
   "baseline": {
@@ -22225,13 +22231,13 @@
       }
     }
   },
-  "match_status": "C",
-  "match_rival": "Sevilla",
+  "match_status": "U",
+  "match_rival": "Getafe",
   "proper_partit": {
-    "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1789844640
+    "descripcio": "Lliga · Barça - Getafe",
+    "compte_enrere": "20d 19h 30m 0s",
+    "kickoff_ts": 1791649800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:52:33"
+  "ultima_actualitzacio": "22:59:33"
 }
