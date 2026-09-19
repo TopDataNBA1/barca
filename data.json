@@ -2410,6 +2410,13 @@
       "hora": "22:41",
       "ts": "2026-09-19T22:41:25.340478",
       "collage": "collages/collage_1789850484825601.webp"
+    },
+    {
+      "text": "7è partit de Lliga per a Adeyemi amb el Barça. Supera Padrón (1933-1934), Hilario (1939-1940), Cortés (1972-1975), Sánchez Jara (1990-1995), Santamaría (1999-2004), Jutglà (2021-2022), Demir (2021-2022), Gordon (2026-2027) i Rodri (2026-2027). Empata amb Roig (1928-1931), Font (1929-1932), Torredeflot (1935-1936), Rocasolano II (1939-1940), Ceballos (1940-1943), Martínez (1941-1945), Navarro (1941-1942), Rueda (1944-1950), Giménez (1949-1950), Silveira (1962-1963), Borràs (1966-1969), Vilà (1977-1981), Amador (1980-1986), Nayim (1985-1988), Romerito (1988-1989), Pablo Alfaro (1992-1993), Moreno (1995-1996), Dugarry (1997-1998) i Jorquera (2003-2009) en el ➡️ 499è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:42",
+      "ts": "2026-09-19T22:41:25.340478",
+      "collage": "collages/collage_1789850485122548.webp"
     }
   ],
   "baseline": {
@@ -22198,5 +22205,5 @@
     "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:41:38"
+  "ultima_actualitzacio": "22:42:38"
 }
