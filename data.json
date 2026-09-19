@@ -2249,6 +2249,13 @@
       "hora": "20:20",
       "ts": "2026-09-19T20:11:02.714408",
       "collage": "collages/collage_1789841462497495.webp"
+    },
+    {
+      "text": "143è partit oficial per a Fermín amb el Barça. Empata amb Bravo (1940-1948) i Serna (1988-1993) en el ➡️ 135è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:21",
+      "ts": "2026-09-19T20:11:03.290120",
+      "collage": "collages/collage_1789841462793277.webp"
     }
   ],
   "baseline": {
@@ -22033,9 +22040,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 40m 16s",
-    "kickoff_ts": 1789844400
+    "compte_enrere": "0d 0h 39m 2s",
+    "kickoff_ts": 1789844399
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:20:03"
+  "ultima_actualitzacio": "20:21:03"
 }
