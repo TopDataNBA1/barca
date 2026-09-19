@@ -2389,6 +2389,13 @@
       "hora": "22:33",
       "ts": "2026-09-19T22:33:21.753492",
       "collage": "collages/collage_1789850001602551.webp"
+    },
+    {
+      "text": "96è partit oficial per a Dani Olmo amb el Barça. Supera Zenden (1998-2001). Empata amb Edmílson (2004-2008) i Vidal (2018-2020) en el ➡️ 189è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:39",
+      "ts": "2026-09-19T22:39:33.545530",
+      "collage": "collages/collage_1789850373112899.webp"
     }
   ],
   "baseline": {
@@ -3732,7 +3739,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 95,
+        "pj": 96,
         "g": 20,
         "inici": "2024",
         "final": "2027"
@@ -10272,7 +10279,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 64,
+        "pj": 65,
         "g": 17,
         "inici": "2024",
         "final": "2027"
@@ -22177,5 +22184,5 @@
     "kickoff_ts": 1789844640
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:33:26"
+  "ultima_actualitzacio": "22:39:38"
 }
