@@ -2221,6 +2221,13 @@
       "hora": "20:16",
       "ts": "2026-09-19T20:11:01.422243",
       "collage": "collages/collage_1789841461239318.webp"
+    },
+    {
+      "text": "72è partit oficial per a João Cancelo amb el Barça. Supera Iván Iglesias (1993-1996), Denis Suárez (2016-2019) i Iñigo Martínez (2023-2025). Empata amb Pizzi (1996-1998), Arthur (2018-2020) i Dest (2020-2022) en el ➡️ 236è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:17",
+      "ts": "2026-09-19T20:11:02.160493",
+      "collage": "collages/collage_1789841461648033.webp"
     }
   ],
   "baseline": {
@@ -22005,9 +22012,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 43m 21s",
+    "compte_enrere": "0d 0h 42m 7s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:16:02"
+  "ultima_actualitzacio": "20:17:02"
 }
