@@ -2228,6 +2228,20 @@
       "hora": "20:17",
       "ts": "2026-09-19T20:11:02.160493",
       "collage": "collages/collage_1789841461648033.webp"
+    },
+    {
+      "text": "54è partit de Lliga per a João Cancelo amb el Barça. Supera Piera (1928-1933) i Paco Martínez (1976-1982). Empata amb Martí (1928-1933), Alfonseda (1969-1973), Periko Alonso (1982-1985) i Milla (1984-1990) en el ➡️ 221è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:18",
+      "ts": "2026-09-19T20:11:02.160493",
+      "collage": "collages/collage_1789841461937560.webp"
+    },
+    {
+      "text": "134è partit oficial per a Cubarsí amb el Barça. Supera Umtiti (2016-2022) i ara ocupa el ➡️ 143è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:19",
+      "ts": "2026-09-19T20:11:02.714408",
+      "collage": "collages/collage_1789841462225472.webp"
     }
   ],
   "baseline": {
@@ -22012,9 +22026,9 @@
   "match_rival": "Sevilla",
   "proper_partit": {
     "descripcio": "Lliga · Sevilla - Barça",
-    "compte_enrere": "0d 0h 42m 7s",
+    "compte_enrere": "0d 0h 41m 30s",
     "kickoff_ts": 1789844400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:17:02"
+  "ultima_actualitzacio": "20:19:03"
 }
