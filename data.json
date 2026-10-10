@@ -2698,6 +2698,13 @@
       "hora": "20:12",
       "ts": "2026-10-10T20:10:43.554267",
       "collage": "collages/collage_1791655843058541.webp"
+    },
+    {
+      "text": "8è partit de Lliga per a Adeyemi amb el Barça. Supera Roig (1928-1931), Font (1929-1932), Torredeflot (1935-1936), Rocasolano II (1939-1940), Ceballos (1940-1943), Martínez (1941-1945), Navarro (1941-1942), Rueda (1944-1950), Giménez (1949-1950), Silveira (1962-1963), Borràs (1966-1969), Vilà (1977-1981), Amador (1980-1986), Nayim (1985-1988), Romerito (1988-1989), Pablo Alfaro (1992-1993), Moreno (1995-1996), Dugarry (1997-1998), Jorquera (2003-2009), Gordon (2026-2027) i Rodri (2026-2027). Empata amb Obiols (1928-1929), Saló (1930-1941), Fuentes (1939-1940), Pascual (1939-1940), Riera (1939-1940), Llácer (1940-1943), Torra (1946-1952), Pais (1961-1962), Fernández (1967-1969), Laredo (1972-1974), Roberto Dinamite (1979-1980), Pinilla (1989-1992), Òscar López (2002-2004), Víctor Sánchez (2007-2009) i Fontàs (2008-2013) en el ➡️ 484è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:13",
+      "ts": "2026-10-10T20:10:43.554267",
+      "collage": "collages/collage_1791655843339956.webp"
     }
   ],
   "baseline": {
@@ -22500,5 +22507,5 @@
     "kickoff_ts": 1791650128
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:12:47"
+  "ultima_actualitzacio": "20:13:48"
 }
