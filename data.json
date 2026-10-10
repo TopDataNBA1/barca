@@ -2551,6 +2551,13 @@
       "hora": "18:08",
       "ts": "2026-10-10T17:55:58.148405",
       "collage": "collages/collage_1791647757919479.webp"
+    },
+    {
+      "text": "8è partit oficial per a Rodri amb el Barça. Supera Rodríguez (1909-1912), Rocasolano II (1939-1940), Martínez (1941-1945), Navarro (1941-1942), Rueda (1944-1950), Giménez (1949-1950), Endériz (1966-1968), Cortés (1972-1975), Vilà (1977-1981), Amigó (1979-1980), Romerito (1988-1989), Santamaría (1999-2004), Rüştü (2003-2004), Guiu (2022-2024) i Bellerín (2022-2023). Empata amb Carlos Comamala (1908-1911), Charles Wallace (1908-1911), Coma (1918-1924), Zamora (1919-1922), Pascual (1923-1924), Montané (1926-1928), Roig (1928-1931), Padrón (1933-1934), Torredeflot (1935-1936), Fuentes (1939-1940), Pascual (1939-1940), Basilio (1943-1945), Periche (1946-1950), Celdrán (1959-1963), Rodri (2003-2006), Douglas (2014-2017) i Adeyemi (2026-2027) en el ➡️ 539è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:09",
+      "ts": "2026-10-10T17:55:58.974881",
+      "collage": "collages/collage_1791647758270370.webp"
     }
   ],
   "baseline": {
@@ -22349,9 +22356,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 21m 2s",
+    "compte_enrere": "0d 0h 19m 48s",
     "kickoff_ts": 1791649800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:08:58"
+  "ultima_actualitzacio": "18:09:58"
 }
