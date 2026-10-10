@@ -2481,6 +2481,13 @@
       "hora": "17:58",
       "ts": "2026-10-10T17:55:54.601301",
       "collage": "collages/collage_1791647754382371.webp"
+    },
+    {
+      "text": "100è partit oficial per a Gerard Martín amb el Barça. Supera Valle (1940-1950) i Mora (1970-1979). Empata amb Estella (1979-1983) en el ➡️ 183è lloc històric del club.. Gerard Martín es converteix en el 183è jugador que arriba als 100 partit oficials amb el Barça.",
+      "tipus": "programada",
+      "hora": "17:59",
+      "ts": "2026-10-10T17:55:55.280085",
+      "collage": "collages/collage_1791647754755253.webp"
     }
   ],
   "baseline": {
@@ -22279,9 +22286,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 30m 54s",
-    "kickoff_ts": 1791649801
+    "compte_enrere": "0d 0h 29m 39s",
+    "kickoff_ts": 1791649800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:58:57"
+  "ultima_actualitzacio": "17:59:57"
 }
