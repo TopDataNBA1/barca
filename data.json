@@ -2719,6 +2719,12 @@
       "hora": "20:21",
       "ts": "2026-10-10T20:20:39.550371",
       "collage": "collages/collage_1791656439350036.webp"
+    },
+    {
+      "text": "📋 10/10/2026 · LLIGA · BARÇA - GETAFE",
+      "tipus": "prioritaria",
+      "hora": "20:32",
+      "ts": "2026-10-10T20:32:36.283069"
     }
   ],
   "baseline": {
@@ -22513,13 +22519,13 @@
       }
     }
   },
-  "match_status": "L",
-  "match_rival": "Getafe",
+  "match_status": "U",
+  "match_rival": "Galatasaray",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1791650128
+    "descripcio": "Lliga de Campions · Barça - Galatasaray",
+    "compte_enrere": "3d 0h 26m 57s",
+    "kickoff_ts": 1791918000
   },
-  "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:21:43"
+  "match_comp": "Lliga de Campions",
+  "ultima_actualitzacio": "20:32:38"
 }
