@@ -2558,6 +2558,13 @@
       "hora": "18:09",
       "ts": "2026-10-10T17:55:58.974881",
       "collage": "collages/collage_1791647758270370.webp"
+    },
+    {
+      "text": "7è partit de Lliga per a Rodri amb el Barça. Supera Padrón (1933-1934), Hilario (1939-1940), Cortés (1972-1975), Sánchez Jara (1990-1995), Santamaría (1999-2004), Jutglà (2021-2022) i Demir (2021-2022). Empata amb Roig (1928-1931), Font (1929-1932), Torredeflot (1935-1936), Rocasolano II (1939-1940), Ceballos (1940-1943), Martínez (1941-1945), Navarro (1941-1942), Rueda (1944-1950), Giménez (1949-1950), Silveira (1962-1963), Borràs (1966-1969), Vilà (1977-1981), Amador (1980-1986), Nayim (1985-1988), Romerito (1988-1989), Pablo Alfaro (1992-1993), Moreno (1995-1996), Dugarry (1997-1998), Jorquera (2003-2009) i Adeyemi (2026-2027) en el ➡️ 499è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:10",
+      "ts": "2026-10-10T17:55:58.974881",
+      "collage": "collages/collage_1791647758714960.webp"
     }
   ],
   "baseline": {
@@ -22356,9 +22363,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 19m 48s",
+    "compte_enrere": "0d 0h 19m 11s",
     "kickoff_ts": 1791649800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:09:58"
+  "ultima_actualitzacio": "18:10:58"
 }
