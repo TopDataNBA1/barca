@@ -2649,6 +2649,13 @@
       "hora": "20:00",
       "ts": "2026-10-10T19:59:51.979820",
       "collage": "collages/collage_1791655191794417.webp"
+    },
+    {
+      "text": "144è partit oficial per a Fermín amb el Barça. Supera Bravo (1940-1948) i Serna (1988-1993). Empata amb Hesp (1997-2000) en el ➡️ 134è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-10-10T19:59:52.563729",
+      "collage": "collages/collage_1791655192131726.webp"
     }
   ],
   "baseline": {
@@ -22451,5 +22458,5 @@
     "kickoff_ts": 1791650128
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:00:53"
+  "ultima_actualitzacio": "20:01:53"
 }
