@@ -2516,6 +2516,20 @@
       "hora": "18:03",
       "ts": "2026-10-10T17:55:56.873022",
       "collage": "collages/collage_1791647756213997.webp"
+    },
+    {
+      "text": "10è partit de Lliga per a Espart amb el Barça. Supera Llorens (1928-1936), Trujillo (1933-1935), Villacampa (1933-1934), Bardina (1935-1940), Muntaner (1939-1940), Nieto (1941-1942), Montserrat (1942-1945), Noguera (1947-1949), Suco (1959-1961), Paredes (1968-1972), Ramoní (1969-1971), Bio (1977-1979), Angoy (1990-1996) i Damià (2004-2006). Empata amb Argemí (1935-1940), Argila (1940-1944), Marañón (1960-1964), García Castany (1968-1971), Palau (1968-1969), Romea (1969-1970) i Roura (1988-1992) en el ➡️ 462è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:04",
+      "ts": "2026-10-10T17:55:56.873022",
+      "collage": "collages/collage_1791647756593122.webp"
+    },
+    {
+      "text": "97è partit oficial per a Dani Olmo amb el Barça. Supera Edmílson (2004-2008) i Vidal (2018-2020). Empata amb Arocha (1927-1933) i Òscar (1992-1999) en el ➡️ 187è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:05",
+      "ts": "2026-10-10T17:55:57.514607",
+      "collage": "collages/collage_1791647756973992.webp"
     }
   ],
   "baseline": {
@@ -22314,9 +22328,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 25m 20s",
+    "compte_enrere": "0d 0h 24m 6s",
     "kickoff_ts": 1791649799
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:03:57"
+  "ultima_actualitzacio": "18:05:57"
 }
