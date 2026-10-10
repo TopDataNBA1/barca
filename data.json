@@ -2635,6 +2635,13 @@
       "hora": "19:06",
       "ts": "2026-10-10T19:06:18.397445",
       "collage": "collages/collage_1791651978190116.webp"
+    },
+    {
+      "text": "254è partit oficial per a Pedri amb el Barça. . Ocupa el ➡️ 59è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:59",
+      "ts": "2026-10-10T19:59:51.979820",
+      "collage": "collages/collage_1791655191579040.webp"
     }
   ],
   "baseline": {
@@ -3047,7 +3054,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 253,
+        "pj": 254,
         "g": 29,
         "inici": "2020",
         "final": "2027"
@@ -3586,7 +3593,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 143,
+        "pj": 144,
         "g": 36,
         "inici": "2023",
         "final": "2027"
@@ -9601,7 +9608,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 172,
+        "pj": 173,
         "g": 23,
         "inici": "2020",
         "final": "2027"
@@ -10147,7 +10154,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 95,
+        "pj": 96,
         "g": 24,
         "inici": "2023",
         "final": "2027"
@@ -22437,5 +22444,5 @@
     "kickoff_ts": 1791650128
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "19:06:20"
+  "ultima_actualitzacio": "19:59:53"
 }
