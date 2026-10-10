@@ -22401,12 +22401,12 @@
       }
     }
   },
-  "match_status": "U",
+  "match_status": "L",
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 12m 24s",
-    "kickoff_ts": 1791649800
+    "compte_enrere": "0d 0h 0m 0s",
+    "kickoff_ts": 1791650128
   },
   "match_comp": "Lliga",
   "ultima_actualitzacio": "18:16:58"
