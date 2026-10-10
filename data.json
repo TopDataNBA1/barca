@@ -2642,6 +2642,13 @@
       "hora": "19:59",
       "ts": "2026-10-10T19:59:51.979820",
       "collage": "collages/collage_1791655191579040.webp"
+    },
+    {
+      "text": "173è partit de Lliga per a Pedri amb el Barça. Supera Figo (1995-2000). Empata amb Reiziger (1997-2004) en el ➡️ 61è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-10-10T19:59:51.979820",
+      "collage": "collages/collage_1791655191794417.webp"
     }
   ],
   "baseline": {
@@ -22444,5 +22451,5 @@
     "kickoff_ts": 1791650128
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "19:59:53"
+  "ultima_actualitzacio": "20:00:53"
 }
