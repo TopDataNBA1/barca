@@ -2453,6 +2453,13 @@
       "tipus": "prioritaria",
       "hora": "22:59",
       "ts": "2026-09-19T22:59:33.882581"
+    },
+    {
+      "text": "53è partit oficial per a Joan Garcia amb el Barça. Supera Bestit (1929-1934). Empata amb Plattkó (1924-1930), Juanito (1971-1975), Tomé (1973-1977) i Vermaelen (2014-2019) en el ➡️ 286è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:55",
+      "ts": "2026-10-10T17:55:54.004492",
+      "collage": "collages/collage_1791647753287725.webp"
     }
   ],
   "baseline": {
@@ -3075,7 +3082,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 193,
+        "pj": 194,
         "g": 10,
         "inici": "2022",
         "final": "2027"
@@ -3229,7 +3236,7 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 172,
+        "pj": 173,
         "g": 7,
         "inici": "2021",
         "final": "2027"
@@ -3250,7 +3257,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 169,
+        "pj": 170,
         "g": 10,
         "inici": "2021",
         "final": "2027"
@@ -3306,7 +3313,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 159,
+        "pj": 160,
         "g": 57,
         "inici": "2022",
         "final": "2027"
@@ -3747,7 +3754,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 99,
+        "pj": 100,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -3789,7 +3796,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 96,
+        "pj": 97,
         "g": 20,
         "inici": "2024",
         "final": "2027"
@@ -4482,7 +4489,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 52,
+        "pj": 53,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -5973,7 +5980,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 11,
+        "pj": 12,
         "g": 1,
         "inici": "2025",
         "final": "2027"
@@ -6365,14 +6372,14 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 7,
+        "pj": 8,
         "g": 0,
         "inici": "2026",
         "final": "2027"
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 7,
+        "pj": 8,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -6841,7 +6848,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 4,
+        "pj": 5,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -9650,7 +9657,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 130,
+        "pj": 131,
         "g": 5,
         "inici": "2022",
         "final": "2027"
@@ -9755,14 +9762,14 @@
       },
       "Eric Garcia Martret": {
         "alias": "Eric Garcia",
-        "pj": 121,
+        "pj": 122,
         "g": 4,
         "inici": "2021",
         "final": "2027"
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 121,
+        "pj": 122,
         "g": 6,
         "inici": "2021",
         "final": "2027"
@@ -9860,7 +9867,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 108,
+        "pj": 109,
         "g": 37,
         "inici": "2022",
         "final": "2027"
@@ -10315,7 +10322,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 66,
+        "pj": 67,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -10329,7 +10336,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 65,
+        "pj": 66,
         "g": 17,
         "inici": "2024",
         "final": "2027"
@@ -10959,7 +10966,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 36,
+        "pj": 37,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -12359,7 +12366,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 9,
+        "pj": 10,
         "g": 1,
         "inici": "2025",
         "final": "2027"
@@ -12660,14 +12667,14 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 6,
+        "pj": 7,
         "g": 0,
         "inici": "2026",
         "final": "2027"
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 6,
+        "pj": 7,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -13136,7 +13143,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 3,
+        "pj": 4,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -22251,9 +22258,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 1h 48m 2s",
+    "compte_enrere": "0d 0h 34m 8s",
     "kickoff_ts": 1791649800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:59:33"
+  "ultima_actualitzacio": "17:55:56"
 }
