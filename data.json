@@ -2656,6 +2656,13 @@
       "hora": "20:01",
       "ts": "2026-10-10T19:59:52.563729",
       "collage": "collages/collage_1791655192131726.webp"
+    },
+    {
+      "text": "96è partit de Lliga per a Fermín amb el Barça. Supera Hesp (1997-2000). Empata amb Motta (2001-2007) i Fàbregas (2011-2014) en el ➡️ 138è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:02",
+      "ts": "2026-10-10T19:59:52.563729",
+      "collage": "collages/collage_1791655192386029.webp"
     }
   ],
   "baseline": {
@@ -22458,5 +22465,5 @@
     "kickoff_ts": 1791650128
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:01:53"
+  "ultima_actualitzacio": "20:02:53"
 }
