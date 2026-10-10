@@ -2488,6 +2488,13 @@
       "hora": "17:59",
       "ts": "2026-10-10T17:55:55.280085",
       "collage": "collages/collage_1791647754755253.webp"
+    },
+    {
+      "text": "67è partit de Lliga per a Gerard Martín amb el Barça. Supera Popescu (1995-1997) i Vidal (2018-2020) i ara ocupa el ➡️ 189è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "18:00",
+      "ts": "2026-10-10T17:55:55.280085",
+      "collage": "collages/collage_1791647755069152.webp"
     }
   ],
   "baseline": {
@@ -22286,9 +22293,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 29m 39s",
-    "kickoff_ts": 1791649800
+    "compte_enrere": "0d 0h 28m 25s",
+    "kickoff_ts": 1791649799
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:59:57"
+  "ultima_actualitzacio": "18:00:57"
 }
