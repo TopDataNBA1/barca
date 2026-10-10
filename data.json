@@ -2509,6 +2509,13 @@
       "hora": "18:02",
       "ts": "2026-10-10T17:55:56.069924",
       "collage": "collages/collage_1791647755831909.webp"
+    },
+    {
+      "text": "12è partit oficial per a Espart amb el Barça. Supera Font (1929-1932), Trujillo (1933-1935), Argila (1940-1944), Va (1940-1941), Fernández (1967-1969), Paredes (1968-1972), Roberto Dinamite (1979-1980) i Angoy (1990-1996). Empata amb Reñé (1910-1913), Riera (1939-1940), Ceballos (1940-1943), Torra (1946-1952), Palau (1968-1969) i Romea (1969-1970) en el ➡️ 496è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:03",
+      "ts": "2026-10-10T17:55:56.873022",
+      "collage": "collages/collage_1791647756213997.webp"
     }
   ],
   "baseline": {
@@ -22307,9 +22314,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 26m 34s",
+    "compte_enrere": "0d 0h 25m 20s",
     "kickoff_ts": 1791649799
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:02:57"
+  "ultima_actualitzacio": "18:03:57"
 }
