@@ -2593,6 +2593,13 @@
       "hora": "18:14",
       "ts": "2026-10-10T17:56:00.458906",
       "collage": "collages/collage_1791647760221462.webp"
+    },
+    {
+      "text": "160è partit oficial per a Lamine Yamal amb el Barça. Supera Zaballa (1961-1967). Empata amb Lenglet (2018-2022) en el ➡️ 121è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:15",
+      "ts": "2026-10-10T17:56:01.028723",
+      "collage": "collages/collage_1791647760555874.webp"
     }
   ],
   "baseline": {
@@ -22391,9 +22398,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 14m 52s",
-    "kickoff_ts": 1791649800
+    "compte_enrere": "0d 0h 13m 37s",
+    "kickoff_ts": 1791649799
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "18:14:58"
+  "ultima_actualitzacio": "18:15:58"
 }
