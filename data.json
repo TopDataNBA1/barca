@@ -2663,6 +2663,13 @@
       "hora": "20:02",
       "ts": "2026-10-10T19:59:52.563729",
       "collage": "collages/collage_1791655192386029.webp"
+    },
+    {
+      "text": "45è partit oficial per a Bernal amb el Barça. Supera Aleñá (2015-2021) i João Félix (2023-2024). Empata amb Dueñas (1970-1972), Iñaki Peña (2018-2026) i Marcos Alonso (2022-2024) en el ➡️ 307è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:10",
+      "ts": "2026-10-10T20:10:42.909394",
+      "collage": "collages/collage_1791655842360557.webp"
     }
   ],
   "baseline": {
@@ -3286,7 +3293,7 @@
       "Jules Olivier Koundé": {
         "alias": "Koundé",
         "pj": 194,
-        "g": 10,
+        "g": 11,
         "inici": "2022",
         "final": "2027"
       },
@@ -4846,7 +4853,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 44,
+        "pj": 45,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -6449,7 +6456,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 8,
+        "pj": 9,
         "g": 3,
         "inici": "2026",
         "final": "2027"
@@ -9861,7 +9868,7 @@
       "Jules Olivier Koundé": {
         "alias": "Koundé",
         "pj": 131,
-        "g": 5,
+        "g": 6,
         "inici": "2022",
         "final": "2027"
       },
@@ -11274,7 +11281,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 32,
+        "pj": 33,
         "g": 2,
         "inici": "2024",
         "final": "2027"
@@ -12814,7 +12821,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 7,
+        "pj": 8,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -22465,5 +22472,5 @@
     "kickoff_ts": 1791650128
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:02:53"
+  "ultima_actualitzacio": "20:10:43"
 }
