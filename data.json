@@ -2670,6 +2670,34 @@
       "hora": "20:10",
       "ts": "2026-10-10T20:10:42.909394",
       "collage": "collages/collage_1791655842360557.webp"
+    },
+    {
+      "text": "⚽ 11è gol de Koundé amb el Barça. Supera Vergara (1940-1941), Amorós (1946-1948), Alfonseda (1969-1973), Fortes (1975-1979), Estella (1979-1983), Rojo (1983-1987), Valverde (1988-1990), Motta (2001-2007), Braithwaite (2019-2022), Gavi (2021-2027) i João Félix (2023-2024). Empata amb Martínez (1915-1922), Ribelles (1957-1961), Pérez (1971-1975), Guardiola (1989-2001), Sergi (1992-2002), Roger (1994-1999), Hagi (1994-1996), Jordi Cruyff (1994-1996), Thiago Alcántara (2008-2013) i Vidal (2018-2020) en el ➡️ 172è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "20:11",
+      "ts": "2026-10-10T20:11:21.419824",
+      "collage": "collages/collage_1791655880902306.webp"
+    },
+    {
+      "text": "⚽ 6è gol de Koundé a la Lliga amb el Barça. Supera Zabalo (1929-1945), Balmanya (1935-1944), Emilín (1939-1940), Riba (1943-1945), Gracia (1952-1966), Hanke (1952-1956), Juanito (1971-1975), Fortes (1975-1979), Paco Martínez (1976-1982), Gerardo (1981-1988), Periko Alonso (1982-1985), Iván Iglesias (1993-1996), Frank de Boer (1998-2003), Gerard (2000-2005), Van Bronckhorst (2003-2007), Bartra (2009-2016), Munir (2014-2019), Arda Turan (2015-2018), Braithwaite (2019-2022), João Cancelo (2023-2027) i Gündoğan (2023-2024). Empata amb Piera (1928-1933), Calvet (1939-1953), Colino (1945-1948), Gamonal (1945-1946), Badenes (1946-1949), Aloy (1950-1954), Sampedro (1955-1959), De la Cruz (1972-1980), Guardiola (1989-2001), Goikoetxea (1990-1994), Sergi (1992-2002), Motta (2001-2007), Gavi (2021-2027) i De Jong (2021-2022) en el ➡️ 186è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "20:11",
+      "ts": "2026-10-10T20:11:21.419824",
+      "collage": "collages/collage_1791655881215173.webp"
+    },
+    {
+      "text": "33è partit de Lliga per a Bernal amb el Barça. Supera León (1939-1941), Kodro (1995-1996) i Rashford (2025-2026). Empata amb Mendonça (1966-1969), Ronald de Boer (1998-2000), Mendieta (2002-2003) i Munir (2014-2019) en el ➡️ 292è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:11",
+      "ts": "2026-10-10T20:10:42.909394",
+      "collage": "collages/collage_1791655842702277.webp"
+    },
+    {
+      "text": "9è partit oficial per a Adeyemi amb el Barça. Supera Carlos Comamala (1908-1911), Charles Wallace (1908-1911), Coma (1918-1924), Zamora (1919-1922), Pascual (1923-1924), Montané (1926-1928), Roig (1928-1931), Padrón (1933-1934), Torredeflot (1935-1936), Fuentes (1939-1940), Pascual (1939-1940), Basilio (1943-1945), Periche (1946-1950), Celdrán (1959-1963), Rodri (2003-2006), Douglas (2014-2017), Gordon (2026-2027) i Rodri (2026-2027). Empata amb Bru (1908-1916), Berdié (1911-1914), Irizar (1911-1913), Bru (1913-1919), Gràcia (1921-1924), Vidal (1928-1929), Villacampa (1933-1934), Bardina (1935-1940), Nieto (1941-1942), Montserrat (1942-1945), Escudero (1949-1952), Silveira (1962-1963), Borràs (1966-1969), Laredo (1972-1974), Unzué (1988-1990), Pablo Alfaro (1992-1993), Sergio García (2002-2004), Gumbau (2014-2016), Demir (2021-2022) i Jutglà (2021-2022) en el ➡️ 519è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:12",
+      "ts": "2026-10-10T20:10:43.554267",
+      "collage": "collages/collage_1791655843058541.webp"
     }
   ],
   "baseline": {
@@ -22472,5 +22500,5 @@
     "kickoff_ts": 1791650128
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:10:43"
+  "ultima_actualitzacio": "20:12:47"
 }
