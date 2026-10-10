@@ -2460,6 +2460,20 @@
       "hora": "17:55",
       "ts": "2026-10-10T17:55:54.004492",
       "collage": "collages/collage_1791647753287725.webp"
+    },
+    {
+      "text": "37è partit de Lliga per a Joan Garcia amb el Barça. Supera Seminario (1964-1967), Morán (1981-1984), Maradona (1982-1984), Hagi (1994-1996), Arda Turan (2015-2018) i Gündoğan (2023-2024). Empata amb Ribelles (1957-1961), Ronaldo (1996-1997) i Alcácer (2016-2018) en el ➡️ 274è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:56",
+      "ts": "2026-10-10T17:55:54.004492",
+      "collage": "collages/collage_1791647753711586.webp"
+    },
+    {
+      "text": "173è partit oficial per a Eric Garcia amb el Barça. Supera Saviola (2001-2007) i ara ocupa el ➡️ 110è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:57",
+      "ts": "2026-10-10T17:55:54.600302",
+      "collage": "collages/collage_1791647754085467.webp"
     }
   ],
   "baseline": {
@@ -22258,9 +22272,9 @@
   "match_rival": "Getafe",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Getafe",
-    "compte_enrere": "0d 0h 34m 8s",
+    "compte_enrere": "0d 0h 31m 31s",
     "kickoff_ts": 1791649800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:55:56"
+  "ultima_actualitzacio": "17:57:57"
 }
