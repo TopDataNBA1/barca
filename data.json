@@ -2802,6 +2802,13 @@
       "hora": "20:07",
       "ts": "2026-10-13T19:57:33.201899",
       "collage": "collages/collage_1791914252154658.webp"
+    },
+    {
+      "text": "21è partit de Lliga de Campions per a Dani Olmo amb el Barça. Supera Dani (1999-2003), Overmars (2000-2003) i Belletti (2004-2007). Empata amb Laudrup (1991-1994), Rochemback (2001-2003), Guðjohnsen (2006-2009) i Ansu Fati (2019-2025) en el ➡️ 76è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:08",
+      "ts": "2026-10-13T19:57:33.201899",
+      "collage": "collages/collage_1791914252968974.webp"
     }
   ],
   "baseline": {
@@ -22600,9 +22607,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 52m 29s",
-    "kickoff_ts": 1791918000
+    "compte_enrere": "0d 0h 51m 14s",
+    "kickoff_ts": 1791917999
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:07:32"
+  "ultima_actualitzacio": "20:08:32"
 }
