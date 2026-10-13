@@ -2998,6 +2998,13 @@
       "hora": "22:43",
       "ts": "2026-10-13T22:43:55.833658",
       "collage": "collages/collage_1791924235272587.webp"
+    },
+    {
+      "text": "28è partit de Lliga de Campions per a Gavi amb el Barça. Supera Zubizarreta (1991-1994), Saviola (2001-2007), Oleguer (2002-2008) i Bojan (2007-2011). Empata amb Begiristain (1991-1995), Bakero (1991-1995), Henry (2007-2010) i Cubarsí (2023-2027) en el ➡️ 53è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "22:44",
+      "ts": "2026-10-13T22:43:55.833658",
+      "collage": "collages/collage_1791924235593672.webp"
     }
   ],
   "baseline": {
@@ -22800,5 +22807,5 @@
     "kickoff_ts": 1791918155
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:43:56"
+  "ultima_actualitzacio": "22:44:56"
 }
