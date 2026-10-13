@@ -2774,6 +2774,13 @@
       "hora": "20:03",
       "ts": "2026-10-13T19:57:31.426874",
       "collage": "collages/collage_1791914250662117.webp"
+    },
+    {
+      "text": "16è partit de Lliga de Campions per a João Cancelo amb el Barça. Supera Migueli (1974-1986), Romário (1993-1995), Zenden (1998-2001), Geovanni (2001-2003), Mendieta (2002-2003) i Iñigo Martínez (2023-2025). Empata amb Evaristo (1959-1961), Luis Suárez (1959-1961), Gracia (1959-1961), Christanval (2001-2003), Milito (2007-2011), Griezmann (2019-2021) i Christensen (2022-2027) en el ➡️ 95è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:04",
+      "ts": "2026-10-13T19:57:31.426874",
+      "collage": "collages/collage_1791914251159958.webp"
     }
   ],
   "baseline": {
@@ -22572,9 +22579,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 56m 48s",
+    "compte_enrere": "0d 0h 55m 34s",
     "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:03:31"
+  "ultima_actualitzacio": "20:04:31"
 }
