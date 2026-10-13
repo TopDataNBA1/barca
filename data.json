@@ -2977,6 +2977,13 @@
       "hora": "22:35",
       "ts": "2026-10-13T22:34:33.098481",
       "collage": "collages/collage_1791923672872553.webp"
+    },
+    {
+      "text": "46è partit oficial per a Bernal amb el Barça. Supera Dueñas (1970-1972), Iñaki Peña (2018-2026) i Marcos Alonso (2022-2024). Empata amb Ibrahimović (2009-2011) i Digne (2016-2018) en el ➡️ 305è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:36",
+      "ts": "2026-10-13T22:34:33.897225",
+      "collage": "collages/collage_1791923673296417.webp"
     }
   ],
   "baseline": {
@@ -22779,5 +22786,5 @@
     "kickoff_ts": 1791918155
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:35:36"
+  "ultima_actualitzacio": "22:36:36"
 }
