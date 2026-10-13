@@ -2760,6 +2760,13 @@
       "hora": "20:01",
       "ts": "2026-10-13T19:57:30.573159",
       "collage": "collages/collage_1791914249458833.webp"
+    },
+    {
+      "text": "21è partit de Lliga de Campions per a Gerard Martín amb el Barça. Supera Dani (1999-2003), Overmars (2000-2003) i Belletti (2004-2007). Empata amb Laudrup (1991-1994), Rochemback (2001-2003), Guðjohnsen (2006-2009) i Ansu Fati (2019-2025) en el ➡️ 76è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:02",
+      "ts": "2026-10-13T19:57:30.573159",
+      "collage": "collages/collage_1791914250328536.webp"
     }
   ],
   "baseline": {
@@ -22558,9 +22565,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 58m 39s",
-    "kickoff_ts": 1791917999
+    "compte_enrere": "0d 0h 57m 25s",
+    "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:01:31"
+  "ultima_actualitzacio": "20:02:31"
 }
