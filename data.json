@@ -2970,6 +2970,13 @@
       "hora": "22:34",
       "ts": "2026-10-13T22:34:33.098481",
       "collage": "collages/collage_1791923672495675.webp"
+    },
+    {
+      "text": "36è partit de Lliga de Campions per a Koundé amb el Barça. Supera Nadal (1991-1999), Ronaldinho (2004-2008), Araújo (2019-2026) i Lamine Yamal (2023-2027). Empata amb Gabri (1999-2006) en el ➡️ 32è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "22:35",
+      "ts": "2026-10-13T22:34:33.098481",
+      "collage": "collages/collage_1791923672872553.webp"
     }
   ],
   "baseline": {
@@ -22772,5 +22779,5 @@
     "kickoff_ts": 1791918155
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:34:36"
+  "ultima_actualitzacio": "22:35:36"
 }
