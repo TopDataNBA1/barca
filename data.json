@@ -2991,6 +2991,13 @@
       "hora": "22:37",
       "ts": "2026-10-13T22:34:33.897225",
       "collage": "collages/collage_1791923673634310.webp"
+    },
+    {
+      "text": "171è partit oficial per a Gavi amb el Barça. Supera Moratalla (1981-1988) i ara ocupa el ➡️ 112è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:43",
+      "ts": "2026-10-13T22:43:55.833658",
+      "collage": "collages/collage_1791924235272587.webp"
     }
   ],
   "baseline": {
@@ -3781,7 +3788,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 170,
+        "pj": 171,
         "g": 10,
         "inici": "2021",
         "final": "2027"
@@ -15895,7 +15902,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 27,
+        "pj": 28,
         "g": 1,
         "inici": "2021",
         "final": "2027"
@@ -22793,5 +22800,5 @@
     "kickoff_ts": 1791918155
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:37:36"
+  "ultima_actualitzacio": "22:43:56"
 }
