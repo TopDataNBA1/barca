@@ -2893,6 +2893,20 @@
       "hora": "21:45",
       "ts": "2026-10-13T21:45:21.548672",
       "collage": "collages/collage_1791920721320744.webp"
+    },
+    {
+      "text": "⚽ 37è gol de Fermín amb el Barça. Supera Sastre (1926-1932). Empata amb Alcántara (1912-1927), Goiburu (1929-1934), Rifé (1964-1976) i Cocu (1998-2004) en el ➡️ 74è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:11",
+      "ts": "2026-10-13T22:11:26.279048",
+      "collage": "collages/collage_1791922285739793.webp"
+    },
+    {
+      "text": "⚽ 10è gol de Fermín a la Lliga de Campions amb el Barça. Supera Henry (2007-2010). Empata amb Evaristo (1959-1961) i Koeman (1991-1995) en el ➡️ 19è lloc històric del club a la Lliga de Campions.",
+      "tipus": "prioritaria",
+      "hora": "22:11",
+      "ts": "2026-10-13T22:11:26.279048",
+      "collage": "collages/collage_1791922286063117.webp"
     }
   ],
   "baseline": {
@@ -3838,7 +3852,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 145,
-        "g": 36,
+        "g": 37,
         "inici": "2023",
         "final": "2027"
       },
@@ -15700,7 +15714,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 32,
-        "g": 9,
+        "g": 10,
         "inici": "2023",
         "final": "2027"
       },
@@ -22695,5 +22709,5 @@
     "kickoff_ts": 1791918155
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "21:45:26"
+  "ultima_actualitzacio": "22:11:30"
 }
