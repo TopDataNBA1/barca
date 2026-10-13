@@ -2767,6 +2767,13 @@
       "hora": "20:02",
       "ts": "2026-10-13T19:57:30.573159",
       "collage": "collages/collage_1791914250328536.webp"
+    },
+    {
+      "text": "73è partit oficial per a João Cancelo amb el Barça. Supera Pizzi (1996-1998), Arthur (2018-2020) i Dest (2020-2022). Empata amb Vantolrà (1933-1936) i Juan Carlos (1991-1994) en el ➡️ 234è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:03",
+      "ts": "2026-10-13T19:57:31.426874",
+      "collage": "collages/collage_1791914250662117.webp"
     }
   ],
   "baseline": {
@@ -22565,9 +22572,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 57m 25s",
+    "compte_enrere": "0d 0h 56m 48s",
     "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:02:31"
+  "ultima_actualitzacio": "20:03:31"
 }
