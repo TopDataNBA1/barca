@@ -2781,6 +2781,13 @@
       "hora": "20:04",
       "ts": "2026-10-13T19:57:31.426874",
       "collage": "collages/collage_1791914251159958.webp"
+    },
+    {
+      "text": "135è partit oficial per a Cubarsí amb el Barça. Empata amb Gerard (2000-2005) en el ➡️ 142è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:05",
+      "ts": "2026-10-13T19:57:32.067667",
+      "collage": "collages/collage_1791914251498849.webp"
     }
   ],
   "baseline": {
@@ -22579,9 +22586,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 55m 34s",
+    "compte_enrere": "0d 0h 54m 20s",
     "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:04:31"
+  "ultima_actualitzacio": "20:05:32"
 }
