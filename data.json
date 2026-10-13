@@ -2858,6 +2858,13 @@
       "hora": "20:15",
       "ts": "2026-10-13T19:57:35.841635",
       "collage": "collages/collage_1791914255327817.webp"
+    },
+    {
+      "text": "32è partit de Lliga de Campions per a Fermín amb el Barça. Supera Ferrer (1991-1998). Empata amb Deco (2004-2008) en el ➡️ 45è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:16",
+      "ts": "2026-10-13T19:57:35.841635",
+      "collage": "collages/collage_1791914255625704.webp"
     }
   ],
   "baseline": {
@@ -22656,9 +22663,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 45m 2s",
-    "kickoff_ts": 1791917999
+    "compte_enrere": "0d 0h 43m 49s",
+    "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:15:32"
+  "ultima_actualitzacio": "20:16:32"
 }
