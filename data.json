@@ -2788,6 +2788,13 @@
       "hora": "20:05",
       "ts": "2026-10-13T19:57:32.067667",
       "collage": "collages/collage_1791914251498849.webp"
+    },
+    {
+      "text": "28è partit de Lliga de Campions per a Cubarsí amb el Barça. Supera Zubizarreta (1991-1994), Saviola (2001-2007), Oleguer (2002-2008), Bojan (2007-2011) i Gavi (2021-2027). Empata amb Begiristain (1991-1995), Bakero (1991-1995) i Henry (2007-2010) en el ➡️ 53è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:06",
+      "ts": "2026-10-13T19:57:32.067667",
+      "collage": "collages/collage_1791914251824745.webp"
     }
   ],
   "baseline": {
@@ -22586,9 +22593,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 54m 20s",
+    "compte_enrere": "0d 0h 53m 6s",
     "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:05:32"
+  "ultima_actualitzacio": "20:06:32"
 }
