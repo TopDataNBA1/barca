@@ -2809,6 +2809,13 @@
       "hora": "20:08",
       "ts": "2026-10-13T19:57:33.201899",
       "collage": "collages/collage_1791914252968974.webp"
+    },
+    {
+      "text": "255è partit oficial per a Pedri amb el Barça. Empata amb Stoichkov (1990-1998) i Reiziger (1997-2004) en el ➡️ 57è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:09",
+      "ts": "2026-10-13T19:57:33.801706",
+      "collage": "collages/collage_1791914253292870.webp"
     }
   ],
   "baseline": {
@@ -22607,9 +22614,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 51m 14s",
-    "kickoff_ts": 1791917999
+    "compte_enrere": "0d 0h 50m 0s",
+    "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:08:32"
+  "ultima_actualitzacio": "20:09:32"
 }
