@@ -2823,6 +2823,13 @@
       "hora": "20:10",
       "ts": "2026-10-13T19:57:33.801706",
       "collage": "collages/collage_1791914253587775.webp"
+    },
+    {
+      "text": "9è partit oficial per a Rodri amb el Barça. Supera Carlos Comamala (1908-1911), Charles Wallace (1908-1911), Coma (1918-1924), Zamora (1919-1922), Pascual (1923-1924), Montané (1926-1928), Roig (1928-1931), Padrón (1933-1934), Torredeflot (1935-1936), Fuentes (1939-1940), Pascual (1939-1940), Basilio (1943-1945), Periche (1946-1950), Celdrán (1959-1963), Rodri (2003-2006) i Douglas (2014-2017). Empata amb Bru (1908-1916), Berdié (1911-1914), Irizar (1911-1913), Bru (1913-1919), Gràcia (1921-1924), Vidal (1928-1929), Villacampa (1933-1934), Bardina (1935-1940), Nieto (1941-1942), Montserrat (1942-1945), Escudero (1949-1952), Silveira (1962-1963), Borràs (1966-1969), Laredo (1972-1974), Unzué (1988-1990), Pablo Alfaro (1992-1993), Sergio García (2002-2004), Gumbau (2014-2016), Demir (2021-2022), Jutglà (2021-2022) i Adeyemi (2026-2027) en el ➡️ 519è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:11",
+      "ts": "2026-10-13T19:57:34.571041",
+      "collage": "collages/collage_1791914253924668.webp"
     }
   ],
   "baseline": {
@@ -22621,9 +22628,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 48m 46s",
+    "compte_enrere": "0d 0h 48m 9s",
     "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:10:32"
+  "ultima_actualitzacio": "20:11:32"
 }
