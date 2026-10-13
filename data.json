@@ -2732,6 +2732,27 @@
       "hora": "19:57",
       "ts": "2026-10-13T19:57:28.768035",
       "collage": "collages/collage_1791914248127259.webp"
+    },
+    {
+      "text": "11è partit de Lliga de Campions per a Joan Garcia amb el Barça. Supera Kocsis (1959-1961), Juan Carlos (1991-1994), Witschge (1991-1993), Bogarde (1999-2000), Andersson (2001-2003), Coco (2001-2002), Thuram (2006-2008), Thiago Alcántara (2009-2013), Ibrahimović (2009-2010), Mingueza (2019-2022), Junior Firpo (2019-2021) i Gündoğan (2023-2024). Empata amb Kubala (1959-1961), Giovanni (1997-1999), Sonny Anderson (1997-1999), Ronald de Boer (1999-2000), Fernando Navarro (2000-2005), Riquelme (2002-2003), Dest (2020-2022) i Rashford (2025-2026) en el ➡️ 123è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "19:58",
+      "ts": "2026-10-13T19:57:28.768035",
+      "collage": "collages/collage_1791914248505119.webp"
+    },
+    {
+      "text": "174è partit oficial per a Eric Garcia amb el Barça. Empata amb Raich (1934-1945), Manchón (1950-1957) i Goikoetxea (1990-1994) en el ➡️ 107è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:59",
+      "ts": "2026-10-13T19:57:29.366843",
+      "collage": "collages/collage_1791914248860005.webp"
+    },
+    {
+      "text": "29è partit de Lliga de Campions per a Eric Garcia amb el Barça. Supera Begiristain (1991-1995), Bakero (1991-1995) i Henry (2007-2010). Empata amb Amor (1991-1998) i Yaya Touré (2007-2010) en el ➡️ 51è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-10-13T19:57:29.366843",
+      "collage": "collages/collage_1791914249141917.webp"
     }
   ],
   "baseline": {
@@ -22530,9 +22551,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 1h 1m 47s",
+    "compte_enrere": "0d 0h 59m 54s",
     "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:57:31"
+  "ultima_actualitzacio": "20:00:31"
 }
