@@ -2963,6 +2963,13 @@
       "hora": "22:27",
       "ts": "2026-10-13T22:27:40.734612",
       "collage": "collages/collage_1791923260471717.webp"
+    },
+    {
+      "text": "195è partit oficial per a Koundé amb el Barça. Supera Tejada (1953-1961), Zabalza (1967-1973) i Gabri (1999-2006) i ara ocupa el ➡️ 85è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:34",
+      "ts": "2026-10-13T22:34:33.098481",
+      "collage": "collages/collage_1791923672495675.webp"
     }
   ],
   "baseline": {
@@ -3571,7 +3578,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 194,
+        "pj": 195,
         "g": 11,
         "inici": "2022",
         "final": "2027"
@@ -5125,7 +5132,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 45,
+        "pj": 46,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -15692,7 +15699,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 35,
+        "pj": 36,
         "g": 2,
         "inici": "2022",
         "final": "2027"
@@ -16742,7 +16749,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 7,
+        "pj": 8,
         "g": 1,
         "inici": "2025",
         "final": "2027"
@@ -22765,5 +22772,5 @@
     "kickoff_ts": 1791918155
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:27:44"
+  "ultima_actualitzacio": "22:34:36"
 }
