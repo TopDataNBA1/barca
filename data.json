@@ -2753,6 +2753,13 @@
       "hora": "20:00",
       "ts": "2026-10-13T19:57:29.366843",
       "collage": "collages/collage_1791914249141917.webp"
+    },
+    {
+      "text": "101è partit oficial per a Gerard Martín amb el Barça. Supera Estella (1979-1983). Empata amb Celades (1995-1999) i Thiago Alcántara (2008-2013) en el ➡️ 181è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-10-13T19:57:30.573159",
+      "collage": "collages/collage_1791914249458833.webp"
     }
   ],
   "baseline": {
@@ -22551,9 +22558,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 59m 54s",
-    "kickoff_ts": 1791918000
+    "compte_enrere": "0d 0h 58m 39s",
+    "kickoff_ts": 1791917999
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:00:31"
+  "ultima_actualitzacio": "20:01:31"
 }
