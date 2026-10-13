@@ -22673,12 +22673,12 @@
       }
     }
   },
-  "match_status": "U",
+  "match_status": "L",
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 41m 20s",
-    "kickoff_ts": 1791918000
+    "compte_enrere": "0d 0h 0m 0s",
+    "kickoff_ts": 1791918155
   },
   "match_comp": "Lliga de Campions",
   "ultima_actualitzacio": "20:18:33"
