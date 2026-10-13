@@ -2984,6 +2984,13 @@
       "hora": "22:36",
       "ts": "2026-10-13T22:34:33.897225",
       "collage": "collages/collage_1791923673296417.webp"
+    },
+    {
+      "text": "8è partit de Lliga de Campions per a Bernal amb el Barça. Supera Czibor (1959-1961), Rexach (1974-1975), Neeskens (1974-1975), Asensi (1974-1975), Clares (1974-1975), Gerardo (1985-1986), Marcos Alonso (1985-1986), Afellay (2010-2012), Montoya (2011-2015), Cuenca (2011-2012), Aleñá (2016-2021), Digne (2016-2018), Trincão (2020-2021), Memphis (2021-2023) i Romeu (2023-2024). Empata amb Eulogio Martínez (1959-1960), Garay (1960-1961), De la Cruz (1974-1975), Rifé (1974-1975), Cruyff (1974-1975), Carrasco (1985-1986), Nando (1991-1992), Celades (1997-1999), Ćirić (1997-1999), Litmanen (1999-2001), Déhu (1999-2000), Pinto (2007-2014), Arda Turan (2015-2017), Iñaki Peña (2018-2025), Pjanić (2020-2021) i Marcos Alonso (2022-2024) en el ➡️ 155è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "22:37",
+      "ts": "2026-10-13T22:34:33.897225",
+      "collage": "collages/collage_1791923673634310.webp"
     }
   ],
   "baseline": {
@@ -22786,5 +22793,5 @@
     "kickoff_ts": 1791918155
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:36:36"
+  "ultima_actualitzacio": "22:37:36"
 }
