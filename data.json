@@ -2795,6 +2795,13 @@
       "hora": "20:06",
       "ts": "2026-10-13T19:57:32.067667",
       "collage": "collages/collage_1791914251824745.webp"
+    },
+    {
+      "text": "98è partit oficial per a Dani Olmo amb el Barça. Supera Arocha (1927-1933) i Òscar (1992-1999) i ara ocupa el ➡️ 187è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-10-13T19:57:33.201899",
+      "collage": "collages/collage_1791914252154658.webp"
     }
   ],
   "baseline": {
@@ -22593,9 +22600,9 @@
   "match_rival": "Galatasaray",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Galatasaray - Barça",
-    "compte_enrere": "0d 0h 53m 6s",
+    "compte_enrere": "0d 0h 52m 29s",
     "kickoff_ts": 1791918000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:06:32"
+  "ultima_actualitzacio": "20:07:32"
 }
