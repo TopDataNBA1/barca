@@ -3053,6 +3053,13 @@
       "hora": "17:28",
       "ts": "2026-10-17T17:23:23.875954",
       "collage": "collages/collage_1792250603665022.webp"
+    },
+    {
+      "text": "136è partit oficial per a Cubarsí amb el Barça. Supera Gerard (2000-2005) i ara ocupa el ➡️ 142è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:29",
+      "ts": "2026-10-17T17:23:24.510517",
+      "collage": "collages/collage_1792250603978921.webp"
     }
   ],
   "baseline": {
@@ -22851,9 +22858,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 1h 1m 33s",
+    "compte_enrere": "0d 1h 0m 19s",
     "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:28:24"
+  "ultima_actualitzacio": "17:29:24"
 }
