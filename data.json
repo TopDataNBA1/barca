@@ -3081,6 +3081,13 @@
       "hora": "17:32",
       "ts": "2026-10-17T17:23:25.267276",
       "collage": "collages/collage_1792250604999364.webp"
+    },
+    {
+      "text": "146è partit oficial per a Fermín amb el Barça. Empata amb Foncho (1960-1967) en el ➡️ 133è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:33",
+      "ts": "2026-10-17T17:23:25.929066",
+      "collage": "collages/collage_1792250605351250.webp"
     }
   ],
   "baseline": {
@@ -22879,9 +22886,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 57m 14s",
+    "compte_enrere": "0d 0h 56m 0s",
     "kickoff_ts": 1792254600
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:32:24"
+  "ultima_actualitzacio": "17:33:25"
 }
