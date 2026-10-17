@@ -3067,6 +3067,13 @@
       "hora": "17:30",
       "ts": "2026-10-17T17:23:24.510517",
       "collage": "collages/collage_1792250604286589.webp"
+    },
+    {
+      "text": "13è partit oficial per a Espart amb el Barça. Supera Reñé (1910-1913), Riera (1939-1940), Ceballos (1940-1943), Torra (1946-1952), Palau (1968-1969) i Romea (1969-1970). Empata amb Obiols (1928-1929), Llácer (1940-1943), Pais (1961-1962), Ramoní (1969-1971), Roura (1988-1992), Korneev (1994-1995), Dugarry (1997-1998), Òscar López (2002-2004), Samper (2014-2019) i Carles Pérez (2018-2020) en el ➡️ 486è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:31",
+      "ts": "2026-10-17T17:23:25.267276",
+      "collage": "collages/collage_1792250604639477.webp"
     }
   ],
   "baseline": {
@@ -22865,9 +22872,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 59m 42s",
+    "compte_enrere": "0d 0h 58m 28s",
     "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:30:24"
+  "ultima_actualitzacio": "17:31:24"
 }
