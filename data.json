@@ -3277,6 +3277,13 @@
       "hora": "20:09",
       "ts": "2026-10-17T20:08:04.290444",
       "collage": "collages/collage_1792260484084512.webp"
+    },
+    {
+      "text": "172è partit oficial per a Gavi amb el Barça. Empata amb Saviola (2001-2007) en el ➡️ 111è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:18",
+      "ts": "2026-10-17T20:18:00.439209",
+      "collage": "collages/collage_1792261079946554.webp"
     }
   ],
   "baseline": {
@@ -4060,7 +4067,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 171,
+        "pj": 172,
         "g": 10,
         "inici": "2021",
         "final": "2027"
@@ -10579,7 +10586,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 122,
+        "pj": 123,
         "g": 6,
         "inici": "2021",
         "final": "2027"
@@ -23079,5 +23086,5 @@
     "kickoff_ts": 1792254798
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:09:04"
+  "ultima_actualitzacio": "20:18:04"
 }
