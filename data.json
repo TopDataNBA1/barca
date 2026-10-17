@@ -3011,6 +3011,13 @@
       "tipus": "prioritaria",
       "hora": "22:55",
       "ts": "2026-10-13T22:55:20.924247"
+    },
+    {
+      "text": "55è partit oficial per a Joan Garcia amb el Barça. Supera Amarilla (1985-1988), Jordi Cruyff (1994-1996) i Vítor Baía (1996-1999). Empata amb Ronald de Boer (1998-2000) i Arda Turan (2015-2018) en el ➡️ 281è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:23",
+      "ts": "2026-10-17T17:23:22.624354",
+      "collage": "collages/collage_1792250602051539.webp"
     }
   ],
   "baseline": {
@@ -3423,7 +3430,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 255,
+        "pj": 256,
         "g": 29,
         "inici": "2020",
         "final": "2027"
@@ -3605,7 +3612,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 195,
+        "pj": 196,
         "g": 11,
         "inici": "2022",
         "final": "2027"
@@ -3850,7 +3857,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 161,
+        "pj": 162,
         "g": 57,
         "inici": "2022",
         "final": "2027"
@@ -3948,7 +3955,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 145,
+        "pj": 146,
         "g": 37,
         "inici": "2023",
         "final": "2027"
@@ -4011,7 +4018,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 135,
+        "pj": 136,
         "g": 2,
         "inici": "2023",
         "final": "2027"
@@ -4291,7 +4298,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 101,
+        "pj": 102,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -5012,7 +5019,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 54,
+        "pj": 55,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -6482,7 +6489,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 12,
+        "pj": 13,
         "g": 1,
         "inici": "2025",
         "final": "2027"
@@ -6608,7 +6615,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 10,
+        "pj": 11,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -6685,7 +6692,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 9,
+        "pj": 10,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -7056,7 +7063,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 6,
+        "pj": 7,
         "g": 3,
         "inici": "2026",
         "final": "2027"
@@ -9970,7 +9977,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 173,
+        "pj": 174,
         "g": 23,
         "inici": "2020",
         "final": "2027"
@@ -10208,7 +10215,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 131,
+        "pj": 132,
         "g": 6,
         "inici": "2022",
         "final": "2027"
@@ -10418,7 +10425,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 109,
+        "pj": 110,
         "g": 37,
         "inici": "2022",
         "final": "2027"
@@ -10516,7 +10523,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 96,
+        "pj": 97,
         "g": 24,
         "inici": "2023",
         "final": "2027"
@@ -10572,7 +10579,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 90,
+        "pj": 91,
         "g": 1,
         "inici": "2023",
         "final": "2027"
@@ -10859,7 +10866,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 67,
+        "pj": 68,
         "g": 1,
         "inici": "2024",
         "final": "2027"
@@ -11475,7 +11482,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 37,
+        "pj": 38,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -12819,7 +12826,7 @@
       },
       "Xavier Espart Font": {
         "alias": "Espart",
-        "pj": 10,
+        "pj": 11,
         "g": 1,
         "inici": "2025",
         "final": "2027"
@@ -13029,7 +13036,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 8,
+        "pj": 9,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -13176,7 +13183,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 7,
+        "pj": 8,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -13519,7 +13526,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 4,
+        "pj": 5,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -22809,9 +22816,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 2h 13m 5s",
+    "compte_enrere": "0d 1h 6m 39s",
     "kickoff_ts": 1792254600
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:55:22"
+  "ultima_actualitzacio": "17:23:23"
 }
