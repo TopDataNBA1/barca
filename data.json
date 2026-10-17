@@ -3221,6 +3221,13 @@
       "hora": "19:48",
       "ts": "2026-10-17T19:48:48.683113",
       "collage": "collages/collage_1792259328464182.webp"
+    },
+    {
+      "text": "99è partit oficial per a Dani Olmo amb el Barça. Empata amb Valle (1940-1950) i Mora (1970-1979) en el ➡️ 185è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:59",
+      "ts": "2026-10-17T19:59:58.045361",
+      "collage": "collages/collage_1792259997631964.webp"
     }
   ],
   "baseline": {
@@ -4529,7 +4536,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 98,
+        "pj": 99,
         "g": 20,
         "inici": "2024",
         "final": "2027"
@@ -6888,7 +6895,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 9,
+        "pj": 10,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -11090,7 +11097,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 66,
+        "pj": 67,
         "g": 17,
         "inici": "2024",
         "final": "2027"
@@ -13379,7 +13386,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 7,
+        "pj": 8,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -23023,5 +23030,5 @@
     "kickoff_ts": 1792254798
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "19:48:52"
+  "ultima_actualitzacio": "19:59:59"
 }
