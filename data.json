@@ -3046,6 +3046,13 @@
       "hora": "17:27",
       "ts": "2026-10-17T17:23:23.875954",
       "collage": "collages/collage_1792250603385112.webp"
+    },
+    {
+      "text": "132è partit de Lliga per a Koundé amb el Barça. Supera Gensana (1956-1966) i ara ocupa el ➡️ 95è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:28",
+      "ts": "2026-10-17T17:23:23.875954",
+      "collage": "collages/collage_1792250603665022.webp"
     }
   ],
   "baseline": {
@@ -22844,9 +22851,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 1h 2m 47s",
+    "compte_enrere": "0d 1h 1m 33s",
     "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:27:24"
+  "ultima_actualitzacio": "17:28:24"
 }
