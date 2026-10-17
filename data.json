@@ -3088,6 +3088,13 @@
       "hora": "17:33",
       "ts": "2026-10-17T17:23:25.929066",
       "collage": "collages/collage_1792250605351250.webp"
+    },
+    {
+      "text": "97è partit de Lliga per a Fermín amb el Barça. Supera Motta (2001-2007) i Fàbregas (2011-2014). Empata amb Manolo (1978-1988) i Overmars (2000-2004) en el ➡️ 136è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:34",
+      "ts": "2026-10-17T17:23:25.929066",
+      "collage": "collages/collage_1792250605661151.webp"
     }
   ],
   "baseline": {
@@ -22886,9 +22893,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 56m 0s",
+    "compte_enrere": "0d 0h 55m 23s",
     "kickoff_ts": 1792254600
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:33:25"
+  "ultima_actualitzacio": "17:34:25"
 }
