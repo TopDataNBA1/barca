@@ -3305,6 +3305,12 @@
       "hora": "20:20",
       "ts": "2026-10-17T20:19:16.074660",
       "collage": "collages/collage_1792261155834743.webp"
+    },
+    {
+      "text": "📋 17/10/2026 · LLIGA · REAL BETIS - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "20:32",
+      "ts": "2026-10-17T20:32:27.872748"
     }
   ],
   "baseline": {
@@ -23099,7 +23105,7 @@
       }
     }
   },
-  "match_status": "L",
+  "match_status": "C",
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
@@ -23107,5 +23113,5 @@
     "kickoff_ts": 1792254798
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:20:07"
+  "ultima_actualitzacio": "20:32:29"
 }
