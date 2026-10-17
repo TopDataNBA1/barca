@@ -3109,6 +3109,13 @@
       "hora": "17:36",
       "ts": "2026-10-17T17:23:26.738482",
       "collage": "collages/collage_1792250606430905.webp"
+    },
+    {
+      "text": "162è partit oficial per a Lamine Yamal amb el Barça. Supera Reina (1965-1973) i Deco (2004-2008). Empata amb Eulogio Martínez (1956-1962) en el ➡️ 118è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:37",
+      "ts": "2026-10-17T17:23:27.359290",
+      "collage": "collages/collage_1792250606833454.webp"
     }
   ],
   "baseline": {
@@ -22907,9 +22914,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 52m 54s",
+    "compte_enrere": "0d 0h 52m 17s",
     "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:36:25"
+  "ultima_actualitzacio": "17:37:25"
 }
