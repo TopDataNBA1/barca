@@ -3116,6 +3116,13 @@
       "hora": "17:37",
       "ts": "2026-10-17T17:23:27.359290",
       "collage": "collages/collage_1792250606833454.webp"
+    },
+    {
+      "text": "110è partit de Lliga per a Lamine Yamal amb el Barça. Empata amb Calderé (1983-1988) en el ➡️ 125è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:38",
+      "ts": "2026-10-17T17:23:27.359290",
+      "collage": "collages/collage_1792250607120360.webp"
     }
   ],
   "baseline": {
@@ -22914,9 +22921,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 52m 17s",
+    "compte_enrere": "0d 0h 51m 3s",
     "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:37:25"
+  "ultima_actualitzacio": "17:38:25"
 }
