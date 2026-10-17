@@ -3018,6 +3018,20 @@
       "hora": "17:23",
       "ts": "2026-10-17T17:23:22.624354",
       "collage": "collages/collage_1792250602051539.webp"
+    },
+    {
+      "text": "38è partit de Lliga per a Joan Garcia amb el Barça. Supera Ribelles (1957-1961), Ronaldo (1996-1997) i Alcácer (2016-2018). Empata amb Czibor (1958-1961) en el ➡️ 273è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:24",
+      "ts": "2026-10-17T17:23:22.624354",
+      "collage": "collages/collage_1792250602384431.webp"
+    },
+    {
+      "text": "102è partit oficial per a Gerard Martín amb el Barça. Supera Celades (1995-1999) i Thiago Alcántara (2008-2013). Empata amb Brugué (1951-1960) i Griezmann (2019-2022) en el ➡️ 179è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:25",
+      "ts": "2026-10-17T17:23:23.288141",
+      "collage": "collages/collage_1792250602724322.webp"
     }
   ],
   "baseline": {
@@ -22816,9 +22830,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 1h 6m 39s",
+    "compte_enrere": "0d 1h 4m 39s",
     "kickoff_ts": 1792254600
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:23:23"
+  "ultima_actualitzacio": "17:25:24"
 }
