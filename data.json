@@ -3039,6 +3039,13 @@
       "hora": "17:26",
       "ts": "2026-10-17T17:23:23.288141",
       "collage": "collages/collage_1792250603068214.webp"
+    },
+    {
+      "text": "196è partit oficial per a Koundé amb el Barça. Empata amb Escolà (1934-1948) i Robert (1986-1990) en el ➡️ 83è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:27",
+      "ts": "2026-10-17T17:23:23.875954",
+      "collage": "collages/collage_1792250603385112.webp"
     }
   ],
   "baseline": {
@@ -22837,9 +22844,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 1h 3m 24s",
+    "compte_enrere": "0d 1h 2m 47s",
     "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:26:24"
+  "ultima_actualitzacio": "17:27:24"
 }
