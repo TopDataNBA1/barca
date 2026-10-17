@@ -3060,6 +3060,13 @@
       "hora": "17:29",
       "ts": "2026-10-17T17:23:24.510517",
       "collage": "collages/collage_1792250603978921.webp"
+    },
+    {
+      "text": "91è partit de Lliga per a Cubarsí amb el Barça. Supera Rosalén (1939-1946) i De la Peña (1995-2001). Empata amb Umtiti (2016-2022) en el ➡️ 145è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:30",
+      "ts": "2026-10-17T17:23:24.510517",
+      "collage": "collages/collage_1792250604286589.webp"
     }
   ],
   "baseline": {
@@ -22858,9 +22865,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 1h 0m 19s",
+    "compte_enrere": "0d 0h 59m 42s",
     "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:29:24"
+  "ultima_actualitzacio": "17:30:24"
 }
