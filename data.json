@@ -3123,6 +3123,13 @@
       "hora": "17:38",
       "ts": "2026-10-17T17:23:27.359290",
       "collage": "collages/collage_1792250607120360.webp"
+    },
+    {
+      "text": "256è partit oficial per a Pedri amb el Barça. Supera Stoichkov (1990-1998) i Reiziger (1997-2004). Empata amb Kubala (1950-1961) en el ➡️ 56è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:39",
+      "ts": "2026-10-17T17:23:28.017076",
+      "collage": "collages/collage_1792250607461253.webp"
     }
   ],
   "baseline": {
@@ -22921,9 +22928,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 51m 3s",
+    "compte_enrere": "0d 0h 49m 49s",
     "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:38:25"
+  "ultima_actualitzacio": "17:39:25"
 }
