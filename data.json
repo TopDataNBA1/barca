@@ -3228,6 +3228,13 @@
       "hora": "19:59",
       "ts": "2026-10-17T19:59:58.045361",
       "collage": "collages/collage_1792259997631964.webp"
+    },
+    {
+      "text": "67è partit de Lliga per a Dani Olmo amb el Barça. Supera Popescu (1995-1997) i Vidal (2018-2020) i ara ocupa el ➡️ 189è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-10-17T19:59:58.045361",
+      "collage": "collages/collage_1792259997874861.webp"
     }
   ],
   "baseline": {
@@ -23030,5 +23037,5 @@
     "kickoff_ts": 1792254798
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "19:59:59"
+  "ultima_actualitzacio": "20:01:00"
 }
