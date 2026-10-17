@@ -3095,6 +3095,13 @@
       "hora": "17:34",
       "ts": "2026-10-17T17:23:25.929066",
       "collage": "collages/collage_1792250605661151.webp"
+    },
+    {
+      "text": "11è partit oficial per a Adeyemi amb el Barça. Supera Reguera (1913-1919), Muntaner (1939-1940), Noguera (1947-1949), Bustillo (1968-1972), Bio (1977-1979), Sánchez Jara (1990-1995), Lopetegui (1994-1997) i Damià (2004-2006). Empata amb Font (1929-1932), Trujillo (1933-1935), Argila (1940-1944), Va (1940-1941), Fernández (1967-1969), Paredes (1968-1972), Roberto Dinamite (1979-1980) i Angoy (1990-1996) en el ➡️ 503è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:35",
+      "ts": "2026-10-17T17:23:26.738482",
+      "collage": "collages/collage_1792250606051026.webp"
     }
   ],
   "baseline": {
@@ -22893,9 +22900,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 55m 23s",
+    "compte_enrere": "0d 0h 54m 9s",
     "kickoff_ts": 1792254600
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:34:25"
+  "ultima_actualitzacio": "17:35:25"
 }
