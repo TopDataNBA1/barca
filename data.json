@@ -3074,6 +3074,13 @@
       "hora": "17:31",
       "ts": "2026-10-17T17:23:25.267276",
       "collage": "collages/collage_1792250604639477.webp"
+    },
+    {
+      "text": "11è partit de Lliga per a Espart amb el Barça. Supera Argemí (1935-1940), Argila (1940-1944), Marañón (1960-1964), García Castany (1968-1971), Palau (1968-1969), Romea (1969-1970) i Roura (1988-1992). Empata amb Va (1940-1941), Virgós (1945-1950), López López (1984-1988), Toni Velamazán (1995-1996), Déhu (1999-2000) i Carles Pérez (2018-2020) en el ➡️ 456è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:32",
+      "ts": "2026-10-17T17:23:25.267276",
+      "collage": "collages/collage_1792250604999364.webp"
     }
   ],
   "baseline": {
@@ -22872,9 +22879,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 58m 28s",
-    "kickoff_ts": 1792254599
+    "compte_enrere": "0d 0h 57m 14s",
+    "kickoff_ts": 1792254600
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:31:24"
+  "ultima_actualitzacio": "17:32:24"
 }
