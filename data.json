@@ -3032,6 +3032,13 @@
       "hora": "17:25",
       "ts": "2026-10-17T17:23:23.288141",
       "collage": "collages/collage_1792250602724322.webp"
+    },
+    {
+      "text": "68è partit de Lliga per a Gerard Martín amb el Barça. Empata amb Balmanya (1935-1944), Moreno (1951-1956), Muller (1965-1968) i Thiago Alcántara (2008-2013) en el ➡️ 185è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:26",
+      "ts": "2026-10-17T17:23:23.288141",
+      "collage": "collages/collage_1792250603068214.webp"
     }
   ],
   "baseline": {
@@ -22830,9 +22837,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 1h 4m 39s",
-    "kickoff_ts": 1792254600
+    "compte_enrere": "0d 1h 3m 24s",
+    "kickoff_ts": 1792254599
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:25:24"
+  "ultima_actualitzacio": "17:26:24"
 }
