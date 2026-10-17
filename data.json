@@ -3284,6 +3284,13 @@
       "hora": "20:18",
       "ts": "2026-10-17T20:18:00.439209",
       "collage": "collages/collage_1792261079946554.webp"
+    },
+    {
+      "text": "123è partit de Lliga per a Gavi amb el Barça. Supera Luis Suárez (1953-1961) i Eric Garcia (2021-2027). Empata amb Elias (1943-1950), Benítez (1961-1968), Urbano (1982-1992), Saviola (2001-2007) i Neymar (2013-2017) en el ➡️ 104è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:19",
+      "ts": "2026-10-17T20:18:00.439209",
+      "collage": "collages/collage_1792261080208530.webp"
     }
   ],
   "baseline": {
@@ -4593,7 +4600,7 @@
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
         "pj": 99,
-        "g": 20,
+        "g": 21,
         "inici": "2024",
         "final": "2027"
       },
@@ -11154,7 +11161,7 @@
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
         "pj": 67,
-        "g": 17,
+        "g": 18,
         "inici": "2024",
         "final": "2027"
       },
@@ -23086,5 +23093,5 @@
     "kickoff_ts": 1792254798
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:18:04"
+  "ultima_actualitzacio": "20:19:05"
 }
