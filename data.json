@@ -3291,6 +3291,20 @@
       "hora": "20:19",
       "ts": "2026-10-17T20:18:00.439209",
       "collage": "collages/collage_1792261080208530.webp"
+    },
+    {
+      "text": "⚽ 21è gol de Dani Olmo amb el Barça. Supera Juan Carlos (1968-1975), Zuviría (1977-1982), Landaburu (1979-1982), Clos (1982-1988), Pichi Alonso (1982-1986), Deco (2004-2008), Tello (2011-2014) i De Jong (2019-2027). Empata amb Marcos Aurelio (1948-1951), Bosch (1951-1959), Gensana (1956-1966), Calderé (1983-1988) i Sonny Anderson (1997-1999) en el ➡️ 114è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "20:20",
+      "ts": "2026-10-17T20:19:16.074660",
+      "collage": "collages/collage_1792261154971481.webp"
+    },
+    {
+      "text": "⚽ 18è gol de Dani Olmo a la Lliga amb el Barça. Supera Sastre (1928-1932), Raich (1934-1945), Segarra (1950-1964), Gallego (1965-1975), Juan Carlos (1968-1975), Heredia (1974-1980) i Jordi Alba (2012-2023). Empata amb Marcos Aurelio (1948-1951), Bosch (1951-1959), Czibor (1958-1961), Esteban Vigo (1977-1987) i Giovanni (1996-1999) en el ➡️ 91è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "20:20",
+      "ts": "2026-10-17T20:19:16.074660",
+      "collage": "collages/collage_1792261155834743.webp"
     }
   ],
   "baseline": {
@@ -23093,5 +23107,5 @@
     "kickoff_ts": 1792254798
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:19:05"
+  "ultima_actualitzacio": "20:20:07"
 }
