@@ -3270,6 +3270,13 @@
       "hora": "20:08",
       "ts": "2026-10-17T20:08:04.290444",
       "collage": "collages/collage_1792260483856596.webp"
+    },
+    {
+      "text": "130è partit de Lliga per a Raphinha amb el Barça. Supera Gabri (1999-2006) i ara ocupa el ➡️ 97è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:09",
+      "ts": "2026-10-17T20:08:04.290444",
+      "collage": "collages/collage_1792260484084512.webp"
     }
   ],
   "baseline": {
@@ -23072,5 +23079,5 @@
     "kickoff_ts": 1792254798
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:08:04"
+  "ultima_actualitzacio": "20:09:04"
 }
