@@ -3130,6 +3130,20 @@
       "hora": "17:39",
       "ts": "2026-10-17T17:23:28.017076",
       "collage": "collages/collage_1792250607461253.webp"
+    },
+    {
+      "text": "174è partit de Lliga per a Pedri amb el Barça. Supera Reiziger (1997-2004) i ara ocupa el ➡️ 61è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "17:40",
+      "ts": "2026-10-17T17:23:28.017076",
+      "collage": "collages/collage_1792250607772153.webp"
+    },
+    {
+      "text": "10è partit oficial per a Rodri amb el Barça. Supera Bru (1908-1916), Berdié (1911-1914), Irizar (1911-1913), Bru (1913-1919), Gràcia (1921-1924), Vidal (1928-1929), Villacampa (1933-1934), Bardina (1935-1940), Nieto (1941-1942), Montserrat (1942-1945), Escudero (1949-1952), Silveira (1962-1963), Borràs (1966-1969), Laredo (1972-1974), Unzué (1988-1990), Pablo Alfaro (1992-1993), Sergio García (2002-2004), Gumbau (2014-2016), Demir (2021-2022), Jutglà (2021-2022) i Gordon (2026-2027). Empata amb Reguera (1913-1919), Muntaner (1939-1940), Noguera (1947-1949), Bustillo (1968-1972), Bio (1977-1979), Sánchez Jara (1990-1995), Lopetegui (1994-1997) i Damià (2004-2006) en el ➡️ 511è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:41",
+      "ts": "2026-10-17T17:23:28.829447",
+      "collage": "collages/collage_1792250608165027.webp"
     }
   ],
   "baseline": {
@@ -22928,9 +22942,9 @@
   "match_rival": "Real Betis",
   "proper_partit": {
     "descripcio": "Lliga · Real Betis - Barça",
-    "compte_enrere": "0d 0h 49m 49s",
-    "kickoff_ts": 1792254599
+    "compte_enrere": "0d 0h 48m 35s",
+    "kickoff_ts": 1792254600
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "17:39:25"
+  "ultima_actualitzacio": "17:41:25"
 }
