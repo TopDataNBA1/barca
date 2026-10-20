@@ -3416,6 +3416,13 @@
       "hora": "20:42",
       "ts": "2026-10-20T20:28:44.008495",
       "collage": "collages/collage_1792520923410694.webp"
+    },
+    {
+      "text": "36è partit de Lliga de Campions per a Lamine Yamal amb el Barça. Supera Nadal (1991-1999), Ronaldinho (2004-2008) i Araújo (2019-2026). Empata amb Gabri (1999-2006) i Koundé (2022-2027) en el ➡️ 32è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:43",
+      "ts": "2026-10-20T20:28:44.008495",
+      "collage": "collages/collage_1792520923761577.webp"
     }
   ],
   "baseline": {
@@ -23214,9 +23221,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 17m 2s",
+    "compte_enrere": "0d 0h 16m 25s",
     "kickoff_ts": 1792522800
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:42:42"
+  "ultima_actualitzacio": "20:43:42"
 }
