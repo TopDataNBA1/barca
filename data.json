@@ -3500,6 +3500,13 @@
       "hora": "22:24",
       "ts": "2026-10-20T22:24:08.279805",
       "collage": "collages/collage_1792527847816459.webp"
+    },
+    {
+      "text": "29è partit de Lliga de Campions per a Gavi amb el Barça. Supera Begiristain (1991-1995), Bakero (1991-1995) i Henry (2007-2010). Empata amb Amor (1991-1998), Yaya Touré (2007-2010), Eric Garcia (2021-2027) i Cubarsí (2023-2027) en el ➡️ 51è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "22:25",
+      "ts": "2026-10-20T22:24:08.279805",
+      "collage": "collages/collage_1792527848080054.webp"
     }
   ],
   "baseline": {
@@ -7027,7 +7034,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 11,
+        "pj": 12,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -17923,7 +17930,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 2,
+        "pj": 3,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -23302,5 +23309,5 @@
     "kickoff_ts": 1792523038
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:24:08"
+  "ultima_actualitzacio": "22:25:08"
 }
