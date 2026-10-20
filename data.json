@@ -3339,6 +3339,13 @@
       "hora": "20:31",
       "ts": "2026-10-20T20:28:38.971442",
       "collage": "collages/collage_1792520918727523.webp"
+    },
+    {
+      "text": "74è partit oficial per a João Cancelo amb el Barça. Supera Vantolrà (1933-1936) i Juan Carlos (1991-1994). Empata amb Alfonseda (1969-1973) i Bonano (2001-2004) en el ➡️ 232è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:32",
+      "ts": "2026-10-20T20:28:39.727190",
+      "collage": "collages/collage_1792520919057415.webp"
     }
   ],
   "baseline": {
@@ -23137,9 +23144,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 28m 9s",
+    "compte_enrere": "0d 0h 26m 55s",
     "kickoff_ts": 1792522800
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:31:41"
+  "ultima_actualitzacio": "20:32:41"
 }
