@@ -3472,6 +3472,13 @@
       "hora": "21:30",
       "ts": "2026-10-20T21:30:32.757489",
       "collage": "collages/collage_1792524632360805.webp"
+    },
+    {
+      "text": "33è partit de Lliga de Campions per a Fermín amb el Barça. Supera Deco (2004-2008). Empata amb Motta (2001-2007) i Lenglet (2018-2022) en el ➡️ 43è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "21:31",
+      "ts": "2026-10-20T21:30:32.757489",
+      "collage": "collages/collage_1792524632594538.webp"
     }
   ],
   "baseline": {
@@ -23274,5 +23281,5 @@
     "kickoff_ts": 1792523038
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "21:30:33"
+  "ultima_actualitzacio": "21:31:33"
 }
