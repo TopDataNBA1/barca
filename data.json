@@ -3535,6 +3535,13 @@
       "hora": "22:29",
       "ts": "2026-10-20T22:25:25.559698",
       "collage": "collages/collage_1792527925316986.webp"
+    },
+    {
+      "text": "170è partit oficial per a Balde amb el Barça. Empata amb Moratalla (1981-1988) en el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:38",
+      "ts": "2026-10-20T22:38:33.593948",
+      "collage": "collages/collage_1792528712551700.webp"
     }
   ],
   "baseline": {
@@ -4332,7 +4339,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 169,
+        "pj": 170,
         "g": 3,
         "inici": "2021",
         "final": "2027"
@@ -16362,7 +16369,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 30,
+        "pj": 31,
         "g": 0,
         "inici": "2021",
         "final": "2027"
@@ -23337,5 +23344,5 @@
     "kickoff_ts": 1792523038
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:29:08"
+  "ultima_actualitzacio": "22:38:34"
 }
