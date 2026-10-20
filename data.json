@@ -3423,6 +3423,13 @@
       "hora": "20:43",
       "ts": "2026-10-20T20:28:44.008495",
       "collage": "collages/collage_1792520923761577.webp"
+    },
+    {
+      "text": "47è partit oficial per a Bernal amb el Barça. Supera Ibrahimović (2009-2011) i Digne (2016-2018). Empata amb Christanval (2001-2003) en el ➡️ 304è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:44",
+      "ts": "2026-10-20T20:28:44.643283",
+      "collage": "collages/collage_1792520924093466.webp"
     }
   ],
   "baseline": {
@@ -23221,9 +23228,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 16m 25s",
+    "compte_enrere": "0d 0h 15m 11s",
     "kickoff_ts": 1792522800
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:43:42"
+  "ultima_actualitzacio": "20:44:42"
 }
