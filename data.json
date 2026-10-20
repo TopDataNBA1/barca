@@ -3409,6 +3409,13 @@
       "hora": "20:41",
       "ts": "2026-10-20T20:28:43.323723",
       "collage": "collages/collage_1792520923110795.webp"
+    },
+    {
+      "text": "163è partit oficial per a Lamine Yamal amb el Barça. Supera Eulogio Martínez (1956-1962). Empata amb Bojan (2007-2011) en el ➡️ 117è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:42",
+      "ts": "2026-10-20T20:28:44.008495",
+      "collage": "collages/collage_1792520923410694.webp"
     }
   ],
   "baseline": {
@@ -23207,9 +23214,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 18m 16s",
-    "kickoff_ts": 1792522799
+    "compte_enrere": "0d 0h 17m 2s",
+    "kickoff_ts": 1792522800
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:41:42"
+  "ultima_actualitzacio": "20:42:42"
 }
