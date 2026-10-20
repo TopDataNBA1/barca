@@ -3465,6 +3465,13 @@
       "hora": "20:49",
       "ts": "2026-10-20T20:28:46.138783",
       "collage": "collages/collage_1792520925830887.webp"
+    },
+    {
+      "text": "147è partit oficial per a Fermín amb el Barça. Supera Foncho (1960-1967). Empata amb Motta (2001-2007) en el ➡️ 132è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:30",
+      "ts": "2026-10-20T21:30:32.757489",
+      "collage": "collages/collage_1792524632360805.webp"
     }
   ],
   "baseline": {
@@ -4402,7 +4409,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 146,
+        "pj": 147,
         "g": 37,
         "inici": "2023",
         "final": "2027"
@@ -16264,7 +16271,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 32,
+        "pj": 33,
         "g": 10,
         "inici": "2023",
         "final": "2027"
@@ -23267,5 +23274,5 @@
     "kickoff_ts": 1792523038
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:49:43"
+  "ultima_actualitzacio": "21:30:33"
 }
