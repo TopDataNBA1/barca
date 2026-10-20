@@ -3444,6 +3444,13 @@
       "hora": "20:46",
       "ts": "2026-10-20T20:28:45.259076",
       "collage": "collages/collage_1792520924728254.webp"
+    },
+    {
+      "text": "46è partit de Lliga de Campions per a Pedri amb el Barça. Supera Rivaldo (1997-2002). Empata amb Sergi (1993-2002) en el ➡️ 20è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:47",
+      "ts": "2026-10-20T20:28:45.259076",
+      "collage": "collages/collage_1792520925033153.webp"
     }
   ],
   "baseline": {
@@ -23242,9 +23249,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 12m 43s",
+    "compte_enrere": "0d 0h 12m 6s",
     "kickoff_ts": 1792522800
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:46:42"
+  "ultima_actualitzacio": "20:47:43"
 }
