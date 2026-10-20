@@ -3493,6 +3493,13 @@
       "hora": "22:19",
       "ts": "2026-10-20T22:19:10.174350",
       "collage": "collages/collage_1792527549955168.webp"
+    },
+    {
+      "text": "173è partit oficial per a Gavi amb el Barça. Supera Saviola (2001-2007) i ara ocupa el ➡️ 111è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:24",
+      "ts": "2026-10-20T22:24:08.279805",
+      "collage": "collages/collage_1792527847816459.webp"
     }
   ],
   "baseline": {
@@ -4276,7 +4283,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 172,
+        "pj": 173,
         "g": 10,
         "inici": "2021",
         "final": "2027"
@@ -16369,7 +16376,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 28,
+        "pj": 29,
         "g": 1,
         "inici": "2021",
         "final": "2027"
@@ -23295,5 +23302,5 @@
     "kickoff_ts": 1792523038
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:19:16"
+  "ultima_actualitzacio": "22:24:08"
 }
