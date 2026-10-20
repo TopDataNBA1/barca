@@ -3451,6 +3451,13 @@
       "hora": "20:47",
       "ts": "2026-10-20T20:28:45.259076",
       "collage": "collages/collage_1792520925033153.webp"
+    },
+    {
+      "text": "187è partit oficial per a Raphinha amb el Barça. Supera Calvet (1939-1953) i Neymar (2013-2017) i ara ocupa el ➡️ 93è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:48",
+      "ts": "2026-10-20T20:28:46.138783",
+      "collage": "collages/collage_1792520925339051.webp"
     }
   ],
   "baseline": {
@@ -23249,9 +23256,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 12m 6s",
+    "compte_enrere": "0d 0h 10m 52s",
     "kickoff_ts": 1792522800
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:47:43"
+  "ultima_actualitzacio": "20:48:43"
 }
