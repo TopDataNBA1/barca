@@ -3402,6 +3402,13 @@
       "hora": "20:40",
       "ts": "2026-10-20T20:28:43.323723",
       "collage": "collages/collage_1792520922228090.webp"
+    },
+    {
+      "text": "22è partit de Lliga de Campions per a Dani Olmo amb el Barça. Supera Laudrup (1991-1994), Rochemback (2001-2003), Guðjohnsen (2006-2009) i Ansu Fati (2019-2025). Empata amb Gerard (2000-2005), Giuly (2004-2007), Bartra (2009-2016) i Umtiti (2016-2022) en el ➡️ 72è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:41",
+      "ts": "2026-10-20T20:28:43.323723",
+      "collage": "collages/collage_1792520923110795.webp"
     }
   ],
   "baseline": {
@@ -23200,9 +23207,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 19m 30s",
+    "compte_enrere": "0d 0h 18m 16s",
     "kickoff_ts": 1792522799
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:40:42"
+  "ultima_actualitzacio": "20:41:42"
 }
