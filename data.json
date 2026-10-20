@@ -3507,6 +3507,13 @@
       "hora": "22:25",
       "ts": "2026-10-20T22:24:08.279805",
       "collage": "collages/collage_1792527848080054.webp"
+    },
+    {
+      "text": "12è partit oficial per a Adeyemi amb el Barça. Supera Font (1929-1932), Trujillo (1933-1935), Argila (1940-1944), Va (1940-1941), Fernández (1967-1969), Paredes (1968-1972), Roberto Dinamite (1979-1980), Angoy (1990-1996) i Gordon (2026-2027). Empata amb Reñé (1910-1913), Riera (1939-1940), Ceballos (1940-1943), Torra (1946-1952), Palau (1968-1969) i Romea (1969-1970) en el ➡️ 497è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:26",
+      "ts": "2026-10-20T22:24:09.542221",
+      "collage": "collages/collage_1792527848473146.webp"
     }
   ],
   "baseline": {
@@ -7118,7 +7125,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 10,
+        "pj": 11,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -17937,7 +17944,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 2,
+        "pj": 3,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -23309,5 +23316,5 @@
     "kickoff_ts": 1792523038
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:25:08"
+  "ultima_actualitzacio": "22:26:08"
 }
