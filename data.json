@@ -3381,6 +3381,13 @@
       "hora": "20:37",
       "ts": "2026-10-20T20:28:41.055481",
       "collage": "collages/collage_1792520920789569.webp"
+    },
+    {
+      "text": "11è partit oficial per a Gordon amb el Barça. Supera Reguera (1913-1919), Muntaner (1939-1940), Noguera (1947-1949), Bustillo (1968-1972), Bio (1977-1979), Sánchez Jara (1990-1995), Lopetegui (1994-1997), Damià (2004-2006) i Rodri (2026-2027). Empata amb Font (1929-1932), Trujillo (1933-1935), Argila (1940-1944), Va (1940-1941), Fernández (1967-1969), Paredes (1968-1972), Roberto Dinamite (1979-1980), Angoy (1990-1996) i Adeyemi (2026-2027) en el ➡️ 503è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:38",
+      "ts": "2026-10-20T20:28:42.080138",
+      "collage": "collages/collage_1792520921194434.webp"
     }
   ],
   "baseline": {
@@ -23179,9 +23186,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 22m 35s",
+    "compte_enrere": "0d 0h 21m 21s",
     "kickoff_ts": 1792522799
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:37:41"
+  "ultima_actualitzacio": "20:38:42"
 }
