@@ -3521,6 +3521,13 @@
       "hora": "22:27",
       "ts": "2026-10-20T22:24:09.542221",
       "collage": "collages/collage_1792527849315027.webp"
+    },
+    {
+      "text": "11è partit oficial per a Rodri amb el Barça. Supera Reguera (1913-1919), Muntaner (1939-1940), Noguera (1947-1949), Bustillo (1968-1972), Bio (1977-1979), Sánchez Jara (1990-1995), Lopetegui (1994-1997) i Damià (2004-2006). Empata amb Font (1929-1932), Trujillo (1933-1935), Argila (1940-1944), Va (1940-1941), Fernández (1967-1969), Paredes (1968-1972), Roberto Dinamite (1979-1980), Angoy (1990-1996) i Gordon (2026-2027) en el ➡️ 503è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:28",
+      "ts": "2026-10-20T22:25:25.559698",
+      "collage": "collages/collage_1792527924947542.webp"
     }
   ],
   "baseline": {
@@ -23323,5 +23330,5 @@
     "kickoff_ts": 1792523038
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:27:08"
+  "ultima_actualitzacio": "22:28:08"
 }
