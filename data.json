@@ -3437,6 +3437,13 @@
       "hora": "20:45",
       "ts": "2026-10-20T20:28:44.643283",
       "collage": "collages/collage_1792520924388368.webp"
+    },
+    {
+      "text": "257è partit oficial per a Pedri amb el Barça. Supera Kubala (1950-1961). Empata amb Abelardo (1994-2002) i Kluivert (1998-2004) en el ➡️ 54è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:46",
+      "ts": "2026-10-20T20:28:45.259076",
+      "collage": "collages/collage_1792520924728254.webp"
     }
   ],
   "baseline": {
@@ -23235,9 +23242,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 13m 57s",
+    "compte_enrere": "0d 0h 12m 43s",
     "kickoff_ts": 1792522800
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:45:42"
+  "ultima_actualitzacio": "20:46:42"
 }
