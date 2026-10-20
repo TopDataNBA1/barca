@@ -3458,6 +3458,13 @@
       "hora": "20:48",
       "ts": "2026-10-20T20:28:46.138783",
       "collage": "collages/collage_1792520925339051.webp"
+    },
+    {
+      "text": "35è partit de Lliga de Campions per a Raphinha amb el Barça. Supera Koeman (1991-1995), Abelardo (1994-2002), Adriano (2010-2016) i Ferran Torres (2022-2026). Empata amb Nadal (1991-1999), Ronaldinho (2004-2008) i Araújo (2019-2026) en el ➡️ 34è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:49",
+      "ts": "2026-10-20T20:28:46.138783",
+      "collage": "collages/collage_1792520925830887.webp"
     }
   ],
   "baseline": {
@@ -23256,9 +23263,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 10m 52s",
+    "compte_enrere": "0d 0h 9m 38s",
     "kickoff_ts": 1792522800
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:48:43"
+  "ultima_actualitzacio": "20:49:43"
 }
