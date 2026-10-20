@@ -3388,6 +3388,13 @@
       "hora": "20:38",
       "ts": "2026-10-20T20:28:42.080138",
       "collage": "collages/collage_1792520921194434.webp"
+    },
+    {
+      "text": "3r partit de Lliga de Campions per a Gordon amb el Barça. Supera Tejada (1960-1961), Heredia (1974-1975), Marcial (1974-1975), Manolo (1985-1986), Tente Sánchez (1985-1986), Hagi (1994-1995), José Mari (1994-1995), Dani Tortolero (2002-2003), Enke (2002-2003), Sergio García (2002-2003), Muniesa (2008-2012), Víctor Vázquez (2008-2011), Fontàs (2009-2012), De la Fuente (2019-2021), Wagué (2019-2020), Bellerín (2022-2023), Guiu (2023-2024), Domínguez (2024-2025), Gabriel Jesus (2026-2027), Adeyemi (2026-2027) i Rodri (2026-2027). Empata amb Ribelles (1959-1961), Flotats (1959-1960), Coll (1959-1960), Fradera (1985-1986), Rojo (1985-1986), Pichi Alonso (1985-1986), Cristóbal (1991-1992), Luis Cembranos (1994-1995), Amunike (1997-1998), Jorquera (2004-2009), Maxi López (2004-2006), Cáceres (2008-2009), Víctor Sánchez (2008-2009), Samper (2014-2016), Gumbau (2015-2016), Cillessen (2016-2019), Malcom (2018-2019), De Jong (2021-2022), Demir (2021-2022) i Fort (2023-2025) en el ➡️ 237è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:39",
+      "ts": "2026-10-20T20:28:42.080138",
+      "collage": "collages/collage_1792520921867211.webp"
     }
   ],
   "baseline": {
@@ -23186,9 +23193,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 21m 21s",
+    "compte_enrere": "0d 0h 20m 7s",
     "kickoff_ts": 1792522799
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:38:42"
+  "ultima_actualitzacio": "20:39:42"
 }
