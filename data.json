@@ -3563,6 +3563,12 @@
       "hora": "22:43",
       "ts": "2026-10-20T22:43:31.722926",
       "collage": "collages/collage_1792529011560352.webp"
+    },
+    {
+      "text": "📋 20/10/2026 · LLIGA DE CAMPIONS · PARIS SAINT GERMAIN - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "22:59",
+      "ts": "2026-10-20T22:59:15.325890"
     }
   ],
   "baseline": {
@@ -23357,13 +23363,13 @@
       }
     }
   },
-  "match_status": "C",
-  "match_rival": "Paris Saint Germain",
+  "match_status": "U",
+  "match_rival": "Real Madrid",
   "proper_partit": {
-    "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1792523038
+    "descripcio": "Lliga · Barça - Real Madrid",
+    "compte_enrere": "4d 23h 0m 18s",
+    "kickoff_ts": 1792958400
   },
-  "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "22:43:36"
+  "match_comp": "Lliga",
+  "ultima_actualitzacio": "22:59:18"
 }
