@@ -3360,6 +3360,13 @@
       "hora": "20:34",
       "ts": "2026-10-20T20:28:40.337722",
       "collage": "collages/collage_1792520919801167.webp"
+    },
+    {
+      "text": "29è partit de Lliga de Campions per a Cubarsí amb el Barça. Supera Begiristain (1991-1995), Bakero (1991-1995), Henry (2007-2010) i Gavi (2021-2027). Empata amb Amor (1991-1998), Yaya Touré (2007-2010) i Eric Garcia (2021-2027) en el ➡️ 51è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:35",
+      "ts": "2026-10-20T20:28:40.337722",
+      "collage": "collages/collage_1792520920121792.webp"
     }
   ],
   "baseline": {
@@ -23158,9 +23165,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 24m 26s",
+    "compte_enrere": "0d 0h 23m 49s",
     "kickoff_ts": 1792522799
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:34:41"
+  "ultima_actualitzacio": "20:35:41"
 }
