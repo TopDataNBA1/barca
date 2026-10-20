@@ -3395,6 +3395,13 @@
       "hora": "20:39",
       "ts": "2026-10-20T20:28:42.080138",
       "collage": "collages/collage_1792520921867211.webp"
+    },
+    {
+      "text": "100è partit oficial per a Dani Olmo amb el Barça. Supera Valle (1940-1950) i Mora (1970-1979). Empata amb Estella (1979-1983) en el ➡️ 184è lloc històric del club.. Dani Olmo es converteix en el 184è jugador que arriba als 100 partit oficials amb el Barça.",
+      "tipus": "programada",
+      "hora": "20:40",
+      "ts": "2026-10-20T20:28:43.323723",
+      "collage": "collages/collage_1792520922228090.webp"
     }
   ],
   "baseline": {
@@ -23193,9 +23200,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 20m 7s",
+    "compte_enrere": "0d 0h 19m 30s",
     "kickoff_ts": 1792522799
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:39:42"
+  "ultima_actualitzacio": "20:40:42"
 }
