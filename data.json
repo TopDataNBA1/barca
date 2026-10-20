@@ -3346,6 +3346,13 @@
       "hora": "20:32",
       "ts": "2026-10-20T20:28:39.727190",
       "collage": "collages/collage_1792520919057415.webp"
+    },
+    {
+      "text": "17è partit de Lliga de Campions per a João Cancelo amb el Barça. Supera Evaristo (1959-1961), Luis Suárez (1959-1961), Gracia (1959-1961), Christanval (2001-2003), Milito (2007-2011), Griezmann (2019-2021) i Christensen (2022-2027). Empata amb Gensana (1959-1961), Sylvinho (2004-2009), Maxwell (2009-2012) i André Gomes (2016-2018) en el ➡️ 91è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:33",
+      "ts": "2026-10-20T20:28:39.727190",
+      "collage": "collages/collage_1792520919409315.webp"
     }
   ],
   "baseline": {
@@ -23144,9 +23151,9 @@
   "match_rival": "Paris Saint Germain",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Paris Saint Germain - Barça",
-    "compte_enrere": "0d 0h 26m 55s",
-    "kickoff_ts": 1792522800
+    "compte_enrere": "0d 0h 25m 40s",
+    "kickoff_ts": 1792522799
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:32:41"
+  "ultima_actualitzacio": "20:33:41"
 }
