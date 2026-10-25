@@ -3674,6 +3674,13 @@
       "hora": "20:10",
       "ts": "2026-10-25T19:56:18.924915",
       "collage": "collages/collage_1792954578324242.webp"
+    },
+    {
+      "text": "9è partit de Lliga per a Rodri amb el Barça. Supera Obiols (1928-1929), Saló (1930-1941), Fuentes (1939-1940), Pascual (1939-1940), Riera (1939-1940), Llácer (1940-1943), Torra (1946-1952), Pais (1961-1962), Fernández (1967-1969), Laredo (1972-1974), Roberto Dinamite (1979-1980), Pinilla (1989-1992), Òscar López (2002-2004), Víctor Sánchez (2007-2009) i Fontàs (2008-2013). Empata amb Llorens (1928-1936), Trujillo (1933-1935), Villacampa (1933-1934), Bardina (1935-1940), Muntaner (1939-1940), Nieto (1941-1942), Montserrat (1942-1945), Noguera (1947-1949), Suco (1959-1961), Paredes (1968-1972), Ramoní (1969-1971), Bio (1977-1979), Angoy (1990-1996), Damià (2004-2006) i Adeyemi (2026-2027) en el ➡️ 470è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:11",
+      "ts": "2026-10-25T19:56:18.924915",
+      "collage": "collages/collage_1792954578697123.webp"
     }
   ],
   "baseline": {
@@ -23493,9 +23500,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 49m 57s",
-    "kickoff_ts": 1792958400
+    "compte_enrere": "0d 0h 48m 41s",
+    "kickoff_ts": 1792958399
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:10:16"
+  "ultima_actualitzacio": "20:11:16"
 }
