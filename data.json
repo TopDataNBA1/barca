@@ -3611,6 +3611,13 @@
       "hora": "20:01",
       "ts": "2026-10-25T19:56:15.457949",
       "collage": "collages/collage_1792954575225166.webp"
+    },
+    {
+      "text": "138è partit oficial per a Cubarsí amb el Barça. . Ocupa el ➡️ 142è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:02",
+      "ts": "2026-10-25T19:56:15.945465",
+      "collage": "collages/collage_1792954575508436.webp"
     }
   ],
   "baseline": {
@@ -23430,9 +23437,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 58m 4s",
-    "kickoff_ts": 1792958401
+    "compte_enrere": "0d 0h 57m 26s",
+    "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:01:15"
+  "ultima_actualitzacio": "20:02:15"
 }
