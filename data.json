@@ -3737,6 +3737,13 @@
       "hora": "21:34",
       "ts": "2026-10-25T21:33:56.561203",
       "collage": "collages/collage_1792960436408131.webp"
+    },
+    {
+      "text": "⚽ 90è gol de Raphinha amb el Barça. Supera Samitier (1919-1932) i Schuster (1980-1988) i ara ocupa el ➡️ 24è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "22:25",
+      "ts": "2026-10-25T22:25:10.572721",
+      "collage": "collages/collage_1792963510180178.webp"
     }
   ],
   "baseline": {
@@ -4388,7 +4395,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 188,
-        "g": 89,
+        "g": 90,
         "inici": "2022",
         "final": "2027"
       },
@@ -10949,7 +10956,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 131,
-        "g": 56,
+        "g": 57,
         "inici": "2022",
         "final": "2027"
       },
@@ -23560,5 +23567,5 @@
     "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "21:34:58"
+  "ultima_actualitzacio": "22:25:13"
 }
