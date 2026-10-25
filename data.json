@@ -3667,6 +3667,13 @@
       "hora": "20:09",
       "ts": "2026-10-25T19:56:18.220846",
       "collage": "collages/collage_1792954577997602.webp"
+    },
+    {
+      "text": "12è partit oficial per a Rodri amb el Barça. Supera Font (1929-1932), Trujillo (1933-1935), Argila (1940-1944), Va (1940-1941), Fernández (1967-1969), Paredes (1968-1972), Roberto Dinamite (1979-1980) i Angoy (1990-1996). Empata amb Reñé (1910-1913), Riera (1939-1940), Ceballos (1940-1943), Torra (1946-1952), Palau (1968-1969), Romea (1969-1970) i Adeyemi (2026-2027) en el ➡️ 497è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:10",
+      "ts": "2026-10-25T19:56:18.924915",
+      "collage": "collages/collage_1792954578324242.webp"
     }
   ],
   "baseline": {
@@ -23486,9 +23493,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 50m 35s",
-    "kickoff_ts": 1792958401
+    "compte_enrere": "0d 0h 49m 57s",
+    "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:09:16"
+  "ultima_actualitzacio": "20:10:16"
 }
