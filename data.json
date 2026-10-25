@@ -3751,6 +3751,13 @@
       "hora": "22:25",
       "ts": "2026-10-25T22:25:10.572721",
       "collage": "collages/collage_1792963510410535.webp"
+    },
+    {
+      "text": "298è partit oficial per a De Jong amb el Barça. Supera Nadal (1991-1999). Empata amb Julio Alberto (1982-1991) en el ➡️ 41è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:39",
+      "ts": "2026-10-25T22:39:29.583459",
+      "collage": "collages/collage_1792964369115682.webp"
     }
   ],
   "baseline": {
@@ -4051,7 +4058,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 297,
+        "pj": 298,
         "g": 20,
         "inici": "2019",
         "final": "2027"
@@ -10612,7 +10619,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 202,
+        "pj": 203,
         "g": 15,
         "inici": "2019",
         "final": "2027"
@@ -23574,5 +23581,5 @@
     "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:25:15"
+  "ultima_actualitzacio": "22:39:32"
 }
