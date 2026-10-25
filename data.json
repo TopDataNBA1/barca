@@ -3625,6 +3625,13 @@
       "hora": "20:03",
       "ts": "2026-10-25T19:56:15.945465",
       "collage": "collages/collage_1792954575737497.webp"
+    },
+    {
+      "text": "15è partit oficial per a Espart amb el Barça. Supera Alfred Massana (1911-1916), Helguera (1932-1933), Betancourt (1942-1944), Virgós (1945-1950), Colino (1945-1948), Suco (1959-1961), Juanito (1968-1969), Romero (1970-1972), López López (1984-1988), Pinilla (1989-1992), Moreno (1995-1996), Víctor Sánchez (2007-2009), Chygrynskiy (2009-2010) i Abde (2021-2024). Empata amb Vinyals (1915-1926), Saló (1930-1941), Valero (1943-1947), Florencio (1947-1949), Marañón (1960-1964), Nayim (1985-1988), José Mari (1994-1995), Toni Velamazán (1995-1996) i Sorín (2002-2003) en el ➡️ 463è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:04",
+      "ts": "2026-10-25T19:56:16.829328",
+      "collage": "collages/collage_1792954576074045.webp"
     }
   ],
   "baseline": {
@@ -23444,9 +23451,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 56m 11s",
+    "compte_enrere": "0d 0h 54m 56s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:03:15"
+  "ultima_actualitzacio": "20:04:16"
 }
