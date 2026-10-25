@@ -3709,6 +3709,13 @@
       "hora": "20:15",
       "ts": "2026-10-25T19:56:20.186474",
       "collage": "collages/collage_1792954579964444.webp"
+    },
+    {
+      "text": "188è partit oficial per a Raphinha amb el Barça. Empata amb Keita (2008-2012) en el ➡️ 92è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:16",
+      "ts": "2026-10-25T19:56:20.726614",
+      "collage": "collages/collage_1792954580275800.webp"
     }
   ],
   "baseline": {
@@ -23528,9 +23535,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 44m 20s",
+    "compte_enrere": "0d 0h 43m 43s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:15:17"
+  "ultima_actualitzacio": "20:16:17"
 }
