@@ -3597,6 +3597,13 @@
       "hora": "19:59",
       "ts": "2026-10-25T19:56:14.828419",
       "collage": "collages/collage_1792954574582518.webp"
+    },
+    {
+      "text": "75è partit oficial per a João Cancelo amb el Barça. Supera Alfonseda (1969-1973) i Bonano (2001-2004). Empata amb Nicolau (1948-1952), Claudio Bravo (2014-2017) i Casadó (2022-2026) en el ➡️ 229è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-10-25T19:56:15.457949",
+      "collage": "collages/collage_1792954574922296.webp"
     }
   ],
   "baseline": {
@@ -23416,9 +23423,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 1h 0m 32s",
-    "kickoff_ts": 1792958399
+    "compte_enrere": "0d 0h 59m 18s",
+    "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "19:59:15"
+  "ultima_actualitzacio": "20:00:15"
 }
