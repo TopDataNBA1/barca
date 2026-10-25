@@ -3779,6 +3779,13 @@
       "hora": "22:50",
       "ts": "2026-10-25T22:49:26.768186",
       "collage": "collages/collage_1792964966554066.webp"
+    },
+    {
+      "text": "8è partit oficial per a Gabriel Jesus amb el Barça. Supera Rodríguez (1909-1912), Rocasolano II (1939-1940), Martínez (1941-1945), Navarro (1941-1942), Rueda (1944-1950), Giménez (1949-1950), Endériz (1966-1968), Cortés (1972-1975), Vilà (1977-1981), Amigó (1979-1980), Romerito (1988-1989), Santamaría (1999-2004), Rüştü (2003-2004), Guiu (2022-2024) i Bellerín (2022-2023). Empata amb Carlos Comamala (1908-1911), Charles Wallace (1908-1911), Coma (1918-1924), Zamora (1919-1922), Pascual (1923-1924), Montané (1926-1928), Roig (1928-1931), Padrón (1933-1934), Torredeflot (1935-1936), Fuentes (1939-1940), Pascual (1939-1940), Basilio (1943-1945), Periche (1946-1950), Celdrán (1959-1963), Rodri (2003-2006) i Douglas (2014-2017) en el ➡️ 542è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:51",
+      "ts": "2026-10-25T22:51:56.690669",
+      "collage": "collages/collage_1792965116130552.webp"
     }
   ],
   "baseline": {
@@ -7705,7 +7712,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 7,
+        "pj": 8,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -14154,7 +14161,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 5,
+        "pj": 6,
         "g": 3,
         "inici": "2026",
         "final": "2027"
@@ -23602,5 +23609,5 @@
     "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:50:28"
+  "ultima_actualitzacio": "22:51:58"
 }
