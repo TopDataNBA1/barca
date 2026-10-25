@@ -3765,6 +3765,13 @@
       "hora": "22:40",
       "ts": "2026-10-25T22:39:29.583459",
       "collage": "collages/collage_1792964369374800.webp"
+    },
+    {
+      "text": "13è partit oficial per a Adeyemi amb el Barça. Supera Reñé (1910-1913), Riera (1939-1940), Ceballos (1940-1943), Torra (1946-1952), Palau (1968-1969), Romea (1969-1970), Gordon (2026-2027) i Rodri (2026-2027). Empata amb Obiols (1928-1929), Llácer (1940-1943), Pais (1961-1962), Ramoní (1969-1971), Roura (1988-1992), Korneev (1994-1995), Dugarry (1997-1998), Òscar López (2002-2004), Samper (2014-2019) i Carles Pérez (2018-2020) en el ➡️ 487è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:49",
+      "ts": "2026-10-25T22:49:26.768186",
+      "collage": "collages/collage_1792964966241682.webp"
     }
   ],
   "baseline": {
@@ -7243,7 +7250,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 12,
+        "pj": 13,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -13685,7 +13692,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 9,
+        "pj": 10,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -23588,5 +23595,5 @@
     "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:40:32"
+  "ultima_actualitzacio": "22:49:28"
 }
