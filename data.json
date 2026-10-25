@@ -3576,6 +3576,20 @@
       "hora": "19:56",
       "ts": "2026-10-25T19:56:14.252615",
       "collage": "collages/collage_1792954573759169.webp"
+    },
+    {
+      "text": "39è partit de Lliga per a Joan Garcia amb el Barça. Supera Czibor (1958-1961). Empata amb Montesinos (1963-1967), Vítor Baía (1996-1999) i Song (2012-2014) en el ➡️ 270è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:57",
+      "ts": "2026-10-25T19:56:14.252615",
+      "collage": "collages/collage_1792954574029857.webp"
+    },
+    {
+      "text": "104è partit oficial per a Gerard Martín amb el Barça. Supera Castillo (1926-1932), Belletti (2004-2007) i Bartra (2009-2016) i ara ocupa el ➡️ 176è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:58",
+      "ts": "2026-10-25T19:56:14.828419",
+      "collage": "collages/collage_1792954574334604.webp"
     }
   ],
   "baseline": {
@@ -23395,9 +23409,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 1h 3m 47s",
+    "compte_enrere": "0d 1h 1m 11s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "19:56:15"
+  "ultima_actualitzacio": "19:58:15"
 }
