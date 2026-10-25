@@ -3716,6 +3716,13 @@
       "hora": "20:16",
       "ts": "2026-10-25T19:56:20.726614",
       "collage": "collages/collage_1792954580275800.webp"
+    },
+    {
+      "text": "131è partit de Lliga per a Raphinha amb el Barça. Empata amb Gensana (1956-1966) en el ➡️ 96è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:17",
+      "ts": "2026-10-25T19:56:20.726614",
+      "collage": "collages/collage_1792954580533206.webp"
     }
   ],
   "baseline": {
@@ -23535,9 +23542,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 43m 43s",
+    "compte_enrere": "0d 0h 42m 28s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:16:17"
+  "ultima_actualitzacio": "20:17:17"
 }
