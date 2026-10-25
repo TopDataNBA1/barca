@@ -3618,6 +3618,13 @@
       "hora": "20:02",
       "ts": "2026-10-25T19:56:15.945465",
       "collage": "collages/collage_1792954575508436.webp"
+    },
+    {
+      "text": "92è partit de Lliga per a Cubarsí amb el Barça. Supera Umtiti (2016-2022). Empata amb Sospedra (1939-1947), Foncho (1960-1967) i Gerard (2000-2005) en el ➡️ 142è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:03",
+      "ts": "2026-10-25T19:56:15.945465",
+      "collage": "collages/collage_1792954575737497.webp"
     }
   ],
   "baseline": {
@@ -23437,9 +23444,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 57m 26s",
+    "compte_enrere": "0d 0h 56m 11s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:02:15"
+  "ultima_actualitzacio": "20:03:15"
 }
