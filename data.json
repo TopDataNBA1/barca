@@ -3793,6 +3793,12 @@
       "hora": "22:52",
       "ts": "2026-10-25T22:51:56.690669",
       "collage": "collages/collage_1792965116475484.webp"
+    },
+    {
+      "text": "📋 25/10/2026 · LLIGA · BARÇA - REAL MADRID",
+      "tipus": "prioritaria",
+      "hora": "23:02",
+      "ts": "2026-10-25T23:02:44.197633"
     }
   ],
   "baseline": {
@@ -23608,13 +23614,13 @@
       }
     }
   },
-  "match_status": "L",
-  "match_rival": "Real Madrid",
+  "match_status": "U",
+  "match_rival": "Alaves",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1792958617
+    "descripcio": "Lliga · Barça - Alaves",
+    "compte_enrere": "5d 21h 56m 48s",
+    "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:52:58"
+  "ultima_actualitzacio": "23:02:48"
 }
