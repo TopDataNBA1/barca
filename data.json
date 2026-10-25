@@ -3632,6 +3632,20 @@
       "hora": "20:04",
       "ts": "2026-10-25T19:56:16.829328",
       "collage": "collages/collage_1792954576074045.webp"
+    },
+    {
+      "text": "12è partit de Lliga per a Espart amb el Barça. Supera Va (1940-1941), Virgós (1945-1950), López López (1984-1988), Toni Velamazán (1995-1996), Déhu (1999-2000) i Carles Pérez (2018-2020). Empata amb Munlloch (1935-1936), Torrent (1964-1968), Juanito (1968-1969), Romero (1970-1972), José Mari (1994-1995), Korneev (1994-1995), Chygrynskiy (2009-2010), Deulofeu (2010-2018), Adama (2013-2022), Neto (2019-2022) i Abde (2021-2024) en el ➡️ 445è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:05",
+      "ts": "2026-10-25T19:56:16.829328",
+      "collage": "collages/collage_1792954576453321.webp"
+    },
+    {
+      "text": "148è partit oficial per a Fermín amb el Barça. Supera Motta (2001-2007) i ara ocupa el ➡️ 132è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:06",
+      "ts": "2026-10-25T19:56:17.555907",
+      "collage": "collages/collage_1792954576955287.webp"
     }
   ],
   "baseline": {
@@ -23451,9 +23465,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 54m 56s",
+    "compte_enrere": "0d 0h 54m 19s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:04:16"
+  "ultima_actualitzacio": "20:06:16"
 }
