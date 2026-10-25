@@ -3730,6 +3730,13 @@
       "hora": "21:33",
       "ts": "2026-10-25T21:33:56.561203",
       "collage": "collages/collage_1792960436166534.webp"
+    },
+    {
+      "text": "118è partit de Lliga per a Balde amb el Barça. . Ocupa el ➡️ 117è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "21:34",
+      "ts": "2026-10-25T21:33:56.561203",
+      "collage": "collages/collage_1792960436408131.webp"
     }
   ],
   "baseline": {
@@ -23553,5 +23560,5 @@
     "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "21:33:58"
+  "ultima_actualitzacio": "21:34:58"
 }
