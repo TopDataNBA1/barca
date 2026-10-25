@@ -3723,6 +3723,13 @@
       "hora": "20:17",
       "ts": "2026-10-25T19:56:20.726614",
       "collage": "collages/collage_1792954580533206.webp"
+    },
+    {
+      "text": "171è partit oficial per a Balde amb el Barça. Supera Moratalla (1981-1988) i ara ocupa el ➡️ 113è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "21:33",
+      "ts": "2026-10-25T21:33:56.561203",
+      "collage": "collages/collage_1792960436166534.webp"
     }
   ],
   "baseline": {
@@ -4520,7 +4527,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 170,
+        "pj": 171,
         "g": 3,
         "inici": "2021",
         "final": "2027"
@@ -11074,7 +11081,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 117,
+        "pj": 118,
         "g": 1,
         "inici": "2021",
         "final": "2027"
@@ -23538,7 +23545,7 @@
       }
     }
   },
-  "match_status": "U",
+  "match_status": "L",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
@@ -23546,5 +23553,5 @@
     "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:17:17"
+  "ultima_actualitzacio": "21:33:58"
 }
