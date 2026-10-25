@@ -3695,6 +3695,13 @@
       "hora": "20:13",
       "ts": "2026-10-25T19:56:19.610879",
       "collage": "collages/collage_1792954579351808.webp"
+    },
+    {
+      "text": "164è partit oficial per a Lamine Yamal amb el Barça. Supera Bojan (2007-2011). Empata amb Zuviría (1977-1982) en el ➡️ 116è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:14",
+      "ts": "2026-10-25T19:56:20.186474",
+      "collage": "collages/collage_1792954579699060.webp"
     }
   ],
   "baseline": {
@@ -23514,9 +23521,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 46m 50s",
+    "compte_enrere": "0d 0h 45m 35s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:13:17"
+  "ultima_actualitzacio": "20:14:17"
 }
