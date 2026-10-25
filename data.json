@@ -3702,6 +3702,13 @@
       "hora": "20:14",
       "ts": "2026-10-25T19:56:20.186474",
       "collage": "collages/collage_1792954579699060.webp"
+    },
+    {
+      "text": "111è partit de Lliga per a Lamine Yamal amb el Barça. Supera Calderé (1983-1988). Empata amb Eulogio Martínez (1956-1962) i Reina (1965-1973) en el ➡️ 123è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:15",
+      "ts": "2026-10-25T19:56:20.186474",
+      "collage": "collages/collage_1792954579964444.webp"
     }
   ],
   "baseline": {
@@ -23521,9 +23528,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 45m 35s",
+    "compte_enrere": "0d 0h 44m 20s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:14:17"
+  "ultima_actualitzacio": "20:15:17"
 }
