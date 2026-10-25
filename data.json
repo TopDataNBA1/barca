@@ -3604,6 +3604,13 @@
       "hora": "20:00",
       "ts": "2026-10-25T19:56:15.457949",
       "collage": "collages/collage_1792954574922296.webp"
+    },
+    {
+      "text": "55è partit de Lliga per a João Cancelo amb el Barça. Supera Martí (1928-1933), Alfonseda (1969-1973), Periko Alonso (1982-1985) i Milla (1984-1990). Empata amb Martín (1949-1954), Archibald (1984-1987) i Juan Carlos (1991-1994) en el ➡️ 218è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-10-25T19:56:15.457949",
+      "collage": "collages/collage_1792954575225166.webp"
     }
   ],
   "baseline": {
@@ -23423,9 +23430,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 59m 18s",
-    "kickoff_ts": 1792958400
+    "compte_enrere": "0d 0h 58m 4s",
+    "kickoff_ts": 1792958401
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:00:15"
+  "ultima_actualitzacio": "20:01:15"
 }
