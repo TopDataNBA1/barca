@@ -3590,6 +3590,13 @@
       "hora": "19:58",
       "ts": "2026-10-25T19:56:14.828419",
       "collage": "collages/collage_1792954574334604.webp"
+    },
+    {
+      "text": "69è partit de Lliga per a Gerard Martín amb el Barça. Supera Balmanya (1935-1944), Moreno (1951-1956), Muller (1965-1968) i Thiago Alcántara (2008-2013). Empata amb Òscar (1992-1999) en el ➡️ 184è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "19:59",
+      "ts": "2026-10-25T19:56:14.828419",
+      "collage": "collages/collage_1792954574582518.webp"
     }
   ],
   "baseline": {
@@ -23409,9 +23416,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 1h 1m 11s",
-    "kickoff_ts": 1792958400
+    "compte_enrere": "0d 1h 0m 32s",
+    "kickoff_ts": 1792958399
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "19:58:15"
+  "ultima_actualitzacio": "19:59:15"
 }
