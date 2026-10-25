@@ -3660,6 +3660,13 @@
       "hora": "20:08",
       "ts": "2026-10-25T19:56:18.220846",
       "collage": "collages/collage_1792954577646879.webp"
+    },
+    {
+      "text": "175è partit de Lliga per a Pedri amb el Barça. Empata amb Stoichkov (1990-1998) en el ➡️ 60è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:09",
+      "ts": "2026-10-25T19:56:18.220846",
+      "collage": "collages/collage_1792954577997602.webp"
     }
   ],
   "baseline": {
@@ -23479,9 +23486,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 51m 49s",
-    "kickoff_ts": 1792958400
+    "compte_enrere": "0d 0h 50m 35s",
+    "kickoff_ts": 1792958401
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:08:16"
+  "ultima_actualitzacio": "20:09:16"
 }
