@@ -3653,6 +3653,13 @@
       "hora": "20:07",
       "ts": "2026-10-25T19:56:17.555907",
       "collage": "collages/collage_1792954577305832.webp"
+    },
+    {
+      "text": "258è partit oficial per a Pedri amb el Barça. Supera Abelardo (1994-2002) i Kluivert (1998-2004) i ara ocupa el ➡️ 54è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:08",
+      "ts": "2026-10-25T19:56:18.220846",
+      "collage": "collages/collage_1792954577646879.webp"
     }
   ],
   "baseline": {
@@ -23472,9 +23479,9 @@
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 53m 4s",
+    "compte_enrere": "0d 0h 51m 49s",
     "kickoff_ts": 1792958400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:07:16"
+  "ultima_actualitzacio": "20:08:16"
 }
