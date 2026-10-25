@@ -3758,6 +3758,13 @@
       "hora": "22:39",
       "ts": "2026-10-25T22:39:29.583459",
       "collage": "collages/collage_1792964369115682.webp"
+    },
+    {
+      "text": "203è partit de Lliga per a De Jong amb el Barça. Supera Julio Alberto (1982-1991). Empata amb Eusebio (1988-1995) i Mascherano (2010-2018) en el ➡️ 44è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:40",
+      "ts": "2026-10-25T22:39:29.583459",
+      "collage": "collages/collage_1792964369374800.webp"
     }
   ],
   "baseline": {
@@ -23581,5 +23588,5 @@
     "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:39:32"
+  "ultima_actualitzacio": "22:40:32"
 }
