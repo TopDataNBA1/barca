@@ -23538,12 +23538,12 @@
       }
     }
   },
-  "match_status": "U",
+  "match_status": "L",
   "match_rival": "Real Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Real Madrid",
-    "compte_enrere": "0d 0h 42m 28s",
-    "kickoff_ts": 1792958400
+    "compte_enrere": "0d 0h 0m 0s",
+    "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
   "ultima_actualitzacio": "20:17:17"
