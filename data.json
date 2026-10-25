@@ -3772,6 +3772,13 @@
       "hora": "22:49",
       "ts": "2026-10-25T22:49:26.768186",
       "collage": "collages/collage_1792964966241682.webp"
+    },
+    {
+      "text": "10è partit de Lliga per a Adeyemi amb el Barça. Supera Llorens (1928-1936), Trujillo (1933-1935), Villacampa (1933-1934), Bardina (1935-1940), Muntaner (1939-1940), Nieto (1941-1942), Montserrat (1942-1945), Noguera (1947-1949), Suco (1959-1961), Paredes (1968-1972), Ramoní (1969-1971), Bio (1977-1979), Angoy (1990-1996), Damià (2004-2006), Gordon (2026-2027) i Rodri (2026-2027). Empata amb Argemí (1935-1940), Argila (1940-1944), Marañón (1960-1964), García Castany (1968-1971), Palau (1968-1969), Romea (1969-1970) i Roura (1988-1992) en el ➡️ 463è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:50",
+      "ts": "2026-10-25T22:49:26.768186",
+      "collage": "collages/collage_1792964966554066.webp"
     }
   ],
   "baseline": {
@@ -23595,5 +23602,5 @@
     "kickoff_ts": 1792958617
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:49:28"
+  "ultima_actualitzacio": "22:50:28"
 }
