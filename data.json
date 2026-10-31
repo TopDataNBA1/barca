@@ -3932,6 +3932,20 @@
       "hora": "20:31",
       "ts": "2026-10-31T20:13:33.561806",
       "collage": "collages/collage_1793474013015999.webp"
+    },
+    {
+      "text": "112è partit de Lliga per a Lamine Yamal amb el Barça. Supera Eulogio Martínez (1956-1962) i Reina (1965-1973). Empata amb Martín (1939-1948) en el ➡️ 122è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:32",
+      "ts": "2026-10-31T20:13:33.561806",
+      "collage": "collages/collage_1793474013347875.webp"
+    },
+    {
+      "text": "189è partit oficial per a Raphinha amb el Barça. Supera Keita (2008-2012). Empata amb Adriano (2010-2016) en el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:33",
+      "ts": "2026-10-31T20:13:34.158614",
+      "collage": "collages/collage_1793474013663772.webp"
     }
   ],
   "baseline": {
@@ -23765,9 +23779,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 27m 50s",
+    "compte_enrere": "0d 0h 26m 36s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:31:30"
+  "ultima_actualitzacio": "20:33:30"
 }
