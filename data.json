@@ -3834,6 +3834,13 @@
       "hora": "20:17",
       "ts": "2026-10-31T20:13:28.771734",
       "collage": "collages/collage_1793474008217911.webp"
+    },
+    {
+      "text": "204è partit de Lliga per a De Jong amb el Barça. Supera Eusebio (1988-1995) i Mascherano (2010-2018). Empata amb Ferrer (1990-1998) i Pedro (2007-2016) en el ➡️ 42è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:18",
+      "ts": "2026-10-31T20:13:28.771734",
+      "collage": "collages/collage_1793474008543806.webp"
     }
   ],
   "baseline": {
@@ -23667,9 +23674,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 42m 43s",
+    "compte_enrere": "0d 0h 41m 29s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:17:28"
+  "ultima_actualitzacio": "20:18:28"
 }
