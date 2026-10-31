@@ -3841,6 +3841,13 @@
       "hora": "20:18",
       "ts": "2026-10-31T20:13:28.771734",
       "collage": "collages/collage_1793474008543806.webp"
+    },
+    {
+      "text": "76è partit oficial per a João Cancelo amb el Barça. Supera Nicolau (1948-1952), Claudio Bravo (2014-2017) i Casadó (2022-2026). Empata amb Paco Martínez (1976-1982), Pedraza (1980-1988) i Milito (2007-2011) en el ➡️ 226è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:19",
+      "ts": "2026-10-31T20:13:29.493506",
+      "collage": "collages/collage_1793474008897693.webp"
     }
   ],
   "baseline": {
@@ -23674,9 +23681,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 41m 29s",
-    "kickoff_ts": 1793476800
+    "compte_enrere": "0d 0h 40m 51s",
+    "kickoff_ts": 1793476799
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:18:28"
+  "ultima_actualitzacio": "20:19:29"
 }
