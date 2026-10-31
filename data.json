@@ -3855,6 +3855,13 @@
       "hora": "20:20",
       "ts": "2026-10-31T20:13:29.493506",
       "collage": "collages/collage_1793474009228587.webp"
+    },
+    {
+      "text": "139è partit oficial per a Cubarsí amb el Barça. Empata amb Lineker (1986-1989) en el ➡️ 141è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:21",
+      "ts": "2026-10-31T20:13:30.098946",
+      "collage": "collages/collage_1793474009570488.webp"
     }
   ],
   "baseline": {
@@ -23688,9 +23695,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 39m 37s",
+    "compte_enrere": "0d 0h 38m 23s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:20:29"
+  "ultima_actualitzacio": "20:21:29"
 }
