@@ -4016,6 +4016,13 @@
       "hora": "22:10",
       "ts": "2026-10-31T22:10:05.096956",
       "collage": "collages/collage_1793481004481150.webp"
+    },
+    {
+      "text": "34è partit de Lliga per a Bernal amb el Barça. Supera Mendonça (1966-1969), Ronald de Boer (1998-2000), Mendieta (2002-2003) i Munir (2014-2019). Empata amb Calo (1944-1950), Szegedi (1950-1952), Tomé (1973-1977), Pinto (2007-2014), Vermaelen (2014-2019) i Paulinho (2017-2018) en el ➡️ 286è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:11",
+      "ts": "2026-10-31T22:10:05.096956",
+      "collage": "collages/collage_1793481004837041.webp"
     }
   ],
   "baseline": {
@@ -23853,5 +23860,5 @@
     "kickoff_ts": 1793477065
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:10:06"
+  "ultima_actualitzacio": "22:11:06"
 }
