@@ -3848,6 +3848,13 @@
       "hora": "20:19",
       "ts": "2026-10-31T20:13:29.493506",
       "collage": "collages/collage_1793474008897693.webp"
+    },
+    {
+      "text": "56è partit de Lliga per a João Cancelo amb el Barça. Supera Martín (1949-1954), Archibald (1984-1987) i Juan Carlos (1991-1994). Empata amb Navarro (1946-1956), Marcos Aurelio (1948-1951) i Rafinha (2011-2021) en el ➡️ 215è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:20",
+      "ts": "2026-10-31T20:13:29.493506",
+      "collage": "collages/collage_1793474009228587.webp"
     }
   ],
   "baseline": {
@@ -23681,9 +23688,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 40m 51s",
-    "kickoff_ts": 1793476799
+    "compte_enrere": "0d 0h 39m 37s",
+    "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:19:29"
+  "ultima_actualitzacio": "20:20:29"
 }
