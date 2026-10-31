@@ -3918,6 +3918,13 @@
       "hora": "20:29",
       "ts": "2026-10-31T20:13:32.949001",
       "collage": "collages/collage_1793474012305209.webp"
+    },
+    {
+      "text": "11è partit de Lliga per a Adeyemi amb el Barça. Supera Argemí (1935-1940), Argila (1940-1944), Marañón (1960-1964), García Castany (1968-1971), Palau (1968-1969), Romea (1969-1970) i Roura (1988-1992). Empata amb Va (1940-1941), Virgós (1945-1950), López López (1984-1988), Toni Velamazán (1995-1996), Déhu (1999-2000) i Carles Pérez (2018-2020) en el ➡️ 457è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:30",
+      "ts": "2026-10-31T20:13:32.949001",
+      "collage": "collages/collage_1793474012668092.webp"
     }
   ],
   "baseline": {
@@ -23751,9 +23758,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 29m 42s",
-    "kickoff_ts": 1793476800
+    "compte_enrere": "0d 0h 29m 4s",
+    "kickoff_ts": 1793476799
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:29:29"
+  "ultima_actualitzacio": "20:30:30"
 }
