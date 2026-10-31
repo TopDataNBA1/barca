@@ -4065,6 +4065,13 @@
       "hora": "22:33",
       "ts": "2026-10-31T22:33:17.751938",
       "collage": "collages/collage_1793482397528009.webp"
+    },
+    {
+      "text": "13è partit oficial per a Gordon amb el Barça. Supera Reñé (1910-1913), Riera (1939-1940), Ceballos (1940-1943), Torra (1946-1952), Palau (1968-1969) i Romea (1969-1970). Empata amb Obiols (1928-1929), Llácer (1940-1943), Pais (1961-1962), Ramoní (1969-1971), Roura (1988-1992), Korneev (1994-1995), Dugarry (1997-1998), Òscar López (2002-2004), Samper (2014-2019), Carles Pérez (2018-2020) i Rodri (2026-2027) en el ➡️ 487è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:40",
+      "ts": "2026-10-31T22:40:10.617465",
+      "collage": "collages/collage_1793482809978670.webp"
     }
   ],
   "baseline": {
@@ -7550,7 +7557,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 12,
+        "pj": 13,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -13999,7 +14006,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 9,
+        "pj": 10,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -23902,5 +23909,5 @@
     "kickoff_ts": 1793477065
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:33:24"
+  "ultima_actualitzacio": "22:40:11"
 }
