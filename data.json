@@ -4100,6 +4100,13 @@
       "hora": "22:48",
       "ts": "2026-10-31T22:48:20.321411",
       "collage": "collages/collage_1793483299820853.webp"
+    },
+    {
+      "text": "70è partit de Lliga per a Gerard Martín amb el Barça. Supera Òscar (1992-1999). Empata amb Claudio Bravo (2014-2017) en el ➡️ 183è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:49",
+      "ts": "2026-10-31T22:48:20.321411",
+      "collage": "collages/collage_1793483300103481.webp"
     }
   ],
   "baseline": {
@@ -23937,5 +23944,5 @@
     "kickoff_ts": 1793477065
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:48:26"
+  "ultima_actualitzacio": "22:49:26"
 }
