@@ -4009,6 +4009,13 @@
       "hora": "21:50",
       "ts": "2026-10-31T21:50:00.792793",
       "collage": "collages/collage_1793479800453381.webp"
+    },
+    {
+      "text": "48è partit oficial per a Bernal amb el Barça. Supera Christanval (2001-2003). Empata amb Seminario (1964-1967) en el ➡️ 303è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:10",
+      "ts": "2026-10-31T22:10:05.096956",
+      "collage": "collages/collage_1793481004481150.webp"
     }
   ],
   "baseline": {
@@ -6143,7 +6150,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 47,
+        "pj": 48,
         "g": 5,
         "inici": "2024",
         "final": "2027"
@@ -12620,7 +12627,7 @@
       },
       "Marc Bernal Casas": {
         "alias": "Bernal",
-        "pj": 33,
+        "pj": 34,
         "g": 2,
         "inici": "2024",
         "final": "2027"
@@ -23846,5 +23853,5 @@
     "kickoff_ts": 1793477065
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "21:50:04"
+  "ultima_actualitzacio": "22:10:06"
 }
