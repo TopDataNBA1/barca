@@ -4023,6 +4023,13 @@
       "hora": "22:11",
       "ts": "2026-10-31T22:10:05.096956",
       "collage": "collages/collage_1793481004837041.webp"
+    },
+    {
+      "text": "9è partit oficial per a Gabriel Jesus amb el Barça. Supera Carlos Comamala (1908-1911), Charles Wallace (1908-1911), Coma (1918-1924), Zamora (1919-1922), Pascual (1923-1924), Montané (1926-1928), Roig (1928-1931), Padrón (1933-1934), Torredeflot (1935-1936), Fuentes (1939-1940), Pascual (1939-1940), Basilio (1943-1945), Periche (1946-1950), Celdrán (1959-1963), Rodri (2003-2006) i Douglas (2014-2017). Empata amb Bru (1908-1916), Berdié (1911-1914), Irizar (1911-1913), Bru (1913-1919), Gràcia (1921-1924), Vidal (1928-1929), Villacampa (1933-1934), Bardina (1935-1940), Nieto (1941-1942), Montserrat (1942-1945), Escudero (1949-1952), Silveira (1962-1963), Borràs (1966-1969), Laredo (1972-1974), Unzué (1988-1990), Pablo Alfaro (1992-1993), Sergio García (2002-2004), Gumbau (2014-2016), Demir (2021-2022) i Jutglà (2021-2022) en el ➡️ 522è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:28",
+      "ts": "2026-10-31T22:28:53.861214",
+      "collage": "collages/collage_1793482133119471.webp"
     }
   ],
   "baseline": {
@@ -4813,7 +4820,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 171,
+        "pj": 172,
         "g": 3,
         "inici": "2021",
         "final": "2027"
@@ -7830,7 +7837,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 8,
+        "pj": 9,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -11381,7 +11388,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 118,
+        "pj": 119,
         "g": 1,
         "inici": "2021",
         "final": "2027"
@@ -14258,7 +14265,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 6,
+        "pj": 7,
         "g": 3,
         "inici": "2026",
         "final": "2027"
@@ -23860,5 +23867,5 @@
     "kickoff_ts": 1793477065
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:11:06"
+  "ultima_actualitzacio": "22:28:57"
 }
