@@ -3876,6 +3876,13 @@
       "hora": "20:23",
       "ts": "2026-10-31T20:13:30.777727",
       "collage": "collages/collage_1793474010165925.webp"
+    },
+    {
+      "text": "99è partit de Lliga per a Fermín amb el Barça. Supera Simonsen (1979-1982) i ara ocupa el ➡️ 135è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:24",
+      "ts": "2026-10-31T20:13:30.777727",
+      "collage": "collages/collage_1793474010518812.webp"
     }
   ],
   "baseline": {
@@ -23709,9 +23716,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 36m 31s",
+    "compte_enrere": "0d 0h 35m 17s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:23:29"
+  "ultima_actualitzacio": "20:24:29"
 }
