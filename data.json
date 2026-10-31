@@ -3799,6 +3799,13 @@
       "tipus": "prioritaria",
       "hora": "23:02",
       "ts": "2026-10-25T23:02:44.197633"
+    },
+    {
+      "text": "58è partit oficial per a Joan Garcia amb el Barça. Supera Hanke (1952-1956), Ribelles (1957-1961) i Riqui Puig (2018-2022). Empata amb Czibor (1958-1961), Vicente (1961-1966), Pérez (1971-1975), Morán (1981-1984), Maradona (1982-1984), Thuram (2006-2008) i Braithwaite (2019-2022) en el ➡️ 268è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:13",
+      "ts": "2026-10-31T20:13:27.374181",
+      "collage": "collages/collage_1793474006749615.webp"
     }
   ],
   "baseline": {
@@ -4092,7 +4099,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 298,
+        "pj": 299,
         "g": 20,
         "inici": "2019",
         "final": "2027"
@@ -4176,7 +4183,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 258,
+        "pj": 259,
         "g": 29,
         "inici": "2020",
         "final": "2027"
@@ -4449,7 +4456,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 188,
+        "pj": 189,
         "g": 90,
         "inici": "2022",
         "final": "2027"
@@ -4610,7 +4617,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 164,
+        "pj": 165,
         "g": 59,
         "inici": "2022",
         "final": "2027"
@@ -4722,7 +4729,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 148,
+        "pj": 149,
         "g": 37,
         "inici": "2023",
         "final": "2027"
@@ -4792,7 +4799,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 138,
+        "pj": 139,
         "g": 2,
         "inici": "2023",
         "final": "2027"
@@ -5415,7 +5422,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 75,
+        "pj": 76,
         "g": 8,
         "inici": "2023",
         "final": "2027"
@@ -5737,7 +5744,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 57,
+        "pj": 58,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -7235,7 +7242,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 13,
+        "pj": 14,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -7291,7 +7298,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 12,
+        "pj": 13,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -9846,7 +9853,7 @@
       },
       "Brian Fariñas Pérez": {
         "alias": "Fariñas",
-        "pj": 0,
+        "pj": 1,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -10660,7 +10667,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 203,
+        "pj": 204,
         "g": 15,
         "inici": "2019",
         "final": "2027"
@@ -10765,7 +10772,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 175,
+        "pj": 176,
         "g": 23,
         "inici": "2020",
         "final": "2027"
@@ -11017,7 +11024,7 @@
       },
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
-        "pj": 131,
+        "pj": 132,
         "g": 57,
         "inici": "2022",
         "final": "2027"
@@ -11213,7 +11220,7 @@
       },
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
-        "pj": 111,
+        "pj": 112,
         "g": 38,
         "inici": "2022",
         "final": "2027"
@@ -11290,7 +11297,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 98,
+        "pj": 99,
         "g": 24,
         "inici": "2023",
         "final": "2027"
@@ -11353,7 +11360,7 @@
       },
       "Pau Cubarsí Paredes": {
         "alias": "Cubarsí",
-        "pj": 92,
+        "pj": 93,
         "g": 1,
         "inici": "2023",
         "final": "2027"
@@ -11885,7 +11892,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 55,
+        "pj": 56,
         "g": 5,
         "inici": "2023",
         "final": "2027"
@@ -12249,7 +12256,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 39,
+        "pj": 40,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -13628,7 +13635,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 10,
+        "pj": 11,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -13740,7 +13747,7 @@
       },
       "Rodrigo Hernández Cascante": {
         "alias": "Rodri",
-        "pj": 9,
+        "pj": 10,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -16281,7 +16288,7 @@
       },
       "Brian Fariñas Pérez": {
         "alias": "Fariñas",
-        "pj": 0,
+        "pj": 1,
         "g": 0,
         "inici": "2026",
         "final": "2027"
@@ -23632,9 +23639,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 2h 58m 4s",
+    "compte_enrere": "0d 0h 45m 49s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "23:02:48"
+  "ultima_actualitzacio": "20:13:28"
 }
