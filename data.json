@@ -3883,6 +3883,13 @@
       "hora": "20:24",
       "ts": "2026-10-31T20:13:30.777727",
       "collage": "collages/collage_1793474010518812.webp"
+    },
+    {
+      "text": "259è partit oficial per a Pedri amb el Barça. Empata amb Olmo (1976-1984) en el ➡️ 53è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:25",
+      "ts": "2026-10-31T20:13:31.422255",
+      "collage": "collages/collage_1793474010875697.webp"
     }
   ],
   "baseline": {
@@ -23716,9 +23723,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 35m 17s",
+    "compte_enrere": "0d 0h 34m 2s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:24:29"
+  "ultima_actualitzacio": "20:25:29"
 }
