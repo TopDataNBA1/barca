@@ -3995,6 +3995,20 @@
       "hora": "21:45",
       "ts": "2026-10-31T21:45:01.300944",
       "collage": "collages/collage_1793479501084014.webp"
+    },
+    {
+      "text": "⚽ 60è gol de Lamine Yamal amb el Barça. Supera Bravo (1940-1948). Empata amb Cruyff (1973-1978) en el ➡️ 45è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "21:50",
+      "ts": "2026-10-31T21:50:00.792793",
+      "collage": "collages/collage_1793479800105492.webp"
+    },
+    {
+      "text": "⚽ 39è gol de Lamine Yamal a la Lliga amb el Barça. Supera Seguer (1943-1957) i Alexis Sánchez (2011-2014). Empata amb Moreno (1951-1956) i Laudrup (1989-1994) en el ➡️ 47è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "21:50",
+      "ts": "2026-10-31T21:50:00.792793",
+      "collage": "collages/collage_1793479800453381.webp"
     }
   ],
   "baseline": {
@@ -4807,7 +4821,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 165,
-        "g": 59,
+        "g": 60,
         "inici": "2022",
         "final": "2027"
       },
@@ -11410,7 +11424,7 @@
       "Lamine Yamal Nasraoui Ebana": {
         "alias": "Lamine Yamal",
         "pj": 112,
-        "g": 38,
+        "g": 39,
         "inici": "2022",
         "final": "2027"
       },
@@ -23832,5 +23846,5 @@
     "kickoff_ts": 1793477065
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "21:45:06"
+  "ultima_actualitzacio": "21:50:04"
 }
