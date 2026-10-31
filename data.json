@@ -3967,6 +3967,20 @@
       "hora": "21:12",
       "ts": "2026-10-31T21:12:29.643361",
       "collage": "collages/collage_1793477549450424.webp"
+    },
+    {
+      "text": "⚽ 38è gol de Fermín amb el Barça. Supera Alcántara (1912-1927), Goiburu (1929-1934), Rifé (1964-1976) i Cocu (1998-2004). Empata amb Vantolrà (1933-1936) i Maradona (1982-1984) en el ➡️ 72è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "21:26",
+      "ts": "2026-10-31T21:26:52.425294",
+      "collage": "collages/collage_1793478411039150.webp"
+    },
+    {
+      "text": "⚽ 25è gol de Fermín a la Lliga amb el Barça. Supera Bestit (1929-1934), Goiburu (1929-1934), Rifé (1964-1976), Archibald (1984-1987), Rakitić (2014-2020) i Dembélé (2017-2023) i ara ocupa el ➡️ 73è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "21:26",
+      "ts": "2026-10-31T21:26:52.425294",
+      "collage": "collages/collage_1793478412164378.webp"
     }
   ],
   "baseline": {
@@ -23804,5 +23818,5 @@
     "kickoff_ts": 1793477065
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "21:12:33"
+  "ultima_actualitzacio": "21:26:57"
 }
