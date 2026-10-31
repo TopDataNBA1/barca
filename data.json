@@ -3953,6 +3953,20 @@
       "hora": "20:34",
       "ts": "2026-10-31T20:13:34.159613",
       "collage": "collages/collage_1793474013948681.webp"
+    },
+    {
+      "text": "⚽ 91è gol de Raphinha amb el Barça. . Ocupa el ➡️ 24è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "21:12",
+      "ts": "2026-10-31T21:12:29.643361",
+      "collage": "collages/collage_1793477549187842.webp"
+    },
+    {
+      "text": "⚽ 58è gol de Raphinha a la Lliga amb el Barça. Supera Manchón (1950-1957). Empata amb Xavi (1997-2015) i Pedro (2007-2016) en el ➡️ 28è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "21:12",
+      "ts": "2026-10-31T21:12:29.643361",
+      "collage": "collages/collage_1793477549450424.webp"
     }
   ],
   "baseline": {
@@ -4604,7 +4618,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 189,
-        "g": 90,
+        "g": 91,
         "inici": "2022",
         "final": "2027"
       },
@@ -11172,7 +11186,7 @@
       "Raphael Dias Belloli": {
         "alias": "Raphinha",
         "pj": 132,
-        "g": 57,
+        "g": 58,
         "inici": "2022",
         "final": "2027"
       },
@@ -23790,5 +23804,5 @@
     "kickoff_ts": 1793477065
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:34:30"
+  "ultima_actualitzacio": "21:12:33"
 }
