@@ -3946,6 +3946,13 @@
       "hora": "20:33",
       "ts": "2026-10-31T20:13:34.158614",
       "collage": "collages/collage_1793474013663772.webp"
+    },
+    {
+      "text": "132è partit de Lliga per a Raphinha amb el Barça. Supera Gensana (1956-1966). Empata amb Koundé (2022-2027) en el ➡️ 95è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:34",
+      "ts": "2026-10-31T20:13:34.159613",
+      "collage": "collages/collage_1793474013948681.webp"
     }
   ],
   "baseline": {
@@ -23779,9 +23786,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 26m 36s",
-    "kickoff_ts": 1793476800
+    "compte_enrere": "0d 0h 25m 58s",
+    "kickoff_ts": 1793476799
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:33:30"
+  "ultima_actualitzacio": "20:34:30"
 }
