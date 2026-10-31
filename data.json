@@ -3897,6 +3897,13 @@
       "hora": "20:26",
       "ts": "2026-10-31T20:13:31.422255",
       "collage": "collages/collage_1793474011175601.webp"
+    },
+    {
+      "text": "13è partit oficial per a Rodri amb el Barça. Supera Reñé (1910-1913), Riera (1939-1940), Ceballos (1940-1943), Torra (1946-1952), Palau (1968-1969), Romea (1969-1970) i Gordon (2026-2027). Empata amb Obiols (1928-1929), Llácer (1940-1943), Pais (1961-1962), Ramoní (1969-1971), Roura (1988-1992), Korneev (1994-1995), Dugarry (1997-1998), Òscar López (2002-2004), Samper (2014-2019) i Carles Pérez (2018-2020) en el ➡️ 487è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:27",
+      "ts": "2026-10-31T20:13:32.190245",
+      "collage": "collages/collage_1793474011568208.webp"
     }
   ],
   "baseline": {
@@ -23730,9 +23737,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 33m 25s",
+    "compte_enrere": "0d 0h 32m 10s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:26:29"
+  "ultima_actualitzacio": "20:27:29"
 }
