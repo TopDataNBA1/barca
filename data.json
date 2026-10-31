@@ -3890,6 +3890,13 @@
       "hora": "20:25",
       "ts": "2026-10-31T20:13:31.422255",
       "collage": "collages/collage_1793474010875697.webp"
+    },
+    {
+      "text": "176è partit de Lliga per a Pedri amb el Barça. Supera Stoichkov (1990-1998) i ara ocupa el ➡️ 60è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:26",
+      "ts": "2026-10-31T20:13:31.422255",
+      "collage": "collages/collage_1793474011175601.webp"
     }
   ],
   "baseline": {
@@ -23723,9 +23730,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 34m 2s",
+    "compte_enrere": "0d 0h 33m 25s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:25:29"
+  "ultima_actualitzacio": "20:26:29"
 }
