@@ -3911,6 +3911,13 @@
       "hora": "20:28",
       "ts": "2026-10-31T20:13:32.190245",
       "collage": "collages/collage_1793474011923331.webp"
+    },
+    {
+      "text": "14è partit oficial per a Adeyemi amb el Barça. Supera Obiols (1928-1929), Llácer (1940-1943), Pais (1961-1962), Ramoní (1969-1971), Roura (1988-1992), Korneev (1994-1995), Dugarry (1997-1998), Òscar López (2002-2004), Samper (2014-2019) i Carles Pérez (2018-2020). Empata amb Alfred Massana (1911-1916), Helguera (1932-1933), Betancourt (1942-1944), Virgós (1945-1950), Colino (1945-1948), Suco (1959-1961), Juanito (1968-1969), Romero (1970-1972), López López (1984-1988), Pinilla (1989-1992), Moreno (1995-1996), Víctor Sánchez (2007-2009), Chygrynskiy (2009-2010) i Abde (2021-2024) en el ➡️ 473è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:29",
+      "ts": "2026-10-31T20:13:32.949001",
+      "collage": "collages/collage_1793474012305209.webp"
     }
   ],
   "baseline": {
@@ -23744,9 +23751,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 30m 56s",
+    "compte_enrere": "0d 0h 29m 42s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:28:29"
+  "ultima_actualitzacio": "20:29:29"
 }
