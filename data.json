@@ -3862,6 +3862,13 @@
       "hora": "20:21",
       "ts": "2026-10-31T20:13:30.098946",
       "collage": "collages/collage_1793474009570488.webp"
+    },
+    {
+      "text": "93è partit de Lliga per a Cubarsí amb el Barça. Supera Sospedra (1939-1947), Foncho (1960-1967) i Gerard (2000-2005) i ara ocupa el ➡️ 142è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:22",
+      "ts": "2026-10-31T20:13:30.098946",
+      "collage": "collages/collage_1793474009877019.webp"
     }
   ],
   "baseline": {
@@ -23695,9 +23702,9 @@
   "match_rival": "Alaves",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Alaves",
-    "compte_enrere": "0d 0h 38m 23s",
+    "compte_enrere": "0d 0h 37m 8s",
     "kickoff_ts": 1793476800
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:21:29"
+  "ultima_actualitzacio": "20:22:29"
 }
