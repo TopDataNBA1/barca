@@ -4315,6 +4315,13 @@
       "hora": "23:32",
       "ts": "2026-11-03T23:11:42.070079",
       "collage": "collages/collage_1793743901877714.webp"
+    },
+    {
+      "text": "49è partit oficial per a Bernal amb el Barça. Supera Seminario (1964-1967). Empata amb Calo (1944-1950), Mendonça (1966-1969), Ronaldo (1996-1997), Reina (1998-2002), Mendieta (2002-2003), Paulinho (2017-2018) i Rashford (2025-2026) en el ➡️ 296è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:33",
+      "ts": "2026-11-03T23:11:45.083273",
+      "collage": "collages/collage_1793743904544984.webp"
     }
   ],
   "baseline": {
@@ -24180,5 +24187,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:32:55"
+  "ultima_actualitzacio": "23:33:55"
 }
