@@ -4231,6 +4231,13 @@
       "hora": "23:20",
       "ts": "2026-11-03T23:11:38.755812",
       "collage": "collages/collage_1793743898562589.webp"
+    },
+    {
+      "text": "14è partit oficial per a Gordon amb el Barça. Supera Obiols (1928-1929), Llácer (1940-1943), Pais (1961-1962), Ramoní (1969-1971), Roura (1988-1992), Korneev (1994-1995), Dugarry (1997-1998), Òscar López (2002-2004), Samper (2014-2019) i Carles Pérez (2018-2020). Empata amb Alfred Massana (1911-1916), Helguera (1932-1933), Betancourt (1942-1944), Virgós (1945-1950), Colino (1945-1948), Suco (1959-1961), Juanito (1968-1969), Romero (1970-1972), López López (1984-1988), Pinilla (1989-1992), Moreno (1995-1996), Víctor Sánchez (2007-2009), Chygrynskiy (2009-2010), Abde (2021-2024) i Adeyemi (2026-2027) en el ➡️ 473è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:21",
+      "ts": "2026-11-03T23:11:39.393294",
+      "collage": "collages/collage_1793743898860407.webp"
     }
   ],
   "baseline": {
@@ -24096,5 +24103,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:20:54"
+  "ultima_actualitzacio": "23:21:54"
 }
