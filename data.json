@@ -4245,6 +4245,13 @@
       "hora": "23:22",
       "ts": "2026-11-03T23:11:39.393294",
       "collage": "collages/collage_1793743899179202.webp"
+    },
+    {
+      "text": "150è partit oficial per a Fermín amb el Barça. Supera Martín (1939-1948) i ara ocupa el ➡️ 131è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:23",
+      "ts": "2026-11-03T23:11:39.934644",
+      "collage": "collages/collage_1793743899451791.webp"
     }
   ],
   "baseline": {
@@ -24110,5 +24117,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:22:54"
+  "ultima_actualitzacio": "23:23:54"
 }
