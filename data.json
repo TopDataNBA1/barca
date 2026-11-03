@@ -4322,6 +4322,13 @@
       "hora": "23:33",
       "ts": "2026-11-03T23:11:45.083273",
       "collage": "collages/collage_1793743904544984.webp"
+    },
+    {
+      "text": "10è partit de Lliga de Campions per a Bernal amb el Barça. Supera Rodri (1959-1961), Urruti (1985-1986), Julio Alberto (1985-1986), Víctor Muñoz (1985-1986), Busquets (1991-1998), Van Bommel (2005-2006), Hleb (2008-2009), Tello (2011-2014), Munir (2014-2019), Paulinho (2017-2018) i João Félix (2023-2024). Empata amb Kocsis (1959-1961), Juan Carlos (1991-1994), Witschge (1991-1993), Bogarde (1999-2000), Andersson (2001-2003), Coco (2001-2002), Thuram (2006-2008), Thiago Alcántara (2009-2013), Ibrahimović (2009-2010), Mingueza (2019-2022), Junior Firpo (2019-2021) i Gündoğan (2023-2024) en el ➡️ 132è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:34",
+      "ts": "2026-11-03T23:11:45.083273",
+      "collage": "collages/collage_1793743904859675.webp"
     }
   ],
   "baseline": {
@@ -24187,5 +24194,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:33:55"
+  "ultima_actualitzacio": "23:34:55"
 }
