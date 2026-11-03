@@ -4273,6 +4273,13 @@
       "hora": "23:26",
       "ts": "2026-11-03T23:11:40.421559",
       "collage": "collages/collage_1793743900246142.webp"
+    },
+    {
+      "text": "260è partit oficial per a Pedri amb el Barça. Supera Olmo (1976-1984) i ara ocupa el ➡️ 53è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:27",
+      "ts": "2026-11-03T23:11:40.902932",
+      "collage": "collages/collage_1793743900481421.webp"
     }
   ],
   "baseline": {
@@ -24138,5 +24145,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:26:54"
+  "ultima_actualitzacio": "23:27:54"
 }
