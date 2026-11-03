@@ -4259,6 +4259,13 @@
       "hora": "23:24",
       "ts": "2026-11-03T23:11:39.934644",
       "collage": "collages/collage_1793743899740694.webp"
+    },
+    {
+      "text": "166è partit oficial per a Lamine Yamal amb el Barça. Empata amb Gonzalvo II (1944-1950) en el ➡️ 115è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:25",
+      "ts": "2026-11-03T23:11:40.421559",
+      "collage": "collages/collage_1793743899996853.webp"
     }
   ],
   "baseline": {
@@ -24124,5 +24131,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:24:54"
+  "ultima_actualitzacio": "23:25:54"
 }
