@@ -4217,6 +4217,13 @@
       "hora": "23:18",
       "ts": "2026-11-03T23:11:37.724507",
       "collage": "collages/collage_1793743897538356.webp"
+    },
+    {
+      "text": "140è partit oficial per a Cubarsí amb el Barça. Supera Lineker (1986-1989) i ara ocupa el ➡️ 141è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:19",
+      "ts": "2026-11-03T23:11:38.755812",
+      "collage": "collages/collage_1793743897784618.webp"
     }
   ],
   "baseline": {
@@ -24082,5 +24089,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:18:53"
+  "ultima_actualitzacio": "23:19:53"
 }
