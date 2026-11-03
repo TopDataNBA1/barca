@@ -4329,6 +4329,13 @@
       "hora": "23:34",
       "ts": "2026-11-03T23:11:45.083273",
       "collage": "collages/collage_1793743904859675.webp"
+    },
+    {
+      "text": "300è partit oficial per a De Jong amb el Barça. Empata amb Luis Enrique (1996-2004) en el ➡️ 40è lloc històric del club.. De Jong es converteix en el 40è jugador que arriba als 300 partit oficials amb el Barça.",
+      "tipus": "programada",
+      "hora": "23:35",
+      "ts": "2026-11-03T23:11:45.604928",
+      "collage": "collages/collage_1793743905227535.webp"
     }
   ],
   "baseline": {
@@ -24194,5 +24201,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:34:55"
+  "ultima_actualitzacio": "23:35:55"
 }
