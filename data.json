@@ -4224,6 +4224,13 @@
       "hora": "23:19",
       "ts": "2026-11-03T23:11:38.755812",
       "collage": "collages/collage_1793743897784618.webp"
+    },
+    {
+      "text": "30è partit de Lliga de Campions per a Cubarsí amb el Barça. Supera Amor (1991-1998), Yaya Touré (2007-2010), Eric Garcia (2021-2027) i Gavi (2021-2027). Empata amb Stoichkov (1991-1998) i Dembélé (2017-2023) en el ➡️ 49è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:20",
+      "ts": "2026-11-03T23:11:38.755812",
+      "collage": "collages/collage_1793743898562589.webp"
     }
   ],
   "baseline": {
@@ -24089,5 +24096,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:19:53"
+  "ultima_actualitzacio": "23:20:54"
 }
