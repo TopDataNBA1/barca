@@ -4210,6 +4210,13 @@
       "hora": "23:17",
       "ts": "2026-11-03T23:11:37.724507",
       "collage": "collages/collage_1793743897260386.webp"
+    },
+    {
+      "text": "18è partit de Lliga de Campions per a João Cancelo amb el Barça. Supera Gensana (1959-1961), Sylvinho (2004-2009), Maxwell (2009-2012) i André Gomes (2016-2018). Empata amb Ramallets (1959-1961), Rafinha (2011-2019), Coutinho (2018-2022) i Vidal (2018-2020) en el ➡️ 87è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:18",
+      "ts": "2026-11-03T23:11:37.724507",
+      "collage": "collages/collage_1793743897538356.webp"
     }
   ],
   "baseline": {
@@ -24075,5 +24082,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:17:53"
+  "ultima_actualitzacio": "23:18:53"
 }
