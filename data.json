@@ -4266,6 +4266,13 @@
       "hora": "23:25",
       "ts": "2026-11-03T23:11:40.421559",
       "collage": "collages/collage_1793743899996853.webp"
+    },
+    {
+      "text": "37è partit de Lliga de Campions per a Lamine Yamal amb el Barça. Supera Gabri (1999-2006) i Koundé (2022-2027). Empata amb Abidal (2007-2013) en el ➡️ 31è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:26",
+      "ts": "2026-11-03T23:11:40.421559",
+      "collage": "collages/collage_1793743900246142.webp"
     }
   ],
   "baseline": {
@@ -24131,5 +24138,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:25:54"
+  "ultima_actualitzacio": "23:26:54"
 }
