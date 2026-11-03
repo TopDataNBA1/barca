@@ -4203,6 +4203,13 @@
       "hora": "23:16",
       "ts": "2026-11-03T23:11:37.184951",
       "collage": "collages/collage_1793743896990605.webp"
+    },
+    {
+      "text": "77è partit oficial per a João Cancelo amb el Barça. Supera Paco Martínez (1976-1982), Pedraza (1980-1988) i Milito (2007-2011) i ara ocupa el ➡️ 226è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:17",
+      "ts": "2026-11-03T23:11:37.724507",
+      "collage": "collages/collage_1793743897260386.webp"
     }
   ],
   "baseline": {
@@ -24068,5 +24075,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:16:53"
+  "ultima_actualitzacio": "23:17:53"
 }
