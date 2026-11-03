@@ -4301,6 +4301,13 @@
       "hora": "23:30",
       "ts": "2026-11-03T23:11:41.509679",
       "collage": "collages/collage_1793743901297747.webp"
+    },
+    {
+      "text": "190è partit oficial per a Raphinha amb el Barça. Supera Adriano (2010-2016) i ara ocupa el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:31",
+      "ts": "2026-11-03T23:11:42.070079",
+      "collage": "collages/collage_1793743901566612.webp"
     }
   ],
   "baseline": {
@@ -24166,5 +24173,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:30:54"
+  "ultima_actualitzacio": "23:31:54"
 }
