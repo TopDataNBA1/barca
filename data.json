@@ -4357,6 +4357,13 @@
       "hora": "23:38",
       "ts": "2026-11-03T23:11:46.662890",
       "collage": "collages/collage_1793743906472945.webp"
+    },
+    {
+      "text": "10è partit oficial per a Gabriel Jesus amb el Barça. Supera Bru (1908-1916), Berdié (1911-1914), Irizar (1911-1913), Bru (1913-1919), Gràcia (1921-1924), Vidal (1928-1929), Villacampa (1933-1934), Bardina (1935-1940), Nieto (1941-1942), Montserrat (1942-1945), Escudero (1949-1952), Silveira (1962-1963), Borràs (1966-1969), Laredo (1972-1974), Unzué (1988-1990), Pablo Alfaro (1992-1993), Sergio García (2002-2004), Gumbau (2014-2016), Demir (2021-2022) i Jutglà (2021-2022). Empata amb Reguera (1913-1919), Muntaner (1939-1940), Noguera (1947-1949), Bustillo (1968-1972), Bio (1977-1979), Sánchez Jara (1990-1995), Lopetegui (1994-1997) i Damià (2004-2006) en el ➡️ 514è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:39",
+      "ts": "2026-11-03T23:11:47.343246",
+      "collage": "collages/collage_1793743906842034.webp"
     }
   ],
   "baseline": {
@@ -24222,5 +24229,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:38:55"
+  "ultima_actualitzacio": "23:39:55"
 }
