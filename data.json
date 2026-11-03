@@ -4378,6 +4378,13 @@
       "hora": "23:41",
       "ts": "2026-11-03T23:11:47.885291",
       "collage": "collages/collage_1793743907482423.webp"
+    },
+    {
+      "text": "32è partit de Lliga de Campions per a Balde amb el Barça. Supera Ferrer (1991-1998). Empata amb Deco (2004-2008) en el ➡️ 46è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:42",
+      "ts": "2026-11-03T23:11:47.885291",
+      "collage": "collages/collage_1793743907711336.webp"
     }
   ],
   "baseline": {
@@ -24235,13 +24242,13 @@
       }
     }
   },
-  "match_status": "C",
-  "match_rival": "Aston Villa",
+  "match_status": "U",
+  "match_rival": "Atletico Madrid",
   "proper_partit": {
-    "descripcio": "Lliga de Campions · Barça - Aston Villa",
-    "compte_enrere": "0d 14h 1m 38s",
-    "kickoff_ts": 1793736000
+    "descripcio": "Lliga · Barça - Atletico Madrid",
+    "compte_enrere": "4d 21h 16m 37s",
+    "kickoff_ts": 1794168000
   },
-  "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:41:55"
+  "match_comp": "Lliga",
+  "ultima_actualitzacio": "23:42:55"
 }
