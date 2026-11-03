@@ -4343,6 +4343,13 @@
       "hora": "23:36",
       "ts": "2026-11-03T23:11:45.604928",
       "collage": "collages/collage_1793743905456971.webp"
+    },
+    {
+      "text": "174è partit oficial per a Gavi amb el Barça. Empata amb Raich (1934-1945), Manchón (1950-1957) i Goikoetxea (1990-1994) en el ➡️ 108è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:37",
+      "ts": "2026-11-03T23:11:46.662890",
+      "collage": "collages/collage_1793743905754880.webp"
     }
   ],
   "baseline": {
@@ -24208,5 +24215,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:36:55"
+  "ultima_actualitzacio": "23:37:55"
 }
