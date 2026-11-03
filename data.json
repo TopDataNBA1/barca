@@ -4308,6 +4308,13 @@
       "hora": "23:31",
       "ts": "2026-11-03T23:11:42.070079",
       "collage": "collages/collage_1793743901566612.webp"
+    },
+    {
+      "text": "36è partit de Lliga de Campions per a Raphinha amb el Barça. Supera Nadal (1991-1999), Ronaldinho (2004-2008) i Araújo (2019-2026). Empata amb Gabri (1999-2006) i Koundé (2022-2027) en el ➡️ 32è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:32",
+      "ts": "2026-11-03T23:11:42.070079",
+      "collage": "collages/collage_1793743901877714.webp"
     }
   ],
   "baseline": {
@@ -24173,5 +24180,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:31:54"
+  "ultima_actualitzacio": "23:32:55"
 }
