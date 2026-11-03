@@ -4280,6 +4280,13 @@
       "hora": "23:27",
       "ts": "2026-11-03T23:11:40.902932",
       "collage": "collages/collage_1793743900481421.webp"
+    },
+    {
+      "text": "47è partit de Lliga de Campions per a Pedri amb el Barça. Supera Sergi (1993-2002) i ara ocupa el ➡️ 20è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:28",
+      "ts": "2026-11-03T23:11:40.902932",
+      "collage": "collages/collage_1793743900716187.webp"
     }
   ],
   "baseline": {
@@ -24145,5 +24152,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:27:54"
+  "ultima_actualitzacio": "23:28:54"
 }
