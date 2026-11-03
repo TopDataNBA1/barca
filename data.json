@@ -4252,6 +4252,13 @@
       "hora": "23:23",
       "ts": "2026-11-03T23:11:39.934644",
       "collage": "collages/collage_1793743899451791.webp"
+    },
+    {
+      "text": "34è partit de Lliga de Campions per a Fermín amb el Barça. Supera Motta (2001-2007) i Lenglet (2018-2022). Empata amb Koeman (1991-1995), Abelardo (1994-2002), Adriano (2010-2016) i Ferran Torres (2022-2026) en el ➡️ 39è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:24",
+      "ts": "2026-11-03T23:11:39.934644",
+      "collage": "collages/collage_1793743899740694.webp"
     }
   ],
   "baseline": {
@@ -24117,5 +24124,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:23:54"
+  "ultima_actualitzacio": "23:24:54"
 }
