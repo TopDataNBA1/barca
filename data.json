@@ -4371,6 +4371,13 @@
       "hora": "23:40",
       "ts": "2026-11-03T23:11:47.343246",
       "collage": "collages/collage_1793743907152212.webp"
+    },
+    {
+      "text": "173è partit oficial per a Balde amb el Barça. Supera Saviola (2001-2007) i ara ocupa el ➡️ 111è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:41",
+      "ts": "2026-11-03T23:11:47.885291",
+      "collage": "collages/collage_1793743907482423.webp"
     }
   ],
   "baseline": {
@@ -24236,5 +24243,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:40:55"
+  "ultima_actualitzacio": "23:41:55"
 }
