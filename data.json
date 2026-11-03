@@ -4189,6 +4189,13 @@
       "hora": "23:14",
       "ts": "2026-11-03T23:11:36.636819",
       "collage": "collages/collage_1793743896416890.webp"
+    },
+    {
+      "text": "106è partit oficial per a Gerard Martín amb el Barça. Supera Christensen (2022-2027). Empata amb Coutinho (2017-2022) en el ➡️ 174è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "23:15",
+      "ts": "2026-11-03T23:11:37.184951",
+      "collage": "collages/collage_1793743896715044.webp"
     }
   ],
   "baseline": {
@@ -24054,5 +24061,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:14:53"
+  "ultima_actualitzacio": "23:15:53"
 }
