@@ -4336,6 +4336,13 @@
       "hora": "23:35",
       "ts": "2026-11-03T23:11:45.604928",
       "collage": "collages/collage_1793743905227535.webp"
+    },
+    {
+      "text": "53è partit de Lliga de Campions per a De Jong amb el Barça. . Ocupa el ➡️ 16è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "23:36",
+      "ts": "2026-11-03T23:11:45.604928",
+      "collage": "collages/collage_1793743905456971.webp"
     }
   ],
   "baseline": {
@@ -24201,5 +24208,5 @@
     "kickoff_ts": 1793736000
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "23:35:55"
+  "ultima_actualitzacio": "23:36:55"
 }
