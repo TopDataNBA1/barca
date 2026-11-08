@@ -4574,6 +4574,13 @@
       "hora": "22:23",
       "ts": "2026-11-08T22:23:39.567593",
       "collage": "collages/collage_1794173019134591.webp"
+    },
+    {
+      "text": "78è partit de Lliga per a Christensen amb el Barça. Supera Valle (1940-1950) i Villa (2010-2013). Empata amb Roger (1994-1999) en el ➡️ 166è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:24",
+      "ts": "2026-11-08T22:23:39.567593",
+      "collage": "collages/collage_1794173019389538.webp"
     }
   ],
   "baseline": {
@@ -24453,5 +24460,5 @@
     "kickoff_ts": 1794168216
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:23:40"
+  "ultima_actualitzacio": "22:24:40"
 }
