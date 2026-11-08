@@ -4441,6 +4441,13 @@
       "hora": "20:02",
       "ts": "2026-11-08T19:55:05.751613",
       "collage": "collages/collage_1794164105503700.webp"
+    },
+    {
+      "text": "141è partit oficial per a Cubarsí amb el Barça. Empata amb Quini (1980-1984), Overmars (2000-2004) i Alexis Sánchez (2011-2014) en el ➡️ 138è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:03",
+      "ts": "2026-11-08T19:55:06.345403",
+      "collage": "collages/collage_1794164105853576.webp"
     }
   ],
   "baseline": {
@@ -24316,9 +24323,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 57m 22s",
+    "compte_enrere": "0d 0h 56m 8s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:02:08"
+  "ultima_actualitzacio": "20:03:08"
 }
