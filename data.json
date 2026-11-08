@@ -4609,6 +4609,13 @@
       "hora": "22:37",
       "ts": "2026-11-08T22:36:04.898112",
       "collage": "collages/collage_1794173764673569.webp"
+    },
+    {
+      "text": "175è partit oficial per a Gavi amb el Barça. Supera Raich (1934-1945), Manchón (1950-1957) i Goikoetxea (1990-1994). Empata amb Oleguer (2001-2008) i Eric Garcia (2021-2027) en el ➡️ 106è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:38",
+      "ts": "2026-11-08T22:36:05.614224",
+      "collage": "collages/collage_1794173765091884.webp"
     }
   ],
   "baseline": {
@@ -24488,5 +24495,5 @@
     "kickoff_ts": 1794168216
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:37:05"
+  "ultima_actualitzacio": "22:38:05"
 }
