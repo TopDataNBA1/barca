@@ -4511,6 +4511,13 @@
       "hora": "20:12",
       "ts": "2026-11-08T19:55:09.737003",
       "collage": "collages/collage_1794164109030199.webp"
+    },
+    {
+      "text": "167è partit oficial per a Lamine Yamal amb el Barça. Supera Gonzalvo II (1944-1950) i ara ocupa el ➡️ 115è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:13",
+      "ts": "2026-11-08T19:55:10.478925",
+      "collage": "collages/collage_1794164109891955.webp"
     }
   ],
   "baseline": {
@@ -24386,9 +24393,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 48m 4s",
-    "kickoff_ts": 1794168000
+    "compte_enrere": "0d 0h 46m 49s",
+    "kickoff_ts": 1794167999
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:12:09"
+  "ultima_actualitzacio": "20:13:09"
 }
