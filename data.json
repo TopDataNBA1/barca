@@ -24514,12 +24514,12 @@
       }
     }
   },
-  "match_status": "C",
-  "match_rival": "Atletico Madrid",
+  "match_status": "U",
+  "match_rival": "Villarreal",
   "proper_partit": {
-    "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1794168216
+    "descripcio": "Lliga · Barça - Villarreal",
+    "compte_enrere": "13d 15h 1m 28s",
+    "kickoff_ts": 1795352399
   },
   "match_comp": "Lliga",
   "ultima_actualitzacio": "22:58:05"
