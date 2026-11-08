@@ -4518,6 +4518,13 @@
       "hora": "20:13",
       "ts": "2026-11-08T19:55:10.478925",
       "collage": "collages/collage_1794164109891955.webp"
+    },
+    {
+      "text": "113è partit de Lliga per a Lamine Yamal amb el Barça. Supera Martín (1939-1948). Empata amb Deco (2004-2008) en el ➡️ 121è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:14",
+      "ts": "2026-11-08T19:55:10.478925",
+      "collage": "collages/collage_1794164110267065.webp"
     }
   ],
   "baseline": {
@@ -24393,9 +24400,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 46m 49s",
-    "kickoff_ts": 1794167999
+    "compte_enrere": "0d 0h 45m 35s",
+    "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:13:09"
+  "ultima_actualitzacio": "20:14:10"
 }
