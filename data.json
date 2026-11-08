@@ -4448,6 +4448,13 @@
       "hora": "20:03",
       "ts": "2026-11-08T19:55:06.345403",
       "collage": "collages/collage_1794164105853576.webp"
+    },
+    {
+      "text": "94è partit de Lliga per a Cubarsí amb el Barça. . Ocupa el ➡️ 142è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:04",
+      "ts": "2026-11-08T19:55:06.345403",
+      "collage": "collages/collage_1794164106155470.webp"
     }
   ],
   "baseline": {
@@ -24323,9 +24330,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 56m 8s",
+    "compte_enrere": "0d 0h 55m 31s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:03:08"
+  "ultima_actualitzacio": "20:04:09"
 }
