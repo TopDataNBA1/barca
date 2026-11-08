@@ -4560,6 +4560,13 @@
       "hora": "22:07",
       "ts": "2026-11-08T22:07:32.983072",
       "collage": "collages/collage_1794172052551192.webp"
+    },
+    {
+      "text": "205è partit de Lliga per a De Jong amb el Barça. Supera Ferrer (1990-1998) i Pedro (2007-2016). Empata amb Cocu (1998-2004) en el ➡️ 41è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:08",
+      "ts": "2026-11-08T22:07:32.983072",
+      "collage": "collages/collage_1794172052797109.webp"
     }
   ],
   "baseline": {
@@ -24439,5 +24446,5 @@
     "kickoff_ts": 1794168216
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:07:35"
+  "ultima_actualitzacio": "22:08:35"
 }
