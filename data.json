@@ -4630,6 +4630,13 @@
       "hora": "22:48",
       "ts": "2026-11-08T22:48:30.628667",
       "collage": "collages/collage_1794174510111303.webp"
+    },
+    {
+      "text": "12è partit de Lliga per a Adeyemi amb el Barça. Supera Va (1940-1941), Virgós (1945-1950), López López (1984-1988), Toni Velamazán (1995-1996), Déhu (1999-2000), Carles Pérez (2018-2020) i Gordon (2026-2027). Empata amb Munlloch (1935-1936), Torrent (1964-1968), Juanito (1968-1969), Romero (1970-1972), José Mari (1994-1995), Korneev (1994-1995), Chygrynskiy (2009-2010), Deulofeu (2010-2018), Adama (2013-2022), Neto (2019-2022), Abde (2021-2024) i Espart (2025-2027) en el ➡️ 445è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:49",
+      "ts": "2026-11-08T22:48:30.628667",
+      "collage": "collages/collage_1794174510415585.webp"
     }
   ],
   "baseline": {
@@ -24509,5 +24516,5 @@
     "kickoff_ts": 1794168216
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:48:35"
+  "ultima_actualitzacio": "22:49:35"
 }
