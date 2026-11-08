@@ -4623,6 +4623,13 @@
       "hora": "22:39",
       "ts": "2026-11-08T22:36:05.614224",
       "collage": "collages/collage_1794173765395001.webp"
+    },
+    {
+      "text": "15è partit oficial per a Adeyemi amb el Barça. Supera Alfred Massana (1911-1916), Helguera (1932-1933), Betancourt (1942-1944), Virgós (1945-1950), Colino (1945-1948), Suco (1959-1961), Juanito (1968-1969), Romero (1970-1972), López López (1984-1988), Pinilla (1989-1992), Moreno (1995-1996), Víctor Sánchez (2007-2009), Chygrynskiy (2009-2010), Abde (2021-2024) i Rodri (2026-2027). Empata amb Vinyals (1915-1926), Saló (1930-1941), Valero (1943-1947), Florencio (1947-1949), Marañón (1960-1964), Nayim (1985-1988), José Mari (1994-1995), Toni Velamazán (1995-1996), Sorín (2002-2003), Espart (2025-2027) i Gordon (2026-2027) en el ➡️ 463è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:48",
+      "ts": "2026-11-08T22:48:30.628667",
+      "collage": "collages/collage_1794174510111303.webp"
     }
   ],
   "baseline": {
@@ -7954,7 +7961,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 14,
+        "pj": 15,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -14417,7 +14424,7 @@
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 11,
+        "pj": 12,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -24502,5 +24509,5 @@
     "kickoff_ts": 1794168216
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:39:05"
+  "ultima_actualitzacio": "22:48:35"
 }
