@@ -4504,6 +4504,13 @@
       "hora": "20:11",
       "ts": "2026-11-08T19:55:09.737003",
       "collage": "collages/collage_1794164108565362.webp"
+    },
+    {
+      "text": "11è partit de Lliga per a Gordon amb el Barça. Supera Argemí (1935-1940), Argila (1940-1944), Marañón (1960-1964), García Castany (1968-1971), Palau (1968-1969), Romea (1969-1970), Roura (1988-1992) i Rodri (2026-2027). Empata amb Va (1940-1941), Virgós (1945-1950), López López (1984-1988), Toni Velamazán (1995-1996), Déhu (1999-2000), Carles Pérez (2018-2020) i Adeyemi (2026-2027) en el ➡️ 457è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:12",
+      "ts": "2026-11-08T19:55:09.737003",
+      "collage": "collages/collage_1794164109030199.webp"
     }
   ],
   "baseline": {
@@ -24379,9 +24386,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 48m 41s",
+    "compte_enrere": "0d 0h 48m 4s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:11:09"
+  "ultima_actualitzacio": "20:12:09"
 }
