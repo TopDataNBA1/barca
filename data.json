@@ -4525,6 +4525,13 @@
       "hora": "20:14",
       "ts": "2026-11-08T19:55:10.478925",
       "collage": "collages/collage_1794164110267065.webp"
+    },
+    {
+      "text": "191è partit oficial per a Raphinha amb el Barça. . Ocupa el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:15",
+      "ts": "2026-11-08T19:55:11.047208",
+      "collage": "collages/collage_1794164110548899.webp"
     }
   ],
   "baseline": {
@@ -24400,9 +24407,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 45m 35s",
+    "compte_enrere": "0d 0h 44m 21s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:14:10"
+  "ultima_actualitzacio": "20:15:10"
 }
