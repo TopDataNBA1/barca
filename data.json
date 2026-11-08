@@ -4434,6 +4434,13 @@
       "hora": "20:01",
       "ts": "2026-11-08T19:55:05.751613",
       "collage": "collages/collage_1794164105201805.webp"
+    },
+    {
+      "text": "57è partit de Lliga per a João Cancelo amb el Barça. Supera Navarro (1946-1956), Marcos Aurelio (1948-1951) i Rafinha (2011-2021). Empata amb Hanke (1952-1956) i Maxwell (2009-2012) en el ➡️ 213è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:02",
+      "ts": "2026-11-08T19:55:05.751613",
+      "collage": "collages/collage_1794164105503700.webp"
     }
   ],
   "baseline": {
@@ -24309,9 +24316,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 58m 37s",
+    "compte_enrere": "0d 0h 57m 22s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:01:08"
+  "ultima_actualitzacio": "20:02:08"
 }
