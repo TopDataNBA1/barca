@@ -4462,6 +4462,20 @@
       "hora": "20:05",
       "ts": "2026-11-08T19:55:06.994704",
       "collage": "collages/collage_1794164106451366.webp"
+    },
+    {
+      "text": "100è partit de Lliga per a Fermín amb el Barça. Empata amb Quini (1980-1984) en el ➡️ 134è lloc històric del club a la Lliga.. Fermín es converteix en el 134è jugador que arriba als 100 partit de Lligas amb el Barça.",
+      "tipus": "programada",
+      "hora": "20:06",
+      "ts": "2026-11-08T19:55:06.994704",
+      "collage": "collages/collage_1794164106754788.webp"
+    },
+    {
+      "text": "50è partit oficial per a Bernal amb el Barça. Supera Calo (1944-1950), Mendonça (1966-1969), Ronaldo (1996-1997), Reina (1998-2002), Mendieta (2002-2003), Paulinho (2017-2018) i Rashford (2025-2026). Empata amb Alcácer (2016-2018) en el ➡️ 295è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-11-08T19:55:07.835410",
+      "collage": "collages/collage_1794164107198633.webp"
     }
   ],
   "baseline": {
@@ -24337,9 +24351,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 54m 16s",
+    "compte_enrere": "0d 0h 53m 2s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:05:09"
+  "ultima_actualitzacio": "20:07:09"
 }
