@@ -4420,6 +4420,13 @@
       "hora": "19:59",
       "ts": "2026-11-08T19:55:05.096841",
       "collage": "collages/collage_1794164104439384.webp"
+    },
+    {
+      "text": "71è partit de Lliga per a Gerard Martín amb el Barça. Supera Claudio Bravo (2014-2017). Empata amb Mora (1970-1979), Giovanni (1996-1999), Edmílson (2004-2008) i Belletti (2004-2007) en el ➡️ 179è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:00",
+      "ts": "2026-11-08T19:55:05.096841",
+      "collage": "collages/collage_1794164104834934.webp"
     }
   ],
   "baseline": {
@@ -24295,9 +24302,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 1h 0m 28s",
+    "compte_enrere": "0d 0h 59m 14s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "19:59:08"
+  "ultima_actualitzacio": "20:00:08"
 }
