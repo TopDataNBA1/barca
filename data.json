@@ -4427,6 +4427,13 @@
       "hora": "20:00",
       "ts": "2026-11-08T19:55:05.096841",
       "collage": "collages/collage_1794164104834934.webp"
+    },
+    {
+      "text": "78è partit oficial per a João Cancelo amb el Barça. Empata amb Archibald (1984-1987) i André Gomes (2016-2018) en el ➡️ 224è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:01",
+      "ts": "2026-11-08T19:55:05.751613",
+      "collage": "collages/collage_1794164105201805.webp"
     }
   ],
   "baseline": {
@@ -24302,9 +24309,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 59m 14s",
+    "compte_enrere": "0d 0h 58m 37s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:00:08"
+  "ultima_actualitzacio": "20:01:08"
 }
