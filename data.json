@@ -4476,6 +4476,13 @@
       "hora": "20:07",
       "ts": "2026-11-08T19:55:07.835410",
       "collage": "collages/collage_1794164107198633.webp"
+    },
+    {
+      "text": "35è partit de Lliga per a Bernal amb el Barça. Supera Calo (1944-1950), Szegedi (1950-1952), Tomé (1973-1977), Pinto (2007-2014), Vermaelen (2014-2019) i Paulinho (2017-2018). Empata amb Anguera (1940-1942) i Amarilla (1985-1988) en el ➡️ 284è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:08",
+      "ts": "2026-11-08T19:55:07.835410",
+      "collage": "collages/collage_1794164107576500.webp"
     }
   ],
   "baseline": {
@@ -24351,9 +24358,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 53m 2s",
+    "compte_enrere": "0d 0h 51m 48s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:07:09"
+  "ultima_actualitzacio": "20:08:09"
 }
