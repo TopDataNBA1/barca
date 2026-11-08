@@ -4455,6 +4455,13 @@
       "hora": "20:04",
       "ts": "2026-11-08T19:55:06.345403",
       "collage": "collages/collage_1794164106155470.webp"
+    },
+    {
+      "text": "151è partit oficial per a Fermín amb el Barça. Empata amb Evaristo (1957-1962) i Fàbregas (2011-2014) en el ➡️ 129è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:05",
+      "ts": "2026-11-08T19:55:06.994704",
+      "collage": "collages/collage_1794164106451366.webp"
     }
   ],
   "baseline": {
@@ -24330,9 +24337,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 55m 31s",
+    "compte_enrere": "0d 0h 54m 16s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:04:09"
+  "ultima_actualitzacio": "20:05:09"
 }
