@@ -4539,6 +4539,20 @@
       "hora": "20:16",
       "ts": "2026-11-08T19:55:11.047208",
       "collage": "collages/collage_1794164110847834.webp"
+    },
+    {
+      "text": "⚽ 39è gol de Fermín amb el Barça. Supera Vantolrà (1933-1936) i Maradona (1982-1984). Empata amb Marcos Alonso (1982-1987) i Romário (1993-1995) en el ➡️ 70è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "21:47",
+      "ts": "2026-11-08T21:47:45.528240",
+      "collage": "collages/collage_1794170865087912.webp"
+    },
+    {
+      "text": "⚽ 26è gol de Fermín a la Lliga amb el Barça. Empata amb Gonzalvo III (1940-1956) i Bojan (2007-2011) en el ➡️ 71è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "21:47",
+      "ts": "2026-11-08T21:47:45.528240",
+      "collage": "collages/collage_1794170865362929.webp"
     }
   ],
   "baseline": {
@@ -5456,7 +5470,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 151,
-        "g": 38,
+        "g": 39,
         "inici": "2023",
         "final": "2027"
       },
@@ -12038,7 +12052,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 100,
-        "g": 25,
+        "g": 26,
         "inici": "2023",
         "final": "2027"
       },
@@ -24418,5 +24432,5 @@
     "kickoff_ts": 1794168216
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:16:10"
+  "ultima_actualitzacio": "21:47:48"
 }
