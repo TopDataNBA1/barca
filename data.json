@@ -4553,6 +4553,13 @@
       "hora": "21:47",
       "ts": "2026-11-08T21:47:45.528240",
       "collage": "collages/collage_1794170865362929.webp"
+    },
+    {
+      "text": "301è partit oficial per a De Jong amb el Barça. Supera Luis Enrique (1996-2004). Empata amb Ferrer (1990-1998) en el ➡️ 39è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "22:07",
+      "ts": "2026-11-08T22:07:32.983072",
+      "collage": "collages/collage_1794172052551192.webp"
     }
   ],
   "baseline": {
@@ -4839,7 +4846,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 300,
+        "pj": 301,
         "g": 20,
         "inici": "2019",
         "final": "2027"
@@ -11414,7 +11421,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 204,
+        "pj": 205,
         "g": 15,
         "inici": "2019",
         "final": "2027"
@@ -24432,5 +24439,5 @@
     "kickoff_ts": 1794168216
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "21:47:48"
+  "ultima_actualitzacio": "22:07:35"
 }
