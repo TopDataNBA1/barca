@@ -4532,6 +4532,13 @@
       "hora": "20:15",
       "ts": "2026-11-08T19:55:11.047208",
       "collage": "collages/collage_1794164110548899.webp"
+    },
+    {
+      "text": "133è partit de Lliga per a Raphinha amb el Barça. Supera Koundé (2022-2027) i ara ocupa el ➡️ 95è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "20:16",
+      "ts": "2026-11-08T19:55:11.047208",
+      "collage": "collages/collage_1794164110847834.webp"
     }
   ],
   "baseline": {
@@ -24407,9 +24414,9 @@
   "match_rival": "Atletico Madrid",
   "proper_partit": {
     "descripcio": "Lliga · Atletico Madrid - Barça",
-    "compte_enrere": "0d 0h 44m 21s",
+    "compte_enrere": "0d 0h 43m 43s",
     "kickoff_ts": 1794168000
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "20:15:10"
+  "ultima_actualitzacio": "20:16:10"
 }
