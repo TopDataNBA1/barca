@@ -4616,6 +4616,13 @@
       "hora": "22:38",
       "ts": "2026-11-08T22:36:05.614224",
       "collage": "collages/collage_1794173765091884.webp"
+    },
+    {
+      "text": "124è partit de Lliga per a Gavi amb el Barça. Supera Elias (1943-1950), Benítez (1961-1968), Urbano (1982-1992), Saviola (2001-2007), Neymar (2013-2017) i Eric Garcia (2021-2027). Empata amb Marcos Alonso (1982-1987) en el ➡️ 103è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "22:39",
+      "ts": "2026-11-08T22:36:05.614224",
+      "collage": "collages/collage_1794173765395001.webp"
     }
   ],
   "baseline": {
@@ -24495,5 +24502,5 @@
     "kickoff_ts": 1794168216
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "22:38:05"
+  "ultima_actualitzacio": "22:39:05"
 }
