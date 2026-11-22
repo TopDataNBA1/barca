@@ -4776,6 +4776,13 @@
       "hora": "15:35",
       "ts": "2026-11-22T15:21:13.445080",
       "collage": "collages/collage_1795357273030527.webp"
+    },
+    {
+      "text": "178è partit de Lliga per a Pedri amb el Barça. Empata amb Abelardo (1994-2002) en el ➡️ 59è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:36",
+      "ts": "2026-11-22T15:21:13.445080",
+      "collage": "collages/collage_1795357273277383.webp"
     }
   ],
   "baseline": {
@@ -24655,5 +24662,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:35:23"
+  "ultima_actualitzacio": "15:36:23"
 }
