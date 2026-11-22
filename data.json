@@ -4755,6 +4755,13 @@
       "hora": "15:32",
       "ts": "2026-11-22T15:21:12.383635",
       "collage": "collages/collage_1795357272200472.webp"
+    },
+    {
+      "text": "51è partit oficial per a Bernal amb el Barça. Supera Alcácer (2016-2018). Empata amb Hagi (1994-1996), Aleix Vidal (2015-2018) i Gündoğan (2023-2024) en el ➡️ 292è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:33",
+      "ts": "2026-11-22T15:21:12.983638",
+      "collage": "collages/collage_1795357272477392.webp"
     }
   ],
   "baseline": {
@@ -6042,7 +6049,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 100,
+        "pj": 101,
         "g": 21,
         "inici": "2024",
         "final": "2027"
@@ -8009,7 +8016,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 15,
+        "pj": 16,
         "g": 3,
         "inici": "2026",
         "final": "2027"
@@ -12638,7 +12645,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 67,
+        "pj": 68,
         "g": 18,
         "inici": "2024",
         "final": "2027"
@@ -14556,7 +14563,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 11,
+        "pj": 12,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -24634,5 +24641,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:32:23"
+  "ultima_actualitzacio": "15:33:23"
 }
