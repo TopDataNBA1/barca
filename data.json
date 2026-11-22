@@ -4881,6 +4881,12 @@
       "hora": "15:59",
       "ts": "2026-11-22T15:58:35.179660",
       "collage": "collages/collage_1795359515006003.webp"
+    },
+    {
+      "text": "📋 22/11/2026 · LLIGA · BARÇA - VILLARREAL",
+      "tipus": "prioritaria",
+      "hora": "16:03",
+      "ts": "2026-11-22T16:03:06.465601"
     }
   ],
   "baseline": {
@@ -24752,7 +24758,7 @@
       }
     }
   },
-  "match_status": "L",
+  "match_status": "C",
   "match_rival": "Villarreal",
   "proper_partit": {
     "descripcio": "Lliga · Barça - Villarreal",
@@ -24760,5 +24766,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:59:39"
+  "ultima_actualitzacio": "16:03:10"
 }
