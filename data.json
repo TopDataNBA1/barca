@@ -4867,6 +4867,13 @@
       "hora": "15:52",
       "ts": "2026-11-22T15:51:06.928464",
       "collage": "collages/collage_1795359066759997.webp"
+    },
+    {
+      "text": "176è partit oficial per a Gavi amb el Barça. Supera Oleguer (2001-2008). Empata amb Biosca (1950-1959) i Luis Suárez (1953-1961) en el ➡️ 104è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:58",
+      "ts": "2026-11-22T15:58:35.179660",
+      "collage": "collages/collage_1795359514766254.webp"
     }
   ],
   "baseline": {
@@ -5622,7 +5629,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 175,
+        "pj": 176,
         "g": 10,
         "inici": "2021",
         "final": "2027"
@@ -12155,7 +12162,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 124,
+        "pj": 125,
         "g": 6,
         "inici": "2021",
         "final": "2027"
@@ -24746,5 +24753,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:52:09"
+  "ultima_actualitzacio": "15:58:39"
 }
