@@ -4790,6 +4790,13 @@
       "hora": "15:37",
       "ts": "2026-11-22T15:21:14.076344",
       "collage": "collages/collage_1795357273551524.webp"
+    },
+    {
+      "text": "13è partit de Lliga per a Adeyemi amb el Barça. Supera Munlloch (1935-1936), Torrent (1964-1968), Juanito (1968-1969), Romero (1970-1972), José Mari (1994-1995), Korneev (1994-1995), Chygrynskiy (2009-2010), Deulofeu (2010-2018), Adama (2013-2022), Neto (2019-2022), Abde (2021-2024) i Espart (2025-2027). Empata amb Cabanes (1933-1935), Vergara (1940-1941), Betancourt (1942-1944), Colino (1945-1948), Badenes (1946-1949), Estrems (1956-1960), Oliveros (1967-1969), Juanjo (1977-1979) i Cáceres (2008-2009) en el ➡️ 436è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:38",
+      "ts": "2026-11-22T15:21:14.076344",
+      "collage": "collages/collage_1795357273861899.webp"
     }
   ],
   "baseline": {
@@ -24669,5 +24676,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:37:23"
+  "ultima_actualitzacio": "15:38:23"
 }
