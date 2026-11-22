@@ -4783,6 +4783,13 @@
       "hora": "15:36",
       "ts": "2026-11-22T15:21:13.445080",
       "collage": "collages/collage_1795357273277383.webp"
+    },
+    {
+      "text": "16è partit oficial per a Adeyemi amb el Barça. Supera Vinyals (1915-1926), Saló (1930-1941), Valero (1943-1947), Florencio (1947-1949), Marañón (1960-1964), Nayim (1985-1988), José Mari (1994-1995), Toni Velamazán (1995-1996), Sorín (2002-2003), Espart (2025-2027) i Gordon (2026-2027). Empata amb Forns (1908-1913), Surroca (1921-1926), Pagès (1934-1936), Argemí (1935-1940), Badenes (1946-1949), Moll (1954-1956), García Castany (1968-1971), Fontàs (2008-2013) i Vitor Roque (2023-2024) en el ➡️ 454è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:37",
+      "ts": "2026-11-22T15:21:14.076344",
+      "collage": "collages/collage_1795357273551524.webp"
     }
   ],
   "baseline": {
@@ -24662,5 +24669,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:36:23"
+  "ultima_actualitzacio": "15:37:23"
 }
