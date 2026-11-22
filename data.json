@@ -4832,6 +4832,13 @@
       "hora": "15:43",
       "ts": "2026-11-22T15:33:42.459178",
       "collage": "collages/collage_1795358022017287.webp"
+    },
+    {
+      "text": "68è partit de Lliga per a Dani Olmo amb el Barça. Empata amb Balmanya (1935-1944), Moreno (1951-1956), Muller (1965-1968) i Thiago Alcántara (2008-2013) en el ➡️ 186è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:44",
+      "ts": "2026-11-22T15:33:42.459178",
+      "collage": "collages/collage_1795358022269577.webp"
     }
   ],
   "baseline": {
@@ -24711,5 +24718,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:43:24"
+  "ultima_actualitzacio": "15:44:24"
 }
