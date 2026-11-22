@@ -4762,6 +4762,13 @@
       "hora": "15:33",
       "ts": "2026-11-22T15:21:12.983638",
       "collage": "collages/collage_1795357272477392.webp"
+    },
+    {
+      "text": "36è partit de Lliga per a Bernal amb el Barça. Supera Anguera (1940-1942) i Amarilla (1985-1988). Empata amb Seminario (1964-1967), Morán (1981-1984), Maradona (1982-1984), Hagi (1994-1996), Arda Turan (2015-2018) i Gündoğan (2023-2024) en el ➡️ 278è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:34",
+      "ts": "2026-11-22T15:21:12.983638",
+      "collage": "collages/collage_1795357272768110.webp"
     }
   ],
   "baseline": {
@@ -24641,5 +24648,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:33:23"
+  "ultima_actualitzacio": "15:34:23"
 }
