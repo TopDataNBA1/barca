@@ -4692,6 +4692,13 @@
       "hora": "15:25",
       "ts": "2026-11-22T15:21:10.661148",
       "collage": "collages/collage_1795357270247108.webp"
+    },
+    {
+      "text": "206è partit de Lliga per a De Jong amb el Barça. Supera Cocu (1998-2004) i ara ocupa el ➡️ 41è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:26",
+      "ts": "2026-11-22T15:21:10.661148",
+      "collage": "collages/collage_1795357270483819.webp"
     }
   ],
   "baseline": {
@@ -24571,5 +24578,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:25:18"
+  "ultima_actualitzacio": "15:26:18"
 }
