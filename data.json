@@ -4846,6 +4846,13 @@
       "hora": "15:45",
       "ts": "2026-11-22T15:33:43.178605",
       "collage": "collages/collage_1795358022655786.webp"
+    },
+    {
+      "text": "12è partit de Lliga per a Gordon amb el Barça. Supera Va (1940-1941), Virgós (1945-1950), López López (1984-1988), Toni Velamazán (1995-1996), Déhu (1999-2000) i Carles Pérez (2018-2020). Empata amb Munlloch (1935-1936), Torrent (1964-1968), Juanito (1968-1969), Romero (1970-1972), José Mari (1994-1995), Korneev (1994-1995), Chygrynskiy (2009-2010), Deulofeu (2010-2018), Adama (2013-2022), Neto (2019-2022), Abde (2021-2024) i Espart (2025-2027) en el ➡️ 445è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:46",
+      "ts": "2026-11-22T15:33:43.178605",
+      "collage": "collages/collage_1795358022968542.webp"
     }
   ],
   "baseline": {
@@ -24725,5 +24732,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:45:24"
+  "ultima_actualitzacio": "15:46:24"
 }
