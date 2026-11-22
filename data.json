@@ -4720,6 +4720,13 @@
       "hora": "15:27",
       "ts": "2026-11-22T15:21:11.309588",
       "collage": "collages/collage_1795357270752071.webp"
+    },
+    {
+      "text": "72è partit de Lliga per a Gerard Martín amb el Barça. Supera Mora (1970-1979), Giovanni (1996-1999), Edmílson (2004-2008) i Belletti (2004-2007). Empata amb Celades (1995-1999) i Guðjohnsen (2006-2010) en el ➡️ 177è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:28",
+      "ts": "2026-11-22T15:21:11.309588",
+      "collage": "collages/collage_1795357271078390.webp"
     }
   ],
   "baseline": {
@@ -24599,5 +24606,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:27:22"
+  "ultima_actualitzacio": "15:28:22"
 }
