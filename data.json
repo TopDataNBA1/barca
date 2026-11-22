@@ -4734,6 +4734,13 @@
       "hora": "15:29",
       "ts": "2026-11-22T15:21:11.869638",
       "collage": "collages/collage_1795357271384670.webp"
+    },
+    {
+      "text": "58è partit de Lliga per a João Cancelo amb el Barça. Supera Hanke (1952-1956) i Maxwell (2009-2012). Empata amb Vantolrà (1933-1936), Benito (1939-1946), Sotil (1973-1977) i Zambrotta (2006-2008) en el ➡️ 209è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:30",
+      "ts": "2026-11-22T15:21:11.869638",
+      "collage": "collages/collage_1795357271659350.webp"
     }
   ],
   "baseline": {
@@ -24613,5 +24620,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:29:22"
+  "ultima_actualitzacio": "15:30:22"
 }
