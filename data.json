@@ -4678,6 +4678,20 @@
       "hora": "15:23",
       "ts": "2026-11-22T15:21:10.168987",
       "collage": "collages/collage_1795357269713546.webp"
+    },
+    {
+      "text": "125è partit de Lliga per a Eric Garcia amb el Barça. Supera Marcos Alonso (1982-1987) i Gavi (2021-2027). Empata amb Abidal (2007-2013) en el ➡️ 102è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:24",
+      "ts": "2026-11-22T15:21:10.168987",
+      "collage": "collages/collage_1795357270000342.webp"
+    },
+    {
+      "text": "302è partit oficial per a De Jong amb el Barça. Supera Ferrer (1990-1998). Empata amb Basora (1946-1958) en el ➡️ 38è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:25",
+      "ts": "2026-11-22T15:21:10.661148",
+      "collage": "collages/collage_1795357270247108.webp"
     }
   ],
   "baseline": {
@@ -24557,5 +24571,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:23:18"
+  "ultima_actualitzacio": "15:25:18"
 }
