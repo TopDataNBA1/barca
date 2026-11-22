@@ -4825,6 +4825,13 @@
       "hora": "15:42",
       "ts": "2026-11-22T15:21:15.044111",
       "collage": "collages/collage_1795357274845195.webp"
+    },
+    {
+      "text": "101è partit oficial per a Dani Olmo amb el Barça. Supera Estella (1979-1983). Empata amb Celades (1995-1999) i Thiago Alcántara (2008-2013) en el ➡️ 182è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:43",
+      "ts": "2026-11-22T15:33:42.459178",
+      "collage": "collages/collage_1795358022017287.webp"
     }
   ],
   "baseline": {
@@ -24704,5 +24711,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:42:23"
+  "ultima_actualitzacio": "15:43:24"
 }
