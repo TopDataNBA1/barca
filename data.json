@@ -4860,6 +4860,13 @@
       "hora": "15:51",
       "ts": "2026-11-22T15:51:06.928464",
       "collage": "collages/collage_1795359066511819.webp"
+    },
+    {
+      "text": "133è partit de Lliga per a Koundé amb el Barça. . Ocupa el ➡️ 95è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:52",
+      "ts": "2026-11-22T15:51:06.928464",
+      "collage": "collages/collage_1795359066759997.webp"
     }
   ],
   "baseline": {
@@ -24739,5 +24746,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:51:09"
+  "ultima_actualitzacio": "15:52:09"
 }
