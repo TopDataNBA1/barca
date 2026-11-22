@@ -4853,6 +4853,13 @@
       "hora": "15:46",
       "ts": "2026-11-22T15:33:43.178605",
       "collage": "collages/collage_1795358022968542.webp"
+    },
+    {
+      "text": "197è partit oficial per a Koundé amb el Barça. Supera Escolà (1934-1948) i Robert (1986-1990). Empata amb Velasco (1942-1955) en el ➡️ 82è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:51",
+      "ts": "2026-11-22T15:51:06.928464",
+      "collage": "collages/collage_1795359066511819.webp"
     }
   ],
   "baseline": {
@@ -5433,7 +5440,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 196,
+        "pj": 197,
         "g": 11,
         "inici": "2022",
         "final": "2027"
@@ -12078,7 +12085,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 132,
+        "pj": 133,
         "g": 6,
         "inici": "2022",
         "final": "2027"
@@ -24732,5 +24739,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:46:24"
+  "ultima_actualitzacio": "15:51:09"
 }
