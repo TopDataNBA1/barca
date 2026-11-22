@@ -4699,6 +4699,27 @@
       "hora": "15:26",
       "ts": "2026-11-22T15:21:10.661148",
       "collage": "collages/collage_1795357270483819.webp"
+    },
+    {
+      "text": "⚽ 41è gol de Fermín amb el Barça. Supera Zaballa (1961-1967) i Dembélé (2017-2023). Empata amb Ramón (1927-1935) i Bojan (2007-2011) en el ➡️ 66è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "15:27",
+      "ts": "2026-11-22T15:26:52.192351",
+      "collage": "collages/collage_1795357611742846.webp"
+    },
+    {
+      "text": "⚽ 28è gol de Fermín a la Lliga amb el Barça. Supera Alexanco (1980-1993). Empata amb Zaballa (1961-1967), Marcos Alonso (1982-1987) i Fàbregas (2011-2014) en el ➡️ 67è lloc històric del club a la Lliga.",
+      "tipus": "prioritaria",
+      "hora": "15:27",
+      "ts": "2026-11-22T15:26:52.192351",
+      "collage": "collages/collage_1795357611989971.webp"
+    },
+    {
+      "text": "108è partit oficial per a Gerard Martín amb el Barça. Supera Giovanni (1996-1999). Empata amb Samitier (1919-1932), Heredia (1974-1980) i Roger (1994-1999) en el ➡️ 170è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:27",
+      "ts": "2026-11-22T15:21:11.309588",
+      "collage": "collages/collage_1795357270752071.webp"
     }
   ],
   "baseline": {
@@ -5616,7 +5637,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 152,
-        "g": 40,
+        "g": 41,
         "inici": "2023",
         "final": "2027"
       },
@@ -12198,7 +12219,7 @@
       "Fermín López Marín": {
         "alias": "Fermín",
         "pj": 101,
-        "g": 27,
+        "g": 28,
         "inici": "2023",
         "final": "2027"
       },
@@ -24578,5 +24599,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:26:18"
+  "ultima_actualitzacio": "15:27:22"
 }
