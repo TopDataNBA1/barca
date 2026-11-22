@@ -24758,13 +24758,13 @@
       }
     }
   },
-  "match_status": "C",
-  "match_rival": "Villarreal",
+  "match_status": "U",
+  "match_rival": "Sabah",
   "proper_partit": {
-    "descripcio": "Lliga · Barça - Villarreal",
-    "compte_enrere": "1d 7h 0m 54s",
-    "kickoff_ts": 1795352400
+    "descripcio": "Lliga de Campions · Barça - Sabah",
+    "compte_enrere": "3d 2h 41m 28s",
+    "kickoff_ts": 1795628700
   },
-  "match_comp": "Lliga",
+  "match_comp": "Lliga de Campions",
   "ultima_actualitzacio": "16:03:10"
 }
