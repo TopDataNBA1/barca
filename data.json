@@ -4797,6 +4797,13 @@
       "hora": "15:38",
       "ts": "2026-11-22T15:21:14.076344",
       "collage": "collages/collage_1795357273861899.webp"
+    },
+    {
+      "text": "168è partit oficial per a Lamine Yamal amb el Barça. . Ocupa el ➡️ 115è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:39",
+      "ts": "2026-11-22T15:21:14.535807",
+      "collage": "collages/collage_1795357274135851.webp"
     }
   ],
   "baseline": {
@@ -24676,5 +24683,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:38:23"
+  "ultima_actualitzacio": "15:39:23"
 }
