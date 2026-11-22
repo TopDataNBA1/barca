@@ -4748,6 +4748,13 @@
       "hora": "15:31",
       "ts": "2026-11-22T15:21:12.383635",
       "collage": "collages/collage_1795357271954590.webp"
+    },
+    {
+      "text": "101è partit de Lliga per a Fermín amb el Barça. Supera Quini (1980-1984). Empata amb Serna (1988-1993) en el ➡️ 133è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:32",
+      "ts": "2026-11-22T15:21:12.383635",
+      "collage": "collages/collage_1795357272200472.webp"
     }
   ],
   "baseline": {
@@ -24627,5 +24634,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:31:23"
+  "ultima_actualitzacio": "15:32:23"
 }
