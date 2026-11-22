@@ -4769,6 +4769,13 @@
       "hora": "15:34",
       "ts": "2026-11-22T15:21:12.983638",
       "collage": "collages/collage_1795357272768110.webp"
+    },
+    {
+      "text": "262è partit oficial per a Pedri amb el Barça. Empata amb Esteban Vigo (1977-1987) en el ➡️ 52è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:35",
+      "ts": "2026-11-22T15:21:13.445080",
+      "collage": "collages/collage_1795357273030527.webp"
     }
   ],
   "baseline": {
@@ -24648,5 +24655,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:34:23"
+  "ultima_actualitzacio": "15:35:23"
 }
