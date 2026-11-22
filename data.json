@@ -4874,6 +4874,13 @@
       "hora": "15:58",
       "ts": "2026-11-22T15:58:35.179660",
       "collage": "collages/collage_1795359514766254.webp"
+    },
+    {
+      "text": "125è partit de Lliga per a Gavi amb el Barça. Supera Marcos Alonso (1982-1987). Empata amb Abidal (2007-2013) i Eric Garcia (2021-2027) en el ➡️ 102è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:59",
+      "ts": "2026-11-22T15:58:35.179660",
+      "collage": "collages/collage_1795359515006003.webp"
     }
   ],
   "baseline": {
@@ -24753,5 +24760,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:58:39"
+  "ultima_actualitzacio": "15:59:39"
 }
