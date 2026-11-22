@@ -4804,6 +4804,20 @@
       "hora": "15:39",
       "ts": "2026-11-22T15:21:14.535807",
       "collage": "collages/collage_1795357274135851.webp"
+    },
+    {
+      "text": "114è partit de Lliga per a Lamine Yamal amb el Barça. Supera Deco (2004-2008). Empata amb Evaristo (1957-1962) i Adriano (2010-2016) en el ➡️ 119è lloc històric del club a la Lliga.",
+      "tipus": "programada",
+      "hora": "15:40",
+      "ts": "2026-11-22T15:21:14.535807",
+      "collage": "collages/collage_1795357274351435.webp"
+    },
+    {
+      "text": "192è partit oficial per a Raphinha amb el Barça. . Ocupa el ➡️ 91è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "15:41",
+      "ts": "2026-11-22T15:21:15.044111",
+      "collage": "collages/collage_1795357274582693.webp"
     }
   ],
   "baseline": {
@@ -24683,5 +24697,5 @@
     "kickoff_ts": 1795352400
   },
   "match_comp": "Lliga",
-  "ultima_actualitzacio": "15:39:23"
+  "ultima_actualitzacio": "15:41:23"
 }
