@@ -4950,6 +4950,13 @@
       "hora": "17:51",
       "ts": "2026-11-25T17:43:08.249990",
       "collage": "collages/collage_1795624987668185.webp"
+    },
+    {
+      "text": "37è partit de Lliga de Campions per a Koundé amb el Barça. Supera Gabri (1999-2006) i Raphinha (2022-2027). Empata amb Abidal (2007-2013) i Lamine Yamal (2023-2027) en el ➡️ 31è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:52",
+      "ts": "2026-11-25T17:43:08.249990",
+      "collage": "collages/collage_1795624988024066.webp"
     }
   ],
   "baseline": {
@@ -24825,9 +24832,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 53m 45s",
-    "kickoff_ts": 1795628699
+    "compte_enrere": "0d 0h 53m 8s",
+    "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:51:09"
+  "ultima_actualitzacio": "17:52:09"
 }
