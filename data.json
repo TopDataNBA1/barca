@@ -4957,6 +4957,13 @@
       "hora": "17:52",
       "ts": "2026-11-25T17:43:08.249990",
       "collage": "collages/collage_1795624988024066.webp"
+    },
+    {
+      "text": "153è partit oficial per a Fermín amb el Barça. Supera Nogués (1930-1942) i ara ocupa el ➡️ 128è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:53",
+      "ts": "2026-11-25T17:43:09.070717",
+      "collage": "collages/collage_1795624988323966.webp"
     }
   ],
   "baseline": {
@@ -24832,9 +24839,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 52m 31s",
-    "kickoff_ts": 1795628699
+    "compte_enrere": "0d 0h 51m 54s",
+    "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:52:09"
+  "ultima_actualitzacio": "17:53:09"
 }
