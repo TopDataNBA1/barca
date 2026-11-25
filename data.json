@@ -4887,6 +4887,13 @@
       "tipus": "prioritaria",
       "hora": "16:03",
       "ts": "2026-11-22T16:03:06.465601"
+    },
+    {
+      "text": "62è partit oficial per a Joan Garcia amb el Barça. Supera Marcos Aurelio (1948-1951), Krankl (1978-1981) i Bogarde (1997-2000). Empata amb Sastre (1926-1932) i Navarro (1946-1956) en el ➡️ 257è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:43",
+      "ts": "2026-11-25T17:43:05.817818",
+      "collage": "collages/collage_1795624985191009.webp"
     }
   ],
   "baseline": {
@@ -5152,7 +5159,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 302,
+        "pj": 303,
         "g": 20,
         "inici": "2019",
         "final": "2027"
@@ -5257,7 +5264,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 262,
+        "pj": 263,
         "g": 29,
         "inici": "2020",
         "final": "2027"
@@ -5460,7 +5467,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 197,
+        "pj": 198,
         "g": 11,
         "inici": "2022",
         "final": "2027"
@@ -5628,7 +5635,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 176,
+        "pj": 177,
         "g": 10,
         "inici": "2021",
         "final": "2027"
@@ -5670,7 +5677,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 173,
+        "pj": 174,
         "g": 3,
         "inici": "2021",
         "final": "2027"
@@ -5782,7 +5789,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 152,
+        "pj": 153,
         "g": 41,
         "inici": "2023",
         "final": "2027"
@@ -6090,7 +6097,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 108,
+        "pj": 109,
         "g": 2,
         "inici": "2024",
         "final": "2027"
@@ -6706,7 +6713,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 61,
+        "pj": 62,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -8078,14 +8085,14 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 16,
+        "pj": 17,
         "g": 3,
         "inici": "2026",
         "final": "2027"
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 16,
+        "pj": 17,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -8505,7 +8512,7 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 10,
+        "pj": 11,
         "g": 4,
         "inici": "2026",
         "final": "2027"
@@ -17532,7 +17539,7 @@
       },
       "Frenkie de Jong": {
         "alias": "De Jong",
-        "pj": 53,
+        "pj": 54,
         "g": 0,
         "inici": "2019",
         "final": "2027"
@@ -17560,7 +17567,7 @@
       },
       "Pedro González López": {
         "alias": "Pedri",
-        "pj": 47,
+        "pj": 48,
         "g": 1,
         "inici": "2020",
         "final": "2027"
@@ -17658,7 +17665,7 @@
       },
       "Jules Olivier Koundé": {
         "alias": "Koundé",
-        "pj": 36,
+        "pj": 37,
         "g": 2,
         "inici": "2022",
         "final": "2027"
@@ -17721,7 +17728,7 @@
       },
       "Fermín López Marín": {
         "alias": "Fermín",
-        "pj": 34,
+        "pj": 35,
         "g": 10,
         "inici": "2023",
         "final": "2027"
@@ -17749,7 +17756,7 @@
       },
       "Alejandro Balde Martínez": {
         "alias": "Balde",
-        "pj": 32,
+        "pj": 33,
         "g": 0,
         "inici": "2021",
         "final": "2027"
@@ -17777,7 +17784,7 @@
       },
       "Pablo Martín Páez Gavira": {
         "alias": "Gavi",
-        "pj": 30,
+        "pj": 31,
         "g": 1,
         "inici": "2021",
         "final": "2027"
@@ -17924,7 +17931,7 @@
       },
       "Gerard Martín Langreo": {
         "alias": "Gerard Martín",
-        "pj": 23,
+        "pj": 24,
         "g": 0,
         "inici": "2024",
         "final": "2027"
@@ -18232,7 +18239,7 @@
       },
       "Joan Garcia Pons": {
         "alias": "Joan Garcia",
-        "pj": 13,
+        "pj": 14,
         "g": 0,
         "inici": "2025",
         "final": "2027"
@@ -19079,7 +19086,7 @@
       },
       "Anthony Michael Gordon": {
         "alias": "Gordon",
-        "pj": 4,
+        "pj": 5,
         "g": 1,
         "inici": "2026",
         "final": "2027"
@@ -19240,14 +19247,14 @@
       },
       "Gabriel Fernando de Jesus": {
         "alias": "Gabriel Jesus",
-        "pj": 3,
+        "pj": 4,
         "g": 1,
         "inici": "2026",
         "final": "2027"
       },
       "Karim-David Adeyemi": {
         "alias": "Adeyemi",
-        "pj": 3,
+        "pj": 4,
         "g": 2,
         "inici": "2026",
         "final": "2027"
@@ -24762,9 +24769,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 1h 2m 32s",
-    "kickoff_ts": 1795628699
+    "compte_enrere": "0d 1h 1m 10s",
+    "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "16:03:10"
+  "ultima_actualitzacio": "17:43:08"
 }
