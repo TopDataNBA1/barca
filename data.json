@@ -5111,6 +5111,13 @@
       "hora": "20:04",
       "ts": "2026-11-25T20:04:06.496149",
       "collage": "collages/collage_1795633446167765.webp"
+    },
+    {
+      "text": "80è partit oficial per a João Cancelo amb el Barça. Supera Milla (1984-1990). Empata amb Muller (1965-1968) en el ➡️ 222è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:07",
+      "ts": "2026-11-25T20:07:50.911863",
+      "collage": "collages/collage_1795633670401033.webp"
     }
   ],
   "baseline": {
@@ -6671,7 +6678,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 79,
+        "pj": 80,
         "g": 8,
         "inici": "2023",
         "final": "2027"
@@ -18281,7 +18288,7 @@
       },
       "João Pedro Cavaco Cancelo": {
         "alias": "João Cancelo",
-        "pj": 18,
+        "pj": 19,
         "g": 3,
         "inici": "2023",
         "final": "2027"
@@ -24990,5 +24997,5 @@
     "kickoff_ts": 1795628808
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:04:10"
+  "ultima_actualitzacio": "20:07:52"
 }
