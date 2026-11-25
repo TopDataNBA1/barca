@@ -5146,6 +5146,13 @@
       "hora": "20:20",
       "ts": "2026-11-25T20:20:19.847288",
       "collage": "collages/collage_1795634419434425.webp"
+    },
+    {
+      "text": "37è partit de Lliga de Campions per a Raphinha amb el Barça. Supera Gabri (1999-2006). Empata amb Abidal (2007-2013), Koundé (2022-2027) i Lamine Yamal (2023-2027) en el ➡️ 31è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "20:21",
+      "ts": "2026-11-25T20:20:19.847288",
+      "collage": "collages/collage_1795634419678344.webp"
     }
   ],
   "baseline": {
@@ -25025,5 +25032,5 @@
     "kickoff_ts": 1795628808
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:20:23"
+  "ultima_actualitzacio": "20:21:23"
 }
