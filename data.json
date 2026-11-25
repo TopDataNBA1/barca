@@ -5139,6 +5139,13 @@
       "hora": "20:10",
       "ts": "2026-11-25T20:09:06.260247",
       "collage": "collages/collage_1795633746047270.webp"
+    },
+    {
+      "text": "193è partit oficial per a Raphinha amb el Barça. Empata amb Abidal (2007-2013) i Lewandowski (2022-2026) en el ➡️ 89è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "20:20",
+      "ts": "2026-11-25T20:20:19.847288",
+      "collage": "collages/collage_1795634419434425.webp"
     }
   ],
   "baseline": {
@@ -25018,5 +25025,5 @@
     "kickoff_ts": 1795628808
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:10:52"
+  "ultima_actualitzacio": "20:20:23"
 }
