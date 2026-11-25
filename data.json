@@ -5006,6 +5006,13 @@
       "hora": "17:59",
       "ts": "2026-11-25T17:43:11.638973",
       "collage": "collages/collage_1795624991001184.webp"
+    },
+    {
+      "text": "5è partit de Lliga de Campions per a Gordon amb el Barça. Supera Torres (1974-1975), Marinho (1974-1975), Mora (1974-1975), Pedraza (1985-1986), Clos (1985-1986), Amarilla (1985-1986), Archibald (1985-1986), Òscar (1993-1999), Roger (1997-1999), Dugarry (1997-1998), Pizzi (1997-1998), Petit (2000-2001), Reina (2001-2002), Jonathan dos Santos (2009-2014), Jeffrén (2009-2011), Neto (2019-2022), Nico (2021-2022) i Rodri (2026-2027). Empata amb Costas (1974-1975), Sadurní (1974-1975), Esteban Vigo (1985-1986), Moratalla (1985-1986), Calderé (1985-1986), Jordi Cruyff (1994-1995), De la Peña (1997-2001), Couto (1997-1998), Arnau (1998-2001), Okunowo (1998-1999), Alfonso (2000-2002), Dutruel (2000-2001), Giovani dos Santos (2007-2008), Aleix Vidal (2015-2018), Alcácer (2016-2018), Riqui Puig (2019-2022), Pablo Torre (2022-2025) i Bardghji (2025-2026) en el ➡️ 202è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "18:00",
+      "ts": "2026-11-25T17:43:11.638973",
+      "collage": "collages/collage_1795624991324076.webp"
     }
   ],
   "baseline": {
@@ -24885,5 +24892,5 @@
     "kickoff_ts": 1795628699
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:59:09"
+  "ultima_actualitzacio": "18:00:09"
 }
