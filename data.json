@@ -5055,6 +5055,13 @@
       "hora": "19:17",
       "ts": "2026-11-25T19:17:43.625285",
       "collage": "collages/collage_1795630663381365.webp"
+    },
+    {
+      "text": "102è partit oficial per a Dani Olmo amb el Barça. Supera Celades (1995-1999) i Thiago Alcántara (2008-2013). Empata amb Brugué (1951-1960) i Griezmann (2019-2022) en el ➡️ 180è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "19:51",
+      "ts": "2026-11-25T19:51:09.131785",
+      "collage": "collages/collage_1795632668660942.webp"
     }
   ],
   "baseline": {
@@ -6342,7 +6349,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 101,
+        "pj": 102,
         "g": 21,
         "inici": "2024",
         "final": "2027"
@@ -18127,7 +18134,7 @@
       },
       "Daniel Olmo Carvajal": {
         "alias": "Dani Olmo",
-        "pj": 22,
+        "pj": 23,
         "g": 3,
         "inici": "2024",
         "final": "2027"
@@ -24934,5 +24941,5 @@
     "kickoff_ts": 1795628808
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:17:47"
+  "ultima_actualitzacio": "19:51:09"
 }
