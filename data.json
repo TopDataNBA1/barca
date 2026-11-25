@@ -4936,6 +4936,13 @@
       "hora": "17:49",
       "ts": "2026-11-25T17:43:07.585211",
       "collage": "collages/collage_1795624987087377.webp"
+    },
+    {
+      "text": "24è partit de Lliga de Campions per a Gerard Martín amb el Barça. Supera Bonano (2001-2003). Empata amb Alexis Sánchez (2011-2014) i Semedo (2017-2020) en el ➡️ 69è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:50",
+      "ts": "2026-11-25T17:43:07.586211",
+      "collage": "collages/collage_1795624987400273.webp"
     }
   ],
   "baseline": {
@@ -24811,9 +24818,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 55m 37s",
-    "kickoff_ts": 1795628700
+    "compte_enrere": "0d 0h 54m 59s",
+    "kickoff_ts": 1795628699
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:49:08"
+  "ultima_actualitzacio": "17:50:08"
 }
