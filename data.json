@@ -4999,6 +4999,13 @@
       "hora": "17:58",
       "ts": "2026-11-25T17:43:10.895219",
       "collage": "collages/collage_1795624990657300.webp"
+    },
+    {
+      "text": "17è partit oficial per a Gordon amb el Barça. Supera Forns (1908-1913), Surroca (1921-1926), Pagès (1934-1936), Argemí (1935-1940), Badenes (1946-1949), Moll (1954-1956), García Castany (1968-1971), Fontàs (2008-2013) i Vitor Roque (2023-2024). Empata amb Martínez (1915-1922), Lecuona (1934-1935), Herrerita (1939-1940), Homedes (1939-1940), Aloy (1950-1954) i Estrems (1956-1960) en el ➡️ 448è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:59",
+      "ts": "2026-11-25T17:43:11.638973",
+      "collage": "collages/collage_1795624991001184.webp"
     }
   ],
   "baseline": {
@@ -24874,9 +24881,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 46m 20s",
+    "compte_enrere": "0d 0h 45m 6s",
     "kickoff_ts": 1795628699
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:58:09"
+  "ultima_actualitzacio": "17:59:09"
 }
