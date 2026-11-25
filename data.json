@@ -4971,6 +4971,13 @@
       "hora": "17:54",
       "ts": "2026-11-25T17:43:09.070717",
       "collage": "collages/collage_1795624988797808.webp"
+    },
+    {
+      "text": "177è partit oficial per a Gavi amb el Barça. Supera Biosca (1950-1959) i Luis Suárez (1953-1961). Empata amb Bosch (1951-1959) i Eric Garcia (2021-2027) en el ➡️ 103è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:55",
+      "ts": "2026-11-25T17:43:10.310305",
+      "collage": "collages/collage_1795624989163688.webp"
     }
   ],
   "baseline": {
@@ -24846,9 +24853,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 50m 40s",
+    "compte_enrere": "0d 0h 49m 26s",
     "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:54:09"
+  "ultima_actualitzacio": "17:55:09"
 }
