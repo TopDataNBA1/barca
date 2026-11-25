@@ -4894,6 +4894,20 @@
       "hora": "17:43",
       "ts": "2026-11-25T17:43:05.817818",
       "collage": "collages/collage_1795624985191009.webp"
+    },
+    {
+      "text": "14è partit de Lliga de Campions per a Joan Garcia amb el Barça. Supera Segarra (1959-1961), Iván Iglesias (1993-1995), Simão (1999-2001), Edmílson (2004-2008), Zambrotta (2006-2008) i Arthur (2018-2020). Empata amb Larsson (2004-2006) en el ➡️ 109è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:44",
+      "ts": "2026-11-25T17:43:05.817818",
+      "collage": "collages/collage_1795624985544891.webp"
+    },
+    {
+      "text": "174è partit oficial per a Balde amb el Barça. Empata amb Raich (1934-1945), Manchón (1950-1957) i Goikoetxea (1990-1994) en el ➡️ 109è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:45",
+      "ts": "2026-11-25T17:43:06.425598",
+      "collage": "collages/collage_1795624985970768.webp"
     }
   ],
   "baseline": {
@@ -24769,9 +24783,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 1h 1m 10s",
+    "compte_enrere": "0d 0h 59m 19s",
     "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:43:08"
+  "ultima_actualitzacio": "17:45:08"
 }
