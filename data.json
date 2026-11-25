@@ -4964,6 +4964,13 @@
       "hora": "17:53",
       "ts": "2026-11-25T17:43:09.070717",
       "collage": "collages/collage_1795624988323966.webp"
+    },
+    {
+      "text": "35è partit de Lliga de Campions per a Fermín amb el Barça. Supera Koeman (1991-1995), Abelardo (1994-2002), Adriano (2010-2016) i Ferran Torres (2022-2026). Empata amb Nadal (1991-1999), Ronaldinho (2004-2008) i Araújo (2019-2026) en el ➡️ 36è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:54",
+      "ts": "2026-11-25T17:43:09.070717",
+      "collage": "collages/collage_1795624988797808.webp"
     }
   ],
   "baseline": {
@@ -24839,9 +24846,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 51m 17s",
+    "compte_enrere": "0d 0h 50m 40s",
     "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:53:09"
+  "ultima_actualitzacio": "17:54:09"
 }
