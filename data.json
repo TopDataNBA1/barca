@@ -4943,6 +4943,13 @@
       "hora": "17:50",
       "ts": "2026-11-25T17:43:07.586211",
       "collage": "collages/collage_1795624987400273.webp"
+    },
+    {
+      "text": "198è partit oficial per a Koundé amb el Barça. Supera Velasco (1942-1955) i ara ocupa el ➡️ 82è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:51",
+      "ts": "2026-11-25T17:43:08.249990",
+      "collage": "collages/collage_1795624987668185.webp"
     }
   ],
   "baseline": {
@@ -24818,9 +24825,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 54m 59s",
+    "compte_enrere": "0d 0h 53m 45s",
     "kickoff_ts": 1795628699
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:50:08"
+  "ultima_actualitzacio": "17:51:09"
 }
