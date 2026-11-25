@@ -5069,6 +5069,20 @@
       "hora": "19:52",
       "ts": "2026-11-25T19:51:09.131785",
       "collage": "collages/collage_1795632668926854.webp"
+    },
+    {
+      "text": "⚽ 5è gol de Gordon amb el Barça. Supera Forns (1908-1913), Alfred Massana (1911-1916), Steel (1911-1913), Apolinario (1912-1913), Bau (1913-1916), Carulla (1923-1930), García (1925-1930), Torredeflot (1935-1936), Aylagas (1939-1940), Pascual (1939-1940), Biosca (1950-1959), Moll (1954-1956), Montesinos (1963-1967), Torres (1965-1976), Marinho (1974-1976), Moratalla (1981-1988), Quique Estebaranz (1993-1994), Toni Velamazán (1995-1996), Bogarde (1997-2000), Litmanen (1999-2001), Simão (1999-2001), Rochemback (2001-2003), Van Bommel (2005-2007), Giovani dos Santos (2006-2008), Cuenca (2011-2014), Mathieu (2014-2017), Aleix Vidal (2015-2018), Arthur (2018-2020), Malcom (2018-2019), Gabriel Jesus (2026-2027) i Adeyemi (2026-2027). Empata amb Carlos Comamala (1908-1911), Charles Wallace (1908-1911), Lakatos (1918-1919), Musterós (1925-1926), Zabalo (1929-1945), Riba (1943-1945), Gracia (1952-1966), Hanke (1952-1956), Coll (1956-1961), Camps (1961-1965), Cubilla (1961-1964), Pellicer (1967-1970), Olmo (1976-1984), Ramírez (1979-1982), Pedraza (1980-1988), Hughes (1986-1987), Iván Iglesias (1993-1996), Alfonso (2000-2002), Christensen (2022-2027), Pablo Torre (2022-2025), Gündoğan (2023-2024) i Bernal (2024-2027) en el ➡️ 240è lloc històric del club.",
+      "tipus": "prioritaria",
+      "hora": "19:54",
+      "ts": "2026-11-25T19:54:52.841834",
+      "collage": "collages/collage_1795632892206045.webp"
+    },
+    {
+      "text": "⚽ 3r gol de Gordon a la Lliga de Campions amb el Barça. Supera Vergés (1959-1961), Segarra (1959-1961), Tejada (1960-1961), Archibald (1985-1986), Clos (1985-1986), Julio Salinas (1991-1994), Puyol (1997-2014), Gerard (2000-2005), Overmars (2000-2003), Motta (2001-2007), Riquelme (2002-2003), Mendieta (2002-2003), Larsson (2004-2006), Eric Garcia (2021-2027), Koundé (2022-2027), Iñigo Martínez (2023-2025) i Adeyemi (2026-2027). Empata amb Czibor (1959-1961), Eulogio Martínez (1959-1960), Asensi (1974-1975), Pichi Alonso (1985-1986), Abelardo (1994-2002), Guðjohnsen (2006-2009), Keita (2008-2012), Sergi Roberto (2010-2024), Alexis Sánchez (2011-2014), Fàbregas (2011-2014), Jordi Alba (2012-2023), Ansu Fati (2019-2025), Braithwaite (2020-2021), João Cancelo (2023-2027), João Félix (2023-2024) i Dani Olmo (2024-2027) en el ➡️ 55è lloc històric del club a la Lliga de Campions.",
+      "tipus": "prioritaria",
+      "hora": "19:54",
+      "ts": "2026-11-25T19:54:52.841834",
+      "collage": "collages/collage_1795632892585920.webp"
     }
   ],
   "baseline": {
@@ -8261,7 +8275,7 @@
       "Anthony Michael Gordon": {
         "alias": "Gordon",
         "pj": 17,
-        "g": 4,
+        "g": 5,
         "inici": "2026",
         "final": "2027"
       },
@@ -19262,7 +19276,7 @@
       "Anthony Michael Gordon": {
         "alias": "Gordon",
         "pj": 5,
-        "g": 2,
+        "g": 3,
         "inici": "2026",
         "final": "2027"
       },
@@ -24948,5 +24962,5 @@
     "kickoff_ts": 1795628808
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:52:09"
+  "ultima_actualitzacio": "19:54:57"
 }
