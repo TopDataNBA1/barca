@@ -4929,6 +4929,13 @@
       "hora": "17:48",
       "ts": "2026-11-25T17:43:06.996407",
       "collage": "collages/collage_1795624986778480.webp"
+    },
+    {
+      "text": "109è partit oficial per a Gerard Martín amb el Barça. Supera Samitier (1919-1932), Heredia (1974-1980) i Roger (1994-1999) i ara ocupa el ➡️ 170è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:49",
+      "ts": "2026-11-25T17:43:07.585211",
+      "collage": "collages/collage_1795624987087377.webp"
     }
   ],
   "baseline": {
@@ -24804,9 +24811,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 56m 51s",
+    "compte_enrere": "0d 0h 56m 14s",
     "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:48:08"
+  "ultima_actualitzacio": "17:49:08"
 }
