@@ -5167,6 +5167,12 @@
       "hora": "20:31",
       "ts": "2026-11-25T20:30:19.058615",
       "collage": "collages/collage_1795635018822693.webp"
+    },
+    {
+      "text": "📋 25/11/2026 · LLIGA DE CAMPIONS · SABAH - BARÇA",
+      "tipus": "prioritaria",
+      "hora": "20:37",
+      "ts": "2026-11-25T20:37:20.270903"
     }
   ],
   "baseline": {
@@ -25046,5 +25052,5 @@
     "kickoff_ts": 1795628808
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "20:31:23"
+  "ultima_actualitzacio": "20:37:23"
 }
