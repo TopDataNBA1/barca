@@ -4922,6 +4922,13 @@
       "hora": "17:47",
       "ts": "2026-11-25T17:43:06.996407",
       "collage": "collages/collage_1795624986504571.webp"
+    },
+    {
+      "text": "54è partit de Lliga de Campions per a De Jong amb el Barça. . Ocupa el ➡️ 16è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:48",
+      "ts": "2026-11-25T17:43:06.996407",
+      "collage": "collages/collage_1795624986778480.webp"
     }
   ],
   "baseline": {
@@ -24797,9 +24804,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 58m 5s",
+    "compte_enrere": "0d 0h 56m 51s",
     "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:47:08"
+  "ultima_actualitzacio": "17:48:08"
 }
