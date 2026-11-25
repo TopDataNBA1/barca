@@ -4978,6 +4978,13 @@
       "hora": "17:55",
       "ts": "2026-11-25T17:43:10.310305",
       "collage": "collages/collage_1795624989163688.webp"
+    },
+    {
+      "text": "31è partit de Lliga de Campions per a Gavi amb el Barça. Supera Stoichkov (1991-1998), Dembélé (2017-2023) i Cubarsí (2023-2027). Empata amb Ferrer (1991-1998) en el ➡️ 48è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:56",
+      "ts": "2026-11-25T17:43:10.310305",
+      "collage": "collages/collage_1795624990062388.webp"
     }
   ],
   "baseline": {
@@ -24853,9 +24860,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 49m 26s",
+    "compte_enrere": "0d 0h 48m 49s",
     "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:55:09"
+  "ultima_actualitzacio": "17:56:09"
 }
