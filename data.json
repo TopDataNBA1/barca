@@ -4908,6 +4908,13 @@
       "hora": "17:45",
       "ts": "2026-11-25T17:43:06.425598",
       "collage": "collages/collage_1795624985970768.webp"
+    },
+    {
+      "text": "33è partit de Lliga de Campions per a Balde amb el Barça. Supera Deco (2004-2008). Empata amb Motta (2001-2007) i Lenglet (2018-2022) en el ➡️ 44è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "17:46",
+      "ts": "2026-11-25T17:43:06.425598",
+      "collage": "collages/collage_1795624986241660.webp"
     }
   ],
   "baseline": {
@@ -24787,5 +24794,5 @@
     "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:45:08"
+  "ultima_actualitzacio": "17:46:08"
 }
