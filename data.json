@@ -25044,13 +25044,13 @@
       }
     }
   },
-  "match_status": "C",
-  "match_rival": "Sabah",
+  "match_status": "U",
+  "match_rival": "Deportivo De La Coruna",
   "proper_partit": {
-    "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 0m 0s",
-    "kickoff_ts": 1795628808
+    "descripcio": "Lliga · Barça - Deportivo De La Coruna",
+    "compte_enrere": "3d 19h 36m 55s",
+    "kickoff_ts": 1795965300
   },
-  "match_comp": "Lliga de Campions",
+  "match_comp": "Lliga",
   "ultima_actualitzacio": "20:37:23"
 }
