@@ -5062,6 +5062,13 @@
       "hora": "19:51",
       "ts": "2026-11-25T19:51:09.131785",
       "collage": "collages/collage_1795632668660942.webp"
+    },
+    {
+      "text": "23è partit de Lliga de Campions per a Dani Olmo amb el Barça. Supera Gerard (2000-2005), Giuly (2004-2007), Bartra (2009-2016) i Umtiti (2016-2022). Empata amb Bonano (2001-2003) en el ➡️ 71è lloc històric del club a la Lliga de Campions.",
+      "tipus": "programada",
+      "hora": "19:52",
+      "ts": "2026-11-25T19:51:09.131785",
+      "collage": "collages/collage_1795632668926854.webp"
     }
   ],
   "baseline": {
@@ -24941,5 +24948,5 @@
     "kickoff_ts": 1795628808
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "19:51:09"
+  "ultima_actualitzacio": "19:52:09"
 }
