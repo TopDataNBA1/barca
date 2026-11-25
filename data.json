@@ -4985,6 +4985,13 @@
       "hora": "17:56",
       "ts": "2026-11-25T17:43:10.310305",
       "collage": "collages/collage_1795624990062388.webp"
+    },
+    {
+      "text": "263è partit oficial per a Pedri amb el Barça. Supera Esteban Vigo (1977-1987) i ara ocupa el ➡️ 52è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "17:57",
+      "ts": "2026-11-25T17:43:10.895219",
+      "collage": "collages/collage_1795624990381285.webp"
     }
   ],
   "baseline": {
@@ -24860,9 +24867,9 @@
   "match_rival": "Sabah",
   "proper_partit": {
     "descripcio": "Lliga de Campions · Sabah - Barça",
-    "compte_enrere": "0d 0h 48m 12s",
+    "compte_enrere": "0d 0h 47m 35s",
     "kickoff_ts": 1795628700
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "17:56:09"
+  "ultima_actualitzacio": "17:57:09"
 }
