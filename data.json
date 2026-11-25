@@ -5027,6 +5027,13 @@
       "hora": "18:02",
       "ts": "2026-11-25T17:43:12.419712",
       "collage": "collages/collage_1795624992138806.webp"
+    },
+    {
+      "text": "17è partit oficial per a Adeyemi amb el Barça. Supera Forns (1908-1913), Surroca (1921-1926), Pagès (1934-1936), Argemí (1935-1940), Badenes (1946-1949), Moll (1954-1956), García Castany (1968-1971), Fontàs (2008-2013) i Vitor Roque (2023-2024). Empata amb Martínez (1915-1922), Lecuona (1934-1935), Herrerita (1939-1940), Homedes (1939-1940), Aloy (1950-1954) i Estrems (1956-1960) en el ➡️ 448è lloc històric del club.",
+      "tipus": "programada",
+      "hora": "18:03",
+      "ts": "2026-11-25T17:43:13.157468",
+      "collage": "collages/collage_1795624992520679.webp"
     }
   ],
   "baseline": {
@@ -24906,5 +24913,5 @@
     "kickoff_ts": 1795628699
   },
   "match_comp": "Lliga de Campions",
-  "ultima_actualitzacio": "18:02:09"
+  "ultima_actualitzacio": "18:03:10"
 }
